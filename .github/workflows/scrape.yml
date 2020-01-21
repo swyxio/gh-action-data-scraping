@@ -2,7 +2,7 @@
 on:
   schedule:
     - cron:  '*/5 * * * *' # 
-name: Pull Data and Build
+name: Scrape Data
 jobs:
   build:
     name: Build
