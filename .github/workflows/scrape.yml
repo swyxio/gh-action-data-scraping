@@ -17,4 +17,4 @@ jobs:
       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
     - uses: mikeal/publish-to-github-action@master
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # remember to set this!
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you

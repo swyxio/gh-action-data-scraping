@@ -1,0 +1,25 @@
+{
+  "name": "gh-action-data-scraping",
+  "version": "1.0.0",
+  "description": "this shows how to use github actions to do automated data scraping",
+  "main": "index.js",
+  "scripts": {
+    "action": "./action.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sw-yx/gh-action-data-scraping.git"
+  },
+  "keywords": [
+    "actions"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sw-yx/gh-action-data-scraping/issues"
+  },
+  "homepage": "https://github.com/sw-yx/gh-action-data-scraping#readme",
+  "dependencies": {
+    "random-user": "^2.0.2"
+  }
+}
