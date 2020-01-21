@@ -34,6 +34,29 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
 ```
 
+## Limits
+
+You can do whatever you like with this, including taking screenshots of sites!
+
+The limits I can think of are the limits of GitHub and GitHub Actions:
+
+- The max frequency of cronjobs on GitHub actions is every 5 minutes. For more frequent scraping, you will have to turn elsewhere.
+- GitHub has a [soft storage limit of 1GB](https://www.quora.com/What-is-the-max-storage-limit-per-repository-in-GitHub)
+  - You can [work around this with Git LFS](https://twitter.com/mikeal/status/1219739811159801856) if you have to!
+- Actions are free for public repos, but incur costs for private repos
+  - [You get 6 Concurrent jobs, 1000 API requests an hour, and each job can take up to 6(!) hours](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-github-actions#usage-limits)
+
+In addition to these limits, GitHub Actions should not be used for:
+
+- Content or activity that is illegal or otherwise prohibited by their Terms of Service or Community Guidelines.
+- Cryptomining
+- Serverless computing
+- Activity that compromises GitHub users or GitHub services.
+- Any other activity unrelated to the production, testing, deployment, or publication of the software project associated with the repository where GitHub Actions are used. In other words, be cool, don’t use GitHub Actions in ways you know you shouldn’t. 
+
+Be a good citizen, **don't abuse it and F this up for the rest of us**!
+
+
 ## This is heavily based on
 
 - https://github.com/mikeal/daily/blob/master/.github/workflows/daily.yml
