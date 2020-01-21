@@ -1,5 +1,5 @@
 # gh-action-data-scraping
-this shows how to use github actions to do periodic data scraping
+this shows how to use github actions to do automated data scraping
 
 ## Basic Idea
 
