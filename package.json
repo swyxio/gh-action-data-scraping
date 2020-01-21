@@ -4,7 +4,7 @@
   "description": "this shows how to use github actions to do automated data scraping",
   "main": "index.js",
   "scripts": {
-    "action": "./action.js"
+    "action": "node ./action.js"
   },
   "repository": {
     "type": "git",
