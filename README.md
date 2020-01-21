@@ -33,6 +33,15 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
 ```
+## How it should look
+
+For people new to GH actions, this is how my Actions tab of this very repo looks if you need a reference point:
+
+![image](https://user-images.githubusercontent.com/6764957/72846973-9f4ecf00-3c6f-11ea-804d-40561bb9631c.png)
+
+![image](https://user-images.githubusercontent.com/6764957/72847013-b392cc00-3c6f-11ea-8d44-564f17af6c47.png)
+
+
 
 ## Limits
 
