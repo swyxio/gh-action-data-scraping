@@ -15,7 +15,7 @@ The script looks like:
 # /.github/workflows/daily.yml
 on:
   schedule:
-    - cron:  '30 3 * * *'
+    - cron:  '0 8 * * *' # every day at 8am
 name: Pull Data and Build
 jobs:
   build:
