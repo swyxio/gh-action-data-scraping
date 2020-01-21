@@ -37,9 +37,8 @@ jobs:
 
 For people new to GH actions, this is how my Actions tab of this very repo looks if you need a reference point:
 
-![image](https://user-images.githubusercontent.com/6764957/72846973-9f4ecf00-3c6f-11ea-804d-40561bb9631c.png)
 
-![image](https://user-images.githubusercontent.com/6764957/72847013-b392cc00-3c6f-11ea-8d44-564f17af6c47.png)
+![image](https://user-images.githubusercontent.com/6764957/72847135-efc62c80-3c6f-11ea-88d8-2a2545a292e7.png)
 
 
 
