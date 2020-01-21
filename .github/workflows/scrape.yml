@@ -1,0 +1,20 @@
+
+on:
+  schedule:
+    - cron:  '*/5 * * * *' # 
+name: Pull Data and Build
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Build
+      run: npm install
+    - name: Scrape
+      run: npm run action 
+      # env:
+      #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # remember to set this!
