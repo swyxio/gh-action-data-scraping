@@ -54,5 +54,13 @@
     "username": "bigfish378",
     "password": "longhorn",
     "invokedAt": "2020-01-22T06:00:36.064Z"
+  },
+  {
+    "firstName": "Kerttu",
+    "lastName": "Koskinen",
+    "email": "kerttu.koskinen@example.com",
+    "username": "whiteostrich367",
+    "password": "marissa",
+    "invokedAt": "2020-01-22T07:00:37.907Z"
   }
 ]
