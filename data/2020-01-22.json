@@ -78,5 +78,13 @@
     "username": "tinyfish384",
     "password": "catfish",
     "invokedAt": "2020-01-22T09:00:42.274Z"
+  },
+  {
+    "firstName": "Salvador",
+    "lastName": "Coleman",
+    "email": "salvador.coleman@example.com",
+    "username": "happybird388",
+    "password": "legacy",
+    "invokedAt": "2020-01-22T10:01:07.876Z"
   }
 ]
