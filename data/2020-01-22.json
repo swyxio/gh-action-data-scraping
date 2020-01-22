@@ -86,5 +86,13 @@
     "username": "happybird388",
     "password": "legacy",
     "invokedAt": "2020-01-22T10:01:07.876Z"
+  },
+  {
+    "firstName": "Tyrone",
+    "lastName": "Smith",
+    "email": "tyrone.smith@example.com",
+    "username": "crazydog799",
+    "password": "polish",
+    "invokedAt": "2020-01-22T11:01:01.057Z"
   }
 ]
