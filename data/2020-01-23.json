@@ -38,5 +38,13 @@
     "username": "greenfrog438",
     "password": "sylvia",
     "invokedAt": "2020-01-23T04:00:49.299Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Taşlı",
+    "email": "adem.tasli@example.com",
+    "username": "orangecat536",
+    "password": "zhuan",
+    "invokedAt": "2020-01-23T05:01:11.442Z"
   }
 ]
