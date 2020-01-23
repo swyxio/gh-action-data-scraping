@@ -22,5 +22,13 @@
     "username": "bluemeercat433",
     "password": "mushroom",
     "invokedAt": "2020-01-23T02:01:04.355Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Rintala",
+    "email": "viljami.rintala@example.com",
+    "username": "heavygorilla152",
+    "password": "defender",
+    "invokedAt": "2020-01-23T03:01:18.699Z"
   }
 ]
