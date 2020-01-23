@@ -54,5 +54,13 @@
     "username": "orangefrog345",
     "password": "thursday",
     "invokedAt": "2020-01-23T06:01:18.384Z"
+  },
+  {
+    "firstName": "Eddie",
+    "lastName": "Cole",
+    "email": "eddie.cole@example.com",
+    "username": "yellowswan245",
+    "password": "admin",
+    "invokedAt": "2020-01-23T07:00:56.067Z"
   }
 ]
