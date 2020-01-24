@@ -94,5 +94,13 @@
     "username": "brownfish156",
     "password": "deeper",
     "invokedAt": "2020-01-24T11:00:39.098Z"
+  },
+  {
+    "firstName": "Kathleen",
+    "lastName": "Rhodes",
+    "email": "kathleen.rhodes@example.com",
+    "username": "brownpanda153",
+    "password": "mathew",
+    "invokedAt": "2020-01-24T12:00:49.170Z"
   }
 ]
