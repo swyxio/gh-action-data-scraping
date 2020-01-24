@@ -166,5 +166,13 @@
     "username": "crazywolf648",
     "password": "scanner",
     "invokedAt": "2020-01-24T20:01:19.402Z"
+  },
+  {
+    "firstName": "Séléna",
+    "lastName": "Dupont",
+    "email": "selena.dupont@example.com",
+    "username": "happywolf159",
+    "password": "sable",
+    "invokedAt": "2020-01-24T21:00:35.898Z"
   }
 ]
