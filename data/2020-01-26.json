@@ -126,5 +126,13 @@
     "username": "tinytiger627",
     "password": "abcd",
     "invokedAt": "2020-01-26T15:01:09.227Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Liebscher",
+    "email": "benjamin.liebscher@example.com",
+    "username": "purpletiger551",
+    "password": "vernon",
+    "invokedAt": "2020-01-26T16:01:03.155Z"
   }
 ]
