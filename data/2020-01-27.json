@@ -22,5 +22,13 @@
     "username": "goldenbear208",
     "password": "speaker",
     "invokedAt": "2020-01-27T02:01:21.035Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Simmmons",
+    "email": "zoe.simmmons@example.com",
+    "username": "greentiger518",
+    "password": "queenie",
+    "invokedAt": "2020-01-27T03:00:48.006Z"
   }
 ]
