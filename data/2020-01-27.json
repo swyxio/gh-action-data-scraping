@@ -86,5 +86,13 @@
     "username": "tinygorilla358",
     "password": "darkman",
     "invokedAt": "2020-01-27T10:01:00.894Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Christensen",
+    "email": "maria.christensen@example.com",
+    "username": "bigmeercat403",
+    "password": "newyear",
+    "invokedAt": "2020-01-27T11:15:44.418Z"
   }
 ]
