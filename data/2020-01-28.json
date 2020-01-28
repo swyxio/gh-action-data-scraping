@@ -30,5 +30,13 @@
     "username": "sadcat237",
     "password": "broken",
     "invokedAt": "2020-01-28T03:01:00.039Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Calvo",
+    "email": "rosa.calvo@example.com",
+    "username": "lazybird738",
+    "password": "piao",
+    "invokedAt": "2020-01-28T04:01:14.612Z"
   }
 ]
