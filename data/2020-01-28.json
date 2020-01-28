@@ -150,5 +150,13 @@
     "username": "heavypanda733",
     "password": "chains",
     "invokedAt": "2020-01-28T18:00:52.119Z"
+  },
+  {
+    "firstName": "Aarão",
+    "lastName": "Alves",
+    "email": "aarao.alves@example.com",
+    "username": "crazypanda602",
+    "password": "0007",
+    "invokedAt": "2020-01-28T19:01:08.064Z"
   }
 ]
