@@ -158,5 +158,13 @@
     "username": "crazyfish803",
     "password": "1960",
     "invokedAt": "2020-01-29T19:00:50.650Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Pierre",
+    "email": "david.pierre@example.com",
+    "username": "redzebra613",
+    "password": "paddle",
+    "invokedAt": "2020-01-29T20:00:42.631Z"
   }
 ]
