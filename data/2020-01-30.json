@@ -166,5 +166,13 @@
     "username": "greensnake761",
     "password": "saigon",
     "invokedAt": "2020-01-30T20:01:10.460Z"
+  },
+  {
+    "firstName": "Diná",
+    "lastName": "da Paz",
+    "email": "dina.dapaz@example.com",
+    "username": "smallsnake336",
+    "password": "checkers",
+    "invokedAt": "2020-01-30T21:01:15.355Z"
   }
 ]
