@@ -30,5 +30,13 @@
     "username": "yellowfrog391",
     "password": "transfer",
     "invokedAt": "2020-01-30T03:00:37.857Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Bouchard",
+    "email": "jeremy.bouchard@example.com",
+    "username": "yellowgorilla529",
+    "password": "builder",
+    "invokedAt": "2020-01-30T04:00:33.859Z"
   }
 ]
