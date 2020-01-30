@@ -126,5 +126,13 @@
     "username": "blacktiger964",
     "password": "monitor",
     "invokedAt": "2020-01-30T15:00:52.328Z"
+  },
+  {
+    "firstName": "Begüm",
+    "lastName": "Babacan",
+    "email": "begum.babacan@example.com",
+    "username": "heavyleopard526",
+    "password": "manowar",
+    "invokedAt": "2020-01-30T16:00:55.700Z"
   }
 ]
