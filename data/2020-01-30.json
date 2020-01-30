@@ -70,5 +70,13 @@
     "username": "organicfrog936",
     "password": "aaaa",
     "invokedAt": "2020-01-30T08:01:05.997Z"
+  },
+  {
+    "firstName": "Melanie",
+    "lastName": "Muller",
+    "email": "melanie.muller@example.com",
+    "username": "tinyfrog977",
+    "password": "taurus",
+    "invokedAt": "2020-01-30T09:01:20.787Z"
   }
 ]
