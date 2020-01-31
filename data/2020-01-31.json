@@ -126,5 +126,13 @@
     "username": "silvermeercat624",
     "password": "deftones",
     "invokedAt": "2020-01-31T15:00:43.120Z"
+  },
+  {
+    "firstName": "Courtney",
+    "lastName": "Chambers",
+    "email": "courtney.chambers@example.com",
+    "username": "blackmeercat827",
+    "password": "raptor",
+    "invokedAt": "2020-01-31T16:00:50.348Z"
   }
 ]
