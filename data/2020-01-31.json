@@ -94,5 +94,13 @@
     "username": "smallwolf147",
     "password": "quality",
     "invokedAt": "2020-01-31T11:01:08.638Z"
+  },
+  {
+    "firstName": "Mohammad",
+    "lastName": "Guillot",
+    "email": "mohammad.guillot@example.com",
+    "username": "brownwolf232",
+    "password": "sherwood",
+    "invokedAt": "2020-01-31T12:01:00.981Z"
   }
 ]
