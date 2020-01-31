@@ -102,5 +102,13 @@
     "username": "brownwolf232",
     "password": "sherwood",
     "invokedAt": "2020-01-31T12:01:00.981Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Jensen",
+    "email": "johan.jensen@example.com",
+    "username": "beautifulkoala166",
+    "password": "space",
+    "invokedAt": "2020-01-31T13:00:56.597Z"
   }
 ]
