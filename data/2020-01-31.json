@@ -158,5 +158,13 @@
     "username": "ticklishduck382",
     "password": "scuba",
     "invokedAt": "2020-01-31T19:01:17.415Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Barnaby",
+    "email": "justin.barnaby@example.com",
+    "username": "blackwolf844",
+    "password": "3636",
+    "invokedAt": "2020-01-31T20:01:15.419Z"
   }
 ]
