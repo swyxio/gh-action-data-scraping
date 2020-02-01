@@ -150,5 +150,13 @@
     "username": "yellowfish678",
     "password": "earthlink",
     "invokedAt": "2020-02-01T18:00:52.718Z"
+  },
+  {
+    "firstName": "Ahmad",
+    "lastName": "Lau",
+    "email": "ahmad.lau@example.com",
+    "username": "goldengorilla535",
+    "password": "melanie",
+    "invokedAt": "2020-02-01T19:01:01.508Z"
   }
 ]
