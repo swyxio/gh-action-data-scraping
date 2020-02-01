@@ -182,5 +182,13 @@
     "username": "organicbird303",
     "password": "matrix",
     "invokedAt": "2020-02-01T22:00:53.669Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Pedersen",
+    "email": "alfred.pedersen@example.com",
+    "username": "lazyzebra703",
+    "password": "newness",
+    "invokedAt": "2020-02-01T23:00:50.631Z"
   }
 ]
