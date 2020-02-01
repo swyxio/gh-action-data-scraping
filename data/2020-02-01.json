@@ -62,5 +62,13 @@
     "username": "angrytiger872",
     "password": "shamus",
     "invokedAt": "2020-02-01T07:00:34.938Z"
+  },
+  {
+    "firstName": "Debbie",
+    "lastName": "Phillips",
+    "email": "debbie.phillips@example.com",
+    "username": "silverbear332",
+    "password": "travel",
+    "invokedAt": "2020-02-01T08:01:05.594Z"
   }
 ]
