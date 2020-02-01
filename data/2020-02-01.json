@@ -30,5 +30,13 @@
     "username": "happybear390",
     "password": "poetry",
     "invokedAt": "2020-02-01T03:00:35.928Z"
+  },
+  {
+    "firstName": "Şevket",
+    "lastName": "Brink",
+    "email": "sevket.brink@example.com",
+    "username": "yellowfrog252",
+    "password": "maxim",
+    "invokedAt": "2020-02-01T04:00:39.336Z"
   }
 ]
