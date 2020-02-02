@@ -118,5 +118,13 @@
     "username": "crazyswan683",
     "password": "jarhead",
     "invokedAt": "2020-02-02T14:00:54.739Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Johansen",
+    "email": "carl.johansen@example.com",
+    "username": "brownduck133",
+    "password": "caligula",
+    "invokedAt": "2020-02-02T15:00:37.831Z"
   }
 ]
