@@ -110,5 +110,13 @@
     "username": "smallrabbit567",
     "password": "abstr",
     "invokedAt": "2020-02-02T13:00:41.383Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Korpela",
+    "email": "ella.korpela@example.com",
+    "username": "crazyswan683",
+    "password": "jarhead",
+    "invokedAt": "2020-02-02T14:00:54.739Z"
   }
 ]
