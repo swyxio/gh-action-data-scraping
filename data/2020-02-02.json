@@ -166,5 +166,13 @@
     "username": "whitebear572",
     "password": "ipswich",
     "invokedAt": "2020-02-02T20:01:08.268Z"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Neal",
+    "email": "tim.neal@example.com",
+    "username": "crazycat217",
+    "password": "skibum",
+    "invokedAt": "2020-02-02T21:01:11.450Z"
   }
 ]
