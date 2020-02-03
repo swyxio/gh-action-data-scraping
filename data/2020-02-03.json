@@ -158,5 +158,13 @@
     "username": "organicgoose268",
     "password": "canucks",
     "invokedAt": "2020-02-03T19:01:01.121Z"
+  },
+  {
+    "firstName": "Jesus",
+    "lastName": "Wood",
+    "email": "jesus.wood@example.com",
+    "username": "crazygoose159",
+    "password": "judy",
+    "invokedAt": "2020-02-03T20:01:24.798Z"
   }
 ]
