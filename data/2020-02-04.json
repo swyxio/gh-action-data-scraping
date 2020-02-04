@@ -118,5 +118,13 @@
     "username": "lazygorilla880",
     "password": "123456",
     "invokedAt": "2020-02-04T14:01:02.668Z"
+  },
+  {
+    "firstName": "مرسانا",
+    "lastName": "احمدی",
+    "email": "mrsn.hmdy@example.com",
+    "username": "yellowbear662",
+    "password": "sergeant",
+    "invokedAt": "2020-02-04T15:01:18.845Z"
   }
 ]
