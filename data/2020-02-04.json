@@ -110,5 +110,13 @@
     "username": "purplezebra236",
     "password": "encore",
     "invokedAt": "2020-02-04T13:00:39.247Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Ortiz",
+    "email": "anna.ortiz@example.com",
+    "username": "lazygorilla880",
+    "password": "123456",
+    "invokedAt": "2020-02-04T14:01:02.668Z"
   }
 ]
