@@ -102,5 +102,13 @@
     "username": "goldenmeercat949",
     "password": "fletcher",
     "invokedAt": "2020-02-04T12:01:15.053Z"
+  },
+  {
+    "firstName": "Brett",
+    "lastName": "Mason",
+    "email": "brett.mason@example.com",
+    "username": "purplezebra236",
+    "password": "encore",
+    "invokedAt": "2020-02-04T13:00:39.247Z"
   }
 ]
