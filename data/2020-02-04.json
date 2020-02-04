@@ -142,5 +142,13 @@
     "username": "sadgorilla893",
     "password": "anfield",
     "invokedAt": "2020-02-04T17:00:39.894Z"
+  },
+  {
+    "firstName": "Donna",
+    "lastName": "Herrera",
+    "email": "donna.herrera@example.com",
+    "username": "orangecat591",
+    "password": "chronic",
+    "invokedAt": "2020-02-04T18:01:21.553Z"
   }
 ]
