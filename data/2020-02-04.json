@@ -174,5 +174,13 @@
     "username": "goldenwolf601",
     "password": "liquid",
     "invokedAt": "2020-02-04T21:00:52.390Z"
+  },
+  {
+    "firstName": "Nihal",
+    "lastName": "Orbay",
+    "email": "nihal.orbay@example.com",
+    "username": "bluepanda556",
+    "password": "hooter",
+    "invokedAt": "2020-02-04T22:00:39.055Z"
   }
 ]
