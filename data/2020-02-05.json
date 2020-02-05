@@ -158,5 +158,13 @@
     "username": "whitemeercat528",
     "password": "8inches",
     "invokedAt": "2020-02-05T19:00:42.952Z"
+  },
+  {
+    "firstName": "Matteo",
+    "lastName": "Mercier",
+    "email": "matteo.mercier@example.com",
+    "username": "heavyduck272",
+    "password": "kotaku",
+    "invokedAt": "2020-02-05T20:00:59.965Z"
   }
 ]
