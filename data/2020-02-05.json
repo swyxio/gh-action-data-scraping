@@ -110,5 +110,13 @@
     "username": "beautifuldog456",
     "password": "obsidian",
     "invokedAt": "2020-02-05T13:01:14.546Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Poulsen",
+    "email": "adam.poulsen@example.com",
+    "username": "brownmeercat387",
+    "password": "windmill",
+    "invokedAt": "2020-02-05T14:01:06.829Z"
   }
 ]
