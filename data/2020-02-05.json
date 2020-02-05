@@ -126,5 +126,13 @@
     "username": "yellowgorilla232",
     "password": "channel",
     "invokedAt": "2020-02-05T15:01:04.910Z"
+  },
+  {
+    "firstName": "Jar",
+    "lastName": "Hill",
+    "email": "jar.hill@example.com",
+    "username": "heavyfrog820",
+    "password": "divers",
+    "invokedAt": "2020-02-05T16:01:10.903Z"
   }
 ]
