@@ -102,5 +102,13 @@
     "username": "goldenzebra231",
     "password": "italia",
     "invokedAt": "2020-02-05T12:01:01.066Z"
+  },
+  {
+    "firstName": "Alfonso",
+    "lastName": "Perez",
+    "email": "alfonso.perez@example.com",
+    "username": "beautifuldog456",
+    "password": "obsidian",
+    "invokedAt": "2020-02-05T13:01:14.546Z"
   }
 ]
