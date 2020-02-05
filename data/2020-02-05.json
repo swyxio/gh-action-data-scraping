@@ -166,5 +166,13 @@
     "username": "heavyduck272",
     "password": "kotaku",
     "invokedAt": "2020-02-05T20:00:59.965Z"
+  },
+  {
+    "firstName": "Melike",
+    "lastName": "Yıldızoğlu",
+    "email": "melike.yildizoglu@example.com",
+    "username": "angrygorilla419",
+    "password": "federal",
+    "invokedAt": "2020-02-05T21:00:56.714Z"
   }
 ]
