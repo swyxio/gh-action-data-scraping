@@ -94,5 +94,13 @@
     "username": "bluegoose288",
     "password": "semperfi",
     "invokedAt": "2020-02-05T11:00:57.809Z"
+  },
+  {
+    "firstName": "Carla",
+    "lastName": "Marquardt",
+    "email": "carla.marquardt@example.com",
+    "username": "goldenzebra231",
+    "password": "italia",
+    "invokedAt": "2020-02-05T12:01:01.066Z"
   }
 ]
