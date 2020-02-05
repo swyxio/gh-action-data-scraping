@@ -118,5 +118,13 @@
     "username": "brownmeercat387",
     "password": "windmill",
     "invokedAt": "2020-02-05T14:01:06.829Z"
+  },
+  {
+    "firstName": "Aapo",
+    "lastName": "Tuomala",
+    "email": "aapo.tuomala@example.com",
+    "username": "yellowgorilla232",
+    "password": "channel",
+    "invokedAt": "2020-02-05T15:01:04.910Z"
   }
 ]
