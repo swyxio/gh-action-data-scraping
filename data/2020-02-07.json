@@ -86,5 +86,13 @@
     "username": "whitetiger548",
     "password": "montana",
     "invokedAt": "2020-02-07T10:00:58.001Z"
+  },
+  {
+    "firstName": "Frankie",
+    "lastName": "Jacobs",
+    "email": "frankie.jacobs@example.com",
+    "username": "lazyrabbit108",
+    "password": "planet",
+    "invokedAt": "2020-02-07T11:01:00.957Z"
   }
 ]
