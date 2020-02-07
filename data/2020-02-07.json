@@ -166,5 +166,13 @@
     "username": "purpleleopard236",
     "password": "hole",
     "invokedAt": "2020-02-07T20:00:57.730Z"
+  },
+  {
+    "firstName": "Arlo",
+    "lastName": "King",
+    "email": "arlo.king@example.com",
+    "username": "bigleopard993",
+    "password": "streaming",
+    "invokedAt": "2020-02-07T21:00:39.754Z"
   }
 ]
