@@ -174,5 +174,13 @@
     "username": "bigleopard993",
     "password": "streaming",
     "invokedAt": "2020-02-07T21:00:39.754Z"
+  },
+  {
+    "firstName": "Júlio",
+    "lastName": "Martins",
+    "email": "julio.martins@example.com",
+    "username": "blackostrich244",
+    "password": "citizen",
+    "invokedAt": "2020-02-07T22:01:02.917Z"
   }
 ]
