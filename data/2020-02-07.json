@@ -182,5 +182,13 @@
     "username": "blackostrich244",
     "password": "citizen",
     "invokedAt": "2020-02-07T22:01:02.917Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Taylor",
+    "email": "alex.taylor@example.com",
+    "username": "heavysnake233",
+    "password": "webmaste",
+    "invokedAt": "2020-02-07T23:01:32.444Z"
   }
 ]
