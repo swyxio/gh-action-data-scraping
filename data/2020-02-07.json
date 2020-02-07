@@ -94,5 +94,13 @@
     "username": "lazyrabbit108",
     "password": "planet",
     "invokedAt": "2020-02-07T11:01:00.957Z"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Johnson",
+    "email": "cathy.johnson@example.com",
+    "username": "yellowpanda672",
+    "password": "1111111",
+    "invokedAt": "2020-02-07T12:01:32.479Z"
   }
 ]
