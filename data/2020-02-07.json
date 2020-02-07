@@ -134,5 +134,13 @@
     "username": "yellowbird476",
     "password": "unknown",
     "invokedAt": "2020-02-07T16:01:03.971Z"
+  },
+  {
+    "firstName": "Ceyhun",
+    "lastName": "Körmükçü",
+    "email": "ceyhun.kormukcu@example.com",
+    "username": "bigbutterfly710",
+    "password": "screwy",
+    "invokedAt": "2020-02-07T17:00:48.310Z"
   }
 ]
