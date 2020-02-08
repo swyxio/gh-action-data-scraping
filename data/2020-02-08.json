@@ -166,5 +166,13 @@
     "username": "sadzebra900",
     "password": "server",
     "invokedAt": "2020-02-08T20:01:05.306Z"
+  },
+  {
+    "firstName": "Katherine",
+    "lastName": "Williams",
+    "email": "katherine.williams@example.com",
+    "username": "organicwolf593",
+    "password": "philly",
+    "invokedAt": "2020-02-08T21:00:42.125Z"
   }
 ]
