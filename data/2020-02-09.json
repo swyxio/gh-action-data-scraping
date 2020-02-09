@@ -102,5 +102,13 @@
     "username": "greenduck100",
     "password": "videoes",
     "invokedAt": "2020-02-09T12:01:36.066Z"
+  },
+  {
+    "firstName": "Lilli",
+    "lastName": "Baumeister",
+    "email": "lilli.baumeister@example.com",
+    "username": "smallduck368",
+    "password": "gloria",
+    "invokedAt": "2020-02-09T13:01:09.703Z"
   }
 ]
