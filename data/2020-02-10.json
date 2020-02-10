@@ -54,5 +54,13 @@
     "username": "happywolf842",
     "password": "redbird",
     "invokedAt": "2020-02-10T06:01:35.052Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Ginnish",
+    "email": "abigail.ginnish@example.com",
+    "username": "purpletiger914",
+    "password": "always",
+    "invokedAt": "2020-02-10T07:00:45.785Z"
   }
 ]
