@@ -86,5 +86,13 @@
     "username": "beautifulmeercat250",
     "password": "puffer",
     "invokedAt": "2020-02-10T10:00:54.148Z"
+  },
+  {
+    "firstName": "Maddison",
+    "lastName": "Day",
+    "email": "maddison.day@example.com",
+    "username": "bigmeercat445",
+    "password": "catwoman",
+    "invokedAt": "2020-02-10T11:00:58.951Z"
   }
 ]
