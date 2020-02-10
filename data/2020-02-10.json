@@ -102,5 +102,13 @@
     "username": "heavyleopard183",
     "password": "fudge",
     "invokedAt": "2020-02-10T12:01:17.510Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Adan",
+    "email": "ozkan.adan@example.com",
+    "username": "crazylion101",
+    "password": "blizzard",
+    "invokedAt": "2020-02-10T13:00:52.988Z"
   }
 ]
