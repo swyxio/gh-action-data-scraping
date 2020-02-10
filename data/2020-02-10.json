@@ -46,5 +46,13 @@
     "username": "biggorilla616",
     "password": "jennie",
     "invokedAt": "2020-02-10T05:01:12.036Z"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Haarstad",
+    "email": "erik.haarstad@example.com",
+    "username": "happywolf842",
+    "password": "redbird",
+    "invokedAt": "2020-02-10T06:01:35.052Z"
   }
 ]
