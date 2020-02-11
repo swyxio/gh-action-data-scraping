@@ -102,5 +102,13 @@
     "username": "redwolf200",
     "password": "jagger",
     "invokedAt": "2020-02-11T12:01:34.577Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Dağlaroğlu",
+    "email": "gul.daglaroglu@example.com",
+    "username": "redpeacock552",
+    "password": "march",
+    "invokedAt": "2020-02-11T13:00:38.903Z"
   }
 ]
