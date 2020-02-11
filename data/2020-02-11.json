@@ -118,5 +118,13 @@
     "username": "brownleopard272",
     "password": "second",
     "invokedAt": "2020-02-11T14:00:46.288Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Castillo",
+    "email": "isaac.castillo@example.com",
+    "username": "angrypanda812",
+    "password": "outkast",
+    "invokedAt": "2020-02-11T15:00:48.417Z"
   }
 ]
