@@ -126,5 +126,13 @@
     "username": "angrypanda812",
     "password": "outkast",
     "invokedAt": "2020-02-11T15:00:48.417Z"
+  },
+  {
+    "firstName": "Ece",
+    "lastName": "Alpuğan",
+    "email": "ece.alpugan@example.com",
+    "username": "happyduck754",
+    "password": "rusty2",
+    "invokedAt": "2020-02-11T16:00:50.673Z"
   }
 ]
