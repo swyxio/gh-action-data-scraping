@@ -142,5 +142,13 @@
     "username": "organicsnake321",
     "password": "insane",
     "invokedAt": "2020-02-12T17:00:42.760Z"
+  },
+  {
+    "firstName": "Beatrix",
+    "lastName": "Janz",
+    "email": "beatrix.janz@example.com",
+    "username": "blackkoala946",
+    "password": "lander",
+    "invokedAt": "2020-02-12T18:00:42.810Z"
   }
 ]
