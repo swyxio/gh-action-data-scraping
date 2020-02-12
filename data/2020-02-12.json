@@ -38,5 +38,13 @@
     "username": "greenbird188",
     "password": "trader",
     "invokedAt": "2020-02-12T04:01:05.768Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Patel",
+    "email": "matthew.patel@example.com",
+    "username": "orangelion654",
+    "password": "bluejays",
+    "invokedAt": "2020-02-12T05:00:40.945Z"
   }
 ]
