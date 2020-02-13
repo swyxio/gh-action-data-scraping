@@ -166,5 +166,13 @@
     "username": "blueostrich453",
     "password": "tophat",
     "invokedAt": "2020-02-13T20:01:42.016Z"
+  },
+  {
+    "firstName": "Sonia",
+    "lastName": "Carmona",
+    "email": "sonia.carmona@example.com",
+    "username": "happyswan147",
+    "password": "6666666",
+    "invokedAt": "2020-02-13T21:00:41.289Z"
   }
 ]
