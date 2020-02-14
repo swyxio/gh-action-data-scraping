@@ -166,5 +166,13 @@
     "username": "angrybear865",
     "password": "rugby",
     "invokedAt": "2020-02-14T20:01:09.855Z"
+  },
+  {
+    "firstName": "Umut",
+    "lastName": "Öztürk",
+    "email": "umut.ozturk@example.com",
+    "username": "purpleleopard586",
+    "password": "amber1",
+    "invokedAt": "2020-02-14T21:01:23.809Z"
   }
 ]
