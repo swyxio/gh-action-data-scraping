@@ -14,5 +14,13 @@
     "username": "orangebear553",
     "password": "busted",
     "invokedAt": "2020-02-14T01:01:23.810Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Edwards",
+    "email": "grace.edwards@example.com",
+    "username": "tinypeacock488",
+    "password": "dudedude",
+    "invokedAt": "2020-02-14T02:01:00.198Z"
   }
 ]
