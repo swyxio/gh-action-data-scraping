@@ -22,5 +22,13 @@
     "username": "biglion186",
     "password": "icehouse",
     "invokedAt": "2020-02-15T02:01:15.189Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Ramsvik",
+    "email": "daniel.ramsvik@example.com",
+    "username": "browndog905",
+    "password": "xander",
+    "invokedAt": "2020-02-15T03:00:41.520Z"
   }
 ]
