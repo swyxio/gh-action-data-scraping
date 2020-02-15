@@ -166,5 +166,13 @@
     "username": "bigmouse365",
     "password": "syzygy",
     "invokedAt": "2020-02-15T20:00:51.387Z"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Mccoy",
+    "email": "chris.mccoy@example.com",
+    "username": "crazymouse188",
+    "password": "starter",
+    "invokedAt": "2020-02-15T21:00:42.877Z"
   }
 ]
