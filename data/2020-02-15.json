@@ -134,5 +134,13 @@
     "username": "sadbird433",
     "password": "bluedog",
     "invokedAt": "2020-02-15T16:01:09.852Z"
+  },
+  {
+    "firstName": "Victoire",
+    "lastName": "Dumont",
+    "email": "victoire.dumont@example.com",
+    "username": "yellowgoose909",
+    "password": "morpheus",
+    "invokedAt": "2020-02-15T17:01:14.588Z"
   }
 ]
