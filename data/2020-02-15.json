@@ -158,5 +158,13 @@
     "username": "bluemeercat696",
     "password": "mango",
     "invokedAt": "2020-02-15T19:00:45.683Z"
+  },
+  {
+    "firstName": "Maëlyne",
+    "lastName": "Adam",
+    "email": "maelyne.adam@example.com",
+    "username": "bigmouse365",
+    "password": "syzygy",
+    "invokedAt": "2020-02-15T20:00:51.387Z"
   }
 ]
