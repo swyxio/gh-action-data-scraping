@@ -86,5 +86,13 @@
     "username": "yellowbutterfly240",
     "password": "gloria",
     "invokedAt": "2020-02-16T10:00:42.005Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Jean-Baptiste",
+    "email": "eva.jean-baptiste@example.com",
+    "username": "lazybird960",
+    "password": "thedoors",
+    "invokedAt": "2020-02-16T11:00:38.819Z"
   }
 ]
