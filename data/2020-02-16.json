@@ -94,5 +94,13 @@
     "username": "lazybird960",
     "password": "thedoors",
     "invokedAt": "2020-02-16T11:00:38.819Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Kangas",
+    "email": "joona.kangas@example.com",
+    "username": "sadduck479",
+    "password": "butterfl",
+    "invokedAt": "2020-02-16T12:00:45.474Z"
   }
 ]
