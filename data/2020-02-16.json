@@ -46,5 +46,13 @@
     "username": "bluecat329",
     "password": "wedding",
     "invokedAt": "2020-02-16T05:01:14.014Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Brønstad",
+    "email": "mary.bronstad@example.com",
+    "username": "yellowfrog244",
+    "password": "cyber",
+    "invokedAt": "2020-02-16T06:01:03.127Z"
   }
 ]
