@@ -62,5 +62,13 @@
     "username": "blueelephant532",
     "password": "sable",
     "invokedAt": "2020-02-16T07:01:14.160Z"
+  },
+  {
+    "firstName": "Perry",
+    "lastName": "Kelley",
+    "email": "perry.kelley@example.com",
+    "username": "heavytiger560",
+    "password": "mets",
+    "invokedAt": "2020-02-16T08:01:07.134Z"
   }
 ]
