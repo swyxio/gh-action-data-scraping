@@ -54,5 +54,13 @@
     "username": "yellowfrog244",
     "password": "cyber",
     "invokedAt": "2020-02-16T06:01:03.127Z"
+  },
+  {
+    "firstName": "Embla",
+    "lastName": "Høyem",
+    "email": "embla.hoyem@example.com",
+    "username": "blueelephant532",
+    "password": "sable",
+    "invokedAt": "2020-02-16T07:01:14.160Z"
   }
 ]
