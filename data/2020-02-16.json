@@ -158,5 +158,13 @@
     "username": "yellowmeercat358",
     "password": "lestat",
     "invokedAt": "2020-02-16T19:01:06.029Z"
+  },
+  {
+    "firstName": "Katie",
+    "lastName": "King",
+    "email": "katie.king@example.com",
+    "username": "happyladybug917",
+    "password": "zodiac",
+    "invokedAt": "2020-02-16T20:01:04.137Z"
   }
 ]
