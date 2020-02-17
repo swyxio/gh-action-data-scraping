@@ -166,5 +166,13 @@
     "username": "organicgorilla132",
     "password": "painting",
     "invokedAt": "2020-02-17T20:01:00.309Z"
+  },
+  {
+    "firstName": "Suzy",
+    "lastName": "Oliver",
+    "email": "suzy.oliver@example.com",
+    "username": "lazygoose839",
+    "password": "liberty",
+    "invokedAt": "2020-02-17T21:00:56.139Z"
   }
 ]
