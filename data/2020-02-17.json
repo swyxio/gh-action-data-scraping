@@ -158,5 +158,13 @@
     "username": "sadladybug542",
     "password": "chuo",
     "invokedAt": "2020-02-17T19:00:58.128Z"
+  },
+  {
+    "firstName": "Lennox",
+    "lastName": "Wong",
+    "email": "lennox.wong@example.com",
+    "username": "organicgorilla132",
+    "password": "painting",
+    "invokedAt": "2020-02-17T20:01:00.309Z"
   }
 ]
