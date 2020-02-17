@@ -86,5 +86,13 @@
     "username": "redmouse862",
     "password": "famous",
     "invokedAt": "2020-02-17T10:01:07.832Z"
+  },
+  {
+    "firstName": "Nicoline",
+    "lastName": "Rasmussen",
+    "email": "nicoline.rasmussen@example.com",
+    "username": "goldentiger674",
+    "password": "softball",
+    "invokedAt": "2020-02-17T11:01:10.842Z"
   }
 ]
