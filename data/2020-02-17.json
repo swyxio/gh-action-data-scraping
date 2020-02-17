@@ -126,5 +126,13 @@
     "username": "smalltiger562",
     "password": "cheeks",
     "invokedAt": "2020-02-17T15:00:37.166Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Møller",
+    "email": "philip.moller@example.com",
+    "username": "greenswan863",
+    "password": "bean",
+    "invokedAt": "2020-02-17T16:00:44.969Z"
   }
 ]
