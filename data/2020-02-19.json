@@ -110,5 +110,13 @@
     "username": "happyrabbit135",
     "password": "glasgow",
     "invokedAt": "2020-02-19T13:00:43.930Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Peltonen",
+    "email": "amanda.peltonen@example.com",
+    "username": "purplelion841",
+    "password": "irish1",
+    "invokedAt": "2020-02-19T14:01:10.983Z"
   }
 ]
