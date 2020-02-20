@@ -182,5 +182,13 @@
     "username": "smallswan773",
     "password": "zigzag",
     "invokedAt": "2020-02-20T22:00:40.909Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Hall",
+    "email": "alexis.hall@example.com",
+    "username": "saddog706",
+    "password": "police",
+    "invokedAt": "2020-02-20T23:00:46.995Z"
   }
 ]
