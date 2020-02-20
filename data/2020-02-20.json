@@ -110,5 +110,13 @@
     "username": "blackbird823",
     "password": "groovy",
     "invokedAt": "2020-02-20T13:00:57.358Z"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Kilpela",
+    "email": "ellen.kilpela@example.com",
+    "username": "heavydog330",
+    "password": "norman",
+    "invokedAt": "2020-02-20T14:00:47.462Z"
   }
 ]
