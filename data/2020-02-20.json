@@ -126,5 +126,13 @@
     "username": "sadcat277",
     "password": "elizabeth",
     "invokedAt": "2020-02-20T15:00:52.080Z"
+  },
+  {
+    "firstName": "Gilberto",
+    "lastName": "da Mota",
+    "email": "gilberto.damota@example.com",
+    "username": "brownwolf844",
+    "password": "navy",
+    "invokedAt": "2020-02-20T16:00:44.893Z"
   }
 ]
