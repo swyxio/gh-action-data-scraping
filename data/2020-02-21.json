@@ -166,5 +166,13 @@
     "username": "happyfrog366",
     "password": "intruder",
     "invokedAt": "2020-02-21T20:01:01.363Z"
+  },
+  {
+    "firstName": "Ömür",
+    "lastName": "Ertepınar",
+    "email": "omur.ertepinar@example.com",
+    "username": "crazyelephant849",
+    "password": "diaper",
+    "invokedAt": "2020-02-21T21:00:38.938Z"
   }
 ]
