@@ -126,5 +126,13 @@
     "username": "ticklishmeercat286",
     "password": "hall",
     "invokedAt": "2020-02-22T15:01:15.862Z"
+  },
+  {
+    "firstName": "Leah",
+    "lastName": "Clarke",
+    "email": "leah.clarke@example.com",
+    "username": "tinyrabbit555",
+    "password": "magic32",
+    "invokedAt": "2020-02-22T16:00:57.001Z"
   }
 ]
