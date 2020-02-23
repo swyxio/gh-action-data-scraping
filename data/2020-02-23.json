@@ -38,5 +38,13 @@
     "username": "brownlion305",
     "password": "boston1",
     "invokedAt": "2020-02-23T04:00:57.754Z"
+  },
+  {
+    "firstName": "Yasmin",
+    "lastName": "Elverum",
+    "email": "yasmin.elverum@example.com",
+    "username": "whitefrog132",
+    "password": "delphi",
+    "invokedAt": "2020-02-23T05:00:58.001Z"
   }
 ]
