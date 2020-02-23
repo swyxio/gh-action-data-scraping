@@ -174,5 +174,13 @@
     "username": "yellowdog731",
     "password": "galore",
     "invokedAt": "2020-02-23T21:01:05.246Z"
+  },
+  {
+    "firstName": "Saladino",
+    "lastName": "Peixoto",
+    "email": "saladino.peixoto@example.com",
+    "username": "happygoose637",
+    "password": "bounce",
+    "invokedAt": "2020-02-23T22:01:00.204Z"
   }
 ]
