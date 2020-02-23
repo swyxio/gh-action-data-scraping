@@ -182,5 +182,13 @@
     "username": "happygoose637",
     "password": "bounce",
     "invokedAt": "2020-02-23T22:01:00.204Z"
+  },
+  {
+    "firstName": "Carolyn",
+    "lastName": "Hawkins",
+    "email": "carolyn.hawkins@example.com",
+    "username": "purplebear353",
+    "password": "english",
+    "invokedAt": "2020-02-23T23:01:14.034Z"
   }
 ]
