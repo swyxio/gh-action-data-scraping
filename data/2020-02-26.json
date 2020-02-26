@@ -94,5 +94,13 @@
     "username": "goldenzebra498",
     "password": "toriamos",
     "invokedAt": "2020-02-26T11:00:46.150Z"
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Pedersen",
+    "email": "ida.pedersen@example.com",
+    "username": "yellowzebra830",
+    "password": "ffff",
+    "invokedAt": "2020-02-26T12:00:57.037Z"
   }
 ]
