@@ -46,5 +46,13 @@
     "username": "blackbird932",
     "password": "lick",
     "invokedAt": "2020-02-26T05:01:00.200Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Kulaksızoğlu",
+    "email": "vildan.kulaksizoglu@example.com",
+    "username": "tinybear390",
+    "password": "trip",
+    "invokedAt": "2020-02-26T06:01:00.066Z"
   }
 ]
