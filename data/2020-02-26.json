@@ -126,5 +126,13 @@
     "username": "purplebutterfly264",
     "password": "powers",
     "invokedAt": "2020-02-26T15:00:42.341Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Koç",
+    "email": "vildan.koc@example.com",
+    "username": "greenostrich584",
+    "password": "hhhh",
+    "invokedAt": "2020-02-26T16:00:54.262Z"
   }
 ]
