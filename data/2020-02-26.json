@@ -22,5 +22,13 @@
     "username": "yellowostrich364",
     "password": "chess",
     "invokedAt": "2020-02-26T02:01:07.623Z"
+  },
+  {
+    "firstName": "Joram",
+    "lastName": "Wagenmakers",
+    "email": "joram.wagenmakers@example.com",
+    "username": "silverostrich857",
+    "password": "masterbaiting",
+    "invokedAt": "2020-02-26T03:01:00.735Z"
   }
 ]
