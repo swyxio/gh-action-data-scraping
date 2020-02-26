@@ -110,5 +110,13 @@
     "username": "heavyfish591",
     "password": "hongkong",
     "invokedAt": "2020-02-26T13:00:55.182Z"
+  },
+  {
+    "firstName": "Theodore",
+    "lastName": "Cunningham",
+    "email": "theodore.cunningham@example.com",
+    "username": "tinyladybug412",
+    "password": "manutd",
+    "invokedAt": "2020-02-26T14:00:58.895Z"
   }
 ]
