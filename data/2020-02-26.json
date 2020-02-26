@@ -54,5 +54,13 @@
     "username": "tinybear390",
     "password": "trip",
     "invokedAt": "2020-02-26T06:01:00.066Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Petersen",
+    "email": "mathias.petersen@example.com",
+    "username": "yellowkoala425",
+    "password": "dog123",
+    "invokedAt": "2020-02-26T07:01:06.480Z"
   }
 ]
