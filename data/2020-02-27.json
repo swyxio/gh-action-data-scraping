@@ -94,5 +94,13 @@
     "username": "redfish186",
     "password": "vancouve",
     "invokedAt": "2020-02-27T11:01:21.673Z"
+  },
+  {
+    "firstName": "Hilla",
+    "lastName": "Laine",
+    "email": "hilla.laine@example.com",
+    "username": "ticklishtiger864",
+    "password": "hopkins",
+    "invokedAt": "2020-02-27T12:01:22.108Z"
   }
 ]
