@@ -14,5 +14,13 @@
     "username": "blackgorilla236",
     "password": "climax",
     "invokedAt": "2020-02-28T01:01:03.279Z"
+  },
+  {
+    "firstName": "Nurdan",
+    "lastName": "Akaydın",
+    "email": "nurdan.akaydin@example.com",
+    "username": "purpleswan985",
+    "password": "gator",
+    "invokedAt": "2020-02-28T02:00:50.246Z"
   }
 ]
