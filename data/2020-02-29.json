@@ -134,5 +134,13 @@
     "username": "organicmeercat772",
     "password": "chickens",
     "invokedAt": "2020-02-29T16:00:38.265Z"
+  },
+  {
+    "firstName": "Herbert",
+    "lastName": "Gehlen",
+    "email": "herbert.gehlen@example.com",
+    "username": "greencat671",
+    "password": "phoebe",
+    "invokedAt": "2020-02-29T17:00:37.903Z"
   }
 ]
