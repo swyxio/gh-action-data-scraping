@@ -166,5 +166,13 @@
     "username": "brownrabbit642",
     "password": "ready",
     "invokedAt": "2020-02-29T20:01:06.148Z"
+  },
+  {
+    "firstName": "Ceyhun",
+    "lastName": "Yıldızoğlu",
+    "email": "ceyhun.yildizoglu@example.com",
+    "username": "smallsnake831",
+    "password": "manny",
+    "invokedAt": "2020-02-29T21:01:00.001Z"
   }
 ]
