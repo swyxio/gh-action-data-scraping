@@ -126,5 +126,13 @@
     "username": "purpledog252",
     "password": "maryland",
     "invokedAt": "2020-03-01T15:00:53.866Z"
+  },
+  {
+    "firstName": "Pierre",
+    "lastName": "Garcia",
+    "email": "pierre.garcia@example.com",
+    "username": "happyswan285",
+    "password": "green123",
+    "invokedAt": "2020-03-01T16:01:00.196Z"
   }
 ]
