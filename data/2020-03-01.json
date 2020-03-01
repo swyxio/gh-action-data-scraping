@@ -158,5 +158,13 @@
     "username": "beautifulmouse773",
     "password": "russia",
     "invokedAt": "2020-03-01T19:00:52.215Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Jean",
+    "email": "santiago.jean@example.com",
+    "username": "browntiger345",
+    "password": "forfun",
+    "invokedAt": "2020-03-01T20:00:48.934Z"
   }
 ]
