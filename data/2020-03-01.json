@@ -102,5 +102,13 @@
     "username": "crazyostrich150",
     "password": "avenue",
     "invokedAt": "2020-03-01T12:00:59.975Z"
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Charles",
+    "email": "luca.charles@example.com",
+    "username": "organicelephant142",
+    "password": "vulcan",
+    "invokedAt": "2020-03-01T13:00:50.519Z"
   }
 ]
