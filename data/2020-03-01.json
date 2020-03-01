@@ -182,5 +182,13 @@
     "username": "goldensnake138",
     "password": "gladiato",
     "invokedAt": "2020-03-01T22:00:54.841Z"
+  },
+  {
+    "firstName": "Agron",
+    "lastName": "Dumont",
+    "email": "agron.dumont@example.com",
+    "username": "whitemouse248",
+    "password": "columbia",
+    "invokedAt": "2020-03-01T23:01:12.189Z"
   }
 ]
