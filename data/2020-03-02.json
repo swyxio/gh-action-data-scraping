@@ -30,5 +30,13 @@
     "username": "brownbear962",
     "password": "compass",
     "invokedAt": "2020-03-02T03:00:50.679Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Howell",
+    "email": "bob.howell@example.com",
+    "username": "angryladybug983",
+    "password": "liquid",
+    "invokedAt": "2020-03-02T04:00:46.750Z"
   }
 ]
