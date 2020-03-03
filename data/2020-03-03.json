@@ -182,5 +182,13 @@
     "username": "angrypanda587",
     "password": "builder",
     "invokedAt": "2020-03-03T22:00:48.936Z"
+  },
+  {
+    "firstName": "Mae",
+    "lastName": "Carroll",
+    "email": "mae.carroll@example.com",
+    "username": "angrybear487",
+    "password": "woodstoc",
+    "invokedAt": "2020-03-03T23:01:04.521Z"
   }
 ]
