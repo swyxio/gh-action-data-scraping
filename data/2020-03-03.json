@@ -142,5 +142,13 @@
     "username": "silverzebra709",
     "password": "einstein",
     "invokedAt": "2020-03-03T17:00:49.723Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Bourgeois",
+    "email": "pablo.bourgeois@example.com",
+    "username": "purplefish562",
+    "password": "sputnik",
+    "invokedAt": "2020-03-03T18:01:08.304Z"
   }
 ]
