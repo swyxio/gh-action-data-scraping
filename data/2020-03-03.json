@@ -86,5 +86,13 @@
     "username": "bigbird182",
     "password": "tara",
     "invokedAt": "2020-03-03T10:00:45.487Z"
+  },
+  {
+    "firstName": "رضا",
+    "lastName": "یاسمی",
+    "email": "rd.ysmy@example.com",
+    "username": "orangemeercat689",
+    "password": "iceberg",
+    "invokedAt": "2020-03-03T11:00:43.868Z"
   }
 ]
