@@ -30,5 +30,13 @@
     "username": "brownpeacock339",
     "password": "suckit",
     "invokedAt": "2020-03-04T03:00:52.870Z"
+  },
+  {
+    "firstName": "احسان",
+    "lastName": "صدر",
+    "email": "hsn.sdr@example.com",
+    "username": "greenostrich812",
+    "password": "evil",
+    "invokedAt": "2020-03-04T04:00:56.123Z"
   }
 ]
