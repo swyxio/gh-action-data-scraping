@@ -94,5 +94,13 @@
     "username": "tinybear308",
     "password": "maple",
     "invokedAt": "2020-03-04T11:00:59.192Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Mortensen",
+    "email": "nanna.mortensen@example.com",
+    "username": "purplebear554",
+    "password": "dancer",
+    "invokedAt": "2020-03-04T12:01:16.326Z"
   }
 ]
