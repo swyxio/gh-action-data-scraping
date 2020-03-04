@@ -102,5 +102,13 @@
     "username": "purplebear554",
     "password": "dancer",
     "invokedAt": "2020-03-04T12:01:16.326Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Köylüoğlu",
+    "email": "babur.koyluoglu@example.com",
+    "username": "angrybutterfly187",
+    "password": "marco",
+    "invokedAt": "2020-03-04T13:00:36.690Z"
   }
 ]
