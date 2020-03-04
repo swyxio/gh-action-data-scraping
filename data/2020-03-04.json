@@ -78,5 +78,13 @@
     "username": "sadrabbit648",
     "password": "sunday",
     "invokedAt": "2020-03-04T09:00:48.209Z"
+  },
+  {
+    "firstName": "Noélie",
+    "lastName": "Renaud",
+    "email": "noelie.renaud@example.com",
+    "username": "sadmouse658",
+    "password": "titleist",
+    "invokedAt": "2020-03-04T10:00:55.675Z"
   }
 ]
