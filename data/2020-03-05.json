@@ -134,5 +134,13 @@
     "username": "redswan549",
     "password": "thong",
     "invokedAt": "2020-03-05T16:00:48.572Z"
+  },
+  {
+    "firstName": "Hans-Detlef",
+    "lastName": "Zellner",
+    "email": "hans-detlef.zellner@example.com",
+    "username": "greensnake132",
+    "password": "nancy",
+    "invokedAt": "2020-03-05T17:00:49.966Z"
   }
 ]
