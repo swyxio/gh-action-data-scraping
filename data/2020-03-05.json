@@ -86,5 +86,13 @@
     "username": "purplecat475",
     "password": "hidden",
     "invokedAt": "2020-03-05T10:00:37.075Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Miles",
+    "email": "zoe.miles@example.com",
+    "username": "silverlion798",
+    "password": "young",
+    "invokedAt": "2020-03-05T11:00:43.992Z"
   }
 ]
