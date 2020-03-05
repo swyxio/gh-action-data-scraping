@@ -102,5 +102,13 @@
     "username": "brownmouse390",
     "password": "zoom",
     "invokedAt": "2020-03-05T12:00:47.621Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Li",
+    "email": "emily.li@example.com",
+    "username": "blackzebra113",
+    "password": "robert",
+    "invokedAt": "2020-03-05T13:01:02.813Z"
   }
 ]
