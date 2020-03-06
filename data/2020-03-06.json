@@ -166,5 +166,13 @@
     "username": "angryswan655",
     "password": "kramer",
     "invokedAt": "2020-03-06T20:00:52.869Z"
+  },
+  {
+    "firstName": "Çetin",
+    "lastName": "Başoğlu",
+    "email": "cetin.basoglu@example.com",
+    "username": "purpleswan232",
+    "password": "pantera1",
+    "invokedAt": "2020-03-06T21:00:45.236Z"
   }
 ]
