@@ -158,5 +158,13 @@
     "username": "orangegorilla488",
     "password": "hawkeye",
     "invokedAt": "2020-03-06T19:00:35.288Z"
+  },
+  {
+    "firstName": "Asta",
+    "lastName": "Christensen",
+    "email": "asta.christensen@example.com",
+    "username": "angryswan655",
+    "password": "kramer",
+    "invokedAt": "2020-03-06T20:00:52.869Z"
   }
 ]
