@@ -134,5 +134,13 @@
     "username": "lazyswan977",
     "password": "broadway",
     "invokedAt": "2020-03-08T16:00:34.160Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Taşçı",
+    "email": "okan.tasci@example.com",
+    "username": "sadswan125",
+    "password": "cloud9",
+    "invokedAt": "2020-03-08T17:00:43.097Z"
   }
 ]
