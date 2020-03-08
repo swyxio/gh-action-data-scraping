@@ -158,5 +158,13 @@
     "username": "heavysnake504",
     "password": "testpass",
     "invokedAt": "2020-03-08T19:00:51.894Z"
+  },
+  {
+    "firstName": "Roeline",
+    "lastName": "Van Popering",
+    "email": "roeline.vanpopering@example.com",
+    "username": "angryfrog288",
+    "password": "teenage",
+    "invokedAt": "2020-03-08T20:00:54.341Z"
   }
 ]
