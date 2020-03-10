@@ -166,5 +166,13 @@
     "username": "bluebear490",
     "password": "huskies",
     "invokedAt": "2020-03-10T20:00:40.760Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Jackson",
+    "email": "martha.jackson@example.com",
+    "username": "angrysnake673",
+    "password": "straight",
+    "invokedAt": "2020-03-10T21:00:37.738Z"
   }
 ]
