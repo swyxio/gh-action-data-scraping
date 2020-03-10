@@ -118,5 +118,13 @@
     "username": "purpledog118",
     "password": "muppet",
     "invokedAt": "2020-03-10T14:00:47.836Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Freeman",
+    "email": "diana.freeman@example.com",
+    "username": "goldendog107",
+    "password": "elvis1",
+    "invokedAt": "2020-03-10T15:00:53.662Z"
   }
 ]
