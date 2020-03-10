@@ -158,5 +158,13 @@
     "username": "redduck355",
     "password": "wireless",
     "invokedAt": "2020-03-10T19:00:54.068Z"
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Christensen",
+    "email": "ida.christensen@example.com",
+    "username": "bluebear490",
+    "password": "huskies",
+    "invokedAt": "2020-03-10T20:00:40.760Z"
   }
 ]
