@@ -86,5 +86,13 @@
     "username": "yellowfrog451",
     "password": "paint",
     "invokedAt": "2020-03-10T10:00:37.219Z"
+  },
+  {
+    "firstName": "Delphine",
+    "lastName": "Barnaby",
+    "email": "delphine.barnaby@example.com",
+    "username": "redbird541",
+    "password": "building",
+    "invokedAt": "2020-03-10T11:00:45.157Z"
   }
 ]
