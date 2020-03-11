@@ -134,5 +134,13 @@
     "username": "lazypanda802",
     "password": "brest",
     "invokedAt": "2020-03-11T16:01:05.392Z"
+  },
+  {
+    "firstName": "Lola",
+    "lastName": "Terry",
+    "email": "lola.terry@example.com",
+    "username": "organicfish768",
+    "password": "blizzard",
+    "invokedAt": "2020-03-11T17:01:16.581Z"
   }
 ]
