@@ -46,5 +46,13 @@
     "username": "goldenbird688",
     "password": "general",
     "invokedAt": "2020-03-11T05:01:00.612Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Gürmen",
+    "email": "gul.gurmen@example.com",
+    "username": "heavyladybug746",
+    "password": "lebowski",
+    "invokedAt": "2020-03-11T06:01:20.966Z"
   }
 ]
