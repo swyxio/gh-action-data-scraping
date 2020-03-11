@@ -94,5 +94,13 @@
     "username": "tinymeercat715",
     "password": "chicago",
     "invokedAt": "2020-03-11T11:00:46.973Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Madsen",
+    "email": "clara.madsen@example.com",
+    "username": "happycat960",
+    "password": "anarchy",
+    "invokedAt": "2020-03-11T12:00:40.022Z"
   }
 ]
