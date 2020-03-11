@@ -102,5 +102,13 @@
     "username": "happycat960",
     "password": "anarchy",
     "invokedAt": "2020-03-11T12:00:40.022Z"
+  },
+  {
+    "firstName": "May",
+    "lastName": "Ngo",
+    "email": "may.ngo@example.com",
+    "username": "sadwolf975",
+    "password": "alive",
+    "invokedAt": "2020-03-11T13:00:45.079Z"
   }
 ]
