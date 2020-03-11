@@ -174,5 +174,13 @@
     "username": "goldenpeacock182",
     "password": "bacardi",
     "invokedAt": "2020-03-11T21:00:56.933Z"
+  },
+  {
+    "firstName": "Jonatã",
+    "lastName": "Mendes",
+    "email": "jonata.mendes@example.com",
+    "username": "purpleostrich172",
+    "password": "none",
+    "invokedAt": "2020-03-11T22:00:34.837Z"
   }
 ]
