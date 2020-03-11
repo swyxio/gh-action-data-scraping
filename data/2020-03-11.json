@@ -78,5 +78,13 @@
     "username": "lazywolf784",
     "password": "emerald",
     "invokedAt": "2020-03-11T09:01:11.746Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Hansen",
+    "email": "benjamin.hansen@example.com",
+    "username": "lazysnake240",
+    "password": "jabber",
+    "invokedAt": "2020-03-11T10:01:03.359Z"
   }
 ]
