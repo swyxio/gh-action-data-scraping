@@ -182,5 +182,13 @@
     "username": "purpleostrich172",
     "password": "none",
     "invokedAt": "2020-03-11T22:00:34.837Z"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Fernandez",
+    "email": "jamie.fernandez@example.com",
+    "username": "yellowbutterfly723",
+    "password": "jellybea",
+    "invokedAt": "2020-03-11T23:00:41.533Z"
   }
 ]
