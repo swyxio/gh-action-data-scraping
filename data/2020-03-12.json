@@ -102,5 +102,13 @@
     "username": "brownmouse657",
     "password": "priest",
     "invokedAt": "2020-03-12T12:00:48.876Z"
+  },
+  {
+    "firstName": "Rosie",
+    "lastName": "Medina",
+    "email": "rosie.medina@example.com",
+    "username": "tinybear909",
+    "password": "sundance",
+    "invokedAt": "2020-03-12T13:00:42.846Z"
   }
 ]
