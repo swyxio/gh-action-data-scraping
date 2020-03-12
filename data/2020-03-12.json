@@ -158,5 +158,13 @@
     "username": "heavylion206",
     "password": "stratus",
     "invokedAt": "2020-03-12T19:01:05.117Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Bouchard",
+    "email": "olivier.bouchard@example.com",
+    "username": "lazyswan859",
+    "password": "crew",
+    "invokedAt": "2020-03-12T20:00:43.423Z"
   }
 ]
