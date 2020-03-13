@@ -142,5 +142,13 @@
     "username": "beautifulrabbit453",
     "password": "penthous",
     "invokedAt": "2020-03-13T17:01:22.410Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Roy",
+    "email": "emily.roy@example.com",
+    "username": "greenbird564",
+    "password": "blizzard",
+    "invokedAt": "2020-03-13T18:00:57.881Z"
   }
 ]
