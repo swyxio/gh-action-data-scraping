@@ -86,5 +86,13 @@
     "username": "lazylion520",
     "password": "skiing",
     "invokedAt": "2020-03-13T10:01:08.789Z"
+  },
+  {
+    "firstName": "Bruna",
+    "lastName": "Lefevre",
+    "email": "bruna.lefevre@example.com",
+    "username": "yellowwolf154",
+    "password": "gate",
+    "invokedAt": "2020-03-13T11:00:56.413Z"
   }
 ]
