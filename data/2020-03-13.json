@@ -78,5 +78,13 @@
     "username": "bigcat746",
     "password": "artist",
     "invokedAt": "2020-03-13T09:01:05.604Z"
+  },
+  {
+    "firstName": "Kurt",
+    "lastName": "Collins",
+    "email": "kurt.collins@example.com",
+    "username": "lazylion520",
+    "password": "skiing",
+    "invokedAt": "2020-03-13T10:01:08.789Z"
   }
 ]
