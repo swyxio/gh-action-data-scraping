@@ -94,5 +94,13 @@
     "username": "happybutterfly424",
     "password": "juventus",
     "invokedAt": "2020-03-14T11:01:03.562Z"
+  },
+  {
+    "firstName": "Avery",
+    "lastName": "Harris",
+    "email": "avery.harris@example.com",
+    "username": "angrywolf278",
+    "password": "celine",
+    "invokedAt": "2020-03-14T12:01:14.770Z"
   }
 ]
