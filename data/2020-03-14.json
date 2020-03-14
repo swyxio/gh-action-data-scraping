@@ -54,5 +54,13 @@
     "username": "happycat994",
     "password": "javelin",
     "invokedAt": "2020-03-14T06:00:37.046Z"
+  },
+  {
+    "firstName": "Edita",
+    "lastName": "Rietjens",
+    "email": "edita.rietjens@example.com",
+    "username": "heavybird292",
+    "password": "spyder",
+    "invokedAt": "2020-03-14T07:00:55.696Z"
   }
 ]
