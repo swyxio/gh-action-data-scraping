@@ -86,5 +86,13 @@
     "username": "goldenkoala807",
     "password": "rockets",
     "invokedAt": "2020-03-15T10:01:00.127Z"
+  },
+  {
+    "firstName": "Lucínio",
+    "lastName": "Moura",
+    "email": "lucinio.moura@example.com",
+    "username": "bigbear529",
+    "password": "emmitt",
+    "invokedAt": "2020-03-15T11:01:09.207Z"
   }
 ]
