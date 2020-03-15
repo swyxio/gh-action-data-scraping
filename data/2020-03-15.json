@@ -142,5 +142,13 @@
     "username": "beautifulfrog797",
     "password": "chevy",
     "invokedAt": "2020-03-15T17:01:01.038Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Kavaklıoğlu",
+    "email": "ege.kavaklioglu@example.com",
+    "username": "whitebear408",
+    "password": "shadows",
+    "invokedAt": "2020-03-15T18:01:05.660Z"
   }
 ]
