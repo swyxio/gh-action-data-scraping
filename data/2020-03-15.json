@@ -70,5 +70,13 @@
     "username": "purpletiger306",
     "password": "submit",
     "invokedAt": "2020-03-15T08:00:53.560Z"
+  },
+  {
+    "firstName": "Nicole",
+    "lastName": "Wright",
+    "email": "nicole.wright@example.com",
+    "username": "whitetiger670",
+    "password": "beat",
+    "invokedAt": "2020-03-15T09:01:10.358Z"
   }
 ]
