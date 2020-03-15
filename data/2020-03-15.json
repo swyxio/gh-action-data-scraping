@@ -182,5 +182,13 @@
     "username": "greendog707",
     "password": "nana",
     "invokedAt": "2020-03-15T22:00:54.369Z"
+  },
+  {
+    "firstName": "مهدي",
+    "lastName": "صدر",
+    "email": "mhdy.sdr@example.com",
+    "username": "ticklishostrich805",
+    "password": "ollie",
+    "invokedAt": "2020-03-15T23:00:49.983Z"
   }
 ]
