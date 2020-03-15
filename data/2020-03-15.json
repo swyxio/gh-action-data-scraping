@@ -158,5 +158,13 @@
     "username": "tinybear618",
     "password": "xing",
     "invokedAt": "2020-03-15T19:01:16.321Z"
+  },
+  {
+    "firstName": "Joao",
+    "lastName": "Bonnet",
+    "email": "joao.bonnet@example.com",
+    "username": "greenelephant333",
+    "password": "hawkins",
+    "invokedAt": "2020-03-15T20:00:35.030Z"
   }
 ]
