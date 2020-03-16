@@ -94,5 +94,13 @@
     "username": "lazyelephant601",
     "password": "storys",
     "invokedAt": "2020-03-16T11:00:46.694Z"
+  },
+  {
+    "firstName": "Henrik",
+    "lastName": "Storvik",
+    "email": "henrik.storvik@example.com",
+    "username": "goldentiger545",
+    "password": "marjorie",
+    "invokedAt": "2020-03-16T12:00:50.658Z"
   }
 ]
