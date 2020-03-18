@@ -30,5 +30,13 @@
     "username": "redpanda252",
     "password": "bmw325",
     "invokedAt": "2020-03-18T20:00:57.731Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Türkyılmaz",
+    "email": "fatih.turkyilmaz@example.com",
+    "username": "silverfish201",
+    "password": "cheeks",
+    "invokedAt": "2020-03-18T21:00:53.375Z"
   }
 ]
