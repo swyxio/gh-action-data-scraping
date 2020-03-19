@@ -126,5 +126,13 @@
     "username": "yellowleopard763",
     "password": "basketba",
     "invokedAt": "2020-03-19T15:00:42.013Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Heeringa",
+    "email": "max.heeringa@example.com",
+    "username": "sadleopard926",
+    "password": "1961",
+    "invokedAt": "2020-03-19T16:01:11.134Z"
   }
 ]
