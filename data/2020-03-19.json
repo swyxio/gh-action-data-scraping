@@ -102,5 +102,13 @@
     "username": "crazylion335",
     "password": "music",
     "invokedAt": "2020-03-19T12:00:36.033Z"
+  },
+  {
+    "firstName": "Beatrice",
+    "lastName": "Taylor",
+    "email": "beatrice.taylor@example.com",
+    "username": "ticklishdog126",
+    "password": "dawg",
+    "invokedAt": "2020-03-19T13:00:38.901Z"
   }
 ]
