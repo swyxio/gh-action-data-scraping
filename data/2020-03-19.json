@@ -94,5 +94,13 @@
     "username": "redcat607",
     "password": "tree",
     "invokedAt": "2020-03-19T11:00:35.158Z"
+  },
+  {
+    "firstName": "Nooa",
+    "lastName": "Toro",
+    "email": "nooa.toro@example.com",
+    "username": "crazylion335",
+    "password": "music",
+    "invokedAt": "2020-03-19T12:00:36.033Z"
   }
 ]
