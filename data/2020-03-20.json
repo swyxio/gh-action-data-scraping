@@ -182,5 +182,13 @@
     "username": "smalltiger424",
     "password": "annika",
     "invokedAt": "2020-03-20T22:00:56.620Z"
+  },
+  {
+    "firstName": "Massimo",
+    "lastName": "Schipper",
+    "email": "massimo.schipper@example.com",
+    "username": "bigbutterfly705",
+    "password": "gregor",
+    "invokedAt": "2020-03-20T23:00:52.840Z"
   }
 ]
