@@ -86,5 +86,13 @@
     "username": "organicbird552",
     "password": "terminal",
     "invokedAt": "2020-03-20T10:01:05.719Z"
+  },
+  {
+    "firstName": "Suzy",
+    "lastName": "Rogers",
+    "email": "suzy.rogers@example.com",
+    "username": "goldenpanda123",
+    "password": "lulu",
+    "invokedAt": "2020-03-20T11:01:13.004Z"
   }
 ]
