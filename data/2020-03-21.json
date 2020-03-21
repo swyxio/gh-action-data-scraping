@@ -86,5 +86,13 @@
     "username": "lazyrabbit415",
     "password": "feeling",
     "invokedAt": "2020-03-21T10:01:13.041Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Ojala",
+    "email": "valtteri.ojala@example.com",
+    "username": "angryzebra732",
+    "password": "swimming",
+    "invokedAt": "2020-03-21T11:01:09.507Z"
   }
 ]
