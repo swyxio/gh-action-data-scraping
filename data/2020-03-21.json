@@ -118,5 +118,13 @@
     "username": "lazypeacock930",
     "password": "sales",
     "invokedAt": "2020-03-21T14:00:41.917Z"
+  },
+  {
+    "firstName": "Madison",
+    "lastName": "Lavoie",
+    "email": "madison.lavoie@example.com",
+    "username": "happyfrog739",
+    "password": "ingrid",
+    "invokedAt": "2020-03-21T15:00:59.232Z"
   }
 ]
