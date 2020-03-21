@@ -158,5 +158,13 @@
     "username": "greenkoala905",
     "password": "stock",
     "invokedAt": "2020-03-21T19:01:11.267Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Ayverdi",
+    "email": "ege.ayverdi@example.com",
+    "username": "yellowfrog997",
+    "password": "camaro",
+    "invokedAt": "2020-03-21T20:01:20.365Z"
   }
 ]
