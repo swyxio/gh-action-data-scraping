@@ -78,5 +78,13 @@
     "username": "greenfrog772",
     "password": "asdfasdf",
     "invokedAt": "2020-03-22T09:00:57.619Z"
+  },
+  {
+    "firstName": "Elli",
+    "lastName": "Erkkila",
+    "email": "elli.erkkila@example.com",
+    "username": "happyswan754",
+    "password": "therock",
+    "invokedAt": "2020-03-22T10:01:04.618Z"
   }
 ]
