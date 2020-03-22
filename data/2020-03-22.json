@@ -94,5 +94,13 @@
     "username": "purplemouse755",
     "password": "bluesky",
     "invokedAt": "2020-03-22T11:01:07.228Z"
+  },
+  {
+    "firstName": "Hans-Gerhard",
+    "lastName": "Hansen",
+    "email": "hans-gerhard.hansen@example.com",
+    "username": "bigcat368",
+    "password": "snapple",
+    "invokedAt": "2020-03-22T12:01:03.046Z"
   }
 ]
