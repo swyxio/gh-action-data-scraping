@@ -126,5 +126,13 @@
     "username": "happymouse192",
     "password": "bobobo",
     "invokedAt": "2020-03-22T15:00:44.259Z"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Kivela",
+    "email": "elsa.kivela@example.com",
+    "username": "heavyostrich611",
+    "password": "verbatim",
+    "invokedAt": "2020-03-22T16:01:00.295Z"
   }
 ]
