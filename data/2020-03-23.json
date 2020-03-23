@@ -46,5 +46,13 @@
     "username": "orangewolf424",
     "password": "director",
     "invokedAt": "2020-03-23T05:01:33.072Z"
+  },
+  {
+    "firstName": "Severiano",
+    "lastName": "Monteiro",
+    "email": "severiano.monteiro@example.com",
+    "username": "silverbutterfly893",
+    "password": "flyer",
+    "invokedAt": "2020-03-23T06:00:32.751Z"
   }
 ]
