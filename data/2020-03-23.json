@@ -54,5 +54,13 @@
     "username": "silverbutterfly893",
     "password": "flyer",
     "invokedAt": "2020-03-23T06:00:32.751Z"
+  },
+  {
+    "firstName": "Pierre",
+    "lastName": "Blanc",
+    "email": "pierre.blanc@example.com",
+    "username": "redmouse466",
+    "password": "lambert",
+    "invokedAt": "2020-03-23T07:00:53.198Z"
   }
 ]
