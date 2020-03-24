@@ -46,5 +46,13 @@
     "username": "orangebutterfly401",
     "password": "asia",
     "invokedAt": "2020-03-24T05:01:01.055Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Ambrose",
+    "email": "abigail.ambrose@example.com",
+    "username": "purplepanda931",
+    "password": "marathon",
+    "invokedAt": "2020-03-24T06:01:07.802Z"
   }
 ]
