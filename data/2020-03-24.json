@@ -158,5 +158,13 @@
     "username": "redlion721",
     "password": "greenbay",
     "invokedAt": "2020-03-24T19:00:46.837Z"
+  },
+  {
+    "firstName": "Milla",
+    "lastName": "Karjala",
+    "email": "milla.karjala@example.com",
+    "username": "redbird634",
+    "password": "raymond",
+    "invokedAt": "2020-03-24T20:00:41.582Z"
   }
 ]
