@@ -118,5 +118,13 @@
     "username": "smallwolf196",
     "password": "4121",
     "invokedAt": "2020-03-24T14:00:58.398Z"
+  },
+  {
+    "firstName": "Artur",
+    "lastName": "Durand",
+    "email": "artur.durand@example.com",
+    "username": "orangemouse143",
+    "password": "keepout",
+    "invokedAt": "2020-03-24T15:01:08.774Z"
   }
 ]
