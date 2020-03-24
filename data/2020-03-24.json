@@ -126,5 +126,13 @@
     "username": "orangemouse143",
     "password": "keepout",
     "invokedAt": "2020-03-24T15:01:08.774Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Young",
+    "email": "harper.young@example.com",
+    "username": "browncat900",
+    "password": "oxygen",
+    "invokedAt": "2020-03-24T16:01:19.483Z"
   }
 ]
