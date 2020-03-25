@@ -62,5 +62,13 @@
     "username": "sadlion597",
     "password": "womble",
     "invokedAt": "2020-03-25T07:00:54.860Z"
+  },
+  {
+    "firstName": "Édouard",
+    "lastName": "Morel",
+    "email": "edouard.morel@example.com",
+    "username": "silvermeercat974",
+    "password": "maxima",
+    "invokedAt": "2020-03-25T08:00:50.237Z"
   }
 ]
