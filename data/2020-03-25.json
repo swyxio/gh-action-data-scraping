@@ -158,5 +158,13 @@
     "username": "lazybird139",
     "password": "eastern",
     "invokedAt": "2020-03-25T19:00:39.224Z"
+  },
+  {
+    "firstName": "Timothee",
+    "lastName": "Roussel",
+    "email": "timothee.roussel@example.com",
+    "username": "angryzebra103",
+    "password": "zhai",
+    "invokedAt": "2020-03-25T20:00:49.489Z"
   }
 ]
