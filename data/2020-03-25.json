@@ -86,5 +86,13 @@
     "username": "purplelion781",
     "password": "wrench",
     "invokedAt": "2020-03-25T10:00:53.769Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Ward",
+    "email": "ryan.ward@example.com",
+    "username": "crazybird372",
+    "password": "macmac",
+    "invokedAt": "2020-03-25T11:00:48.203Z"
   }
 ]
