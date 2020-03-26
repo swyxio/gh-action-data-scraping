@@ -86,5 +86,13 @@
     "username": "tinyostrich252",
     "password": "justme",
     "invokedAt": "2020-03-26T10:01:20.722Z"
+  },
+  {
+    "firstName": "Kaya",
+    "lastName": "Yetkiner",
+    "email": "kaya.yetkiner@example.com",
+    "username": "tinybear582",
+    "password": "tony",
+    "invokedAt": "2020-03-26T11:00:39.102Z"
   }
 ]
