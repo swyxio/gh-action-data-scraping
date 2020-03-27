@@ -158,5 +158,13 @@
     "username": "blueduck961",
     "password": "apple",
     "invokedAt": "2020-03-27T19:00:38.472Z"
+  },
+  {
+    "firstName": "Virgínio",
+    "lastName": "Cavalcanti",
+    "email": "virginio.cavalcanti@example.com",
+    "username": "greenrabbit881",
+    "password": "japan",
+    "invokedAt": "2020-03-27T20:00:35.070Z"
   }
 ]
