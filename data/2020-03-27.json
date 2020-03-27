@@ -166,5 +166,13 @@
     "username": "greenrabbit881",
     "password": "japan",
     "invokedAt": "2020-03-27T20:00:35.070Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Hakala",
+    "email": "kasper.hakala@example.com",
+    "username": "redkoala391",
+    "password": "augustus",
+    "invokedAt": "2020-03-27T21:00:43.004Z"
   }
 ]
