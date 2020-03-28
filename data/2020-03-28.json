@@ -38,5 +38,13 @@
     "username": "whitewolf872",
     "password": "circle",
     "invokedAt": "2020-03-28T04:00:50.294Z"
+  },
+  {
+    "firstName": "Gerardo",
+    "lastName": "Jimenez",
+    "email": "gerardo.jimenez@example.com",
+    "username": "redzebra352",
+    "password": "pinball",
+    "invokedAt": "2020-03-28T05:00:54.358Z"
   }
 ]
