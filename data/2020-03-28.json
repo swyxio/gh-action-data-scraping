@@ -126,5 +126,13 @@
     "username": "organicpeacock117",
     "password": "1234567890",
     "invokedAt": "2020-03-28T15:00:56.217Z"
+  },
+  {
+    "firstName": "Orry",
+    "lastName": "Disco",
+    "email": "orry.disco@example.com",
+    "username": "orangeduck954",
+    "password": "styles",
+    "invokedAt": "2020-03-28T16:01:11.267Z"
   }
 ]
