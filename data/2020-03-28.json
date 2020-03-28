@@ -102,5 +102,13 @@
     "username": "happytiger596",
     "password": "compaq",
     "invokedAt": "2020-03-28T12:00:54.367Z"
+  },
+  {
+    "firstName": "Wendy",
+    "lastName": "Weaver",
+    "email": "wendy.weaver@example.com",
+    "username": "lazyleopard615",
+    "password": "anders",
+    "invokedAt": "2020-03-28T13:00:48.613Z"
   }
 ]
