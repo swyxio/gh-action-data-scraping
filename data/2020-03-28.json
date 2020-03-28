@@ -174,5 +174,13 @@
     "username": "angrylion614",
     "password": "whiplash",
     "invokedAt": "2020-03-28T21:00:59.013Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Hansen",
+    "email": "victor.hansen@example.com",
+    "username": "sadcat677",
+    "password": "flesh",
+    "invokedAt": "2020-03-28T22:00:58.342Z"
   }
 ]
