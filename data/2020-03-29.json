@@ -86,5 +86,13 @@
     "username": "crazyrabbit820",
     "password": "cthulhu",
     "invokedAt": "2020-03-29T10:01:06.938Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Marttila",
+    "email": "oskari.marttila@example.com",
+    "username": "angrylion230",
+    "password": "hawks",
+    "invokedAt": "2020-03-29T11:00:50.971Z"
   }
 ]
