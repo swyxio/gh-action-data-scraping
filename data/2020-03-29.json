@@ -134,5 +134,13 @@
     "username": "happyleopard771",
     "password": "kerry",
     "invokedAt": "2020-03-29T16:01:07.885Z"
+  },
+  {
+    "firstName": "Murat",
+    "lastName": "Ertepınar",
+    "email": "murat.ertepinar@example.com",
+    "username": "bigkoala629",
+    "password": "referee",
+    "invokedAt": "2020-03-29T17:01:08.180Z"
   }
 ]
