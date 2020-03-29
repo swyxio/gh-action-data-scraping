@@ -142,5 +142,13 @@
     "username": "bigkoala629",
     "password": "referee",
     "invokedAt": "2020-03-29T17:01:08.180Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Scott",
+    "email": "alexandre.scott@example.com",
+    "username": "ticklishleopard667",
+    "password": "farley",
+    "invokedAt": "2020-03-29T18:01:16.837Z"
   }
 ]
