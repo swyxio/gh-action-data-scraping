@@ -142,5 +142,13 @@
     "username": "angrysnake201",
     "password": "hello",
     "invokedAt": "2020-03-30T17:00:47.459Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Chu",
+    "email": "justin.chu@example.com",
+    "username": "beautifulduck667",
+    "password": "windsurf",
+    "invokedAt": "2020-03-30T18:00:59.531Z"
   }
 ]
