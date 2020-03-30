@@ -54,5 +54,13 @@
     "username": "blueostrich368",
     "password": "bunker",
     "invokedAt": "2020-03-30T06:01:00.439Z"
+  },
+  {
+    "firstName": "Guiseppe",
+    "lastName": "Weißmann",
+    "email": "guiseppe.weissmann@example.com",
+    "username": "smallbutterfly277",
+    "password": "allan",
+    "invokedAt": "2020-03-30T07:00:49.054Z"
   }
 ]
