@@ -38,5 +38,13 @@
     "username": "beautifuldog250",
     "password": "limited",
     "invokedAt": "2020-03-30T04:00:42.670Z"
+  },
+  {
+    "firstName": "Özsu",
+    "lastName": "Tunçeri",
+    "email": "ozsu.tunceri@example.com",
+    "username": "lazylion939",
+    "password": "starstar",
+    "invokedAt": "2020-03-30T05:00:48.752Z"
   }
 ]
