@@ -126,5 +126,13 @@
     "username": "silverfrog448",
     "password": "readers",
     "invokedAt": "2020-03-30T15:01:01.363Z"
+  },
+  {
+    "firstName": "Marianne",
+    "lastName": "Grewal",
+    "email": "marianne.grewal@example.com",
+    "username": "yellowleopard661",
+    "password": "priest",
+    "invokedAt": "2020-03-30T16:01:11.796Z"
   }
 ]
