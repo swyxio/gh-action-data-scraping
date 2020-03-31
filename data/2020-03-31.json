@@ -174,5 +174,13 @@
     "username": "smallleopard548",
     "password": "season",
     "invokedAt": "2020-03-31T21:00:53.582Z"
+  },
+  {
+    "firstName": "Suzanne",
+    "lastName": "Hake",
+    "email": "suzanne.hake@example.com",
+    "username": "bigbear780",
+    "password": "topper",
+    "invokedAt": "2020-03-31T22:00:34.215Z"
   }
 ]
