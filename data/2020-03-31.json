@@ -182,5 +182,13 @@
     "username": "bigbear780",
     "password": "topper",
     "invokedAt": "2020-03-31T22:00:34.215Z"
+  },
+  {
+    "firstName": "Afet",
+    "lastName": "Adıvar",
+    "email": "afet.adivar@example.com",
+    "username": "organicfish515",
+    "password": "possum",
+    "invokedAt": "2020-03-31T23:00:32.013Z"
   }
 ]
