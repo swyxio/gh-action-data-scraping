@@ -86,5 +86,13 @@
     "username": "lazyzebra244",
     "password": "moreno",
     "invokedAt": "2020-03-31T10:00:34.047Z"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Roux",
+    "email": "amelia.roux@example.com",
+    "username": "goldendog353",
+    "password": "method",
+    "invokedAt": "2020-03-31T11:01:24.433Z"
   }
 ]
