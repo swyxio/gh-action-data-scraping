@@ -94,5 +94,13 @@
     "username": "goldendog353",
     "password": "method",
     "invokedAt": "2020-03-31T11:01:24.433Z"
+  },
+  {
+    "firstName": "Miriam",
+    "lastName": "Meunier",
+    "email": "miriam.meunier@example.com",
+    "username": "angrybird622",
+    "password": "admin",
+    "invokedAt": "2020-03-31T12:00:40.921Z"
   }
 ]
