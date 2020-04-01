@@ -86,5 +86,13 @@
     "username": "organicrabbit412",
     "password": "sunset",
     "invokedAt": "2020-04-01T10:00:48.503Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Barbarosoğlu",
+    "email": "ege.barbarosoglu@example.com",
+    "username": "crazymouse134",
+    "password": "potter",
+    "invokedAt": "2020-04-01T11:00:40.358Z"
   }
 ]
