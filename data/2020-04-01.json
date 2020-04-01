@@ -38,5 +38,13 @@
     "username": "happysnake975",
     "password": "soft",
     "invokedAt": "2020-04-01T04:00:43.291Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Lo",
+    "email": "owen.lo@example.com",
+    "username": "goldenladybug184",
+    "password": "quentin",
+    "invokedAt": "2020-04-01T05:00:47.159Z"
   }
 ]
