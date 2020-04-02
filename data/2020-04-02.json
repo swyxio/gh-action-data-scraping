@@ -102,5 +102,13 @@
     "username": "happyzebra882",
     "password": "startrek",
     "invokedAt": "2020-04-02T12:01:05.775Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Harris",
+    "email": "adam.harris@example.com",
+    "username": "happypanda426",
+    "password": "werewolf",
+    "invokedAt": "2020-04-02T13:00:38.452Z"
   }
 ]
