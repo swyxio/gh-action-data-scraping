@@ -38,5 +38,13 @@
     "username": "brownzebra308",
     "password": "trucks",
     "invokedAt": "2020-04-02T04:00:48.066Z"
+  },
+  {
+    "firstName": "Freddie",
+    "lastName": "Palmer",
+    "email": "freddie.palmer@example.com",
+    "username": "tinymeercat731",
+    "password": "charger",
+    "invokedAt": "2020-04-02T05:01:18.801Z"
   }
 ]
