@@ -94,5 +94,13 @@
     "username": "orangefrog700",
     "password": "484848",
     "invokedAt": "2020-04-02T11:00:48.485Z"
+  },
+  {
+    "firstName": "Ravi",
+    "lastName": "da Luz",
+    "email": "ravi.daluz@example.com",
+    "username": "happyzebra882",
+    "password": "startrek",
+    "invokedAt": "2020-04-02T12:01:05.775Z"
   }
 ]
