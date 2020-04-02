@@ -86,5 +86,13 @@
     "username": "lazyzebra262",
     "password": "pocket",
     "invokedAt": "2020-04-02T10:00:36.312Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Pakkala",
+    "email": "valtteri.pakkala@example.com",
+    "username": "orangefrog700",
+    "password": "484848",
+    "invokedAt": "2020-04-02T11:00:48.485Z"
   }
 ]
