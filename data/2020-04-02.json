@@ -142,5 +142,13 @@
     "username": "reddog154",
     "password": "manga",
     "invokedAt": "2020-04-02T17:01:18.243Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Smith",
+    "email": "oscar.smith@example.com",
+    "username": "redkoala861",
+    "password": "sabres",
+    "invokedAt": "2020-04-02T18:00:53.026Z"
   }
 ]
