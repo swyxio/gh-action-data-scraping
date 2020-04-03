@@ -166,5 +166,13 @@
     "username": "bigduck321",
     "password": "single",
     "invokedAt": "2020-04-03T20:00:50.305Z"
+  },
+  {
+    "firstName": "Kerstin",
+    "lastName": "Tappe",
+    "email": "kerstin.tappe@example.com",
+    "username": "blueswan439",
+    "password": "philips",
+    "invokedAt": "2020-04-03T21:00:38.042Z"
   }
 ]
