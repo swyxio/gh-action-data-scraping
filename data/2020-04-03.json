@@ -118,5 +118,13 @@
     "username": "whitegorilla957",
     "password": "starwars",
     "invokedAt": "2020-04-03T14:00:38.234Z"
+  },
+  {
+    "firstName": "Nero",
+    "lastName": "Costa",
+    "email": "nero.costa@example.com",
+    "username": "lazyladybug112",
+    "password": "pharao",
+    "invokedAt": "2020-04-03T15:00:43.249Z"
   }
 ]
