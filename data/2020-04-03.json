@@ -46,5 +46,13 @@
     "username": "goldenlion835",
     "password": "onlyme",
     "invokedAt": "2020-04-03T05:00:31.185Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Mortensen",
+    "email": "alexander.mortensen@example.com",
+    "username": "goldenswan933",
+    "password": "esquire",
+    "invokedAt": "2020-04-03T06:00:55.417Z"
   }
 ]
