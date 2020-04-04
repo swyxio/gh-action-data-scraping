@@ -126,5 +126,13 @@
     "username": "lazypeacock415",
     "password": "carla",
     "invokedAt": "2020-04-04T15:00:47.062Z"
+  },
+  {
+    "firstName": "Mauren",
+    "lastName": "Sales",
+    "email": "mauren.sales@example.com",
+    "username": "lazywolf933",
+    "password": "swinging",
+    "invokedAt": "2020-04-04T16:00:46.379Z"
   }
 ]
