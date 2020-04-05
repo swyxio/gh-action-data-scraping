@@ -78,5 +78,13 @@
     "username": "organicladybug788",
     "password": "vectra",
     "invokedAt": "2020-04-05T09:01:00.195Z"
+  },
+  {
+    "firstName": "Howard",
+    "lastName": "Moore",
+    "email": "howard.moore@example.com",
+    "username": "lazytiger294",
+    "password": "cobra1",
+    "invokedAt": "2020-04-05T10:01:06.391Z"
   }
 ]
