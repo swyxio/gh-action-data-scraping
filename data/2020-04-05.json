@@ -38,5 +38,13 @@
     "username": "blackbird285",
     "password": "565656",
     "invokedAt": "2020-04-05T04:01:17.431Z"
+  },
+  {
+    "firstName": "Lee",
+    "lastName": "Ford",
+    "email": "lee.ford@example.com",
+    "username": "redsnake410",
+    "password": "verbatim",
+    "invokedAt": "2020-04-05T05:00:47.237Z"
   }
 ]
