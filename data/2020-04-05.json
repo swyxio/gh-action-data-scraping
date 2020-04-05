@@ -142,5 +142,13 @@
     "username": "crazymeercat525",
     "password": "enigma",
     "invokedAt": "2020-04-05T17:00:53.627Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Latt",
+    "email": "valtteri.latt@example.com",
+    "username": "crazyswan305",
+    "password": "1957",
+    "invokedAt": "2020-04-05T18:00:45.057Z"
   }
 ]
