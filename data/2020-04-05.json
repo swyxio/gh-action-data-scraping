@@ -46,5 +46,13 @@
     "username": "redsnake410",
     "password": "verbatim",
     "invokedAt": "2020-04-05T05:00:47.237Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Erberk",
+    "email": "deniz.erberk@example.com",
+    "username": "bluerabbit292",
+    "password": "fastball",
+    "invokedAt": "2020-04-05T06:00:55.036Z"
   }
 ]
