@@ -102,5 +102,13 @@
     "username": "purplekoala735",
     "password": "opus",
     "invokedAt": "2020-04-06T12:00:52.495Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Philippe",
+    "email": "nathan.philippe@example.com",
+    "username": "brownmeercat841",
+    "password": "monty1",
+    "invokedAt": "2020-04-06T13:00:42.464Z"
   }
 ]
