@@ -94,5 +94,13 @@
     "username": "yellowduck975",
     "password": "divx1",
     "invokedAt": "2020-04-07T11:01:22.145Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Lévesque",
+    "email": "lea.levesque@example.com",
+    "username": "whitetiger688",
+    "password": "maxwell",
+    "invokedAt": "2020-04-07T12:00:40.412Z"
   }
 ]
