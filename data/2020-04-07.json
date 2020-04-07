@@ -158,5 +158,13 @@
     "username": "sadbear878",
     "password": "zhei",
     "invokedAt": "2020-04-07T19:00:50.233Z"
+  },
+  {
+    "firstName": "Jørgen",
+    "lastName": "Eidsvåg",
+    "email": "jorgen.eidsvag@example.com",
+    "username": "angrycat839",
+    "password": "spooky",
+    "invokedAt": "2020-04-07T20:00:59.137Z"
   }
 ]
