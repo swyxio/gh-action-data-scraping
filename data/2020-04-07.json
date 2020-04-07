@@ -142,5 +142,13 @@
     "username": "happydog585",
     "password": "badgers",
     "invokedAt": "2020-04-07T17:00:38.247Z"
+  },
+  {
+    "firstName": "Jaëla",
+    "lastName": "Grotenhuis",
+    "email": "jaela.grotenhuis@example.com",
+    "username": "bigladybug820",
+    "password": "bogus",
+    "invokedAt": "2020-04-07T18:01:10.445Z"
   }
 ]
