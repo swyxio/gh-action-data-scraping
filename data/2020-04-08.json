@@ -158,5 +158,13 @@
     "username": "bigfrog190",
     "password": "warcraft",
     "invokedAt": "2020-04-08T19:00:42.172Z"
+  },
+  {
+    "firstName": "Renier",
+    "lastName": "Op Het Veld",
+    "email": "renier.ophetveld@example.com",
+    "username": "ticklishgoose266",
+    "password": "roberto",
+    "invokedAt": "2020-04-08T20:00:56.719Z"
   }
 ]
