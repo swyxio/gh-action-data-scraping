@@ -182,5 +182,13 @@
     "username": "blackladybug870",
     "password": "usmarine",
     "invokedAt": "2020-04-09T22:00:40.611Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Andersen",
+    "email": "jonas.andersen@example.com",
+    "username": "bigostrich509",
+    "password": "dreams",
+    "invokedAt": "2020-04-09T23:00:48.862Z"
   }
 ]
