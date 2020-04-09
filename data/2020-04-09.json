@@ -46,5 +46,13 @@
     "username": "organictiger756",
     "password": "snickers",
     "invokedAt": "2020-04-09T05:01:19.292Z"
+  },
+  {
+    "firstName": "Hasan",
+    "lastName": "Van Kasteren",
+    "email": "hasan.vankasteren@example.com",
+    "username": "organiccat394",
+    "password": "bananas",
+    "invokedAt": "2020-04-09T06:01:01.622Z"
   }
 ]
