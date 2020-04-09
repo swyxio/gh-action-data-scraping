@@ -22,5 +22,13 @@
     "username": "tinypanda197",
     "password": "global",
     "invokedAt": "2020-04-09T02:00:58.080Z"
+  },
+  {
+    "firstName": "Heleno",
+    "lastName": "Dias",
+    "email": "heleno.dias@example.com",
+    "username": "angryostrich883",
+    "password": "cancel",
+    "invokedAt": "2020-04-09T03:01:08.300Z"
   }
 ]
