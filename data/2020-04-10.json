@@ -30,5 +30,13 @@
     "username": "blacktiger929",
     "password": "tribble",
     "invokedAt": "2020-04-10T03:00:55.973Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Kristensen",
+    "email": "sara.kristensen@example.com",
+    "username": "organicbutterfly562",
+    "password": "trader",
+    "invokedAt": "2020-04-10T04:00:44.462Z"
   }
 ]
