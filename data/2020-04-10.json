@@ -22,5 +22,13 @@
     "username": "purplesnake346",
     "password": "rotten",
     "invokedAt": "2020-04-10T02:00:53.075Z"
+  },
+  {
+    "firstName": "Abbas",
+    "lastName": "Westerduin",
+    "email": "abbas.westerduin@example.com",
+    "username": "blacktiger929",
+    "password": "tribble",
+    "invokedAt": "2020-04-10T03:00:55.973Z"
   }
 ]
