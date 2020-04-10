@@ -78,5 +78,13 @@
     "username": "orangemeercat222",
     "password": "mongoose",
     "invokedAt": "2020-04-10T09:00:49.554Z"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Campbell",
+    "email": "matt.campbell@example.com",
+    "username": "heavydog248",
+    "password": "mack",
+    "invokedAt": "2020-04-10T10:00:58.452Z"
   }
 ]
