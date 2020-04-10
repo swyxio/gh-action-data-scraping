@@ -94,5 +94,13 @@
     "username": "purplelion197",
     "password": "sharks",
     "invokedAt": "2020-04-10T11:00:46.716Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Gutierrez",
+    "email": "jeremy.gutierrez@example.com",
+    "username": "silverdog682",
+    "password": "bonehead",
+    "invokedAt": "2020-04-10T12:01:01.526Z"
   }
 ]
