@@ -86,5 +86,13 @@
     "username": "heavydog248",
     "password": "mack",
     "invokedAt": "2020-04-10T10:00:58.452Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Durmaz",
+    "email": "afsar.durmaz@example.com",
+    "username": "purplelion197",
+    "password": "sharks",
+    "invokedAt": "2020-04-10T11:00:46.716Z"
   }
 ]
