@@ -158,5 +158,13 @@
     "username": "orangezebra341",
     "password": "services",
     "invokedAt": "2020-04-11T19:00:58.888Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Marie",
+    "email": "sara.marie@example.com",
+    "username": "ticklishkoala941",
+    "password": "screen",
+    "invokedAt": "2020-04-11T20:01:15.031Z"
   }
 ]
