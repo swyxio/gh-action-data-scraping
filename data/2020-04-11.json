@@ -182,5 +182,13 @@
     "username": "orangeleopard363",
     "password": "treefrog",
     "invokedAt": "2020-04-11T22:00:59.156Z"
+  },
+  {
+    "firstName": "Isla",
+    "lastName": "Toro",
+    "email": "isla.toro@example.com",
+    "username": "purplepanda642",
+    "password": "1970",
+    "invokedAt": "2020-04-11T23:01:08.594Z"
   }
 ]
