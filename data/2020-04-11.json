@@ -150,5 +150,13 @@
     "username": "angrymouse752",
     "password": "beacon",
     "invokedAt": "2020-04-11T18:01:05.386Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Peltola",
+    "email": "peppi.peltola@example.com",
+    "username": "orangezebra341",
+    "password": "services",
+    "invokedAt": "2020-04-11T19:00:58.888Z"
   }
 ]
