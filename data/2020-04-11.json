@@ -62,5 +62,13 @@
     "username": "bigelephant966",
     "password": "unknown",
     "invokedAt": "2020-04-11T07:00:54.563Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Kowalski",
+    "email": "lea.kowalski@example.com",
+    "username": "beautifulrabbit338",
+    "password": "cooter",
+    "invokedAt": "2020-04-11T08:01:11.430Z"
   }
 ]
