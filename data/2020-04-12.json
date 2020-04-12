@@ -166,5 +166,13 @@
     "username": "lazylion208",
     "password": "fitter",
     "invokedAt": "2020-04-12T20:00:52.723Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Addy",
+    "email": "maxime.addy@example.com",
+    "username": "beautifuldog584",
+    "password": "flame",
+    "invokedAt": "2020-04-12T21:01:07.557Z"
   }
 ]
