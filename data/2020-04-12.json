@@ -182,5 +182,13 @@
     "username": "lazyostrich501",
     "password": "zxcv",
     "invokedAt": "2020-04-12T22:01:17.522Z"
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Løvdal",
+    "email": "luca.lovdal@example.com",
+    "username": "goldenfish681",
+    "password": "armstron",
+    "invokedAt": "2020-04-12T23:00:50.968Z"
   }
 ]
