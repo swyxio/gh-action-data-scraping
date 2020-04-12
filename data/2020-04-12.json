@@ -14,5 +14,13 @@
     "username": "angrygoose891",
     "password": "double",
     "invokedAt": "2020-04-12T01:00:52.139Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Olsen",
+    "email": "carl.olsen@example.com",
+    "username": "crazybutterfly547",
+    "password": "hairy",
+    "invokedAt": "2020-04-12T02:01:07.476Z"
   }
 ]
