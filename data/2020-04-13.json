@@ -158,5 +158,13 @@
     "username": "heavytiger482",
     "password": "duncan",
     "invokedAt": "2020-04-13T19:00:47.836Z"
+  },
+  {
+    "firstName": "Luís",
+    "lastName": "Nogueira",
+    "email": "luis.nogueira@example.com",
+    "username": "bigbear754",
+    "password": "gremlin",
+    "invokedAt": "2020-04-13T20:00:47.179Z"
   }
 ]
