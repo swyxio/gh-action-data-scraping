@@ -118,5 +118,13 @@
     "username": "yellowdog848",
     "password": "valkyrie",
     "invokedAt": "2020-04-13T14:01:12.395Z"
+  },
+  {
+    "firstName": "Fabrice",
+    "lastName": "Meunier",
+    "email": "fabrice.meunier@example.com",
+    "username": "organicbird989",
+    "password": "snowboard",
+    "invokedAt": "2020-04-13T15:00:48.146Z"
   }
 ]
