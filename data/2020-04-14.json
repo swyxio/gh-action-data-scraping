@@ -150,5 +150,13 @@
     "username": "bluegorilla543",
     "password": "delphi",
     "invokedAt": "2020-04-14T18:00:43.274Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Sørensen",
+    "email": "rosa.sorensen@example.com",
+    "username": "goldenduck769",
+    "password": "madison",
+    "invokedAt": "2020-04-14T19:01:08.642Z"
   }
 ]
