@@ -142,5 +142,13 @@
     "username": "yellowbutterfly606",
     "password": "corndog",
     "invokedAt": "2020-04-14T17:00:44.062Z"
+  },
+  {
+    "firstName": "Jayden",
+    "lastName": "Anderson",
+    "email": "jayden.anderson@example.com",
+    "username": "bluegorilla543",
+    "password": "delphi",
+    "invokedAt": "2020-04-14T18:00:43.274Z"
   }
 ]
