@@ -166,5 +166,13 @@
     "username": "blackrabbit511",
     "password": "runaway",
     "invokedAt": "2020-04-14T20:00:49.962Z"
+  },
+  {
+    "firstName": "Pinja",
+    "lastName": "Pietila",
+    "email": "pinja.pietila@example.com",
+    "username": "lazycat239",
+    "password": "wealth",
+    "invokedAt": "2020-04-14T21:01:03.806Z"
   }
 ]
