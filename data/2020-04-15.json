@@ -86,5 +86,13 @@
     "username": "happyleopard404",
     "password": "hotshot",
     "invokedAt": "2020-04-15T10:00:59.105Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Jean-Baptiste",
+    "email": "clara.jean-baptiste@example.com",
+    "username": "brownbird832",
+    "password": "lipstick",
+    "invokedAt": "2020-04-15T11:00:49.598Z"
   }
 ]
