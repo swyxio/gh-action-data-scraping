@@ -126,5 +126,13 @@
     "username": "blackfrog748",
     "password": "arizona",
     "invokedAt": "2020-04-16T15:01:18.931Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Smith",
+    "email": "owen.smith@example.com",
+    "username": "tinygoose144",
+    "password": "bronson",
+    "invokedAt": "2020-04-16T16:00:49.933Z"
   }
 ]
