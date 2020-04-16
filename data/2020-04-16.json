@@ -110,5 +110,13 @@
     "username": "goldenmeercat342",
     "password": "dreams",
     "invokedAt": "2020-04-16T13:00:51.173Z"
+  },
+  {
+    "firstName": "Peetu",
+    "lastName": "Peltonen",
+    "email": "peetu.peltonen@example.com",
+    "username": "redfrog854",
+    "password": "cookies",
+    "invokedAt": "2020-04-16T14:00:42.188Z"
   }
 ]
