@@ -62,5 +62,13 @@
     "username": "heavypeacock936",
     "password": "hydro",
     "invokedAt": "2020-04-16T07:01:09.999Z"
+  },
+  {
+    "firstName": "Sujata",
+    "lastName": "Kaplan",
+    "email": "sujata.kaplan@example.com",
+    "username": "greengoose126",
+    "password": "talk",
+    "invokedAt": "2020-04-16T08:00:44.180Z"
   }
 ]
