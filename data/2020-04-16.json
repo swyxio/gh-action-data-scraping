@@ -70,5 +70,13 @@
     "username": "greengoose126",
     "password": "talk",
     "invokedAt": "2020-04-16T08:00:44.180Z"
+  },
+  {
+    "firstName": "Elfi",
+    "lastName": "Raith",
+    "email": "elfi.raith@example.com",
+    "username": "purplebutterfly576",
+    "password": "cosmic",
+    "invokedAt": "2020-04-16T09:00:59.322Z"
   }
 ]
