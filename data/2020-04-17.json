@@ -126,5 +126,13 @@
     "username": "beautifulpanda281",
     "password": "nurses",
     "invokedAt": "2020-04-17T15:01:05.141Z"
+  },
+  {
+    "firstName": "Ayoub",
+    "lastName": "Bjørkhaug",
+    "email": "ayoub.bjorkhaug@example.com",
+    "username": "crazygorilla163",
+    "password": "passpass",
+    "invokedAt": "2020-04-17T16:00:45.247Z"
   }
 ]
