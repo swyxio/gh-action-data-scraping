@@ -38,5 +38,13 @@
     "username": "tinylion820",
     "password": "ncc1701",
     "invokedAt": "2020-04-17T04:01:18.834Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Keranen",
+    "email": "valtteri.keranen@example.com",
+    "username": "bluepeacock748",
+    "password": "f00tball",
+    "invokedAt": "2020-04-17T05:00:46.790Z"
   }
 ]
