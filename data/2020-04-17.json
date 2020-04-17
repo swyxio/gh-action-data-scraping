@@ -158,5 +158,13 @@
     "username": "greengorilla246",
     "password": "mypass",
     "invokedAt": "2020-04-17T20:02:31.454Z"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Lefebvre",
+    "email": "sophia.lefebvre@example.com",
+    "username": "angrymouse419",
+    "password": "viper",
+    "invokedAt": "2020-04-17T21:00:40.084Z"
   }
 ]
