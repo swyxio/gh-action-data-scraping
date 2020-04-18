@@ -110,5 +110,13 @@
     "username": "angrygorilla860",
     "password": "insertions",
     "invokedAt": "2020-04-18T13:00:50.303Z"
+  },
+  {
+    "firstName": "Omar",
+    "lastName": "Menard",
+    "email": "omar.menard@example.com",
+    "username": "crazymeercat630",
+    "password": "catnip",
+    "invokedAt": "2020-04-18T14:00:59.521Z"
   }
 ]
