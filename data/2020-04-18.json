@@ -102,5 +102,13 @@
     "username": "purplebear462",
     "password": "wave",
     "invokedAt": "2020-04-18T12:01:15.392Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Sezek",
+    "email": "ahmet.sezek@example.com",
+    "username": "angrygorilla860",
+    "password": "insertions",
+    "invokedAt": "2020-04-18T13:00:50.303Z"
   }
 ]
