@@ -62,5 +62,13 @@
     "username": "bluemouse890",
     "password": "playing",
     "invokedAt": "2020-04-19T07:00:48.164Z"
+  },
+  {
+    "firstName": "Berthold",
+    "lastName": "Siewert",
+    "email": "berthold.siewert@example.com",
+    "username": "goldenmeercat542",
+    "password": "mandingo",
+    "invokedAt": "2020-04-19T08:01:07.353Z"
   }
 ]
