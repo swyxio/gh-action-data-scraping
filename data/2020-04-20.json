@@ -14,5 +14,13 @@
     "username": "bigladybug380",
     "password": "earthlink",
     "invokedAt": "2020-04-20T01:01:02.336Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Lévesque",
+    "email": "ella.levesque@example.com",
+    "username": "goldenkoala163",
+    "password": "dogg",
+    "invokedAt": "2020-04-20T02:01:12.089Z"
   }
 ]
