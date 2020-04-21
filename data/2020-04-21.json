@@ -118,5 +118,13 @@
     "username": "beautifulgoose291",
     "password": "pitch",
     "invokedAt": "2020-04-21T14:00:44.091Z"
+  },
+  {
+    "firstName": "Amélie",
+    "lastName": "Bourgeois",
+    "email": "amelie.bourgeois@example.com",
+    "username": "tinycat300",
+    "password": "waterboy",
+    "invokedAt": "2020-04-21T15:01:00.981Z"
   }
 ]
