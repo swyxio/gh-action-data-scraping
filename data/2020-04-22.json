@@ -102,5 +102,13 @@
     "username": "lazycat629",
     "password": "focus",
     "invokedAt": "2020-04-22T12:00:56.279Z"
+  },
+  {
+    "firstName": "Zoey",
+    "lastName": "Riley",
+    "email": "zoey.riley@example.com",
+    "username": "blackpanda825",
+    "password": "newyear",
+    "invokedAt": "2020-04-22T13:00:37.082Z"
   }
 ]
