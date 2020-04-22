@@ -174,5 +174,13 @@
     "username": "yellowrabbit357",
     "password": "rachelle",
     "invokedAt": "2020-04-22T21:01:03.471Z"
+  },
+  {
+    "firstName": "Barbara",
+    "lastName": "Carpenter",
+    "email": "barbara.carpenter@example.com",
+    "username": "smallgorilla228",
+    "password": "carolyn",
+    "invokedAt": "2020-04-22T22:00:49.476Z"
   }
 ]
