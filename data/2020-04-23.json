@@ -30,5 +30,13 @@
     "username": "happywolf276",
     "password": "stone1",
     "invokedAt": "2020-04-23T03:01:43.067Z"
+  },
+  {
+    "firstName": "Hans-Rudolf",
+    "lastName": "Schüßler",
+    "email": "hans-rudolf.schussler@example.com",
+    "username": "bluemouse721",
+    "password": "jump",
+    "invokedAt": "2020-04-23T04:01:09.752Z"
   }
 ]
