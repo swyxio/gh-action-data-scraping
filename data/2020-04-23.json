@@ -118,5 +118,13 @@
     "username": "yellowduck613",
     "password": "celtics",
     "invokedAt": "2020-04-23T15:00:37.067Z"
+  },
+  {
+    "firstName": "Adónis",
+    "lastName": "da Costa",
+    "email": "adonis.dacosta@example.com",
+    "username": "purplecat591",
+    "password": "bigmoney",
+    "invokedAt": "2020-04-23T16:01:18.945Z"
   }
 ]
