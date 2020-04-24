@@ -94,5 +94,13 @@
     "username": "yellowmeercat188",
     "password": "chrome",
     "invokedAt": "2020-04-24T11:00:54.888Z"
+  },
+  {
+    "firstName": "Gregory",
+    "lastName": "Ray",
+    "email": "gregory.ray@example.com",
+    "username": "orangeladybug862",
+    "password": "mail",
+    "invokedAt": "2020-04-24T12:01:20.838Z"
   }
 ]
