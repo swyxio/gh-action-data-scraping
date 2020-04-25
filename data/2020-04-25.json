@@ -78,5 +78,13 @@
     "username": "sadmeercat139",
     "password": "shelter",
     "invokedAt": "2020-04-25T09:01:01.983Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Mercier",
+    "email": "owen.mercier@example.com",
+    "username": "redgorilla341",
+    "password": "beamer",
+    "invokedAt": "2020-04-25T10:00:40.146Z"
   }
 ]
