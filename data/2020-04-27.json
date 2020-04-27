@@ -166,5 +166,13 @@
     "username": "greenfish223",
     "password": "asia",
     "invokedAt": "2020-04-27T20:01:00.020Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Jokela",
+    "email": "oskari.jokela@example.com",
+    "username": "organicgoose779",
+    "password": "slave1",
+    "invokedAt": "2020-04-27T21:00:44.033Z"
   }
 ]
