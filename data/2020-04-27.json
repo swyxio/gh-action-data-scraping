@@ -62,5 +62,13 @@
     "username": "orangecat591",
     "password": "express",
     "invokedAt": "2020-04-27T07:00:48.506Z"
+  },
+  {
+    "firstName": "Shawn",
+    "lastName": "Steward",
+    "email": "shawn.steward@example.com",
+    "username": "happybear901",
+    "password": "737373",
+    "invokedAt": "2020-04-27T08:01:10.830Z"
   }
 ]
