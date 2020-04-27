@@ -182,5 +182,13 @@
     "username": "purpleladybug959",
     "password": "prissy",
     "invokedAt": "2020-04-27T22:01:01.238Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Walker",
+    "email": "max.walker@example.com",
+    "username": "purplerabbit384",
+    "password": "alpine",
+    "invokedAt": "2020-04-27T23:00:51.355Z"
   }
 ]
