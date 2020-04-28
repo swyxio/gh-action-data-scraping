@@ -158,5 +158,13 @@
     "username": "tinybear180",
     "password": "anthrax",
     "invokedAt": "2020-04-28T19:00:49.602Z"
+  },
+  {
+    "firstName": "Tilde",
+    "lastName": "Sørensen",
+    "email": "tilde.sorensen@example.com",
+    "username": "beautifulgorilla548",
+    "password": "hook",
+    "invokedAt": "2020-04-28T20:00:35.237Z"
   }
 ]
