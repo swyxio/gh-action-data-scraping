@@ -166,5 +166,13 @@
     "username": "orangebird689",
     "password": "leader",
     "invokedAt": "2020-04-30T20:01:02.663Z"
+  },
+  {
+    "firstName": "Gwendolyn",
+    "lastName": "Miller",
+    "email": "gwendolyn.miller@example.com",
+    "username": "goldenmeercat130",
+    "password": "goaway",
+    "invokedAt": "2020-04-30T21:00:51.232Z"
   }
 ]
