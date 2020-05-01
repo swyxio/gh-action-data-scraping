@@ -54,5 +54,13 @@
     "username": "silverostrich901",
     "password": "playoffs",
     "invokedAt": "2020-05-01T06:00:39.500Z"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Morrison",
+    "email": "charlotte.morrison@example.com",
+    "username": "bigduck601",
+    "password": "randall",
+    "invokedAt": "2020-05-01T07:01:04.471Z"
   }
 ]
