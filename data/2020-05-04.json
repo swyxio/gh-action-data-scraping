@@ -46,5 +46,13 @@
     "username": "angrybear985",
     "password": "spiral",
     "invokedAt": "2020-05-04T05:00:55.795Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Price",
+    "email": "amy.price@example.com",
+    "username": "bigostrich311",
+    "password": "cynthia",
+    "invokedAt": "2020-05-04T06:01:24.904Z"
   }
 ]
