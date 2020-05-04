@@ -174,5 +174,13 @@
     "username": "purplebutterfly374",
     "password": "rogers",
     "invokedAt": "2020-05-04T21:00:48.253Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Yeşilkaya",
+    "email": "ozkan.yesilkaya@example.com",
+    "username": "smalltiger884",
+    "password": "boozer",
+    "invokedAt": "2020-05-04T22:01:00.289Z"
   }
 ]
