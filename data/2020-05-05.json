@@ -126,5 +126,13 @@
     "username": "blackostrich387",
     "password": "wolves",
     "invokedAt": "2020-05-05T17:00:39.322Z"
+  },
+  {
+    "firstName": "Léo",
+    "lastName": "Schmitt",
+    "email": "leo.schmitt@example.com",
+    "username": "beautifulzebra663",
+    "password": "goldstar",
+    "invokedAt": "2020-05-05T18:00:58.311Z"
   }
 ]
