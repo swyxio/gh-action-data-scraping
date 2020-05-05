@@ -94,5 +94,13 @@
     "username": "redlion839",
     "password": "topgun",
     "invokedAt": "2020-05-05T13:01:02.313Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Sarıoğlu",
+    "email": "elif.sarioglu@example.com",
+    "username": "greencat354",
+    "password": "allgood",
+    "invokedAt": "2020-05-05T14:00:44.658Z"
   }
 ]
