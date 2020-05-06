@@ -158,5 +158,13 @@
     "username": "happywolf983",
     "password": "tenchi",
     "invokedAt": "2020-05-06T19:00:48.304Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Howell",
+    "email": "edward.howell@example.com",
+    "username": "brownbird591",
+    "password": "oasis",
+    "invokedAt": "2020-05-06T20:01:05.330Z"
   }
 ]
