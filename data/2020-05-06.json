@@ -86,5 +86,13 @@
     "username": "bigleopard471",
     "password": "funk",
     "invokedAt": "2020-05-06T10:00:55.179Z"
+  },
+  {
+    "firstName": "Rafael",
+    "lastName": "Castro",
+    "email": "rafael.castro@example.com",
+    "username": "blackzebra202",
+    "password": "hydro",
+    "invokedAt": "2020-05-06T11:00:50.727Z"
   }
 ]
