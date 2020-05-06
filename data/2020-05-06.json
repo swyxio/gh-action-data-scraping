@@ -142,5 +142,13 @@
     "username": "heavymouse246",
     "password": "crash",
     "invokedAt": "2020-05-06T17:00:48.538Z"
+  },
+  {
+    "firstName": "Korbinian",
+    "lastName": "Herbert",
+    "email": "korbinian.herbert@example.com",
+    "username": "yellowmeercat492",
+    "password": "blast",
+    "invokedAt": "2020-05-06T18:01:03.532Z"
   }
 ]
