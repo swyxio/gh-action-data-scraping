@@ -62,5 +62,13 @@
     "username": "beautifulfrog352",
     "password": "nt5d27",
     "invokedAt": "2020-05-07T07:00:34.188Z"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Patterson",
+    "email": "claire.patterson@example.com",
+    "username": "greencat803",
+    "password": "garbage",
+    "invokedAt": "2020-05-07T08:00:59.325Z"
   }
 ]
