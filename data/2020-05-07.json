@@ -158,5 +158,13 @@
     "username": "greenpanda559",
     "password": "insertion",
     "invokedAt": "2020-05-07T19:00:43.273Z"
+  },
+  {
+    "firstName": "Isaiah",
+    "lastName": "Wilson",
+    "email": "isaiah.wilson@example.com",
+    "username": "beautifulduck725",
+    "password": "baba",
+    "invokedAt": "2020-05-07T20:00:52.120Z"
   }
 ]
