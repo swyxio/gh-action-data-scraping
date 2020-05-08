@@ -78,5 +78,13 @@
     "username": "goldencat116",
     "password": "naked",
     "invokedAt": "2020-05-08T09:00:56.228Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Sørensen",
+    "email": "christoffer.sorensen@example.com",
+    "username": "ticklishladybug858",
+    "password": "1995",
+    "invokedAt": "2020-05-08T10:00:38.139Z"
   }
 ]
