@@ -142,5 +142,13 @@
     "username": "silverdog997",
     "password": "playtime",
     "invokedAt": "2020-05-08T17:00:36.981Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "Harcourt",
+    "email": "dylan.harcourt@example.com",
+    "username": "blackmeercat970",
+    "password": "droopy",
+    "invokedAt": "2020-05-08T18:00:56.287Z"
   }
 ]
