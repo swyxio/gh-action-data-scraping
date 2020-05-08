@@ -94,5 +94,13 @@
     "username": "brownostrich936",
     "password": "bubble",
     "invokedAt": "2020-05-08T11:00:56.463Z"
+  },
+  {
+    "firstName": "Léandro",
+    "lastName": "Dumas",
+    "email": "leandro.dumas@example.com",
+    "username": "organicleopard802",
+    "password": "science",
+    "invokedAt": "2020-05-08T12:00:49.306Z"
   }
 ]
