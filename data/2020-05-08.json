@@ -102,5 +102,13 @@
     "username": "organicleopard802",
     "password": "science",
     "invokedAt": "2020-05-08T12:00:49.306Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Kristensen",
+    "email": "ella.kristensen@example.com",
+    "username": "blackwolf937",
+    "password": "food",
+    "invokedAt": "2020-05-08T13:00:59.301Z"
   }
 ]
