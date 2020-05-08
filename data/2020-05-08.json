@@ -118,5 +118,13 @@
     "username": "beautifulelephant529",
     "password": "enrico",
     "invokedAt": "2020-05-08T14:01:05.800Z"
+  },
+  {
+    "firstName": "Brita",
+    "lastName": "Brand",
+    "email": "brita.brand@example.com",
+    "username": "beautifultiger942",
+    "password": "123987",
+    "invokedAt": "2020-05-08T15:00:53.212Z"
   }
 ]
