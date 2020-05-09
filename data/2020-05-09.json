@@ -70,5 +70,13 @@
     "username": "lazylion986",
     "password": "dolemite",
     "invokedAt": "2020-05-09T08:00:51.191Z"
+  },
+  {
+    "firstName": "Divano",
+    "lastName": "Hoekzema",
+    "email": "divano.hoekzema@example.com",
+    "username": "yellowlion693",
+    "password": "franky",
+    "invokedAt": "2020-05-09T09:01:04.393Z"
   }
 ]
