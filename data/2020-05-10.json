@@ -86,5 +86,13 @@
     "username": "silvergoose392",
     "password": "88888888",
     "invokedAt": "2020-05-10T10:00:54.047Z"
+  },
+  {
+    "firstName": "Fáustia",
+    "lastName": "Nascimento",
+    "email": "faustia.nascimento@example.com",
+    "username": "browndog831",
+    "password": "python",
+    "invokedAt": "2020-05-10T11:00:32.400Z"
   }
 ]
