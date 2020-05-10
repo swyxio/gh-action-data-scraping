@@ -118,5 +118,13 @@
     "username": "orangedog646",
     "password": "cards",
     "invokedAt": "2020-05-10T14:00:57.169Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Taşlı",
+    "email": "elif.tasli@example.com",
+    "username": "lazybutterfly365",
+    "password": "lilith",
+    "invokedAt": "2020-05-10T15:01:09.015Z"
   }
 ]
