@@ -78,5 +78,13 @@
     "username": "smallmeercat120",
     "password": "italia",
     "invokedAt": "2020-05-10T09:00:44.625Z"
+  },
+  {
+    "firstName": "Eden",
+    "lastName": "Singh",
+    "email": "eden.singh@example.com",
+    "username": "silvergoose392",
+    "password": "88888888",
+    "invokedAt": "2020-05-10T10:00:54.047Z"
   }
 ]
