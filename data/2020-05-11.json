@@ -126,5 +126,13 @@
     "username": "goldensnake327",
     "password": "foreplay",
     "invokedAt": "2020-05-11T15:01:10.368Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Gauthier",
+    "email": "jacob.gauthier@example.com",
+    "username": "purplebear837",
+    "password": "alicia",
+    "invokedAt": "2020-05-11T16:00:58.660Z"
   }
 ]
