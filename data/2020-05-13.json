@@ -110,5 +110,13 @@
     "username": "goldenzebra666",
     "password": "faithful",
     "invokedAt": "2020-05-13T13:01:07.695Z"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Ramos",
+    "email": "ellen.ramos@example.com",
+    "username": "bigcat111",
+    "password": "micro",
+    "invokedAt": "2020-05-13T14:00:52.123Z"
   }
 ]
