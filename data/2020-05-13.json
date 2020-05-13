@@ -158,5 +158,13 @@
     "username": "whitetiger246",
     "password": "presto",
     "invokedAt": "2020-05-13T19:04:25.364Z"
+  },
+  {
+    "firstName": "Reinhardt",
+    "lastName": "Sutter",
+    "email": "reinhardt.sutter@example.com",
+    "username": "beautifultiger296",
+    "password": "323232",
+    "invokedAt": "2020-05-13T20:01:01.208Z"
   }
 ]
