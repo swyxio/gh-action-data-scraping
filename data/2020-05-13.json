@@ -182,5 +182,13 @@
     "username": "whiteduck615",
     "password": "speedway",
     "invokedAt": "2020-05-13T22:00:45.364Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Johansen",
+    "email": "tobias.johansen@example.com",
+    "username": "angrybear904",
+    "password": "rolltide",
+    "invokedAt": "2020-05-13T23:00:47.246Z"
   }
 ]
