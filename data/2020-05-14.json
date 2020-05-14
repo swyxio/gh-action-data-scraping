@@ -134,5 +134,13 @@
     "username": "silverpeacock707",
     "password": "doubled",
     "invokedAt": "2020-05-14T16:01:09.170Z"
+  },
+  {
+    "firstName": "Josefine",
+    "lastName": "Mortensen",
+    "email": "josefine.mortensen@example.com",
+    "username": "ticklishelephant121",
+    "password": "neutron",
+    "invokedAt": "2020-05-14T17:00:52.220Z"
   }
 ]
