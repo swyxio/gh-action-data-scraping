@@ -22,5 +22,13 @@
     "username": "lazywolf296",
     "password": "mongoose",
     "invokedAt": "2020-05-14T02:00:38.572Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Peltola",
+    "email": "niklas.peltola@example.com",
+    "username": "brownpanda655",
+    "password": "beautiful",
+    "invokedAt": "2020-05-14T03:00:54.141Z"
   }
 ]
