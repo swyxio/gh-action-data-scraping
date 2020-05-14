@@ -126,5 +126,13 @@
     "username": "crazyswan109",
     "password": "canon",
     "invokedAt": "2020-05-14T15:00:42.682Z"
+  },
+  {
+    "firstName": "Gregorio",
+    "lastName": "Caballero",
+    "email": "gregorio.caballero@example.com",
+    "username": "silverpeacock707",
+    "password": "doubled",
+    "invokedAt": "2020-05-14T16:01:09.170Z"
   }
 ]
