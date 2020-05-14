@@ -182,5 +182,13 @@
     "username": "whitefrog139",
     "password": "dandfa",
     "invokedAt": "2020-05-14T22:00:33.098Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Çevik",
+    "email": "esat.cevik@example.com",
+    "username": "yellowduck958",
+    "password": "security",
+    "invokedAt": "2020-05-14T23:00:52.340Z"
   }
 ]
