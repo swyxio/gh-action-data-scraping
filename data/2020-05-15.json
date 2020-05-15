@@ -78,5 +78,13 @@
     "username": "greendog951",
     "password": "channel",
     "invokedAt": "2020-05-15T09:01:08.361Z"
+  },
+  {
+    "firstName": "Rafael",
+    "lastName": "Marshall",
+    "email": "rafael.marshall@example.com",
+    "username": "angrywolf200",
+    "password": "right",
+    "invokedAt": "2020-05-15T10:00:58.851Z"
   }
 ]
