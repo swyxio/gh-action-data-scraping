@@ -62,5 +62,13 @@
     "username": "redmouse841",
     "password": "disney",
     "invokedAt": "2020-05-15T07:01:12.090Z"
+  },
+  {
+    "firstName": "Elisa",
+    "lastName": "Andre",
+    "email": "elisa.andre@example.com",
+    "username": "happyfish884",
+    "password": "gatorade",
+    "invokedAt": "2020-05-15T08:00:47.803Z"
   }
 ]
