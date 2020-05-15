@@ -30,5 +30,13 @@
     "username": "sadostrich207",
     "password": "zelda",
     "invokedAt": "2020-05-15T03:01:03.359Z"
+  },
+  {
+    "firstName": "Irmino",
+    "lastName": "da Mota",
+    "email": "irmino.damota@example.com",
+    "username": "bigmouse959",
+    "password": "streaming",
+    "invokedAt": "2020-05-15T04:00:47.240Z"
   }
 ]
