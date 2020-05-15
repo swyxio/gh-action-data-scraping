@@ -158,5 +158,13 @@
     "username": "crazyostrich646",
     "password": "tucson",
     "invokedAt": "2020-05-15T19:01:00.540Z"
+  },
+  {
+    "firstName": "Baptiste",
+    "lastName": "Morel",
+    "email": "baptiste.morel@example.com",
+    "username": "sadlion890",
+    "password": "presto",
+    "invokedAt": "2020-05-15T20:01:07.164Z"
   }
 ]
