@@ -118,5 +118,13 @@
     "username": "happyostrich399",
     "password": "cutlass",
     "invokedAt": "2020-05-17T14:01:22.252Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Öymen",
+    "email": "coskun.oymen@example.com",
+    "username": "purplegoose203",
+    "password": "weird",
+    "invokedAt": "2020-05-17T15:00:45.475Z"
   }
 ]
