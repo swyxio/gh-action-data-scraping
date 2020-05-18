@@ -118,5 +118,13 @@
     "username": "bigfrog425",
     "password": "harvard",
     "invokedAt": "2020-05-18T14:01:13.911Z"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "Meurs",
+    "email": "marcos.meurs@example.com",
+    "username": "bigfrog614",
+    "password": "looker",
+    "invokedAt": "2020-05-18T15:02:20.634Z"
   }
 ]
