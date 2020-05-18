@@ -166,5 +166,13 @@
     "username": "orangerabbit283",
     "password": "arsenal",
     "invokedAt": "2020-05-18T20:01:01.234Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Tekelioğlu",
+    "email": "onal.tekelioglu@example.com",
+    "username": "redduck786",
+    "password": "wanderer",
+    "invokedAt": "2020-05-18T21:00:52.380Z"
   }
 ]
