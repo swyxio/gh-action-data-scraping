@@ -62,5 +62,13 @@
     "username": "tinymouse618",
     "password": "capslock",
     "invokedAt": "2020-05-18T07:00:53.904Z"
+  },
+  {
+    "firstName": "Kaya",
+    "lastName": "Kuday",
+    "email": "kaya.kuday@example.com",
+    "username": "greenduck321",
+    "password": "chessie",
+    "invokedAt": "2020-05-18T08:01:02.764Z"
   }
 ]
