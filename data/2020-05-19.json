@@ -70,5 +70,13 @@
     "username": "orangezebra265",
     "password": "171717",
     "invokedAt": "2020-05-19T08:01:23.064Z"
+  },
+  {
+    "firstName": "Gunnar",
+    "lastName": "Røisland",
+    "email": "gunnar.roisland@example.com",
+    "username": "orangesnake727",
+    "password": "gateway2",
+    "invokedAt": "2020-05-19T09:00:54.970Z"
   }
 ]
