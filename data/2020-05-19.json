@@ -182,5 +182,13 @@
     "username": "browngoose341",
     "password": "climber",
     "invokedAt": "2020-05-19T22:00:48.258Z"
+  },
+  {
+    "firstName": "Felipe",
+    "lastName": "Carmona",
+    "email": "felipe.carmona@example.com",
+    "username": "brownfish138",
+    "password": "giant",
+    "invokedAt": "2020-05-19T23:01:02.077Z"
   }
 ]
