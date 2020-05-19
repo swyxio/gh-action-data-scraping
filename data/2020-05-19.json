@@ -6,5 +6,13 @@
     "username": "smalldog134",
     "password": "calgary",
     "invokedAt": "2020-05-19T00:01:16.891Z"
+  },
+  {
+    "firstName": "Ron",
+    "lastName": "Maiwald",
+    "email": "ron.maiwald@example.com",
+    "username": "greenpeacock585",
+    "password": "suckme",
+    "invokedAt": "2020-05-19T01:01:02.557Z"
   }
 ]
