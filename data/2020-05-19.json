@@ -158,5 +158,13 @@
     "username": "blackelephant110",
     "password": "ghost",
     "invokedAt": "2020-05-19T19:01:13.239Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Toraman",
+    "email": "gokhan.toraman@example.com",
+    "username": "heavylion568",
+    "password": "halflife",
+    "invokedAt": "2020-05-19T20:01:30.239Z"
   }
 ]
