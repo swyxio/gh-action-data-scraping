@@ -118,5 +118,13 @@
     "username": "yellowbird307",
     "password": "channel",
     "invokedAt": "2020-05-19T14:00:54.134Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Arnold",
+    "email": "ruby.arnold@example.com",
+    "username": "yellowzebra694",
+    "password": "goldeney",
+    "invokedAt": "2020-05-19T15:00:46.243Z"
   }
 ]
