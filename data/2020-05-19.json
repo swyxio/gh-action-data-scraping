@@ -166,5 +166,13 @@
     "username": "heavylion568",
     "password": "halflife",
     "invokedAt": "2020-05-19T20:01:30.239Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Carmona",
+    "email": "fernando.carmona@example.com",
+    "username": "bigbear826",
+    "password": "pauline",
+    "invokedAt": "2020-05-19T21:01:01.427Z"
   }
 ]
