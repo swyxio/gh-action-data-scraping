@@ -118,5 +118,13 @@
     "username": "brownladybug477",
     "password": "boxing",
     "invokedAt": "2020-05-20T14:00:44.491Z"
+  },
+  {
+    "firstName": "Tessa",
+    "lastName": "Clement",
+    "email": "tessa.clement@example.com",
+    "username": "greenpanda440",
+    "password": "zaphod",
+    "invokedAt": "2020-05-20T16:00:51.992Z"
   }
 ]
