@@ -22,5 +22,13 @@
     "username": "whitekoala835",
     "password": "always",
     "invokedAt": "2020-05-20T02:01:05.404Z"
+  },
+  {
+    "firstName": "Ece",
+    "lastName": "Biçer",
+    "email": "ece.bicer@example.com",
+    "username": "tinydog901",
+    "password": "goodboy",
+    "invokedAt": "2020-05-20T03:01:08.896Z"
   }
 ]
