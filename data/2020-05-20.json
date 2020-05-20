@@ -158,5 +158,13 @@
     "username": "tinyzebra474",
     "password": "online",
     "invokedAt": "2020-05-20T20:00:57.346Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Gomez",
+    "email": "alberto.gomez@example.com",
+    "username": "redladybug947",
+    "password": "color",
+    "invokedAt": "2020-05-20T21:00:45.612Z"
   }
 ]
