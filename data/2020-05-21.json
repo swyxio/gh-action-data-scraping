@@ -166,5 +166,13 @@
     "username": "brownzebra632",
     "password": "buckeye",
     "invokedAt": "2020-05-21T20:00:49.674Z"
+  },
+  {
+    "firstName": "Minttu",
+    "lastName": "Peltola",
+    "email": "minttu.peltola@example.com",
+    "username": "yellowlion272",
+    "password": "1011",
+    "invokedAt": "2020-05-21T21:00:34.123Z"
   }
 ]
