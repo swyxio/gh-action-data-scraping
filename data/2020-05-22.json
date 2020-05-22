@@ -102,5 +102,13 @@
     "username": "bluemeercat412",
     "password": "recovery",
     "invokedAt": "2020-05-22T12:00:53.172Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "Chen",
+    "email": "dylan.chen@example.com",
+    "username": "browntiger492",
+    "password": "jjjjj",
+    "invokedAt": "2020-05-22T13:00:45.034Z"
   }
 ]
