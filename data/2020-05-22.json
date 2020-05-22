@@ -94,5 +94,13 @@
     "username": "purplefrog552",
     "password": "browns",
     "invokedAt": "2020-05-22T11:00:36.215Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Cole",
+    "email": "max.cole@example.com",
+    "username": "bluemeercat412",
+    "password": "recovery",
+    "invokedAt": "2020-05-22T12:00:53.172Z"
   }
 ]
