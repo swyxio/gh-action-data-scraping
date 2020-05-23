@@ -166,5 +166,13 @@
     "username": "sadmeercat480",
     "password": "herewego",
     "invokedAt": "2020-05-23T21:01:02.614Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Pastor",
+    "email": "roberto.pastor@example.com",
+    "username": "crazytiger769",
+    "password": "dogface",
+    "invokedAt": "2020-05-23T22:00:58.272Z"
   }
 ]
