@@ -62,5 +62,13 @@
     "username": "ticklishbear996",
     "password": "pink",
     "invokedAt": "2020-05-23T07:00:42.653Z"
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Garcia",
+    "email": "alicia.garcia@example.com",
+    "username": "blackgorilla390",
+    "password": "twiggy",
+    "invokedAt": "2020-05-23T08:01:31.090Z"
   }
 ]
