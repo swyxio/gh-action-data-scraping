@@ -78,5 +78,13 @@
     "username": "lazybutterfly694",
     "password": "moocow",
     "invokedAt": "2020-05-23T10:00:52.083Z"
+  },
+  {
+    "firstName": "Lachlan",
+    "lastName": "White",
+    "email": "lachlan.white@example.com",
+    "username": "orangebird808",
+    "password": "yang",
+    "invokedAt": "2020-05-23T11:01:09.705Z"
   }
 ]
