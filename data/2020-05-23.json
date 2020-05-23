@@ -70,5 +70,13 @@
     "username": "blackgorilla390",
     "password": "twiggy",
     "invokedAt": "2020-05-23T08:01:31.090Z"
+  },
+  {
+    "firstName": "Sandra",
+    "lastName": "Schulten",
+    "email": "sandra.schulten@example.com",
+    "username": "lazybutterfly694",
+    "password": "moocow",
+    "invokedAt": "2020-05-23T10:00:52.083Z"
   }
 ]
