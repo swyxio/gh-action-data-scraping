@@ -78,5 +78,13 @@
     "username": "organicrabbit588",
     "password": "printer",
     "invokedAt": "2020-05-24T09:00:39.219Z"
+  },
+  {
+    "firstName": "Matheus",
+    "lastName": "De Vet",
+    "email": "matheus.devet@example.com",
+    "username": "yellowmeercat173",
+    "password": "rosemary",
+    "invokedAt": "2020-05-24T10:00:54.377Z"
   }
 ]
