@@ -174,5 +174,13 @@
     "username": "lazyostrich611",
     "password": "destroy",
     "invokedAt": "2020-05-24T21:00:54.297Z"
+  },
+  {
+    "firstName": "Timm",
+    "lastName": "Rössler",
+    "email": "timm.rossler@example.com",
+    "username": "crazybird270",
+    "password": "dumb",
+    "invokedAt": "2020-05-24T22:01:08.443Z"
   }
 ]
