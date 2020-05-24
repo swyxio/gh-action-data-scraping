@@ -94,5 +94,13 @@
     "username": "organicsnake626",
     "password": "concord",
     "invokedAt": "2020-05-24T11:01:23.183Z"
+  },
+  {
+    "firstName": "Herman",
+    "lastName": "Fields",
+    "email": "herman.fields@example.com",
+    "username": "greencat395",
+    "password": "karma",
+    "invokedAt": "2020-05-24T12:15:48.120Z"
   }
 ]
