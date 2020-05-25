@@ -86,5 +86,13 @@
     "username": "sadcat299",
     "password": "424242",
     "invokedAt": "2020-05-25T10:00:42.251Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Anttila",
+    "email": "siiri.anttila@example.com",
+    "username": "orangecat440",
+    "password": "321321",
+    "invokedAt": "2020-05-25T11:01:01.717Z"
   }
 ]
