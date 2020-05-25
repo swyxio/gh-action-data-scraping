@@ -158,5 +158,13 @@
     "username": "lazyostrich611",
     "password": "destroy",
     "invokedAt": "2020-05-25T19:01:05.479Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Morris",
+    "email": "kayla.morris@example.com",
+    "username": "purplerabbit102",
+    "password": "grand",
+    "invokedAt": "2020-05-25T20:00:50.378Z"
   }
 ]
