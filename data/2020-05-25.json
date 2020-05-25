@@ -166,5 +166,13 @@
     "username": "purplerabbit102",
     "password": "grand",
     "invokedAt": "2020-05-25T20:00:50.378Z"
+  },
+  {
+    "firstName": "Vishnu",
+    "lastName": "Martha",
+    "email": "vishnu.martha@example.com",
+    "username": "blackwolf627",
+    "password": "dundee",
+    "invokedAt": "2020-05-25T21:01:00.047Z"
   }
 ]
