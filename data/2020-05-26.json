@@ -118,5 +118,13 @@
     "username": "whitepeacock788",
     "password": "love1",
     "invokedAt": "2020-05-26T14:00:40.309Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Côté",
+    "email": "rose.cote@example.com",
+    "username": "blackkoala720",
+    "password": "concord",
+    "invokedAt": "2020-05-26T15:00:57.616Z"
   }
 ]
