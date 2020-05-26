@@ -126,5 +126,13 @@
     "username": "blackkoala720",
     "password": "concord",
     "invokedAt": "2020-05-26T15:00:57.616Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Roy",
+    "email": "lisa.roy@example.com",
+    "username": "orangelion949",
+    "password": "buddy",
+    "invokedAt": "2020-05-26T16:00:44.741Z"
   }
 ]
