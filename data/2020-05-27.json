@@ -102,5 +102,13 @@
     "username": "yellowduck582",
     "password": "hidden",
     "invokedAt": "2020-05-27T12:01:01.202Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Mortensen",
+    "email": "marie.mortensen@example.com",
+    "username": "beautifultiger361",
+    "password": "wine",
+    "invokedAt": "2020-05-27T13:00:36.256Z"
   }
 ]
