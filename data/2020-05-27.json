@@ -94,5 +94,13 @@
     "username": "crazybutterfly695",
     "password": "pingpong",
     "invokedAt": "2020-05-27T11:00:49.264Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Karaer",
+    "email": "elif.karaer@example.com",
+    "username": "yellowduck582",
+    "password": "hidden",
+    "invokedAt": "2020-05-27T12:01:01.202Z"
   }
 ]
