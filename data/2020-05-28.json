@@ -94,5 +94,13 @@
     "username": "organicpanda325",
     "password": "london",
     "invokedAt": "2020-05-28T11:00:56.119Z"
+  },
+  {
+    "firstName": "Jean-Marie",
+    "lastName": "Henry",
+    "email": "jean-marie.henry@example.com",
+    "username": "redrabbit664",
+    "password": "panthers",
+    "invokedAt": "2020-05-28T12:00:42.544Z"
   }
 ]
