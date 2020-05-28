@@ -158,5 +158,13 @@
     "username": "bigfish146",
     "password": "photos",
     "invokedAt": "2020-05-28T19:00:59.421Z"
+  },
+  {
+    "firstName": "Darlene",
+    "lastName": "Rivera",
+    "email": "darlene.rivera@example.com",
+    "username": "crazywolf274",
+    "password": "goodbye",
+    "invokedAt": "2020-05-28T20:00:53.786Z"
   }
 ]
