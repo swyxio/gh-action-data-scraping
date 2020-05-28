@@ -46,5 +46,13 @@
     "username": "silvergorilla655",
     "password": "halflife",
     "invokedAt": "2020-05-28T05:00:41.130Z"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Niemela",
+    "email": "elsa.niemela@example.com",
+    "username": "redpeacock620",
+    "password": "disney1",
+    "invokedAt": "2020-05-28T06:01:00.111Z"
   }
 ]
