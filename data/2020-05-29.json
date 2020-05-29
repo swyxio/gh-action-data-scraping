@@ -38,5 +38,13 @@
     "username": "greengorilla211",
     "password": "mailman",
     "invokedAt": "2020-05-29T04:01:01.171Z"
+  },
+  {
+    "firstName": "Geni",
+    "lastName": "da Costa",
+    "email": "geni.dacosta@example.com",
+    "username": "bluebutterfly553",
+    "password": "lockerroom",
+    "invokedAt": "2020-05-29T05:00:46.168Z"
   }
 ]
