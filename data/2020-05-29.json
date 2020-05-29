@@ -94,5 +94,13 @@
     "username": "happyleopard260",
     "password": "panda",
     "invokedAt": "2020-05-29T11:00:50.267Z"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Faure",
+    "email": "erik.faure@example.com",
+    "username": "yellowleopard354",
+    "password": "012345",
+    "invokedAt": "2020-05-29T12:01:04.753Z"
   }
 ]
