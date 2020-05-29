@@ -78,5 +78,13 @@
     "username": "sadkoala595",
     "password": "ajax",
     "invokedAt": "2020-05-29T09:00:47.122Z"
+  },
+  {
+    "firstName": "Maxwell",
+    "lastName": "Richards",
+    "email": "maxwell.richards@example.com",
+    "username": "heavyrabbit182",
+    "password": "better",
+    "invokedAt": "2020-05-29T10:01:04.174Z"
   }
 ]
