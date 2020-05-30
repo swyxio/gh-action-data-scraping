@@ -62,5 +62,13 @@
     "username": "lazymeercat148",
     "password": "harvest",
     "invokedAt": "2020-05-30T07:00:50.484Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Bravo",
+    "email": "diego.bravo@example.com",
+    "username": "bluefrog309",
+    "password": "power",
+    "invokedAt": "2020-05-30T08:00:40.091Z"
   }
 ]
