@@ -158,5 +158,13 @@
     "username": "organicsnake116",
     "password": "bullseye",
     "invokedAt": "2020-05-30T19:00:48.432Z"
+  },
+  {
+    "firstName": "Rémy",
+    "lastName": "Dupont",
+    "email": "remy.dupont@example.com",
+    "username": "purplefrog554",
+    "password": "1962",
+    "invokedAt": "2020-05-30T20:00:47.198Z"
   }
 ]
