@@ -182,5 +182,13 @@
     "username": "bluemouse475",
     "password": "nathan1",
     "invokedAt": "2020-05-31T22:00:44.571Z"
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Kristensen",
+    "email": "ida.kristensen@example.com",
+    "username": "crazypanda664",
+    "password": "contract",
+    "invokedAt": "2020-05-31T23:01:35.462Z"
   }
 ]
