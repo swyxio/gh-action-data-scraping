@@ -150,5 +150,13 @@
     "username": "happybird328",
     "password": "waterfal",
     "invokedAt": "2020-05-31T18:01:12.019Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Murray",
+    "email": "sarah.murray@example.com",
+    "username": "brownpeacock735",
+    "password": "passport",
+    "invokedAt": "2020-05-31T19:00:52.627Z"
   }
 ]
