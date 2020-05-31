@@ -126,5 +126,13 @@
     "username": "beautifulrabbit348",
     "password": "charlotte",
     "invokedAt": "2020-05-31T15:00:47.584Z"
+  },
+  {
+    "firstName": "Frøydis",
+    "lastName": "Jerstad",
+    "email": "froydis.jerstad@example.com",
+    "username": "purpleelephant624",
+    "password": "wxcvbn",
+    "invokedAt": "2020-05-31T16:01:05.951Z"
   }
 ]
