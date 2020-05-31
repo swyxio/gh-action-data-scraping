@@ -54,5 +54,13 @@
     "username": "whitemeercat155",
     "password": "streaming",
     "invokedAt": "2020-05-31T06:00:50.458Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Fuchs",
+    "email": "james.fuchs@example.com",
+    "username": "silverbird878",
+    "password": "bimmer",
+    "invokedAt": "2020-05-31T07:01:12.919Z"
   }
 ]
