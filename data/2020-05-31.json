@@ -46,5 +46,13 @@
     "username": "sadtiger355",
     "password": "9876",
     "invokedAt": "2020-05-31T05:00:56.664Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Karjala",
+    "email": "viljami.karjala@example.com",
+    "username": "whitemeercat155",
+    "password": "streaming",
+    "invokedAt": "2020-05-31T06:00:50.458Z"
   }
 ]
