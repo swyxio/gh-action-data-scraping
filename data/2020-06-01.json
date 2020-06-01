@@ -38,5 +38,13 @@
     "username": "crazysnake215",
     "password": "calgary",
     "invokedAt": "2020-06-01T04:00:41.696Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Clarke",
+    "email": "matilda.clarke@example.com",
+    "username": "bluepanda743",
+    "password": "dupont",
+    "invokedAt": "2020-06-01T05:01:12.485Z"
   }
 ]
