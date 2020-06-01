@@ -86,5 +86,13 @@
     "username": "goldenmouse837",
     "password": "snowboard",
     "invokedAt": "2020-06-01T10:00:57.121Z"
+  },
+  {
+    "firstName": "Allan",
+    "lastName": "Olson",
+    "email": "allan.olson@example.com",
+    "username": "angrybird839",
+    "password": "meagan",
+    "invokedAt": "2020-06-01T11:01:11.924Z"
   }
 ]
