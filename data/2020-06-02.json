@@ -94,5 +94,13 @@
     "username": "smallpeacock115",
     "password": "gate",
     "invokedAt": "2020-06-02T11:00:54.649Z"
+  },
+  {
+    "firstName": "Melanie",
+    "lastName": "Herrera",
+    "email": "melanie.herrera@example.com",
+    "username": "tinypeacock408",
+    "password": "nirvana",
+    "invokedAt": "2020-06-02T12:01:05.781Z"
   }
 ]
