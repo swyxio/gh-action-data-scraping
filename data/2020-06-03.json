@@ -22,5 +22,13 @@
     "username": "biggorilla101",
     "password": "iomega",
     "invokedAt": "2020-06-03T02:01:21.199Z"
+  },
+  {
+    "firstName": "Oline",
+    "lastName": "Tangstad",
+    "email": "oline.tangstad@example.com",
+    "username": "silverelephant523",
+    "password": "edison",
+    "invokedAt": "2020-06-03T03:00:36.142Z"
   }
 ]
