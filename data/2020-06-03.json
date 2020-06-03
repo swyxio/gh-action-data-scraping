@@ -174,5 +174,13 @@
     "username": "purpledog127",
     "password": "ontario",
     "invokedAt": "2020-06-03T21:00:48.405Z"
+  },
+  {
+    "firstName": "Friedbert",
+    "lastName": "Kugel",
+    "email": "friedbert.kugel@example.com",
+    "username": "brownsnake571",
+    "password": "howell",
+    "invokedAt": "2020-06-03T22:00:51.368Z"
   }
 ]
