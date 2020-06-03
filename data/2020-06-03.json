@@ -54,5 +54,13 @@
     "username": "redmeercat809",
     "password": "kingpin",
     "invokedAt": "2020-06-03T06:01:23.971Z"
+  },
+  {
+    "firstName": "Akseli",
+    "lastName": "Heikkinen",
+    "email": "akseli.heikkinen@example.com",
+    "username": "purplepanda792",
+    "password": "1969",
+    "invokedAt": "2020-06-03T07:00:57.357Z"
   }
 ]
