@@ -142,5 +142,13 @@
     "username": "organicdog583",
     "password": "doofus",
     "invokedAt": "2020-06-03T17:00:58.369Z"
+  },
+  {
+    "firstName": "Oğuzhan",
+    "lastName": "Ekici",
+    "email": "oguzhan.ekici@example.com",
+    "username": "greenmouse641",
+    "password": "misfit",
+    "invokedAt": "2020-06-03T18:00:43.106Z"
   }
 ]
