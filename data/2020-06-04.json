@@ -94,5 +94,13 @@
     "username": "reddog798",
     "password": "kasper",
     "invokedAt": "2020-06-04T11:00:56.319Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Toivonen",
+    "email": "elias.toivonen@example.com",
+    "username": "greenladybug915",
+    "password": "&amp;",
+    "invokedAt": "2020-06-04T12:00:38.824Z"
   }
 ]
