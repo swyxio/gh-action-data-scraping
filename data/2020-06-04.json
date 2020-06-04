@@ -110,5 +110,13 @@
     "username": "lazyfish967",
     "password": "solution",
     "invokedAt": "2020-06-04T13:01:01.389Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Nurmi",
+    "email": "vaino.nurmi@example.com",
+    "username": "yellowmouse808",
+    "password": "john1",
+    "invokedAt": "2020-06-04T14:00:58.258Z"
   }
 ]
