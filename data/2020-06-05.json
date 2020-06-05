@@ -142,5 +142,13 @@
     "username": "orangecat682",
     "password": "austin31",
     "invokedAt": "2020-06-05T17:01:00.046Z"
+  },
+  {
+    "firstName": "Fabian",
+    "lastName": "Refsnes",
+    "email": "fabian.refsnes@example.com",
+    "username": "smallbear295",
+    "password": "magellan",
+    "invokedAt": "2020-06-05T18:01:11.661Z"
   }
 ]
