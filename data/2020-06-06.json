@@ -150,5 +150,13 @@
     "username": "happyzebra434",
     "password": "paco",
     "invokedAt": "2020-06-06T18:00:55.675Z"
+  },
+  {
+    "firstName": "آراد",
+    "lastName": "رضایی",
+    "email": "ard.rdyy@example.com",
+    "username": "smallzebra482",
+    "password": "starwars",
+    "invokedAt": "2020-06-06T19:01:01.177Z"
   }
 ]
