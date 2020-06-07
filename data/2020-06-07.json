@@ -182,5 +182,13 @@
     "username": "purplekoala171",
     "password": "groovy",
     "invokedAt": "2020-06-07T22:01:04.772Z"
+  },
+  {
+    "firstName": "Aiden",
+    "lastName": "Kjeldsberg",
+    "email": "aiden.kjeldsberg@example.com",
+    "username": "beautifulkoala685",
+    "password": "isaiah",
+    "invokedAt": "2020-06-07T23:01:32.789Z"
   }
 ]
