@@ -94,5 +94,13 @@
     "username": "redpanda535",
     "password": "water1",
     "invokedAt": "2020-06-07T11:00:48.365Z"
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "de Souza",
+    "email": "aron.desouza@example.com",
+    "username": "smallbutterfly878",
+    "password": "rhonda",
+    "invokedAt": "2020-06-07T12:01:11.600Z"
   }
 ]
