@@ -46,5 +46,13 @@
     "username": "whitefish280",
     "password": "cannon",
     "invokedAt": "2020-06-07T05:00:49.654Z"
+  },
+  {
+    "firstName": "Emmi",
+    "lastName": "Manner",
+    "email": "emmi.manner@example.com",
+    "username": "tinyfish878",
+    "password": "extreme",
+    "invokedAt": "2020-06-07T06:00:54.070Z"
   }
 ]
