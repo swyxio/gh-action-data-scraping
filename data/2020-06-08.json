@@ -166,5 +166,13 @@
     "username": "lazyostrich611",
     "password": "destroy",
     "invokedAt": "2020-06-08T20:00:54.640Z"
+  },
+  {
+    "firstName": "Vitor",
+    "lastName": "Fournier",
+    "email": "vitor.fournier@example.com",
+    "username": "heavytiger966",
+    "password": "samson",
+    "invokedAt": "2020-06-08T21:00:44.126Z"
   }
 ]
