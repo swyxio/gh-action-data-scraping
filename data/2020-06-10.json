@@ -38,5 +38,13 @@
     "username": "blackcat233",
     "password": "vantage",
     "invokedAt": "2020-06-10T04:00:56.596Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Lévesque",
+    "email": "nathan.levesque@example.com",
+    "username": "sadwolf683",
+    "password": "brasil",
+    "invokedAt": "2020-06-10T05:01:36.492Z"
   }
 ]
