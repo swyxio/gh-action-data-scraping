@@ -182,5 +182,13 @@
     "username": "tinymouse609",
     "password": "extensa",
     "invokedAt": "2020-06-10T22:00:59.149Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Nielsen",
+    "email": "maria.nielsen@example.com",
+    "username": "yellowfish464",
+    "password": "obelix",
+    "invokedAt": "2020-06-10T23:00:49.372Z"
   }
 ]
