@@ -158,5 +158,13 @@
     "username": "blackgoose590",
     "password": "kick",
     "invokedAt": "2020-06-10T19:01:26.357Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Heinonen",
+    "email": "aleksi.heinonen@example.com",
+    "username": "sadfish699",
+    "password": "ratman",
+    "invokedAt": "2020-06-10T20:00:51.437Z"
   }
 ]
