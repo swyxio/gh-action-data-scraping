@@ -158,5 +158,13 @@
     "username": "whitebird580",
     "password": "razor",
     "invokedAt": "2020-06-11T19:00:50.552Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Carr",
+    "email": "samuel.carr@example.com",
+    "username": "bigostrich674",
+    "password": "scottie",
+    "invokedAt": "2020-06-11T20:00:41.786Z"
   }
 ]
