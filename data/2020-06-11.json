@@ -174,5 +174,13 @@
     "username": "organiccat123",
     "password": "clipper",
     "invokedAt": "2020-06-11T21:01:35.868Z"
+  },
+  {
+    "firstName": "Maël",
+    "lastName": "Gonzalez",
+    "email": "mael.gonzalez@example.com",
+    "username": "sadbird628",
+    "password": "magpie",
+    "invokedAt": "2020-06-11T22:00:48.452Z"
   }
 ]
