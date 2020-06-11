@@ -126,5 +126,13 @@
     "username": "goldenzebra708",
     "password": "spongebo",
     "invokedAt": "2020-06-11T15:01:02.360Z"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Leroux",
+    "email": "anthony.leroux@example.com",
+    "username": "lazyostrich531",
+    "password": "f00tball",
+    "invokedAt": "2020-06-11T16:00:48.445Z"
   }
 ]
