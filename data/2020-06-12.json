@@ -158,5 +158,13 @@
     "username": "goldenladybug592",
     "password": "lucy",
     "invokedAt": "2020-06-12T19:00:56.868Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Yılmazer",
+    "email": "mustafa.yilmazer@example.com",
+    "username": "blueladybug319",
+    "password": "grumpy",
+    "invokedAt": "2020-06-12T20:01:18.323Z"
   }
 ]
