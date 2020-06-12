@@ -142,5 +142,13 @@
     "username": "crazyduck192",
     "password": "shaman",
     "invokedAt": "2020-06-12T17:00:42.518Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Taylor",
+    "email": "thomas.taylor@example.com",
+    "username": "orangerabbit613",
+    "password": "usnavy",
+    "invokedAt": "2020-06-12T18:01:02.441Z"
   }
 ]
