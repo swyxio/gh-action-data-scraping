@@ -62,5 +62,13 @@
     "username": "yellowpanda906",
     "password": "123abc",
     "invokedAt": "2020-06-12T07:00:48.648Z"
+  },
+  {
+    "firstName": "Victoire",
+    "lastName": "Durand",
+    "email": "victoire.durand@example.com",
+    "username": "sadfrog934",
+    "password": "vectra",
+    "invokedAt": "2020-06-12T08:01:18.345Z"
   }
 ]
