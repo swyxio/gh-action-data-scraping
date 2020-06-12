@@ -46,5 +46,13 @@
     "username": "lazyrabbit723",
     "password": "griffin",
     "invokedAt": "2020-06-12T05:01:07.461Z"
+  },
+  {
+    "firstName": "Ömür",
+    "lastName": "Koçoğlu",
+    "email": "omur.kocoglu@example.com",
+    "username": "silvertiger438",
+    "password": "montecar",
+    "invokedAt": "2020-06-12T06:00:54.057Z"
   }
 ]
