@@ -102,5 +102,13 @@
     "username": "orangegoose393",
     "password": "space",
     "invokedAt": "2020-06-12T12:01:11.021Z"
+  },
+  {
+    "firstName": "Oya",
+    "lastName": "Çağıran",
+    "email": "oya.cagiran@example.com",
+    "username": "angrybutterfly642",
+    "password": "heyhey",
+    "invokedAt": "2020-06-12T13:00:49.480Z"
   }
 ]
