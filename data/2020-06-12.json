@@ -70,5 +70,13 @@
     "username": "sadfrog934",
     "password": "vectra",
     "invokedAt": "2020-06-12T08:01:18.345Z"
+  },
+  {
+    "firstName": "Nanko",
+    "lastName": "Bergkamp",
+    "email": "nanko.bergkamp@example.com",
+    "username": "whitebutterfly215",
+    "password": "jericho",
+    "invokedAt": "2020-06-12T09:00:59.508Z"
   }
 ]
