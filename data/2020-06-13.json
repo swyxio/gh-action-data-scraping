@@ -174,5 +174,13 @@
     "username": "ticklishrabbit350",
     "password": "nextel",
     "invokedAt": "2020-06-13T21:00:43.895Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Oja",
+    "email": "joona.oja@example.com",
+    "username": "greenfrog592",
+    "password": "small",
+    "invokedAt": "2020-06-13T22:01:28.664Z"
   }
 ]
