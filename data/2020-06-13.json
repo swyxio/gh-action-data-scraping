@@ -134,5 +134,13 @@
     "username": "lazytiger261",
     "password": "fffffff",
     "invokedAt": "2020-06-13T16:01:16.550Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Özkök",
+    "email": "babur.ozkok@example.com",
+    "username": "blackwolf638",
+    "password": "light",
+    "invokedAt": "2020-06-13T17:00:52.514Z"
   }
 ]
