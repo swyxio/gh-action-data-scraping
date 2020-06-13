@@ -22,5 +22,13 @@
     "username": "tinymouse454",
     "password": "sigma",
     "invokedAt": "2020-06-13T02:01:28.869Z"
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Chevalier",
+    "email": "nils.chevalier@example.com",
+    "username": "lazygorilla195",
+    "password": "deftones",
+    "invokedAt": "2020-06-13T03:00:42.220Z"
   }
 ]
