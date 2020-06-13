@@ -118,5 +118,13 @@
     "username": "silverrabbit347",
     "password": "qwertyu",
     "invokedAt": "2020-06-13T14:01:12.844Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Yıldızoğlu",
+    "email": "efe.yildizoglu@example.com",
+    "username": "bigfrog890",
+    "password": "beefcake",
+    "invokedAt": "2020-06-13T15:01:02.154Z"
   }
 ]
