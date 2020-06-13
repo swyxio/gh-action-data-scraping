@@ -142,5 +142,13 @@
     "username": "blackwolf638",
     "password": "light",
     "invokedAt": "2020-06-13T17:00:52.514Z"
+  },
+  {
+    "firstName": "Eren",
+    "lastName": "Toraman",
+    "email": "eren.toraman@example.com",
+    "username": "brownleopard610",
+    "password": "panic",
+    "invokedAt": "2020-06-13T18:00:44.347Z"
   }
 ]
