@@ -110,5 +110,13 @@
     "username": "bigbird989",
     "password": "pitchers",
     "invokedAt": "2020-06-13T13:00:42.118Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Vincent",
+    "email": "ryan.vincent@example.com",
+    "username": "silverrabbit347",
+    "password": "qwertyu",
+    "invokedAt": "2020-06-13T14:01:12.844Z"
   }
 ]
