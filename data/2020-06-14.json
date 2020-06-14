@@ -182,5 +182,13 @@
     "username": "beautifultiger733",
     "password": "strat",
     "invokedAt": "2020-06-14T22:01:02.187Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Simon",
+    "email": "mario.simon@example.com",
+    "username": "tinyladybug111",
+    "password": "1029",
+    "invokedAt": "2020-06-14T23:00:54.461Z"
   }
 ]
