@@ -78,5 +78,13 @@
     "username": "organicmeercat219",
     "password": "buttons",
     "invokedAt": "2020-06-14T09:01:16.244Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Martin",
+    "email": "simon.martin@example.com",
+    "username": "greenfish668",
+    "password": "poetry",
+    "invokedAt": "2020-06-14T10:00:57.341Z"
   }
 ]
