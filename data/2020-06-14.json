@@ -86,5 +86,13 @@
     "username": "greenfish668",
     "password": "poetry",
     "invokedAt": "2020-06-14T10:00:57.341Z"
+  },
+  {
+    "firstName": "Beth",
+    "lastName": "Grant",
+    "email": "beth.grant@example.com",
+    "username": "lazyfish935",
+    "password": "25802580",
+    "invokedAt": "2020-06-14T11:00:38.447Z"
   }
 ]
