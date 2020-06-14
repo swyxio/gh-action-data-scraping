@@ -158,5 +158,13 @@
     "username": "yellowfrog740",
     "password": "helena",
     "invokedAt": "2020-06-14T19:01:08.867Z"
+  },
+  {
+    "firstName": "Emmi",
+    "lastName": "Salmi",
+    "email": "emmi.salmi@example.com",
+    "username": "yellowfrog174",
+    "password": "forum",
+    "invokedAt": "2020-06-14T20:00:58.493Z"
   }
 ]
