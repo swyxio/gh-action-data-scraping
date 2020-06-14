@@ -62,5 +62,13 @@
     "username": "orangebear900",
     "password": "bollocks",
     "invokedAt": "2020-06-14T07:01:04.407Z"
+  },
+  {
+    "firstName": "Kerttu",
+    "lastName": "Rinne",
+    "email": "kerttu.rinne@example.com",
+    "username": "happyelephant430",
+    "password": "bbking",
+    "invokedAt": "2020-06-14T08:00:59.660Z"
   }
 ]
