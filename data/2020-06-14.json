@@ -174,5 +174,13 @@
     "username": "happyleopard536",
     "password": "jeeper",
     "invokedAt": "2020-06-14T21:00:46.226Z"
+  },
+  {
+    "firstName": "Ronald",
+    "lastName": "Lemke",
+    "email": "ronald.lemke@example.com",
+    "username": "beautifultiger733",
+    "password": "strat",
+    "invokedAt": "2020-06-14T22:01:02.187Z"
   }
 ]
