@@ -38,5 +38,13 @@
     "username": "heavymeercat457",
     "password": "chrome",
     "invokedAt": "2020-06-15T04:01:11.691Z"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Pearson",
+    "email": "todd.pearson@example.com",
+    "username": "sadtiger381",
+    "password": "othello",
+    "invokedAt": "2020-06-15T05:00:57.520Z"
   }
 ]
