@@ -94,5 +94,13 @@
     "username": "silverfish410",
     "password": "gotribe",
     "invokedAt": "2020-06-15T11:01:29.006Z"
+  },
+  {
+    "firstName": "Lillie",
+    "lastName": "Neal",
+    "email": "lillie.neal@example.com",
+    "username": "orangepanda888",
+    "password": "mone",
+    "invokedAt": "2020-06-15T12:01:16.441Z"
   }
 ]
