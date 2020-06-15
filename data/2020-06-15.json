@@ -62,5 +62,13 @@
     "username": "tinyrabbit765",
     "password": "liao",
     "invokedAt": "2020-06-15T07:15:41.148Z"
+  },
+  {
+    "firstName": "Volkan",
+    "lastName": "Demirbaş",
+    "email": "volkan.demirbas@example.com",
+    "username": "greenbird112",
+    "password": "iscool",
+    "invokedAt": "2020-06-15T08:01:15.509Z"
   }
 ]
