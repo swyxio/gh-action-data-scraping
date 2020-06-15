@@ -118,5 +118,13 @@
     "username": "lazydog721",
     "password": "stocks",
     "invokedAt": "2020-06-15T14:00:46.689Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Grimsrud",
+    "email": "emma.grimsrud@example.com",
+    "username": "yellowfrog828",
+    "password": "jameson",
+    "invokedAt": "2020-06-15T15:00:39.005Z"
   }
 ]
