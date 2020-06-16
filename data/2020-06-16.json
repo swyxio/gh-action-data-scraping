@@ -102,5 +102,13 @@
     "username": "orangerabbit818",
     "password": "verizon",
     "invokedAt": "2020-06-16T12:00:39.250Z"
+  },
+  {
+    "firstName": "Naomi",
+    "lastName": "Patel",
+    "email": "naomi.patel@example.com",
+    "username": "orangebutterfly983",
+    "password": "concrete",
+    "invokedAt": "2020-06-16T13:01:04.404Z"
   }
 ]
