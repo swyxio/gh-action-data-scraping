@@ -142,5 +142,13 @@
     "username": "crazyzebra301",
     "password": "lookout",
     "invokedAt": "2020-06-16T17:00:41.470Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Tervo",
+    "email": "sara.tervo@example.com",
+    "username": "angrywolf590",
+    "password": "smudge",
+    "invokedAt": "2020-06-16T18:01:24.717Z"
   }
 ]
