@@ -166,5 +166,13 @@
     "username": "purpledog901",
     "password": "cashmone",
     "invokedAt": "2020-06-18T20:00:58.836Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Thomsen",
+    "email": "mathias.thomsen@example.com",
+    "username": "tinyleopard115",
+    "password": "gotribe",
+    "invokedAt": "2020-06-18T21:01:03.618Z"
   }
 ]
