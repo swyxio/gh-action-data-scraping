@@ -158,5 +158,13 @@
     "username": "whitepeacock382",
     "password": "ncc1701",
     "invokedAt": "2020-06-20T19:00:49.344Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Williams",
+    "email": "lucy.williams@example.com",
+    "username": "brownrabbit879",
+    "password": "azzer",
+    "invokedAt": "2020-06-20T20:00:48.183Z"
   }
 ]
