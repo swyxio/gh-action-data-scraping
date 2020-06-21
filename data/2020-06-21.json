@@ -158,5 +158,13 @@
     "username": "greenbear258",
     "password": "marc",
     "invokedAt": "2020-06-21T19:00:59.437Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Rasmussen",
+    "email": "gustav.rasmussen@example.com",
+    "username": "crazyrabbit231",
+    "password": "womble",
+    "invokedAt": "2020-06-21T20:01:06.698Z"
   }
 ]
