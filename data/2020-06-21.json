@@ -166,5 +166,13 @@
     "username": "crazyrabbit231",
     "password": "womble",
     "invokedAt": "2020-06-21T20:01:06.698Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Lammi",
+    "email": "julia.lammi@example.com",
+    "username": "tinymeercat895",
+    "password": "idefix",
+    "invokedAt": "2020-06-21T21:00:53.288Z"
   }
 ]
