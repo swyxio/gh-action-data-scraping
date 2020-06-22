@@ -94,5 +94,13 @@
     "username": "organiczebra379",
     "password": "france",
     "invokedAt": "2020-06-22T11:00:40.241Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Jensen",
+    "email": "valdemar.jensen@example.com",
+    "username": "sadlion225",
+    "password": "plymouth",
+    "invokedAt": "2020-06-22T12:01:02.335Z"
   }
 ]
