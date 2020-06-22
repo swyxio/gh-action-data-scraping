@@ -142,5 +142,13 @@
     "username": "silverleopard669",
     "password": "savage",
     "invokedAt": "2020-06-22T17:00:39.275Z"
+  },
+  {
+    "firstName": "Finn",
+    "lastName": "White",
+    "email": "finn.white@example.com",
+    "username": "sadbutterfly294",
+    "password": "five",
+    "invokedAt": "2020-06-22T18:01:01.244Z"
   }
 ]
