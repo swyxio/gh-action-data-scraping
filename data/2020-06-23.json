@@ -70,5 +70,13 @@
     "username": "happybutterfly630",
     "password": "volume",
     "invokedAt": "2020-06-23T08:00:50.570Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Madsen",
+    "email": "benjamin.madsen@example.com",
+    "username": "ticklishtiger966",
+    "password": "tbird",
+    "invokedAt": "2020-06-23T09:00:50.721Z"
   }
 ]
