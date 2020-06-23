@@ -142,5 +142,13 @@
     "username": "silverdog403",
     "password": "disney1",
     "invokedAt": "2020-06-23T17:00:43.319Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Saez",
+    "email": "oscar.saez@example.com",
+    "username": "crazydog173",
+    "password": "loveya",
+    "invokedAt": "2020-06-23T18:01:40.092Z"
   }
 ]
