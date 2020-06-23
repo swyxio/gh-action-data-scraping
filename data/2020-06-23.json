@@ -126,5 +126,13 @@
     "username": "goldenzebra694",
     "password": "modelsne",
     "invokedAt": "2020-06-23T15:00:50.893Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Ginnish",
+    "email": "sarah.ginnish@example.com",
+    "username": "silvergoose567",
+    "password": "more",
+    "invokedAt": "2020-06-23T16:00:49.129Z"
   }
 ]
