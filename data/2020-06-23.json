@@ -110,5 +110,13 @@
     "username": "smallkoala562",
     "password": "maxi",
     "invokedAt": "2020-06-23T13:00:36.240Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Topçuoğlu",
+    "email": "ozkan.topcuoglu@example.com",
+    "username": "goldenfrog584",
+    "password": "doitnow",
+    "invokedAt": "2020-06-23T14:00:57.901Z"
   }
 ]
