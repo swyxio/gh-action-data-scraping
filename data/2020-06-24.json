@@ -54,5 +54,13 @@
     "username": "bigfrog232",
     "password": "tomcat",
     "invokedAt": "2020-06-24T06:00:40.937Z"
+  },
+  {
+    "firstName": "Terrence",
+    "lastName": "Black",
+    "email": "terrence.black@example.com",
+    "username": "silverfrog501",
+    "password": "killer",
+    "invokedAt": "2020-06-24T07:01:00.999Z"
   }
 ]
