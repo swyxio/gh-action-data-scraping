@@ -110,5 +110,13 @@
     "username": "redrabbit283",
     "password": "truck1",
     "invokedAt": "2020-06-24T13:01:01.646Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Andersen",
+    "email": "tristan.andersen@example.com",
+    "username": "greenleopard287",
+    "password": "straight",
+    "invokedAt": "2020-06-24T14:00:43.432Z"
   }
 ]
