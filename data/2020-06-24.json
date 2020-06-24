@@ -126,5 +126,13 @@
     "username": "goldentiger307",
     "password": "town",
     "invokedAt": "2020-06-24T15:00:35.444Z"
+  },
+  {
+    "firstName": "Almedina",
+    "lastName": "Tolman",
+    "email": "almedina.tolman@example.com",
+    "username": "bigladybug599",
+    "password": "sensei",
+    "invokedAt": "2020-06-24T16:01:00.165Z"
   }
 ]
