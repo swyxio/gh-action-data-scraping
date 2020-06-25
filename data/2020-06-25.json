@@ -46,5 +46,13 @@
     "username": "orangebutterfly425",
     "password": "hiking",
     "invokedAt": "2020-06-25T05:00:53.440Z"
+  },
+  {
+    "firstName": "Taner",
+    "lastName": "Weller",
+    "email": "taner.weller@example.com",
+    "username": "beautifulkoala818",
+    "password": "1023",
+    "invokedAt": "2020-06-25T06:00:45.538Z"
   }
 ]
