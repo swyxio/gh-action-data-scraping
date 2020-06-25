@@ -70,5 +70,13 @@
     "username": "yellowcat869",
     "password": "bluejay",
     "invokedAt": "2020-06-25T08:00:56.915Z"
+  },
+  {
+    "firstName": "Martine",
+    "lastName": "Sørhus",
+    "email": "martine.sorhus@example.com",
+    "username": "greenmeercat903",
+    "password": "caught",
+    "invokedAt": "2020-06-25T09:01:00.200Z"
   }
 ]
