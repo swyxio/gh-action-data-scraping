@@ -102,5 +102,13 @@
     "username": "purpleduck680",
     "password": "target",
     "invokedAt": "2020-06-25T12:00:45.234Z"
+  },
+  {
+    "firstName": "Mathys",
+    "lastName": "Leroy",
+    "email": "mathys.leroy@example.com",
+    "username": "organicbear141",
+    "password": "antonio",
+    "invokedAt": "2020-06-25T13:00:40.375Z"
   }
 ]
