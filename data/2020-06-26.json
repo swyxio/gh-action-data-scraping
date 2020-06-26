@@ -94,5 +94,13 @@
     "username": "bigpeacock384",
     "password": "family",
     "invokedAt": "2020-06-26T11:00:50.006Z"
+  },
+  {
+    "firstName": "Jonah",
+    "lastName": "Van Gog",
+    "email": "jonah.vangog@example.com",
+    "username": "crazyfrog754",
+    "password": "shaggy",
+    "invokedAt": "2020-06-26T12:01:13.936Z"
   }
 ]
