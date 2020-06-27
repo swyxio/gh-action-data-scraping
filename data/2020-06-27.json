@@ -78,5 +78,13 @@
     "username": "happylion796",
     "password": "tribe",
     "invokedAt": "2020-06-27T10:00:42.314Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Mackay",
+    "email": "clara.mackay@example.com",
+    "username": "silverleopard416",
+    "password": "anubis",
+    "invokedAt": "2020-06-27T11:01:20.042Z"
   }
 ]
