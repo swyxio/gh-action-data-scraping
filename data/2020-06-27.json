@@ -150,5 +150,13 @@
     "username": "greenladybug733",
     "password": "exodus",
     "invokedAt": "2020-06-27T19:00:39.289Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Craig",
+    "email": "jack.craig@example.com",
+    "username": "greenleopard142",
+    "password": "gotribe",
+    "invokedAt": "2020-06-27T20:00:57.887Z"
   }
 ]
