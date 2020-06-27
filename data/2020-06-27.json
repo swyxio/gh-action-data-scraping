@@ -166,5 +166,13 @@
     "username": "purpleladybug417",
     "password": "cards",
     "invokedAt": "2020-06-27T21:00:54.604Z"
+  },
+  {
+    "firstName": "Allison",
+    "lastName": "Jacobs",
+    "email": "allison.jacobs@example.com",
+    "username": "greenpanda314",
+    "password": "holly1",
+    "invokedAt": "2020-06-27T22:01:14.379Z"
   }
 ]
