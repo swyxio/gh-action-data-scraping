@@ -54,5 +54,13 @@
     "username": "redpeacock810",
     "password": "lacrosse",
     "invokedAt": "2020-06-27T07:00:59.838Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Kuusisto",
+    "email": "otto.kuusisto@example.com",
+    "username": "crazydog328",
+    "password": "annie",
+    "invokedAt": "2020-06-27T08:01:44.616Z"
   }
 ]
