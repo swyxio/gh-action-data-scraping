@@ -126,5 +126,13 @@
     "username": "sadswan798",
     "password": "jimbo1",
     "invokedAt": "2020-06-27T16:00:38.799Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Jensen",
+    "email": "marcus.jensen@example.com",
+    "username": "beautifulduck732",
+    "password": "eugene",
+    "invokedAt": "2020-06-27T17:01:32.664Z"
   }
 ]
