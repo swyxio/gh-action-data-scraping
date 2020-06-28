@@ -142,5 +142,13 @@
     "username": "heavydog898",
     "password": "yomama",
     "invokedAt": "2020-06-28T17:00:42.976Z"
+  },
+  {
+    "firstName": "Ceyhun",
+    "lastName": "Çörekçi",
+    "email": "ceyhun.corekci@example.com",
+    "username": "redgoose319",
+    "password": "bohica",
+    "invokedAt": "2020-06-28T18:01:13.449Z"
   }
 ]
