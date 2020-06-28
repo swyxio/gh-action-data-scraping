@@ -78,5 +78,13 @@
     "username": "silverelephant766",
     "password": "airplane",
     "invokedAt": "2020-06-28T09:00:49.296Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Brown",
+    "email": "lucas.brown@example.com",
+    "username": "blackfish549",
+    "password": "tommyboy",
+    "invokedAt": "2020-06-28T10:01:05.036Z"
   }
 ]
