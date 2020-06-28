@@ -166,5 +166,13 @@
     "username": "ticklishfish983",
     "password": "true",
     "invokedAt": "2020-06-28T20:00:40.090Z"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Clark",
+    "email": "charlotte.clark@example.com",
+    "username": "beautifulkoala911",
+    "password": "dragon",
+    "invokedAt": "2020-06-28T21:01:06.666Z"
   }
 ]
