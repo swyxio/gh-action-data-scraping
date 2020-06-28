@@ -158,5 +158,13 @@
     "username": "heavytiger882",
     "password": "personal",
     "invokedAt": "2020-06-28T19:01:10.333Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Renaud",
+    "email": "jonas.renaud@example.com",
+    "username": "ticklishfish983",
+    "password": "true",
+    "invokedAt": "2020-06-28T20:00:40.090Z"
   }
 ]
