@@ -142,5 +142,13 @@
     "username": "angryswan590",
     "password": "phish",
     "invokedAt": "2020-06-29T19:00:46.550Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Chow",
+    "email": "gabriel.chow@example.com",
+    "username": "crazyfrog351",
+    "password": "chuang",
+    "invokedAt": "2020-06-29T20:00:36.247Z"
   }
 ]
