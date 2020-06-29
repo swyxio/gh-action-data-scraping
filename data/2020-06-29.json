@@ -78,5 +78,13 @@
     "username": "angryleopard647",
     "password": "express",
     "invokedAt": "2020-06-29T09:01:01.964Z"
+  },
+  {
+    "firstName": "Elling",
+    "lastName": "Aga",
+    "email": "elling.aga@example.com",
+    "username": "happygoose799",
+    "password": "answer",
+    "invokedAt": "2020-06-29T12:01:24.286Z"
   }
 ]
