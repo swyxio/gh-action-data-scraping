@@ -70,5 +70,13 @@
     "username": "angrycat301",
     "password": "canon",
     "invokedAt": "2020-06-30T08:00:37.262Z"
+  },
+  {
+    "firstName": "Mathis",
+    "lastName": "Mackay",
+    "email": "mathis.mackay@example.com",
+    "username": "smallfish853",
+    "password": "macaroni",
+    "invokedAt": "2020-06-30T09:01:00.328Z"
   }
 ]
