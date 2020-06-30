@@ -142,5 +142,13 @@
     "username": "crazysnake352",
     "password": "thunder",
     "invokedAt": "2020-06-30T17:00:43.446Z"
+  },
+  {
+    "firstName": "Lena",
+    "lastName": "Robert",
+    "email": "lena.robert@example.com",
+    "username": "beautifulmeercat806",
+    "password": "porter",
+    "invokedAt": "2020-06-30T18:00:50.707Z"
   }
 ]
