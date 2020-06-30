@@ -62,5 +62,13 @@
     "username": "heavykoala543",
     "password": "magicman",
     "invokedAt": "2020-06-30T07:00:44.305Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Holmes",
+    "email": "mary.holmes@example.com",
+    "username": "angrycat301",
+    "password": "canon",
+    "invokedAt": "2020-06-30T08:00:37.262Z"
   }
 ]
