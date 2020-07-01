@@ -166,5 +166,13 @@
     "username": "orangebear264",
     "password": "coyote",
     "invokedAt": "2020-07-01T20:16:02.539Z"
+  },
+  {
+    "firstName": "Harri",
+    "lastName": "Wiemer",
+    "email": "harri.wiemer@example.com",
+    "username": "purpleladybug151",
+    "password": "samm",
+    "invokedAt": "2020-07-01T21:01:07.988Z"
   }
 ]
