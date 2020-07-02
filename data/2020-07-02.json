@@ -102,5 +102,13 @@
     "username": "redgoose629",
     "password": "formula1",
     "invokedAt": "2020-07-02T12:00:54.111Z"
+  },
+  {
+    "firstName": "Frøya",
+    "lastName": "Skansen",
+    "email": "froya.skansen@example.com",
+    "username": "redrabbit262",
+    "password": "deerhunt",
+    "invokedAt": "2020-07-02T13:01:32.274Z"
   }
 ]
