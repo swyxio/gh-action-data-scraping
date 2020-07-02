@@ -142,5 +142,13 @@
     "username": "beautifulelephant809",
     "password": "qwertyuiop",
     "invokedAt": "2020-07-02T17:00:56.552Z"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Jones",
+    "email": "scott.jones@example.com",
+    "username": "heavyfrog468",
+    "password": "hotred",
+    "invokedAt": "2020-07-02T18:00:45.371Z"
   }
 ]
