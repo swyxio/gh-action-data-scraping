@@ -118,5 +118,13 @@
     "username": "ticklishelephant457",
     "password": "alphabet",
     "invokedAt": "2020-07-02T14:00:57.744Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Lecomte",
+    "email": "ryan.lecomte@example.com",
+    "username": "bluetiger411",
+    "password": "twiggy",
+    "invokedAt": "2020-07-02T15:01:02.760Z"
   }
 ]
