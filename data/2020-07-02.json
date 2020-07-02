@@ -30,5 +30,13 @@
     "username": "redbird529",
     "password": "gspot",
     "invokedAt": "2020-07-02T03:00:58.248Z"
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Patel",
+    "email": "elijah.patel@example.com",
+    "username": "whitecat238",
+    "password": "slick1",
+    "invokedAt": "2020-07-02T04:01:09.951Z"
   }
 ]
