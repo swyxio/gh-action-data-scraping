@@ -22,5 +22,13 @@
     "username": "lazyfish352",
     "password": "marsh",
     "invokedAt": "2020-07-02T02:01:52.950Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Poulsen",
+    "email": "sara.poulsen@example.com",
+    "username": "redbird529",
+    "password": "gspot",
+    "invokedAt": "2020-07-02T03:00:58.248Z"
   }
 ]
