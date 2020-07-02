@@ -54,5 +54,13 @@
     "username": "crazyfrog464",
     "password": "punkrock",
     "invokedAt": "2020-07-02T06:00:42.271Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Guillaume",
+    "email": "ryan.guillaume@example.com",
+    "username": "yellowsnake508",
+    "password": "12345678",
+    "invokedAt": "2020-07-02T07:00:38.299Z"
   }
 ]
