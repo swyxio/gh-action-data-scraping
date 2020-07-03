@@ -142,5 +142,13 @@
     "username": "brownwolf119",
     "password": "ronald1",
     "invokedAt": "2020-07-03T17:01:01.264Z"
+  },
+  {
+    "firstName": "Jeannette",
+    "lastName": "Bender",
+    "email": "jeannette.bender@example.com",
+    "username": "smallfrog131",
+    "password": "unique",
+    "invokedAt": "2020-07-03T18:02:38.957Z"
   }
 ]
