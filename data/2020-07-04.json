@@ -182,5 +182,13 @@
     "username": "crazylion580",
     "password": "guest",
     "invokedAt": "2020-07-04T22:01:01.455Z"
+  },
+  {
+    "firstName": "Gema",
+    "lastName": "Marin",
+    "email": "gema.marin@example.com",
+    "username": "silvercat848",
+    "password": "insane",
+    "invokedAt": "2020-07-04T23:00:55.351Z"
   }
 ]
