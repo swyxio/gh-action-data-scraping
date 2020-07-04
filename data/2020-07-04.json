@@ -158,5 +158,13 @@
     "username": "sadduck752",
     "password": "charger",
     "invokedAt": "2020-07-04T19:00:44.237Z"
+  },
+  {
+    "firstName": "Gerardus",
+    "lastName": "Van Schuppen",
+    "email": "gerardus.vanschuppen@example.com",
+    "username": "yellowswan953",
+    "password": "banana",
+    "invokedAt": "2020-07-04T20:00:40.350Z"
   }
 ]
