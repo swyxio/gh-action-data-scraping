@@ -46,5 +46,13 @@
     "username": "greenpeacock194",
     "password": "gregor",
     "invokedAt": "2020-07-04T05:00:38.324Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Meunier",
+    "email": "guillaume.meunier@example.com",
+    "username": "blackzebra275",
+    "password": "1234qwer",
+    "invokedAt": "2020-07-04T06:01:08.273Z"
   }
 ]
