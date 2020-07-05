@@ -118,5 +118,13 @@
     "username": "heavygorilla243",
     "password": "cerberus",
     "invokedAt": "2020-07-05T14:45:59.006Z"
+  },
+  {
+    "firstName": "Rebecca",
+    "lastName": "Carter",
+    "email": "rebecca.carter@example.com",
+    "username": "redbird715",
+    "password": "novell",
+    "invokedAt": "2020-07-05T15:00:41.693Z"
   }
 ]
