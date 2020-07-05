@@ -134,5 +134,13 @@
     "username": "redbear161",
     "password": "track",
     "invokedAt": "2020-07-05T16:00:49.858Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Gauthier",
+    "email": "maxime.gauthier@example.com",
+    "username": "crazydog992",
+    "password": "montecar",
+    "invokedAt": "2020-07-05T17:01:13.595Z"
   }
 ]
