@@ -126,5 +126,13 @@
     "username": "redbird715",
     "password": "novell",
     "invokedAt": "2020-07-05T15:00:41.693Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Espeseth",
+    "email": "jeppe.espeseth@example.com",
+    "username": "redbear161",
+    "password": "track",
+    "invokedAt": "2020-07-05T16:00:49.858Z"
   }
 ]
