@@ -142,5 +142,13 @@
     "username": "crazydog992",
     "password": "montecar",
     "invokedAt": "2020-07-05T17:01:13.595Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Poyrazoğlu",
+    "email": "babur.poyrazoglu@example.com",
+    "username": "blackostrich957",
+    "password": "corndog",
+    "invokedAt": "2020-07-05T18:00:51.513Z"
   }
 ]
