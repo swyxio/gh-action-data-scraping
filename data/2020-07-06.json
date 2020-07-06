@@ -86,5 +86,13 @@
     "username": "greenbear476",
     "password": "goblue",
     "invokedAt": "2020-07-06T10:01:22.031Z"
+  },
+  {
+    "firstName": "Herman",
+    "lastName": "Garcia",
+    "email": "herman.garcia@example.com",
+    "username": "goldenfrog789",
+    "password": "huan",
+    "invokedAt": "2020-07-06T11:00:57.367Z"
   }
 ]
