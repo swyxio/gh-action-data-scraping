@@ -166,5 +166,13 @@
     "username": "greenmeercat724",
     "password": "platypus",
     "invokedAt": "2020-07-07T20:00:42.661Z"
+  },
+  {
+    "firstName": "Ayan",
+    "lastName": "Hvidsten",
+    "email": "ayan.hvidsten@example.com",
+    "username": "yellowwolf358",
+    "password": "party",
+    "invokedAt": "2020-07-07T21:01:19.729Z"
   }
 ]
