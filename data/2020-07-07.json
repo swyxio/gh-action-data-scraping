@@ -182,5 +182,13 @@
     "username": "orangegorilla524",
     "password": "speed1",
     "invokedAt": "2020-07-07T22:00:40.617Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Drescher",
+    "email": "kenan.drescher@example.com",
+    "username": "ticklishtiger150",
+    "password": "taichi",
+    "invokedAt": "2020-07-07T23:00:38.286Z"
   }
 ]
