@@ -94,5 +94,13 @@
     "username": "lazyfish572",
     "password": "preacher",
     "invokedAt": "2020-07-07T11:00:56.611Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Chapman",
+    "email": "samuel.chapman@example.com",
+    "username": "orangelion664",
+    "password": "store",
+    "invokedAt": "2020-07-07T12:00:54.694Z"
   }
 ]
