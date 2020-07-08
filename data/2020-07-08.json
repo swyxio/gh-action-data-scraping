@@ -126,5 +126,13 @@
     "username": "lazyrabbit154",
     "password": "jetta",
     "invokedAt": "2020-07-08T15:00:45.729Z"
+  },
+  {
+    "firstName": "Thorben",
+    "lastName": "Findeisen",
+    "email": "thorben.findeisen@example.com",
+    "username": "smalltiger814",
+    "password": "qwerty1",
+    "invokedAt": "2020-07-08T16:00:49.717Z"
   }
 ]
