@@ -158,5 +158,13 @@
     "username": "whitepanda115",
     "password": "shock",
     "invokedAt": "2020-07-08T19:01:08.712Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Wilson",
+    "email": "gabriel.wilson@example.com",
+    "username": "redfish949",
+    "password": "oregon",
+    "invokedAt": "2020-07-08T20:01:06.353Z"
   }
 ]
