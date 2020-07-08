@@ -182,5 +182,13 @@
     "username": "orangecat110",
     "password": "qiang",
     "invokedAt": "2020-07-08T22:00:34.292Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "King",
+    "email": "kate.king@example.com",
+    "username": "organicbutterfly464",
+    "password": "hyperion",
+    "invokedAt": "2020-07-08T23:01:00.938Z"
   }
 ]
