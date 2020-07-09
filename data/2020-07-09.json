@@ -78,5 +78,13 @@
     "username": "blackcat741",
     "password": "bugs",
     "invokedAt": "2020-07-09T09:00:53.638Z"
+  },
+  {
+    "firstName": "Nicoline",
+    "lastName": "Jørgensen",
+    "email": "nicoline.jorgensen@example.com",
+    "username": "blackpeacock307",
+    "password": "catnip",
+    "invokedAt": "2020-07-09T10:01:01.223Z"
   }
 ]
