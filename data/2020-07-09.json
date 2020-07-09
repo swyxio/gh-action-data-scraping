@@ -126,5 +126,13 @@
     "username": "beautifulrabbit971",
     "password": "cancel",
     "invokedAt": "2020-07-09T15:00:49.089Z"
+  },
+  {
+    "firstName": "Ömür",
+    "lastName": "Tunaboylu",
+    "email": "omur.tunaboylu@example.com",
+    "username": "blackdog213",
+    "password": "wildcard",
+    "invokedAt": "2020-07-09T16:00:50.473Z"
   }
 ]
