@@ -134,5 +134,13 @@
     "username": "blackdog213",
     "password": "wildcard",
     "invokedAt": "2020-07-09T16:00:50.473Z"
+  },
+  {
+    "firstName": "Karen",
+    "lastName": "Day",
+    "email": "karen.day@example.com",
+    "username": "smallpanda321",
+    "password": "clippers",
+    "invokedAt": "2020-07-09T17:01:03.045Z"
   }
 ]
