@@ -86,5 +86,13 @@
     "username": "ticklishgorilla960",
     "password": "spike1",
     "invokedAt": "2020-07-10T10:00:57.147Z"
+  },
+  {
+    "firstName": "Bryan",
+    "lastName": "Van der Ben",
+    "email": "bryan.vanderben@example.com",
+    "username": "greenbear350",
+    "password": "marvel",
+    "invokedAt": "2020-07-10T11:00:50.554Z"
   }
 ]
