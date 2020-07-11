@@ -182,5 +182,13 @@
     "username": "sadrabbit719",
     "password": "98765432",
     "invokedAt": "2020-07-11T22:01:14.116Z"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Lavigne",
+    "email": "anthony.lavigne@example.com",
+    "username": "smallpeacock812",
+    "password": "cbr900rr",
+    "invokedAt": "2020-07-11T23:00:58.462Z"
   }
 ]
