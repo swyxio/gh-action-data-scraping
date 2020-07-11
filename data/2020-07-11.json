@@ -126,5 +126,13 @@
     "username": "redgorilla396",
     "password": "monkey",
     "invokedAt": "2020-07-11T15:01:09.618Z"
+  },
+  {
+    "firstName": "Gaspard",
+    "lastName": "Petit",
+    "email": "gaspard.petit@example.com",
+    "username": "biglion547",
+    "password": "atomic",
+    "invokedAt": "2020-07-11T16:01:11.259Z"
   }
 ]
