@@ -94,5 +94,13 @@
     "username": "blackpanda570",
     "password": "nascar",
     "invokedAt": "2020-07-11T11:01:01.747Z"
+  },
+  {
+    "firstName": "Hazel",
+    "lastName": "Martin",
+    "email": "hazel.martin@example.com",
+    "username": "goldenkoala426",
+    "password": "marathon",
+    "invokedAt": "2020-07-11T12:00:48.149Z"
   }
 ]
