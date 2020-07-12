@@ -182,5 +182,13 @@
     "username": "redfish527",
     "password": "zorro1",
     "invokedAt": "2020-07-12T22:00:43.936Z"
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Rhodes",
+    "email": "kent.rhodes@example.com",
+    "username": "organicelephant796",
+    "password": "343434",
+    "invokedAt": "2020-07-12T23:01:07.504Z"
   }
 ]
