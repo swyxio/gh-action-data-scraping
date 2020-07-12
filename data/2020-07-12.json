@@ -30,5 +30,13 @@
     "username": "happytiger546",
     "password": "looker",
     "invokedAt": "2020-07-12T03:01:24.464Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Park",
+    "email": "sofia.park@example.com",
+    "username": "lazymouse245",
+    "password": "proxy",
+    "invokedAt": "2020-07-12T04:00:51.150Z"
   }
 ]
