@@ -22,5 +22,13 @@
     "username": "smallgoose732",
     "password": "frances",
     "invokedAt": "2020-07-12T02:01:28.664Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Mattila",
+    "email": "matilda.mattila@example.com",
+    "username": "happytiger546",
+    "password": "looker",
+    "invokedAt": "2020-07-12T03:01:24.464Z"
   }
 ]
