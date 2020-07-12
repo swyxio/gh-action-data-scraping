@@ -158,5 +158,13 @@
     "username": "heavymeercat249",
     "password": "viper1",
     "invokedAt": "2020-07-12T19:01:34.249Z"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Yorulmaz",
+    "email": "mehmet.yorulmaz@example.com",
+    "username": "redpanda635",
+    "password": "gmoney",
+    "invokedAt": "2020-07-12T20:01:05.319Z"
   }
 ]
