@@ -78,5 +78,13 @@
     "username": "goldendog401",
     "password": "harvest",
     "invokedAt": "2020-07-13T17:00:42.016Z"
+  },
+  {
+    "firstName": "Eren",
+    "lastName": "Elçiboğa",
+    "email": "eren.elciboga@example.com",
+    "username": "goldengoose932",
+    "password": "twiggy",
+    "invokedAt": "2020-07-13T18:01:15.963Z"
   }
 ]
