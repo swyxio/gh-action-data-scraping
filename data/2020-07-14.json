@@ -174,5 +174,13 @@
     "username": "tinyzebra189",
     "password": "bmwbmw",
     "invokedAt": "2020-07-14T21:00:46.449Z"
+  },
+  {
+    "firstName": "Phil",
+    "lastName": "Williams",
+    "email": "phil.williams@example.com",
+    "username": "whitefish928",
+    "password": "dandan",
+    "invokedAt": "2020-07-14T22:00:48.059Z"
   }
 ]
