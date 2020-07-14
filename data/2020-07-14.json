@@ -62,5 +62,13 @@
     "username": "greencat332",
     "password": "paramedi",
     "invokedAt": "2020-07-14T07:01:20.199Z"
+  },
+  {
+    "firstName": "Fabien",
+    "lastName": "Meyer",
+    "email": "fabien.meyer@example.com",
+    "username": "blackfrog562",
+    "password": "keystone",
+    "invokedAt": "2020-07-14T08:01:10.730Z"
   }
 ]
