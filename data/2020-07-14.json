@@ -94,5 +94,13 @@
     "username": "brownpeacock986",
     "password": "eskimo",
     "invokedAt": "2020-07-14T11:00:51.562Z"
+  },
+  {
+    "firstName": "Holly",
+    "lastName": "Johnson",
+    "email": "holly.johnson@example.com",
+    "username": "lazyzebra912",
+    "password": "1111",
+    "invokedAt": "2020-07-14T12:00:44.994Z"
   }
 ]
