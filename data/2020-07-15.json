@@ -46,5 +46,13 @@
     "username": "angrycat432",
     "password": "delta",
     "invokedAt": "2020-07-15T05:00:45.067Z"
+  },
+  {
+    "firstName": "Dag",
+    "lastName": "Engstad",
+    "email": "dag.engstad@example.com",
+    "username": "ticklishbutterfly213",
+    "password": "havana",
+    "invokedAt": "2020-07-15T06:01:16.327Z"
   }
 ]
