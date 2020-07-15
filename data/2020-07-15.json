@@ -142,5 +142,13 @@
     "username": "redduck673",
     "password": "freedom",
     "invokedAt": "2020-07-15T17:00:51.540Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Kraai",
+    "email": "bill.kraai@example.com",
+    "username": "bigduck592",
+    "password": "bobdylan",
+    "invokedAt": "2020-07-15T18:01:09.142Z"
   }
 ]
