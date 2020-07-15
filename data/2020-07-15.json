@@ -94,5 +94,13 @@
     "username": "happymouse917",
     "password": "premium",
     "invokedAt": "2020-07-15T11:00:59.229Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Ortega",
+    "email": "samuel.ortega@example.com",
+    "username": "tinyostrich335",
+    "password": "notredam",
+    "invokedAt": "2020-07-15T12:01:20.034Z"
   }
 ]
