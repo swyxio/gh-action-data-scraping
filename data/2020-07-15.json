@@ -102,5 +102,13 @@
     "username": "tinyostrich335",
     "password": "notredam",
     "invokedAt": "2020-07-15T12:01:20.034Z"
+  },
+  {
+    "firstName": "Franco",
+    "lastName": "Jean",
+    "email": "franco.jean@example.com",
+    "username": "greenbird582",
+    "password": "command",
+    "invokedAt": "2020-07-15T13:00:57.658Z"
   }
 ]
