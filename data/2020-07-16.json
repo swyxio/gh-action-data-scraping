@@ -158,5 +158,13 @@
     "username": "smallcat976",
     "password": "bowling",
     "invokedAt": "2020-07-16T19:01:03.683Z"
+  },
+  {
+    "firstName": "Niilo",
+    "lastName": "Hanninen",
+    "email": "niilo.hanninen@example.com",
+    "username": "heavypanda838",
+    "password": "spurs",
+    "invokedAt": "2020-07-16T20:00:50.695Z"
   }
 ]
