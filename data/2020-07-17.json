@@ -158,5 +158,13 @@
     "username": "purplefish675",
     "password": "1a2b3c",
     "invokedAt": "2020-07-17T19:01:01.195Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Wiitala",
+    "email": "daniel.wiitala@example.com",
+    "username": "organicwolf650",
+    "password": "butkus",
+    "invokedAt": "2020-07-17T20:01:23.076Z"
   }
 ]
