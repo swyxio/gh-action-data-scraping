@@ -94,5 +94,13 @@
     "username": "brownelephant927",
     "password": "edward1",
     "invokedAt": "2020-07-17T11:01:10.483Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Sandalcı",
+    "email": "onal.sandalci@example.com",
+    "username": "redbear423",
+    "password": "michaela",
+    "invokedAt": "2020-07-17T12:00:59.630Z"
   }
 ]
