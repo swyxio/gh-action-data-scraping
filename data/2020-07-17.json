@@ -142,5 +142,13 @@
     "username": "silverzebra180",
     "password": "velvet",
     "invokedAt": "2020-07-17T17:00:40.258Z"
+  },
+  {
+    "firstName": "Sanne",
+    "lastName": "Benjaminsen",
+    "email": "sanne.benjaminsen@example.com",
+    "username": "bluemouse450",
+    "password": "lekker",
+    "invokedAt": "2020-07-17T18:01:13.299Z"
   }
 ]
