@@ -134,5 +134,13 @@
     "username": "silverpanda522",
     "password": "cyrus",
     "invokedAt": "2020-07-17T16:00:44.680Z"
+  },
+  {
+    "firstName": "Mariano",
+    "lastName": "Carrasco",
+    "email": "mariano.carrasco@example.com",
+    "username": "silverzebra180",
+    "password": "velvet",
+    "invokedAt": "2020-07-17T17:00:40.258Z"
   }
 ]
