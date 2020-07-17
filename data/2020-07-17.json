@@ -126,5 +126,13 @@
     "username": "smallduck847",
     "password": "soccer",
     "invokedAt": "2020-07-17T15:00:46.243Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Wels",
+    "email": "alexis.wels@example.com",
+    "username": "silverpanda522",
+    "password": "cyrus",
+    "invokedAt": "2020-07-17T16:00:44.680Z"
   }
 ]
