@@ -174,5 +174,13 @@
     "username": "brownbird822",
     "password": "street",
     "invokedAt": "2020-07-17T21:00:54.262Z"
+  },
+  {
+    "firstName": "Olive",
+    "lastName": "Thomas",
+    "email": "olive.thomas@example.com",
+    "username": "blueelephant987",
+    "password": "eskimo",
+    "invokedAt": "2020-07-17T22:01:00.397Z"
   }
 ]
