@@ -142,5 +142,13 @@
     "username": "orangefish862",
     "password": "cameltoe",
     "invokedAt": "2020-07-19T17:00:43.345Z"
+  },
+  {
+    "firstName": "Felipe",
+    "lastName": "Navarro",
+    "email": "felipe.navarro@example.com",
+    "username": "greenostrich159",
+    "password": "hercules",
+    "invokedAt": "2020-07-19T18:00:42.201Z"
   }
 ]
