@@ -78,5 +78,13 @@
     "username": "bigladybug214",
     "password": "rollins",
     "invokedAt": "2020-07-19T09:01:12.344Z"
+  },
+  {
+    "firstName": "Estelle",
+    "lastName": "Perrin",
+    "email": "estelle.perrin@example.com",
+    "username": "happymouse447",
+    "password": "subzero",
+    "invokedAt": "2020-07-19T10:00:56.420Z"
   }
 ]
