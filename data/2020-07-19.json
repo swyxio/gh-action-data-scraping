@@ -54,5 +54,13 @@
     "username": "goldentiger885",
     "password": "republic",
     "invokedAt": "2020-07-19T06:00:54.091Z"
+  },
+  {
+    "firstName": "Gülsen",
+    "lastName": "Trost",
+    "email": "gulsen.trost@example.com",
+    "username": "bigtiger998",
+    "password": "tardis",
+    "invokedAt": "2020-07-19T07:00:59.036Z"
   }
 ]
