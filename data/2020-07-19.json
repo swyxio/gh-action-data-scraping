@@ -46,5 +46,13 @@
     "username": "blackduck479",
     "password": "content",
     "invokedAt": "2020-07-19T05:01:11.439Z"
+  },
+  {
+    "firstName": "Carla",
+    "lastName": "Perez",
+    "email": "carla.perez@example.com",
+    "username": "goldentiger885",
+    "password": "republic",
+    "invokedAt": "2020-07-19T06:00:54.091Z"
   }
 ]
