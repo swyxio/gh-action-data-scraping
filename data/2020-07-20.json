@@ -62,5 +62,13 @@
     "username": "yellowkoala270",
     "password": "burner",
     "invokedAt": "2020-07-20T07:01:03.803Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Küçükler",
+    "email": "onal.kucukler@example.com",
+    "username": "crazyrabbit135",
+    "password": "1998",
+    "invokedAt": "2020-07-20T08:01:09.448Z"
   }
 ]
