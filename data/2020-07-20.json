@@ -30,5 +30,13 @@
     "username": "happyostrich668",
     "password": "gamma",
     "invokedAt": "2020-07-20T03:01:05.582Z"
+  },
+  {
+    "firstName": "Jesus",
+    "lastName": "Chevalier",
+    "email": "jesus.chevalier@example.com",
+    "username": "angryladybug918",
+    "password": "lifetime",
+    "invokedAt": "2020-07-20T04:00:44.234Z"
   }
 ]
