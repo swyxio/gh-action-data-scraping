@@ -158,5 +158,13 @@
     "username": "angryrabbit272",
     "password": "rene",
     "invokedAt": "2020-07-20T19:01:00.370Z"
+  },
+  {
+    "firstName": "Suzy",
+    "lastName": "Johnson",
+    "email": "suzy.johnson@example.com",
+    "username": "angryladybug700",
+    "password": "clancy",
+    "invokedAt": "2020-07-20T20:00:51.193Z"
   }
 ]
