@@ -62,5 +62,13 @@
     "username": "lazygorilla501",
     "password": "wrestling",
     "invokedAt": "2020-07-21T07:00:54.316Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Navarro",
+    "email": "isaac.navarro@example.com",
+    "username": "crazyelephant864",
+    "password": "barry",
+    "invokedAt": "2020-07-21T08:00:55.589Z"
   }
 ]
