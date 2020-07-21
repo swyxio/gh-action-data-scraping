@@ -78,5 +78,13 @@
     "username": "heavylion900",
     "password": "anime",
     "invokedAt": "2020-07-21T09:01:05.129Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Raisanen",
+    "email": "siiri.raisanen@example.com",
+    "username": "silvercat997",
+    "password": "japan",
+    "invokedAt": "2020-07-21T10:00:54.319Z"
   }
 ]
