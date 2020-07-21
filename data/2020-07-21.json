@@ -22,5 +22,13 @@
     "username": "silverbird175",
     "password": "blacklab",
     "invokedAt": "2020-07-21T02:00:58.511Z"
+  },
+  {
+    "firstName": "Léon",
+    "lastName": "Sanchez",
+    "email": "leon.sanchez@example.com",
+    "username": "silverelephant594",
+    "password": "strider",
+    "invokedAt": "2020-07-21T03:00:56.932Z"
   }
 ]
