@@ -158,5 +158,13 @@
     "username": "smallbutterfly545",
     "password": "musical",
     "invokedAt": "2020-07-21T19:01:06.181Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Hubert",
+    "email": "elif.hubert@example.com",
+    "username": "orangegoose696",
+    "password": "fender",
+    "invokedAt": "2020-07-21T20:00:46.736Z"
   }
 ]
