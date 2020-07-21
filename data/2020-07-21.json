@@ -14,5 +14,13 @@
     "username": "bluegoose339",
     "password": "borders",
     "invokedAt": "2020-07-21T01:01:19.843Z"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Harris",
+    "email": "nicolas.harris@example.com",
+    "username": "silverbird175",
+    "password": "blacklab",
+    "invokedAt": "2020-07-21T02:00:58.511Z"
   }
 ]
