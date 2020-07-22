@@ -86,5 +86,13 @@
     "username": "purplemeercat986",
     "password": "hello",
     "invokedAt": "2020-07-22T10:00:52.313Z"
+  },
+  {
+    "firstName": "Lana",
+    "lastName": "Boyer",
+    "email": "lana.boyer@example.com",
+    "username": "organicwolf776",
+    "password": "bob123",
+    "invokedAt": "2020-07-22T11:01:10.976Z"
   }
 ]
