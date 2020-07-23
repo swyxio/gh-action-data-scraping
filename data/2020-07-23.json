@@ -30,5 +30,13 @@
     "username": "angrysnake890",
     "password": "artist",
     "invokedAt": "2020-07-23T03:01:03.534Z"
+  },
+  {
+    "firstName": "Expedito",
+    "lastName": "Teixeira",
+    "email": "expedito.teixeira@example.com",
+    "username": "goldenostrich385",
+    "password": "eleven",
+    "invokedAt": "2020-07-23T04:01:48.357Z"
   }
 ]
