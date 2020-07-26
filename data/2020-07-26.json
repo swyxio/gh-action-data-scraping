@@ -102,5 +102,13 @@
     "username": "tinyfish949",
     "password": "anime",
     "invokedAt": "2020-07-26T12:00:39.245Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Larsen",
+    "email": "victor.larsen@example.com",
+    "username": "greenpeacock271",
+    "password": "xian",
+    "invokedAt": "2020-07-26T13:01:05.985Z"
   }
 ]
