@@ -150,5 +150,13 @@
     "username": "silverlion632",
     "password": "slipknot",
     "invokedAt": "2020-07-26T18:00:54.560Z"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Hopkins",
+    "email": "roy.hopkins@example.com",
+    "username": "heavykoala651",
+    "password": "connect",
+    "invokedAt": "2020-07-26T19:00:46.154Z"
   }
 ]
