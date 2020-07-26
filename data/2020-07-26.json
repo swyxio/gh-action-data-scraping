@@ -86,5 +86,13 @@
     "username": "orangetiger253",
     "password": "gspot",
     "invokedAt": "2020-07-26T10:00:56.154Z"
+  },
+  {
+    "firstName": "Ada",
+    "lastName": "May",
+    "email": "ada.may@example.com",
+    "username": "heavymeercat241",
+    "password": "state",
+    "invokedAt": "2020-07-26T11:00:44.461Z"
   }
 ]
