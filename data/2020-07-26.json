@@ -142,5 +142,13 @@
     "username": "purplebutterfly381",
     "password": "gordo",
     "invokedAt": "2020-07-26T17:00:49.509Z"
+  },
+  {
+    "firstName": "Marco",
+    "lastName": "Harsvik",
+    "email": "marco.harsvik@example.com",
+    "username": "silverlion632",
+    "password": "slipknot",
+    "invokedAt": "2020-07-26T18:00:54.560Z"
   }
 ]
