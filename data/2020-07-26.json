@@ -54,5 +54,13 @@
     "username": "blackbear638",
     "password": "cards",
     "invokedAt": "2020-07-26T06:01:01.628Z"
+  },
+  {
+    "firstName": "Carter",
+    "lastName": "Miller",
+    "email": "carter.miller@example.com",
+    "username": "tinylion191",
+    "password": "windows",
+    "invokedAt": "2020-07-26T07:01:03.970Z"
   }
 ]
