@@ -150,5 +150,13 @@
     "username": "organicfish959",
     "password": "sunrise",
     "invokedAt": "2020-07-27T18:01:28.753Z"
+  },
+  {
+    "firstName": "Maurício",
+    "lastName": "da Rocha",
+    "email": "mauricio.darocha@example.com",
+    "username": "heavytiger422",
+    "password": "poppop",
+    "invokedAt": "2020-07-27T19:00:46.803Z"
   }
 ]
