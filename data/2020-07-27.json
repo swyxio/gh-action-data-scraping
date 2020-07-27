@@ -102,5 +102,13 @@
     "username": "greenbird417",
     "password": "sigmachi",
     "invokedAt": "2020-07-27T12:01:06.408Z"
+  },
+  {
+    "firstName": "Britney",
+    "lastName": "Miller",
+    "email": "britney.miller@example.com",
+    "username": "brownfish419",
+    "password": "brains",
+    "invokedAt": "2020-07-27T13:00:36.327Z"
   }
 ]
