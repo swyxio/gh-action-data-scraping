@@ -46,5 +46,13 @@
     "username": "silvermeercat266",
     "password": "49ers",
     "invokedAt": "2020-07-27T05:01:04.047Z"
+  },
+  {
+    "firstName": "Tiago",
+    "lastName": "Blanchard",
+    "email": "tiago.blanchard@example.com",
+    "username": "happycat342",
+    "password": "shaman",
+    "invokedAt": "2020-07-27T06:01:08.717Z"
   }
 ]
