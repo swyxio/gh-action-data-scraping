@@ -86,5 +86,13 @@
     "username": "redtiger491",
     "password": "stonecol",
     "invokedAt": "2020-07-27T10:00:35.245Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Vedvik",
+    "email": "peter.vedvik@example.com",
+    "username": "tinycat136",
+    "password": "cheese1",
+    "invokedAt": "2020-07-27T11:00:33.971Z"
   }
 ]
