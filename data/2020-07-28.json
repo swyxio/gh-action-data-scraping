@@ -62,5 +62,13 @@
     "username": "purplemeercat616",
     "password": "blue32",
     "invokedAt": "2020-07-28T07:00:42.353Z"
+  },
+  {
+    "firstName": "Borja",
+    "lastName": "Alvarez",
+    "email": "borja.alvarez@example.com",
+    "username": "silverwolf321",
+    "password": "cosmos",
+    "invokedAt": "2020-07-28T08:01:14.322Z"
   }
 ]
