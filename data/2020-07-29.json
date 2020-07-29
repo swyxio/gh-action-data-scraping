@@ -134,5 +134,13 @@
     "username": "redmeercat394",
     "password": "speaker",
     "invokedAt": "2020-07-29T16:00:44.943Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Robert",
+    "email": "carlos.robert@example.com",
+    "username": "ticklishsnake582",
+    "password": "retired",
+    "invokedAt": "2020-07-29T17:00:41.598Z"
   }
 ]
