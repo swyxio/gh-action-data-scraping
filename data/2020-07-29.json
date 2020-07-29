@@ -38,5 +38,13 @@
     "username": "purpleostrich476",
     "password": "phpbb",
     "invokedAt": "2020-07-29T04:01:00.310Z"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Hillestad",
+    "email": "rachel.hillestad@example.com",
+    "username": "bluebutterfly792",
+    "password": "creamy",
+    "invokedAt": "2020-07-29T05:01:19.226Z"
   }
 ]
