@@ -30,5 +30,13 @@
     "username": "orangepanda100",
     "password": "reader",
     "invokedAt": "2020-07-29T03:01:00.483Z"
+  },
+  {
+    "firstName": "Laurie",
+    "lastName": "Horton",
+    "email": "laurie.horton@example.com",
+    "username": "purpleostrich476",
+    "password": "phpbb",
+    "invokedAt": "2020-07-29T04:01:00.310Z"
   }
 ]
