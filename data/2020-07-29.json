@@ -142,5 +142,13 @@
     "username": "ticklishsnake582",
     "password": "retired",
     "invokedAt": "2020-07-29T17:00:41.598Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Turner",
+    "email": "sarah.turner@example.com",
+    "username": "crazykoala313",
+    "password": "1957",
+    "invokedAt": "2020-07-29T18:00:42.366Z"
   }
 ]
