@@ -94,5 +94,13 @@
     "username": "redladybug921",
     "password": "bestbuy",
     "invokedAt": "2020-07-30T11:00:46.669Z"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Gies",
+    "email": "andrew.gies@example.com",
+    "username": "whiteladybug194",
+    "password": "farscape",
+    "invokedAt": "2020-07-30T12:00:46.589Z"
   }
 ]
