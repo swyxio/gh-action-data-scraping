@@ -166,5 +166,13 @@
     "username": "bluebird901",
     "password": "twiggy",
     "invokedAt": "2020-07-30T20:00:48.708Z"
+  },
+  {
+    "firstName": "Soren",
+    "lastName": "Leclercq",
+    "email": "soren.leclercq@example.com",
+    "username": "angrywolf427",
+    "password": "mighty",
+    "invokedAt": "2020-07-30T21:00:51.544Z"
   }
 ]
