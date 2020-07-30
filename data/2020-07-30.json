@@ -158,5 +158,13 @@
     "username": "bigdog672",
     "password": "tiger1",
     "invokedAt": "2020-07-30T19:00:48.600Z"
+  },
+  {
+    "firstName": "Stephanie",
+    "lastName": "Armstrong",
+    "email": "stephanie.armstrong@example.com",
+    "username": "bluebird901",
+    "password": "twiggy",
+    "invokedAt": "2020-07-30T20:00:48.708Z"
   }
 ]
