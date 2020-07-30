@@ -86,5 +86,13 @@
     "username": "whitebutterfly527",
     "password": "mariposa",
     "invokedAt": "2020-07-30T10:00:48.663Z"
+  },
+  {
+    "firstName": "Tilde",
+    "lastName": "Pedersen",
+    "email": "tilde.pedersen@example.com",
+    "username": "redladybug921",
+    "password": "bestbuy",
+    "invokedAt": "2020-07-30T11:00:46.669Z"
   }
 ]
