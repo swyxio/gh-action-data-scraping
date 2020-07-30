@@ -102,5 +102,13 @@
     "username": "whiteladybug194",
     "password": "farscape",
     "invokedAt": "2020-07-30T12:00:46.589Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Johansen",
+    "email": "silas.johansen@example.com",
+    "username": "tinyzebra439",
+    "password": "greens",
+    "invokedAt": "2020-07-30T13:01:02.371Z"
   }
 ]
