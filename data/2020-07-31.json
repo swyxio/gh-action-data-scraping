@@ -142,5 +142,13 @@
     "username": "bluemeercat686",
     "password": "romano",
     "invokedAt": "2020-07-31T17:01:03.306Z"
+  },
+  {
+    "firstName": "Ilyès",
+    "lastName": "Deschamps",
+    "email": "ilyes.deschamps@example.com",
+    "username": "orangemeercat927",
+    "password": "benoit",
+    "invokedAt": "2020-07-31T18:01:08.556Z"
   }
 ]
