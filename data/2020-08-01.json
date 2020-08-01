@@ -102,5 +102,13 @@
     "username": "goldencat751",
     "password": "bmwbmw",
     "invokedAt": "2020-08-01T12:00:52.624Z"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Bowman",
+    "email": "ellen.bowman@example.com",
+    "username": "goldenbird731",
+    "password": "lily",
+    "invokedAt": "2020-08-01T13:00:54.460Z"
   }
 ]
