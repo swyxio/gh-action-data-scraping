@@ -182,5 +182,13 @@
     "username": "blackcat509",
     "password": "vipers",
     "invokedAt": "2020-08-02T22:00:55.438Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Leclercq",
+    "email": "robin.leclercq@example.com",
+    "username": "lazybutterfly327",
+    "password": "burning",
+    "invokedAt": "2020-08-02T23:01:03.852Z"
   }
 ]
