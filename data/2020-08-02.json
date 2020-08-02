@@ -94,5 +94,13 @@
     "username": "yellowsnake895",
     "password": "wrangler",
     "invokedAt": "2020-08-02T11:00:57.966Z"
+  },
+  {
+    "firstName": "Samu",
+    "lastName": "Pietila",
+    "email": "samu.pietila@example.com",
+    "username": "sadelephant624",
+    "password": "retired",
+    "invokedAt": "2020-08-02T12:01:00.486Z"
   }
 ]
