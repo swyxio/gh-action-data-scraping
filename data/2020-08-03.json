@@ -118,5 +118,13 @@
     "username": "organiccat725",
     "password": "puppies",
     "invokedAt": "2020-08-03T14:00:43.092Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Kallio",
+    "email": "vaino.kallio@example.com",
+    "username": "blueswan423",
+    "password": "damage",
+    "invokedAt": "2020-08-03T15:00:53.414Z"
   }
 ]
