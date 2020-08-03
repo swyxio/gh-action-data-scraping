@@ -166,5 +166,13 @@
     "username": "sadswan251",
     "password": "simona",
     "invokedAt": "2020-08-03T20:00:58.462Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Taylor",
+    "email": "aaron.taylor@example.com",
+    "username": "redsnake870",
+    "password": "coldplay",
+    "invokedAt": "2020-08-03T21:01:03.935Z"
   }
 ]
