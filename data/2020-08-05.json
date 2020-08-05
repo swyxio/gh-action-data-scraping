@@ -94,5 +94,13 @@
     "username": "happyfrog201",
     "password": "pictuers",
     "invokedAt": "2020-08-05T11:00:37.425Z"
+  },
+  {
+    "firstName": "Malthe",
+    "lastName": "Olsen",
+    "email": "malthe.olsen@example.com",
+    "username": "happyswan318",
+    "password": "danger",
+    "invokedAt": "2020-08-05T12:00:38.629Z"
   }
 ]
