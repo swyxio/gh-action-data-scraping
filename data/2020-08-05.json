@@ -38,5 +38,13 @@
     "username": "sadbear704",
     "password": "account",
     "invokedAt": "2020-08-05T04:00:54.012Z"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "Lefevre",
+    "email": "cassandra.lefevre@example.com",
+    "username": "whitewolf358",
+    "password": "reebok",
+    "invokedAt": "2020-08-05T05:00:55.281Z"
   }
 ]
