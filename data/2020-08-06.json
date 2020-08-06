@@ -182,5 +182,13 @@
     "username": "ticklishelephant423",
     "password": "east",
     "invokedAt": "2020-08-06T22:00:57.292Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Murphy",
+    "email": "grace.murphy@example.com",
+    "username": "organicostrich343",
+    "password": "111222",
+    "invokedAt": "2020-08-06T23:01:02.386Z"
   }
 ]
