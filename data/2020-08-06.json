@@ -46,5 +46,13 @@
     "username": "silverbird121",
     "password": "flyers",
     "invokedAt": "2020-08-06T05:00:50.796Z"
+  },
+  {
+    "firstName": "Robertino",
+    "lastName": "Pieters",
+    "email": "robertino.pieters@example.com",
+    "username": "brownrabbit204",
+    "password": "knickerless",
+    "invokedAt": "2020-08-06T06:00:51.344Z"
   }
 ]
