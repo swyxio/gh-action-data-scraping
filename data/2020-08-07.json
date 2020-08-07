@@ -30,5 +30,13 @@
     "username": "bluezebra855",
     "password": "lookout",
     "invokedAt": "2020-08-07T03:00:58.422Z"
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Christiansen",
+    "email": "victoria.christiansen@example.com",
+    "username": "purplegoose278",
+    "password": "school",
+    "invokedAt": "2020-08-07T04:00:57.365Z"
   }
 ]
