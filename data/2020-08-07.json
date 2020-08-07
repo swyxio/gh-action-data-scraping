@@ -110,5 +110,13 @@
     "username": "yellowsnake841",
     "password": "planet",
     "invokedAt": "2020-08-07T13:00:52.746Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Reynolds",
+    "email": "terry.reynolds@example.com",
+    "username": "beautifulcat218",
+    "password": "brother",
+    "invokedAt": "2020-08-07T14:00:58.235Z"
   }
 ]
