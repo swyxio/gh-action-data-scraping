@@ -126,5 +126,13 @@
     "username": "goldenelephant222",
     "password": "speedo",
     "invokedAt": "2020-08-08T15:01:02.632Z"
+  },
+  {
+    "firstName": "Nalan",
+    "lastName": "Çapanoğlu",
+    "email": "nalan.capanoglu@example.com",
+    "username": "tinyrabbit712",
+    "password": "bryant",
+    "invokedAt": "2020-08-08T16:01:08.225Z"
   }
 ]
