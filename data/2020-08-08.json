@@ -166,5 +166,13 @@
     "username": "happydog926",
     "password": "scrabble",
     "invokedAt": "2020-08-08T20:00:51.265Z"
+  },
+  {
+    "firstName": "Marianne",
+    "lastName": "Kirchhof",
+    "email": "marianne.kirchhof@example.com",
+    "username": "smallpanda614",
+    "password": "kathryn",
+    "invokedAt": "2020-08-08T21:00:53.908Z"
   }
 ]
