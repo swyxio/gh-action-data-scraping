@@ -182,5 +182,13 @@
     "username": "organicmeercat363",
     "password": "resident",
     "invokedAt": "2020-08-08T22:00:48.413Z"
+  },
+  {
+    "firstName": "Burim",
+    "lastName": "Roche",
+    "email": "burim.roche@example.com",
+    "username": "smalldog902",
+    "password": "flex",
+    "invokedAt": "2020-08-08T23:00:49.672Z"
   }
 ]
