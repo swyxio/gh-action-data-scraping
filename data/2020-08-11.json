@@ -182,5 +182,13 @@
     "username": "blueduck905",
     "password": "moreno",
     "invokedAt": "2020-08-11T22:00:55.341Z"
+  },
+  {
+    "firstName": "Gisele",
+    "lastName": "da Rosa",
+    "email": "gisele.darosa@example.com",
+    "username": "silversnake999",
+    "password": "clouds",
+    "invokedAt": "2020-08-11T23:00:44.361Z"
   }
 ]
