@@ -126,5 +126,13 @@
     "username": "yellowmouse307",
     "password": "cyclones",
     "invokedAt": "2020-08-11T15:01:02.306Z"
+  },
+  {
+    "firstName": "Deni",
+    "lastName": "Van der Voorden",
+    "email": "deni.vandervoorden@example.com",
+    "username": "bigwolf707",
+    "password": "deng",
+    "invokedAt": "2020-08-11T16:00:42.434Z"
   }
 ]
