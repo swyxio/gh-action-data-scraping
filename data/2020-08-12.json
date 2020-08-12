@@ -102,5 +102,13 @@
     "username": "yellowostrich590",
     "password": "happy",
     "invokedAt": "2020-08-12T13:00:49.527Z"
+  },
+  {
+    "firstName": "Graciano",
+    "lastName": "Araújo",
+    "email": "graciano.araujo@example.com",
+    "username": "lazybear697",
+    "password": "starligh",
+    "invokedAt": "2020-08-12T14:00:56.395Z"
   }
 ]
