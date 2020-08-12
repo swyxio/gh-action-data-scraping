@@ -14,5 +14,13 @@
     "username": "blueladybug484",
     "password": "storm1",
     "invokedAt": "2020-08-12T01:00:36.324Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Brown",
+    "email": "adam.brown@example.com",
+    "username": "organicduck361",
+    "password": "bluebell",
+    "invokedAt": "2020-08-12T03:00:48.614Z"
   }
 ]
