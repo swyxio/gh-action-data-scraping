@@ -70,5 +70,13 @@
     "username": "purplewolf187",
     "password": "knicks",
     "invokedAt": "2020-08-12T09:01:06.302Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Moulin",
+    "email": "clara.moulin@example.com",
+    "username": "smallbird486",
+    "password": "blowfish",
+    "invokedAt": "2020-08-12T10:00:54.388Z"
   }
 ]
