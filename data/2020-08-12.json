@@ -22,5 +22,13 @@
     "username": "organicduck361",
     "password": "bluebell",
     "invokedAt": "2020-08-12T03:00:48.614Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Poulsen",
+    "email": "marcus.poulsen@example.com",
+    "username": "organicpanda712",
+    "password": "hal9000",
+    "invokedAt": "2020-08-12T04:00:47.834Z"
   }
 ]
