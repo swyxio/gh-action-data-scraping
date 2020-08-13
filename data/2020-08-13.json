@@ -78,5 +78,13 @@
     "username": "bluekoala992",
     "password": "jungle",
     "invokedAt": "2020-08-13T09:00:48.557Z"
+  },
+  {
+    "firstName": "Jaimey",
+    "lastName": "Van Teijlingen",
+    "email": "jaimey.vanteijlingen@example.com",
+    "username": "crazygoose326",
+    "password": "reaper",
+    "invokedAt": "2020-08-13T10:01:05.746Z"
   }
 ]
