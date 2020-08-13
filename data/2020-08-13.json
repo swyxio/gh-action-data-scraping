@@ -158,5 +158,13 @@
     "username": "bigrabbit189",
     "password": "zippy",
     "invokedAt": "2020-08-13T19:00:41.712Z"
+  },
+  {
+    "firstName": "Javier",
+    "lastName": "Herrero",
+    "email": "javier.herrero@example.com",
+    "username": "silverdog468",
+    "password": "mystery",
+    "invokedAt": "2020-08-13T20:00:49.317Z"
   }
 ]
