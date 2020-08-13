@@ -62,5 +62,13 @@
     "username": "purplegorilla339",
     "password": "stretch",
     "invokedAt": "2020-08-13T07:00:47.322Z"
+  },
+  {
+    "firstName": "Malin",
+    "lastName": "Nyquist",
+    "email": "malin.nyquist@example.com",
+    "username": "lazybear768",
+    "password": "eleven",
+    "invokedAt": "2020-08-13T08:00:42.355Z"
   }
 ]
