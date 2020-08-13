@@ -166,5 +166,13 @@
     "username": "silverdog468",
     "password": "mystery",
     "invokedAt": "2020-08-13T20:00:49.317Z"
+  },
+  {
+    "firstName": "Dimitri",
+    "lastName": "Ulbrich",
+    "email": "dimitri.ulbrich@example.com",
+    "username": "browngoose524",
+    "password": "cameron1",
+    "invokedAt": "2020-08-13T21:00:56.742Z"
   }
 ]
