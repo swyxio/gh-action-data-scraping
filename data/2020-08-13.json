@@ -126,5 +126,13 @@
     "username": "beautifultiger289",
     "password": "1michael",
     "invokedAt": "2020-08-13T15:00:54.790Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Harrison",
+    "email": "vincent.harrison@example.com",
+    "username": "blackfrog761",
+    "password": "deaths",
+    "invokedAt": "2020-08-13T16:00:54.649Z"
   }
 ]
