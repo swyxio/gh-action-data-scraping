@@ -118,5 +118,13 @@
     "username": "goldenladybug591",
     "password": "mets",
     "invokedAt": "2020-08-14T14:00:51.211Z"
+  },
+  {
+    "firstName": "Michiel",
+    "lastName": "Van de Louw",
+    "email": "michiel.vandelouw@example.com",
+    "username": "brownbear449",
+    "password": "torres",
+    "invokedAt": "2020-08-14T15:00:42.495Z"
   }
 ]
