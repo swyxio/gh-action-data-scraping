@@ -182,5 +182,13 @@
     "username": "silvercat584",
     "password": "gangster",
     "invokedAt": "2020-08-14T22:00:57.609Z"
+  },
+  {
+    "firstName": "Tilde",
+    "lastName": "Pedersen",
+    "email": "tilde.pedersen@example.com",
+    "username": "orangecat708",
+    "password": "wildfire",
+    "invokedAt": "2020-08-14T23:01:04.768Z"
   }
 ]
