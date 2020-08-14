@@ -102,5 +102,13 @@
     "username": "purplemeercat840",
     "password": "weezer",
     "invokedAt": "2020-08-14T12:00:58.676Z"
+  },
+  {
+    "firstName": "Ross",
+    "lastName": "Neuteboom",
+    "email": "ross.neuteboom@example.com",
+    "username": "brownswan737",
+    "password": "hitler",
+    "invokedAt": "2020-08-14T13:00:33.411Z"
   }
 ]
