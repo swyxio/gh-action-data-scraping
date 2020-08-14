@@ -142,5 +142,13 @@
     "username": "bluepanda166",
     "password": "silence",
     "invokedAt": "2020-08-14T17:01:03.671Z"
+  },
+  {
+    "firstName": "Christina",
+    "lastName": "Versteijnen",
+    "email": "christina.versteijnen@example.com",
+    "username": "bigdog598",
+    "password": "done",
+    "invokedAt": "2020-08-14T18:00:49.346Z"
   }
 ]
