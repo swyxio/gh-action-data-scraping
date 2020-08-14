@@ -54,5 +54,13 @@
     "username": "angrysnake314",
     "password": "italy",
     "invokedAt": "2020-08-14T06:00:40.429Z"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "Banks",
+    "email": "cassandra.banks@example.com",
+    "username": "blackbear954",
+    "password": "horton",
+    "invokedAt": "2020-08-14T07:00:54.131Z"
   }
 ]
