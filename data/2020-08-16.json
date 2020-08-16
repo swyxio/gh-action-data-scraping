@@ -86,5 +86,13 @@
     "username": "beautifulfish585",
     "password": "laser",
     "invokedAt": "2020-08-16T10:00:37.589Z"
+  },
+  {
+    "firstName": "Rudolph",
+    "lastName": "Kübler",
+    "email": "rudolph.kubler@example.com",
+    "username": "tinytiger736",
+    "password": "military",
+    "invokedAt": "2020-08-16T11:00:50.362Z"
   }
 ]
