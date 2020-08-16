@@ -54,5 +54,13 @@
     "username": "orangemeercat846",
     "password": "fluffy",
     "invokedAt": "2020-08-16T06:00:50.378Z"
+  },
+  {
+    "firstName": "Garance",
+    "lastName": "Meyer",
+    "email": "garance.meyer@example.com",
+    "username": "lazymeercat552",
+    "password": "edward",
+    "invokedAt": "2020-08-16T07:01:01.604Z"
   }
 ]
