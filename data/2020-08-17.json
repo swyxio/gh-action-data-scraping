@@ -166,5 +166,13 @@
     "username": "silverfish222",
     "password": "reebok",
     "invokedAt": "2020-08-17T20:00:53.720Z"
+  },
+  {
+    "firstName": "Manuela",
+    "lastName": "Cruz",
+    "email": "manuela.cruz@example.com",
+    "username": "goldenbird994",
+    "password": "heat",
+    "invokedAt": "2020-08-17T21:00:46.476Z"
   }
 ]
