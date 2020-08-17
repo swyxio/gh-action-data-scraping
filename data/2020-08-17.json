@@ -182,5 +182,13 @@
     "username": "purplegoose485",
     "password": "horn",
     "invokedAt": "2020-08-17T22:00:58.375Z"
+  },
+  {
+    "firstName": "Frank-Peter",
+    "lastName": "Matheis",
+    "email": "frank-peter.matheis@example.com",
+    "username": "orangefrog959",
+    "password": "pinball",
+    "invokedAt": "2020-08-17T23:01:05.925Z"
   }
 ]
