@@ -102,5 +102,13 @@
     "username": "silvergorilla892",
     "password": "tarpon",
     "invokedAt": "2020-08-18T12:00:44.874Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Chambers",
+    "email": "isaac.chambers@example.com",
+    "username": "whitedog248",
+    "password": "gogo",
+    "invokedAt": "2020-08-18T13:01:00.342Z"
   }
 ]
