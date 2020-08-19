@@ -126,5 +126,13 @@
     "username": "happyduck298",
     "password": "picher",
     "invokedAt": "2020-08-19T15:00:43.341Z"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Jacobs",
+    "email": "tyler.jacobs@example.com",
+    "username": "smallduck954",
+    "password": "yankees2",
+    "invokedAt": "2020-08-19T16:00:47.552Z"
   }
 ]
