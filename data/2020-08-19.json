@@ -94,5 +94,13 @@
     "username": "smallduck171",
     "password": "smart1",
     "invokedAt": "2020-08-19T11:00:43.234Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Salminen",
+    "email": "toivo.salminen@example.com",
+    "username": "purpleswan143",
+    "password": "hopper",
+    "invokedAt": "2020-08-19T12:00:50.518Z"
   }
 ]
