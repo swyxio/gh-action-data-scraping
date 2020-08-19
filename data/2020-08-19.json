@@ -102,5 +102,13 @@
     "username": "purpleswan143",
     "password": "hopper",
     "invokedAt": "2020-08-19T12:00:50.518Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Peters",
+    "email": "jenny.peters@example.com",
+    "username": "blackbutterfly721",
+    "password": "biology",
+    "invokedAt": "2020-08-19T13:00:38.369Z"
   }
 ]
