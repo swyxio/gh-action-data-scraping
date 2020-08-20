@@ -110,5 +110,13 @@
     "username": "smallcat647",
     "password": "band",
     "invokedAt": "2020-08-20T13:00:46.490Z"
+  },
+  {
+    "firstName": "Waltraut",
+    "lastName": "Hoyer",
+    "email": "waltraut.hoyer@example.com",
+    "username": "angrysnake122",
+    "password": "banger",
+    "invokedAt": "2020-08-20T14:01:02.588Z"
   }
 ]
