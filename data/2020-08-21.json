@@ -94,5 +94,13 @@
     "username": "sadfrog443",
     "password": "start",
     "invokedAt": "2020-08-21T11:00:43.422Z"
+  },
+  {
+    "firstName": "Maurice",
+    "lastName": "Hoffman",
+    "email": "maurice.hoffman@example.com",
+    "username": "blackleopard854",
+    "password": "system",
+    "invokedAt": "2020-08-21T12:00:42.367Z"
   }
 ]
