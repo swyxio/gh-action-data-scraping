@@ -134,5 +134,13 @@
     "username": "smallduck456",
     "password": "feeling",
     "invokedAt": "2020-08-21T16:00:52.298Z"
+  },
+  {
+    "firstName": "Murat",
+    "lastName": "Gümüşpala",
+    "email": "murat.gumuspala@example.com",
+    "username": "sadmouse336",
+    "password": "beauty",
+    "invokedAt": "2020-08-21T17:00:48.205Z"
   }
 ]
