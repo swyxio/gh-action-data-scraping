@@ -150,5 +150,13 @@
     "username": "ticklishdog190",
     "password": "123asd",
     "invokedAt": "2020-08-22T18:00:46.667Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Turner",
+    "email": "matilda.turner@example.com",
+    "username": "crazyduck958",
+    "password": "mets",
+    "invokedAt": "2020-08-22T19:00:49.708Z"
   }
 ]
