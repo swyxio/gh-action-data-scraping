@@ -86,5 +86,13 @@
     "username": "bigrabbit177",
     "password": "shojou",
     "invokedAt": "2020-08-23T10:00:46.815Z"
+  },
+  {
+    "firstName": "Johanne",
+    "lastName": "Andersen",
+    "email": "johanne.andersen@example.com",
+    "username": "purpletiger910",
+    "password": "onelove",
+    "invokedAt": "2020-08-23T11:00:45.074Z"
   }
 ]
