@@ -174,5 +174,13 @@
     "username": "brownsnake330",
     "password": "alexandr",
     "invokedAt": "2020-08-23T21:00:51.680Z"
+  },
+  {
+    "firstName": "Catherine",
+    "lastName": "Freeman",
+    "email": "catherine.freeman@example.com",
+    "username": "blackfrog474",
+    "password": "fighting",
+    "invokedAt": "2020-08-23T22:00:40.540Z"
   }
 ]
