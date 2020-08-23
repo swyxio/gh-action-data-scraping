@@ -38,5 +38,13 @@
     "username": "organicbird637",
     "password": "blacks",
     "invokedAt": "2020-08-23T04:00:46.686Z"
+  },
+  {
+    "firstName": "Ryder",
+    "lastName": "Chan",
+    "email": "ryder.chan@example.com",
+    "username": "lazygoose241",
+    "password": "droopy",
+    "invokedAt": "2020-08-23T05:00:50.368Z"
   }
 ]
