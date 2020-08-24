@@ -126,5 +126,13 @@
     "username": "beautifultiger866",
     "password": "testibil",
     "invokedAt": "2020-08-24T15:00:52.627Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Bergeron",
+    "email": "matthew.bergeron@example.com",
+    "username": "greenzebra979",
+    "password": "napoleon",
+    "invokedAt": "2020-08-24T16:00:50.345Z"
   }
 ]
