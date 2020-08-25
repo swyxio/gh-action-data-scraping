@@ -166,5 +166,13 @@
     "username": "goldengoose913",
     "password": "ncc1701d",
     "invokedAt": "2020-08-25T20:00:39.435Z"
+  },
+  {
+    "firstName": "Rói",
+    "lastName": "Santos",
+    "email": "roi.santos@example.com",
+    "username": "beautifulduck101",
+    "password": "hawkeyes",
+    "invokedAt": "2020-08-25T21:00:47.468Z"
   }
 ]
