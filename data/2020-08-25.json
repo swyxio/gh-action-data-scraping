@@ -126,5 +126,13 @@
     "username": "lazydog274",
     "password": "ticklish",
     "invokedAt": "2020-08-25T15:01:02.296Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Novak",
+    "email": "noah.novak@example.com",
+    "username": "lazyzebra359",
+    "password": "pyramid",
+    "invokedAt": "2020-08-25T16:00:47.270Z"
   }
 ]
