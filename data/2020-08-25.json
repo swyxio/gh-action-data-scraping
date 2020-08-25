@@ -70,5 +70,13 @@
     "username": "angryduck250",
     "password": "987654321",
     "invokedAt": "2020-08-25T08:00:44.646Z"
+  },
+  {
+    "firstName": "Pitágoras",
+    "lastName": "da Cunha",
+    "email": "pitagoras.dacunha@example.com",
+    "username": "heavyrabbit732",
+    "password": "gareth",
+    "invokedAt": "2020-08-25T09:00:52.337Z"
   }
 ]
