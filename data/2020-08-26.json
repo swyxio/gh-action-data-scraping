@@ -86,5 +86,13 @@
     "username": "blackmeercat798",
     "password": "treefrog",
     "invokedAt": "2020-08-26T10:01:35.782Z"
+  },
+  {
+    "firstName": "Zackary",
+    "lastName": "Scott",
+    "email": "zackary.scott@example.com",
+    "username": "bluemouse883",
+    "password": "pudding",
+    "invokedAt": "2020-08-26T11:00:40.316Z"
   }
 ]
