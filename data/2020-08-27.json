@@ -30,5 +30,13 @@
     "username": "happydog922",
     "password": "chambers",
     "invokedAt": "2020-08-27T03:00:52.253Z"
+  },
+  {
+    "firstName": "Moustapha",
+    "lastName": "Schuitema",
+    "email": "moustapha.schuitema@example.com",
+    "username": "angrytiger489",
+    "password": "brittany",
+    "invokedAt": "2020-08-27T04:00:56.333Z"
   }
 ]
