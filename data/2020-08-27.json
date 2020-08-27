@@ -142,5 +142,13 @@
     "username": "crazycat406",
     "password": "misfit",
     "invokedAt": "2020-08-27T17:00:46.630Z"
+  },
+  {
+    "firstName": "Antonius",
+    "lastName": "Dunker",
+    "email": "antonius.dunker@example.com",
+    "username": "silverelephant663",
+    "password": "dragonfl",
+    "invokedAt": "2020-08-27T18:00:56.015Z"
   }
 ]
