@@ -86,5 +86,13 @@
     "username": "silverfish261",
     "password": "villa",
     "invokedAt": "2020-08-29T10:01:06.908Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Brown",
+    "email": "henry.brown@example.com",
+    "username": "crazywolf464",
+    "password": "bubble",
+    "invokedAt": "2020-08-29T11:00:41.660Z"
   }
 ]
