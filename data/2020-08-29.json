@@ -110,5 +110,13 @@
     "username": "sadduck877",
     "password": "malaka",
     "invokedAt": "2020-08-29T13:00:53.730Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Elçiboğa",
+    "email": "gokhan.elciboga@example.com",
+    "username": "browncat311",
+    "password": "tsunami",
+    "invokedAt": "2020-08-29T14:00:56.309Z"
   }
 ]
