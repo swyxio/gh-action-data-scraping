@@ -86,5 +86,13 @@
     "username": "lazybutterfly685",
     "password": "pitch",
     "invokedAt": "2020-08-30T10:00:54.286Z"
+  },
+  {
+    "firstName": "Heinz-Otto",
+    "lastName": "Müller",
+    "email": "heinz-otto.muller@example.com",
+    "username": "beautifulostrich825",
+    "password": "zero",
+    "invokedAt": "2020-08-30T11:01:03.336Z"
   }
 ]
