@@ -142,5 +142,13 @@
     "username": "greengorilla700",
     "password": "cleopatr",
     "invokedAt": "2020-08-30T17:00:54.483Z"
+  },
+  {
+    "firstName": "Abdullah",
+    "lastName": "Pilz",
+    "email": "abdullah.pilz@example.com",
+    "username": "beautifulgorilla979",
+    "password": "niners",
+    "invokedAt": "2020-08-30T18:00:35.554Z"
   }
 ]
