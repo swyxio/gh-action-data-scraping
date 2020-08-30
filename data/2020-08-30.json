@@ -174,5 +174,13 @@
     "username": "redtiger552",
     "password": "usmarine",
     "invokedAt": "2020-08-30T21:00:56.009Z"
+  },
+  {
+    "firstName": "Nolan",
+    "lastName": "Gauthier",
+    "email": "nolan.gauthier@example.com",
+    "username": "yellowgoose890",
+    "password": "reddwarf",
+    "invokedAt": "2020-08-30T22:00:46.242Z"
   }
 ]
