@@ -70,5 +70,13 @@
     "username": "lazypeacock864",
     "password": "project",
     "invokedAt": "2020-08-30T08:00:32.446Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Baardsen",
+    "email": "matthew.baardsen@example.com",
+    "username": "orangepeacock527",
+    "password": "xing",
+    "invokedAt": "2020-08-30T09:00:47.095Z"
   }
 ]
