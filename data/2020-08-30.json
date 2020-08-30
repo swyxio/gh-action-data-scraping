@@ -78,5 +78,13 @@
     "username": "orangepeacock527",
     "password": "xing",
     "invokedAt": "2020-08-30T09:00:47.095Z"
+  },
+  {
+    "firstName": "Ramon",
+    "lastName": "Ramirez",
+    "email": "ramon.ramirez@example.com",
+    "username": "lazybutterfly685",
+    "password": "pitch",
+    "invokedAt": "2020-08-30T10:00:54.286Z"
   }
 ]
