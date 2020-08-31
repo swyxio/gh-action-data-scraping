@@ -174,5 +174,13 @@
     "username": "organicbird269",
     "password": "11111",
     "invokedAt": "2020-08-31T21:00:57.471Z"
+  },
+  {
+    "firstName": "Cory",
+    "lastName": "Dean",
+    "email": "cory.dean@example.com",
+    "username": "organicfish397",
+    "password": "redfish",
+    "invokedAt": "2020-08-31T22:00:45.541Z"
   }
 ]
