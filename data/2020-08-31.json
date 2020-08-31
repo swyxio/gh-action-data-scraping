@@ -30,5 +30,13 @@
     "username": "crazypanda832",
     "password": "sweden",
     "invokedAt": "2020-08-31T03:00:52.592Z"
+  },
+  {
+    "firstName": "Odd",
+    "lastName": "Fredheim",
+    "email": "odd.fredheim@example.com",
+    "username": "lazybear612",
+    "password": "catnip",
+    "invokedAt": "2020-08-31T04:00:38.628Z"
   }
 ]
