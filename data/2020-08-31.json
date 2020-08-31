@@ -142,5 +142,13 @@
     "username": "bluewolf682",
     "password": "chess",
     "invokedAt": "2020-08-31T17:00:54.475Z"
+  },
+  {
+    "firstName": "Anja",
+    "lastName": "Thorsrud",
+    "email": "anja.thorsrud@example.com",
+    "username": "greenpeacock202",
+    "password": "hurricane",
+    "invokedAt": "2020-08-31T18:00:42.538Z"
   }
 ]
