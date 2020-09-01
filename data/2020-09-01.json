@@ -150,5 +150,13 @@
     "username": "brownladybug281",
     "password": "zoom",
     "invokedAt": "2020-09-01T18:01:02.443Z"
+  },
+  {
+    "firstName": "Frederikke",
+    "lastName": "Jørgensen",
+    "email": "frederikke.jorgensen@example.com",
+    "username": "brownwolf388",
+    "password": "short",
+    "invokedAt": "2020-09-01T19:00:58.679Z"
   }
 ]
