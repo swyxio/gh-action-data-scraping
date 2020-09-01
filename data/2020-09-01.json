@@ -158,5 +158,13 @@
     "username": "brownwolf388",
     "password": "short",
     "invokedAt": "2020-09-01T19:00:58.679Z"
+  },
+  {
+    "firstName": "Phoebe",
+    "lastName": "Martin",
+    "email": "phoebe.martin@example.com",
+    "username": "orangemeercat100",
+    "password": "blackout",
+    "invokedAt": "2020-09-01T20:00:48.206Z"
   }
 ]
