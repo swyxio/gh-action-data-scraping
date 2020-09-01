@@ -166,5 +166,13 @@
     "username": "orangemeercat100",
     "password": "blackout",
     "invokedAt": "2020-09-01T20:00:48.206Z"
+  },
+  {
+    "firstName": "Graziëlla",
+    "lastName": "Vroegh",
+    "email": "graziella.vroegh@example.com",
+    "username": "bluecat895",
+    "password": "skater",
+    "invokedAt": "2020-09-01T21:00:54.346Z"
   }
 ]
