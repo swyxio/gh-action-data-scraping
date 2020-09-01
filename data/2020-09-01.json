@@ -86,5 +86,13 @@
     "username": "ticklishzebra183",
     "password": "talbot",
     "invokedAt": "2020-09-01T10:00:37.480Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Vega",
+    "email": "fernando.vega@example.com",
+    "username": "purplebutterfly282",
+    "password": "christy",
+    "invokedAt": "2020-09-01T11:00:51.955Z"
   }
 ]
