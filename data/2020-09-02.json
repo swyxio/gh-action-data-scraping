@@ -110,5 +110,13 @@
     "username": "beautifullion381",
     "password": "classics",
     "invokedAt": "2020-09-02T13:00:38.411Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Jørgensen",
+    "email": "oscar.jorgensen@example.com",
+    "username": "sadfrog449",
+    "password": "sparkle",
+    "invokedAt": "2020-09-02T14:01:00.864Z"
   }
 ]
