@@ -182,5 +182,13 @@
     "username": "yellowostrich898",
     "password": "wrestler",
     "invokedAt": "2020-09-02T22:00:36.339Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Cruz",
+    "email": "robin.cruz@example.com",
+    "username": "bluegorilla542",
+    "password": "backdoor",
+    "invokedAt": "2020-09-02T23:00:44.517Z"
   }
 ]
