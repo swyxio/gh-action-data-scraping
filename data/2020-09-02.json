@@ -118,5 +118,13 @@
     "username": "sadfrog449",
     "password": "sparkle",
     "invokedAt": "2020-09-02T14:01:00.864Z"
+  },
+  {
+    "firstName": "Célestin",
+    "lastName": "Leclercq",
+    "email": "celestin.leclercq@example.com",
+    "username": "crazypanda370",
+    "password": "zanzibar",
+    "invokedAt": "2020-09-02T15:01:02.231Z"
   }
 ]
