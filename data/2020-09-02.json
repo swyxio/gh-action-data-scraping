@@ -6,5 +6,13 @@
     "username": "blackrabbit236",
     "password": "bond",
     "invokedAt": "2020-09-02T00:01:16.613Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Lopez",
+    "email": "alberto.lopez@example.com",
+    "username": "crazygorilla492",
+    "password": "dynamite",
+    "invokedAt": "2020-09-02T01:00:37.604Z"
   }
 ]
