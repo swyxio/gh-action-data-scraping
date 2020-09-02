@@ -94,5 +94,13 @@
     "username": "whitefish784",
     "password": "thunder",
     "invokedAt": "2020-09-02T11:00:37.694Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Korpela",
+    "email": "lauri.korpela@example.com",
+    "username": "redswan700",
+    "password": "shonuf",
+    "invokedAt": "2020-09-02T12:00:54.736Z"
   }
 ]
