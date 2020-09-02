@@ -126,5 +126,13 @@
     "username": "crazypanda370",
     "password": "zanzibar",
     "invokedAt": "2020-09-02T15:01:02.231Z"
+  },
+  {
+    "firstName": "Ronald",
+    "lastName": "Allen",
+    "email": "ronald.allen@example.com",
+    "username": "yellowpanda550",
+    "password": "bacardi",
+    "invokedAt": "2020-09-02T16:00:47.775Z"
   }
 ]
