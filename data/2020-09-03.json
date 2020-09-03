@@ -22,5 +22,13 @@
     "username": "yellowbear906",
     "password": "ontario",
     "invokedAt": "2020-09-03T02:00:35.142Z"
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "Johnston",
+    "email": "stanley.johnston@example.com",
+    "username": "lazyfish947",
+    "password": "marathon",
+    "invokedAt": "2020-09-03T03:00:42.647Z"
   }
 ]
