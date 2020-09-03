@@ -62,5 +62,13 @@
     "username": "bluegorilla907",
     "password": "vancouve",
     "invokedAt": "2020-09-03T07:01:00.070Z"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Walker",
+    "email": "caleb.walker@example.com",
+    "username": "smallpeacock146",
+    "password": "keenan",
+    "invokedAt": "2020-09-03T08:00:58.963Z"
   }
 ]
