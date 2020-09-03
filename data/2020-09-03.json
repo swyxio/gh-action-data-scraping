@@ -46,5 +46,13 @@
     "username": "bigfrog887",
     "password": "fast",
     "invokedAt": "2020-09-03T05:01:01.771Z"
+  },
+  {
+    "firstName": "Josefa",
+    "lastName": "da Luz",
+    "email": "josefa.daluz@example.com",
+    "username": "bluebear333",
+    "password": "ihateyou",
+    "invokedAt": "2020-09-03T06:01:10.815Z"
   }
 ]
