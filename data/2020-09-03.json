@@ -134,5 +134,13 @@
     "username": "yellowtiger639",
     "password": "5329",
     "invokedAt": "2020-09-03T16:00:38.599Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Hatala",
+    "email": "rasmus.hatala@example.com",
+    "username": "greenmouse503",
+    "password": "98765",
+    "invokedAt": "2020-09-03T17:00:39.276Z"
   }
 ]
