@@ -62,5 +62,13 @@
     "username": "smalltiger734",
     "password": "cartoon",
     "invokedAt": "2020-09-04T07:00:59.054Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Jensen",
+    "email": "felix.jensen@example.com",
+    "username": "sadtiger186",
+    "password": "smile1",
+    "invokedAt": "2020-09-04T08:00:55.591Z"
   }
 ]
