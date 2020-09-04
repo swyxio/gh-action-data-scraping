@@ -166,5 +166,13 @@
     "username": "smallwolf538",
     "password": "termite",
     "invokedAt": "2020-09-04T20:00:45.423Z"
+  },
+  {
+    "firstName": "Jesse",
+    "lastName": "Manner",
+    "email": "jesse.manner@example.com",
+    "username": "goldengorilla205",
+    "password": "beavis1",
+    "invokedAt": "2020-09-04T21:00:36.050Z"
   }
 ]
