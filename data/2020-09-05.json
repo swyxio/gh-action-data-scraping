@@ -110,5 +110,13 @@
     "username": "crazygorilla966",
     "password": "deluxe",
     "invokedAt": "2020-09-05T13:09:41.222Z"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Olsen",
+    "email": "frida.olsen@example.com",
+    "username": "sadelephant325",
+    "password": "showtime",
+    "invokedAt": "2020-09-05T14:01:26.493Z"
   }
 ]
