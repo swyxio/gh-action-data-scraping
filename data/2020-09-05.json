@@ -166,5 +166,13 @@
     "username": "greenzebra702",
     "password": "monopoly",
     "invokedAt": "2020-09-05T20:00:59.409Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Walker",
+    "email": "arthur.walker@example.com",
+    "username": "sadfrog540",
+    "password": "patriot",
+    "invokedAt": "2020-09-05T21:00:37.683Z"
   }
 ]
