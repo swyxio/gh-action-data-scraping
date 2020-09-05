@@ -158,5 +158,13 @@
     "username": "silverladybug248",
     "password": "devils",
     "invokedAt": "2020-09-05T19:00:58.518Z"
+  },
+  {
+    "firstName": "Andreas",
+    "lastName": "Poulsen",
+    "email": "andreas.poulsen@example.com",
+    "username": "greenzebra702",
+    "password": "monopoly",
+    "invokedAt": "2020-09-05T20:00:59.409Z"
   }
 ]
