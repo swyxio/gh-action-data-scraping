@@ -78,5 +78,13 @@
     "username": "happygorilla910",
     "password": "zapper",
     "invokedAt": "2020-09-08T09:00:46.527Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Carpenter",
+    "email": "tom.carpenter@example.com",
+    "username": "brownfish452",
+    "password": "smile1",
+    "invokedAt": "2020-09-08T10:00:59.031Z"
   }
 ]
