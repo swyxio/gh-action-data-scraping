@@ -38,5 +38,13 @@
     "username": "beautifulelephant223",
     "password": "qwertyu",
     "invokedAt": "2020-09-08T04:00:33.305Z"
+  },
+  {
+    "firstName": "Erin",
+    "lastName": "Perry",
+    "email": "erin.perry@example.com",
+    "username": "angryostrich267",
+    "password": "disco",
+    "invokedAt": "2020-09-08T05:00:45.406Z"
   }
 ]
