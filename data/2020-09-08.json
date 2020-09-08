@@ -166,5 +166,13 @@
     "username": "yellowpeacock969",
     "password": "tribble",
     "invokedAt": "2020-09-08T20:00:55.103Z"
+  },
+  {
+    "firstName": "Loïc",
+    "lastName": "Perrin",
+    "email": "loic.perrin@example.com",
+    "username": "heavybird223",
+    "password": "piano",
+    "invokedAt": "2020-09-08T21:00:46.551Z"
   }
 ]
