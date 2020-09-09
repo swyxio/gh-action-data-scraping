@@ -142,5 +142,13 @@
     "username": "angrypanda413",
     "password": "pinky1",
     "invokedAt": "2020-09-09T17:01:04.180Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Madsen",
+    "email": "oscar.madsen@example.com",
+    "username": "ticklishbutterfly514",
+    "password": "bigpimp",
+    "invokedAt": "2020-09-09T18:00:57.552Z"
   }
 ]
