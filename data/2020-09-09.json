@@ -46,5 +46,13 @@
     "username": "greenzebra516",
     "password": "clifton",
     "invokedAt": "2020-09-09T05:00:45.354Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Stone",
+    "email": "sergio.stone@example.com",
+    "username": "organicbear784",
+    "password": "bartman",
+    "invokedAt": "2020-09-09T06:00:41.340Z"
   }
 ]
