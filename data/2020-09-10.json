@@ -126,5 +126,13 @@
     "username": "beautifuldog264",
     "password": "catwoman",
     "invokedAt": "2020-09-10T15:01:07.505Z"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Da Silva",
+    "email": "tony.dasilva@example.com",
+    "username": "orangekoala940",
+    "password": "1993",
+    "invokedAt": "2020-09-10T16:01:02.590Z"
   }
 ]
