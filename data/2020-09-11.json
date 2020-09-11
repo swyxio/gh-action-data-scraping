@@ -166,5 +166,13 @@
     "username": "bluewolf480",
     "password": "bbbb",
     "invokedAt": "2020-09-11T20:00:43.949Z"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Wells",
+    "email": "ian.wells@example.com",
+    "username": "brownbutterfly784",
+    "password": "skiing",
+    "invokedAt": "2020-09-11T21:00:46.299Z"
   }
 ]
