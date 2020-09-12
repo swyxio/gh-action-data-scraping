@@ -182,5 +182,13 @@
     "username": "greenmeercat582",
     "password": "tricky",
     "invokedAt": "2020-09-12T22:00:54.552Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Başoğlu",
+    "email": "fatih.basoglu@example.com",
+    "username": "smallbutterfly382",
+    "password": "cecilia",
+    "invokedAt": "2020-09-12T23:01:05.869Z"
   }
 ]
