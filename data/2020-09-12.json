@@ -142,5 +142,13 @@
     "username": "whitegoose429",
     "password": "flash",
     "invokedAt": "2020-09-12T17:00:38.284Z"
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Steward",
+    "email": "carol.steward@example.com",
+    "username": "purplepeacock824",
+    "password": "redbone",
+    "invokedAt": "2020-09-12T18:00:39.350Z"
   }
 ]
