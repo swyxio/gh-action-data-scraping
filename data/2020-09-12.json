@@ -118,5 +118,13 @@
     "username": "beautifulsnake749",
     "password": "0007",
     "invokedAt": "2020-09-12T14:01:02.373Z"
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Dupuis",
+    "email": "alicia.dupuis@example.com",
+    "username": "beautifulduck311",
+    "password": "race",
+    "invokedAt": "2020-09-12T15:00:32.491Z"
   }
 ]
