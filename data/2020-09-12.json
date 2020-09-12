@@ -166,5 +166,13 @@
     "username": "happygoose734",
     "password": "volkswag",
     "invokedAt": "2020-09-12T20:00:53.966Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Hansen",
+    "email": "tristan.hansen@example.com",
+    "username": "whitefrog118",
+    "password": "drowssap",
+    "invokedAt": "2020-09-12T21:00:48.440Z"
   }
 ]
