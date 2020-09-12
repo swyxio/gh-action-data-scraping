@@ -102,5 +102,13 @@
     "username": "bigwolf394",
     "password": "paintbal",
     "invokedAt": "2020-09-12T12:00:52.363Z"
+  },
+  {
+    "firstName": "Jen",
+    "lastName": "Russell",
+    "email": "jen.russell@example.com",
+    "username": "bigmeercat886",
+    "password": "season",
+    "invokedAt": "2020-09-12T13:00:41.642Z"
   }
 ]
