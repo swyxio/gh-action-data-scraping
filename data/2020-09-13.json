@@ -78,5 +78,13 @@
     "username": "goldenfish208",
     "password": "funky",
     "invokedAt": "2020-09-13T09:00:54.874Z"
+  },
+  {
+    "firstName": "Amelija",
+    "lastName": "Sjølie",
+    "email": "amelija.sjolie@example.com",
+    "username": "tinyleopard412",
+    "password": "zipper",
+    "invokedAt": "2020-09-13T10:00:59.448Z"
   }
 ]
