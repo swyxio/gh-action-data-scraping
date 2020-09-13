@@ -6,5 +6,13 @@
     "username": "crazyrabbit182",
     "password": "shelter",
     "invokedAt": "2020-09-13T00:01:21.121Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Foster",
+    "email": "tom.foster@example.com",
+    "username": "crazybutterfly709",
+    "password": "redbone",
+    "invokedAt": "2020-09-13T01:08:18.484Z"
   }
 ]
