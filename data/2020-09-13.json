@@ -86,5 +86,13 @@
     "username": "tinyleopard412",
     "password": "zipper",
     "invokedAt": "2020-09-13T10:00:59.448Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Roy",
+    "email": "lucas.roy@example.com",
+    "username": "yellowbutterfly423",
+    "password": "broken",
+    "invokedAt": "2020-09-13T11:01:01.319Z"
   }
 ]
