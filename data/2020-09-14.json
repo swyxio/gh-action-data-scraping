@@ -158,5 +158,13 @@
     "username": "whiteleopard351",
     "password": "stones",
     "invokedAt": "2020-09-14T19:00:52.072Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Luoma",
+    "email": "emma.luoma@example.com",
+    "username": "tinyleopard596",
+    "password": "4040",
+    "invokedAt": "2020-09-14T20:00:46.406Z"
   }
 ]
