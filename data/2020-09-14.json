@@ -54,5 +54,13 @@
     "username": "silverfrog973",
     "password": "beckham",
     "invokedAt": "2020-09-14T06:00:49.699Z"
+  },
+  {
+    "firstName": "Francisco",
+    "lastName": "Vargas",
+    "email": "francisco.vargas@example.com",
+    "username": "smallbear613",
+    "password": "matrix1",
+    "invokedAt": "2020-09-14T07:00:43.986Z"
   }
 ]
