@@ -174,5 +174,13 @@
     "username": "happyfish225",
     "password": "playmate",
     "invokedAt": "2020-09-14T21:01:15.554Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Walker",
+    "email": "sofia.walker@example.com",
+    "username": "purplezebra420",
+    "password": "michelle",
+    "invokedAt": "2020-09-14T22:00:43.136Z"
   }
 ]
