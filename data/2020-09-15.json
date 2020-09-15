@@ -102,5 +102,13 @@
     "username": "blackgoose542",
     "password": "theone",
     "invokedAt": "2020-09-15T12:00:45.735Z"
+  },
+  {
+    "firstName": "Aléxia",
+    "lastName": "da Costa",
+    "email": "alexia.dacosta@example.com",
+    "username": "redbird826",
+    "password": "cancel",
+    "invokedAt": "2020-09-15T13:00:50.937Z"
   }
 ]
