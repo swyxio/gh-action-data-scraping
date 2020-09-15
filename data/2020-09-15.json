@@ -62,5 +62,13 @@
     "username": "happywolf960",
     "password": "snoop",
     "invokedAt": "2020-09-15T07:00:53.504Z"
+  },
+  {
+    "firstName": "Murat",
+    "lastName": "Çağıran",
+    "email": "murat.cagiran@example.com",
+    "username": "lazyswan395",
+    "password": "akira",
+    "invokedAt": "2020-09-15T08:01:02.434Z"
   }
 ]
