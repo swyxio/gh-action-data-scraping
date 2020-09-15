@@ -182,5 +182,13 @@
     "username": "smalltiger352",
     "password": "penny",
     "invokedAt": "2020-09-15T22:00:56.932Z"
+  },
+  {
+    "firstName": "Giray",
+    "lastName": "Poyrazoğlu",
+    "email": "giray.poyrazoglu@example.com",
+    "username": "redelephant841",
+    "password": "shelly",
+    "invokedAt": "2020-09-15T23:01:01.623Z"
   }
 ]
