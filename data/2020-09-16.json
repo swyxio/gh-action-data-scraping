@@ -142,5 +142,13 @@
     "username": "brownswan324",
     "password": "qwertyu",
     "invokedAt": "2020-09-16T17:01:01.601Z"
+  },
+  {
+    "firstName": "Jarne",
+    "lastName": "Van Meijl",
+    "email": "jarne.vanmeijl@example.com",
+    "username": "bluefrog582",
+    "password": "squeak",
+    "invokedAt": "2020-09-16T18:01:01.679Z"
   }
 ]
