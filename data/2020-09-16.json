@@ -78,5 +78,13 @@
     "username": "silverdog839",
     "password": "airport",
     "invokedAt": "2020-09-16T09:00:51.689Z"
+  },
+  {
+    "firstName": "Norman",
+    "lastName": "Douglas",
+    "email": "norman.douglas@example.com",
+    "username": "angrybird200",
+    "password": "seadoo",
+    "invokedAt": "2020-09-16T10:00:48.071Z"
   }
 ]
