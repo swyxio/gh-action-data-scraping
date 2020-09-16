@@ -54,5 +54,13 @@
     "username": "happybear171",
     "password": "trance",
     "invokedAt": "2020-09-16T06:00:39.486Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Kantola",
+    "email": "miro.kantola@example.com",
+    "username": "happykoala403",
+    "password": "pierce",
+    "invokedAt": "2020-09-16T07:00:32.673Z"
   }
 ]
