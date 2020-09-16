@@ -134,5 +134,13 @@
     "username": "goldentiger616",
     "password": "blacks",
     "invokedAt": "2020-09-16T16:01:09.201Z"
+  },
+  {
+    "firstName": "Debra",
+    "lastName": "Murray",
+    "email": "debra.murray@example.com",
+    "username": "brownswan324",
+    "password": "qwertyu",
+    "invokedAt": "2020-09-16T17:01:01.601Z"
   }
 ]
