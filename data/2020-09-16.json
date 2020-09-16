@@ -102,5 +102,13 @@
     "username": "silverostrich842",
     "password": "abc12345",
     "invokedAt": "2020-09-16T12:00:45.539Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Madsen",
+    "email": "philip.madsen@example.com",
+    "username": "organicbear972",
+    "password": "ursitesux",
+    "invokedAt": "2020-09-16T13:00:41.541Z"
   }
 ]
