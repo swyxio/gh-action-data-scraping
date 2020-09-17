@@ -14,5 +14,13 @@
     "username": "sadpanda811",
     "password": "deputy",
     "invokedAt": "2020-09-17T01:07:18.471Z"
+  },
+  {
+    "firstName": "Gloria",
+    "lastName": "Fernandez",
+    "email": "gloria.fernandez@example.com",
+    "username": "sadlion320",
+    "password": "barefoot",
+    "invokedAt": "2020-09-17T02:00:45.563Z"
   }
 ]
