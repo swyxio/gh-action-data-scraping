@@ -62,5 +62,13 @@
     "username": "orangeostrich720",
     "password": "bonehead",
     "invokedAt": "2020-09-19T07:00:34.522Z"
+  },
+  {
+    "firstName": "Daniela",
+    "lastName": "Dumont",
+    "email": "daniela.dumont@example.com",
+    "username": "purplefish445",
+    "password": "limited",
+    "invokedAt": "2020-09-19T08:00:43.290Z"
   }
 ]
