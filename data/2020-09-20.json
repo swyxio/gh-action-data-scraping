@@ -158,5 +158,13 @@
     "username": "browntiger298",
     "password": "1a2b3c4d",
     "invokedAt": "2020-09-20T19:00:49.408Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Hannula",
+    "email": "matilda.hannula@example.com",
+    "username": "redkoala250",
+    "password": "bootsie",
+    "invokedAt": "2020-09-20T20:00:55.564Z"
   }
 ]
