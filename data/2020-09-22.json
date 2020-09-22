@@ -110,5 +110,13 @@
     "username": "purplebird409",
     "password": "glotest",
     "invokedAt": "2020-09-22T13:01:00.760Z"
+  },
+  {
+    "firstName": "Samir",
+    "lastName": "da Conceição",
+    "email": "samir.daconceicao@example.com",
+    "username": "blackduck643",
+    "password": "jets",
+    "invokedAt": "2020-09-22T14:00:40.302Z"
   }
 ]
