@@ -102,5 +102,13 @@
     "username": "saddog975",
     "password": "checker",
     "invokedAt": "2020-09-22T12:00:55.791Z"
+  },
+  {
+    "firstName": "Lucius",
+    "lastName": "Biersteker",
+    "email": "lucius.biersteker@example.com",
+    "username": "purplebird409",
+    "password": "glotest",
+    "invokedAt": "2020-09-22T13:01:00.760Z"
   }
 ]
