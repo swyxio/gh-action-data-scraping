@@ -150,5 +150,13 @@
     "username": "brownkoala803",
     "password": "epsilon",
     "invokedAt": "2020-09-23T18:00:36.465Z"
+  },
+  {
+    "firstName": "Aquila",
+    "lastName": "da Costa",
+    "email": "aquila.dacosta@example.com",
+    "username": "crazydog229",
+    "password": "chocolat",
+    "invokedAt": "2020-09-23T19:00:49.196Z"
   }
 ]
