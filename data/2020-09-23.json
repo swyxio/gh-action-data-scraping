@@ -94,5 +94,13 @@
     "username": "purplewolf207",
     "password": "groups",
     "invokedAt": "2020-09-23T11:00:45.609Z"
+  },
+  {
+    "firstName": "Klara",
+    "lastName": "Legrand",
+    "email": "klara.legrand@example.com",
+    "username": "blackfish239",
+    "password": "bears",
+    "invokedAt": "2020-09-23T12:00:58.422Z"
   }
 ]
