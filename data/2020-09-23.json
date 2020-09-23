@@ -166,5 +166,13 @@
     "username": "sadfish762",
     "password": "thong",
     "invokedAt": "2020-09-23T20:01:09.549Z"
+  },
+  {
+    "firstName": "Trinidad",
+    "lastName": "Marquez",
+    "email": "trinidad.marquez@example.com",
+    "username": "angrytiger450",
+    "password": "kane",
+    "invokedAt": "2020-09-23T21:00:42.539Z"
   }
 ]
