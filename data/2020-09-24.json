@@ -158,5 +158,13 @@
     "username": "redpeacock416",
     "password": "clover",
     "invokedAt": "2020-09-24T19:01:06.388Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Landmark",
+    "email": "jonas.landmark@example.com",
+    "username": "angrypanda513",
+    "password": "random",
+    "invokedAt": "2020-09-24T20:00:57.666Z"
   }
 ]
