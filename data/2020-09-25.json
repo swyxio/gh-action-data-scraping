@@ -166,5 +166,13 @@
     "username": "silverbear145",
     "password": "rogue",
     "invokedAt": "2020-09-25T20:00:55.380Z"
+  },
+  {
+    "firstName": "Agustin",
+    "lastName": "Garrido",
+    "email": "agustin.garrido@example.com",
+    "username": "brownsnake658",
+    "password": "bomb",
+    "invokedAt": "2020-09-25T21:00:54.485Z"
   }
 ]
