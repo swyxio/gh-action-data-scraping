@@ -126,5 +126,13 @@
     "username": "greendog107",
     "password": "ghetto",
     "invokedAt": "2020-09-25T15:00:38.384Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Sørensen",
+    "email": "mikkel.sorensen@example.com",
+    "username": "angryfish850",
+    "password": "qweasd",
+    "invokedAt": "2020-09-25T16:00:41.283Z"
   }
 ]
