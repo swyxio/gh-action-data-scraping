@@ -86,5 +86,13 @@
     "username": "greenzebra853",
     "password": "paragon",
     "invokedAt": "2020-09-25T10:00:43.232Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Barbier",
+    "email": "mathias.barbier@example.com",
+    "username": "goldenleopard810",
+    "password": "maxell",
+    "invokedAt": "2020-09-25T11:00:35.369Z"
   }
 ]
