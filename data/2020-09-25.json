@@ -14,5 +14,13 @@
     "username": "orangefrog287",
     "password": "canon",
     "invokedAt": "2020-09-25T01:10:40.630Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Riley",
+    "email": "jerry.riley@example.com",
+    "username": "orangepanda369",
+    "password": "usarmy",
+    "invokedAt": "2020-09-25T02:00:40.466Z"
   }
 ]
