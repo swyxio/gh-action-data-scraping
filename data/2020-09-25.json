@@ -94,5 +94,13 @@
     "username": "goldenleopard810",
     "password": "maxell",
     "invokedAt": "2020-09-25T11:00:35.369Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Moreau",
+    "email": "diego.moreau@example.com",
+    "username": "smallwolf815",
+    "password": "hardrock",
+    "invokedAt": "2020-09-25T12:00:43.622Z"
   }
 ]
