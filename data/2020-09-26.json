@@ -94,5 +94,13 @@
     "username": "orangepeacock400",
     "password": "screen",
     "invokedAt": "2020-09-26T11:00:44.877Z"
+  },
+  {
+    "firstName": "Laila",
+    "lastName": "Kirkeby",
+    "email": "laila.kirkeby@example.com",
+    "username": "orangeostrich595",
+    "password": "orchard",
+    "invokedAt": "2020-09-26T12:00:46.341Z"
   }
 ]
