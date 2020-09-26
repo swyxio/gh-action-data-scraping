@@ -182,5 +182,13 @@
     "username": "yellowtiger598",
     "password": "duffman",
     "invokedAt": "2020-09-26T22:00:33.456Z"
+  },
+  {
+    "firstName": "Iida",
+    "lastName": "Peltola",
+    "email": "iida.peltola@example.com",
+    "username": "redzebra164",
+    "password": "moreno",
+    "invokedAt": "2020-09-26T23:01:00.473Z"
   }
 ]
