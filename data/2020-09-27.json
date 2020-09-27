@@ -38,5 +38,13 @@
     "username": "happybird314",
     "password": "qwer1234",
     "invokedAt": "2020-09-27T04:00:53.742Z"
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Gray",
+    "email": "melvin.gray@example.com",
+    "username": "yellowpeacock471",
+    "password": "suicide",
+    "invokedAt": "2020-09-27T05:01:00.515Z"
   }
 ]
