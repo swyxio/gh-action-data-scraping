@@ -174,5 +174,13 @@
     "username": "organicdog131",
     "password": "sandiego",
     "invokedAt": "2020-09-27T21:00:44.585Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Riviere",
+    "email": "maxime.riviere@example.com",
+    "username": "bigfrog506",
+    "password": "cowgirl",
+    "invokedAt": "2020-09-27T22:00:49.540Z"
   }
 ]
