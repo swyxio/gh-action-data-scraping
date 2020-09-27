@@ -166,5 +166,13 @@
     "username": "bigbird281",
     "password": "sticks",
     "invokedAt": "2020-09-27T20:00:38.441Z"
+  },
+  {
+    "firstName": "Beau",
+    "lastName": "Patel",
+    "email": "beau.patel@example.com",
+    "username": "organicdog131",
+    "password": "sandiego",
+    "invokedAt": "2020-09-27T21:00:44.585Z"
   }
 ]
