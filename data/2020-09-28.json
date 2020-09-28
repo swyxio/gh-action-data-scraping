@@ -158,5 +158,13 @@
     "username": "smallladybug542",
     "password": "sport",
     "invokedAt": "2020-09-28T19:00:43.381Z"
+  },
+  {
+    "firstName": "Çetin",
+    "lastName": "Kavaklıoğlu",
+    "email": "cetin.kavaklioglu@example.com",
+    "username": "blackdog743",
+    "password": "1228",
+    "invokedAt": "2020-09-28T20:01:07.396Z"
   }
 ]
