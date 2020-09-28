@@ -118,5 +118,13 @@
     "username": "sadrabbit391",
     "password": "tiny",
     "invokedAt": "2020-09-28T14:00:49.151Z"
+  },
+  {
+    "firstName": "Milla",
+    "lastName": "Koivisto",
+    "email": "milla.koivisto@example.com",
+    "username": "lazyrabbit766",
+    "password": "baylor",
+    "invokedAt": "2020-09-28T15:00:51.018Z"
   }
 ]
