@@ -70,5 +70,13 @@
     "username": "greenfish994",
     "password": "clevelan",
     "invokedAt": "2020-09-28T08:00:44.515Z"
+  },
+  {
+    "firstName": "Téo",
+    "lastName": "Giraud",
+    "email": "teo.giraud@example.com",
+    "username": "beautifulkoala933",
+    "password": "wildcard",
+    "invokedAt": "2020-09-28T09:00:49.301Z"
   }
 ]
