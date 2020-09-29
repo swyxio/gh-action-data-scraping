@@ -86,5 +86,13 @@
     "username": "smalldog283",
     "password": "meatball",
     "invokedAt": "2020-09-29T10:00:42.320Z"
+  },
+  {
+    "firstName": "Jostein",
+    "lastName": "Grøstad",
+    "email": "jostein.grostad@example.com",
+    "username": "angryswan356",
+    "password": "sandiego",
+    "invokedAt": "2020-09-29T11:00:47.648Z"
   }
 ]
