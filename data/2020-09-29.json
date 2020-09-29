@@ -134,5 +134,13 @@
     "username": "tinyfish819",
     "password": "fitness",
     "invokedAt": "2020-09-29T16:01:18.764Z"
+  },
+  {
+    "firstName": "Katie",
+    "lastName": "Evans",
+    "email": "katie.evans@example.com",
+    "username": "greenbear995",
+    "password": "tester",
+    "invokedAt": "2020-09-29T17:00:46.505Z"
   }
 ]
