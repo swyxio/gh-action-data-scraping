@@ -150,5 +150,13 @@
     "username": "orangekoala986",
     "password": "westside",
     "invokedAt": "2020-09-30T18:00:44.996Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Limoncuoğlu",
+    "email": "coskun.limoncuoglu@example.com",
+    "username": "purplerabbit709",
+    "password": "logger",
+    "invokedAt": "2020-09-30T20:01:04.056Z"
   }
 ]
