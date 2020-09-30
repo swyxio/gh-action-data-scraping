@@ -54,5 +54,13 @@
     "username": "brownbird483",
     "password": "flash1",
     "invokedAt": "2020-09-30T06:00:39.343Z"
+  },
+  {
+    "firstName": "Carolina",
+    "lastName": "Da Silva",
+    "email": "carolina.dasilva@example.com",
+    "username": "silverpanda118",
+    "password": "smart",
+    "invokedAt": "2020-09-30T07:01:12.705Z"
   }
 ]
