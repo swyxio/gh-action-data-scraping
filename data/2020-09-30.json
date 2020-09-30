@@ -62,5 +62,13 @@
     "username": "silverpanda118",
     "password": "smart",
     "invokedAt": "2020-09-30T07:01:12.705Z"
+  },
+  {
+    "firstName": "Meral",
+    "lastName": "Özkara",
+    "email": "meral.ozkara@example.com",
+    "username": "browngoose381",
+    "password": "concorde",
+    "invokedAt": "2020-09-30T08:01:00.705Z"
   }
 ]
