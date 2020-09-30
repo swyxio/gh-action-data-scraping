@@ -110,5 +110,13 @@
     "username": "lazymeercat775",
     "password": "admin",
     "invokedAt": "2020-09-30T13:01:09.547Z"
+  },
+  {
+    "firstName": "Fatma",
+    "lastName": "Nebioğlu",
+    "email": "fatma.nebioglu@example.com",
+    "username": "ticklishgoose553",
+    "password": "whitey",
+    "invokedAt": "2020-09-30T14:01:14.919Z"
   }
 ]
