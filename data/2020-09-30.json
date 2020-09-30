@@ -94,5 +94,13 @@
     "username": "whiteduck864",
     "password": "bubbles",
     "invokedAt": "2020-09-30T11:01:04.479Z"
+  },
+  {
+    "firstName": "Belinda",
+    "lastName": "Zöllner",
+    "email": "belinda.zollner@example.com",
+    "username": "smallbear113",
+    "password": "hall",
+    "invokedAt": "2020-09-30T12:00:53.527Z"
   }
 ]
