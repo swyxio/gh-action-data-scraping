@@ -158,5 +158,13 @@
     "username": "bigduck148",
     "password": "eagles1",
     "invokedAt": "2020-10-01T19:00:35.444Z"
+  },
+  {
+    "firstName": "Ondino",
+    "lastName": "Rocha",
+    "email": "ondino.rocha@example.com",
+    "username": "angryfish850",
+    "password": "yahoo",
+    "invokedAt": "2020-10-01T20:00:42.282Z"
   }
 ]
