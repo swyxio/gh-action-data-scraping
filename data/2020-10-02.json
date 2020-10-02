@@ -134,5 +134,13 @@
     "username": "crazyleopard196",
     "password": "elvira",
     "invokedAt": "2020-10-02T16:00:55.667Z"
+  },
+  {
+    "firstName": "Nelli",
+    "lastName": "Salminen",
+    "email": "nelli.salminen@example.com",
+    "username": "smallgorilla111",
+    "password": "trailers",
+    "invokedAt": "2020-10-02T17:00:46.390Z"
   }
 ]
