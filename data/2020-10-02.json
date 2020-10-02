@@ -86,5 +86,13 @@
     "username": "blueleopard761",
     "password": "boston1",
     "invokedAt": "2020-10-02T10:00:49.496Z"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "da Conceição",
+    "email": "marcos.daconceicao@example.com",
+    "username": "browntiger982",
+    "password": "juicy",
+    "invokedAt": "2020-10-02T11:00:39.774Z"
   }
 ]
