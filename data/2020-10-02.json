@@ -38,5 +38,13 @@
     "username": "bluebear375",
     "password": "7777",
     "invokedAt": "2020-10-02T04:00:58.500Z"
+  },
+  {
+    "firstName": "Chester",
+    "lastName": "Craig",
+    "email": "chester.craig@example.com",
+    "username": "orangemouse187",
+    "password": "divx1",
+    "invokedAt": "2020-10-02T05:00:45.599Z"
   }
 ]
