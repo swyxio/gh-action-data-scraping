@@ -46,5 +46,13 @@
     "username": "orangemouse187",
     "password": "divx1",
     "invokedAt": "2020-10-02T05:00:45.599Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Johansen",
+    "email": "anton.johansen@example.com",
+    "username": "silvertiger707",
+    "password": "insertions",
+    "invokedAt": "2020-10-02T06:00:56.849Z"
   }
 ]
