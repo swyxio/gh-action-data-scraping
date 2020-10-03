@@ -166,5 +166,13 @@
     "username": "blackladybug359",
     "password": "seeker",
     "invokedAt": "2020-10-03T20:00:56.762Z"
+  },
+  {
+    "firstName": "Hector",
+    "lastName": "Palmer",
+    "email": "hector.palmer@example.com",
+    "username": "ticklishbear977",
+    "password": "cheater",
+    "invokedAt": "2020-10-03T21:01:00.159Z"
   }
 ]
