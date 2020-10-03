@@ -158,5 +158,13 @@
     "username": "beautifulpanda912",
     "password": "marathon",
     "invokedAt": "2020-10-03T19:00:52.718Z"
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "White",
+    "email": "jackson.white@example.com",
+    "username": "blackladybug359",
+    "password": "seeker",
+    "invokedAt": "2020-10-03T20:00:56.762Z"
   }
 ]
