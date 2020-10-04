@@ -166,5 +166,13 @@
     "username": "beautifuldog355",
     "password": "stone1",
     "invokedAt": "2020-10-04T21:00:58.530Z"
+  },
+  {
+    "firstName": "Romane",
+    "lastName": "Giraud",
+    "email": "romane.giraud@example.com",
+    "username": "greenelephant822",
+    "password": "blazers",
+    "invokedAt": "2020-10-04T22:00:36.076Z"
   }
 ]
