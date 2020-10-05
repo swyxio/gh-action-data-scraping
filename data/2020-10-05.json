@@ -158,5 +158,13 @@
     "username": "brownbear151",
     "password": "flying",
     "invokedAt": "2020-10-05T19:00:39.541Z"
+  },
+  {
+    "firstName": "Sonia",
+    "lastName": "Richardson",
+    "email": "sonia.richardson@example.com",
+    "username": "blackgorilla801",
+    "password": "chickens",
+    "invokedAt": "2020-10-05T20:00:54.368Z"
   }
 ]
