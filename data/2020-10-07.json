@@ -86,5 +86,13 @@
     "username": "brownkoala233",
     "password": "freeze",
     "invokedAt": "2020-10-07T10:00:51.268Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Madsen",
+    "email": "alfred.madsen@example.com",
+    "username": "ticklishmeercat520",
+    "password": "rootbeer",
+    "invokedAt": "2020-10-07T11:00:35.428Z"
   }
 ]
