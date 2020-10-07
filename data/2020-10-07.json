@@ -158,5 +158,13 @@
     "username": "bigbear733",
     "password": "billybob",
     "invokedAt": "2020-10-07T19:00:44.416Z"
+  },
+  {
+    "firstName": "Canan",
+    "lastName": "Brink",
+    "email": "canan.brink@example.com",
+    "username": "sadostrich168",
+    "password": "freeze",
+    "invokedAt": "2020-10-07T20:00:40.183Z"
   }
 ]
