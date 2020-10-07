@@ -182,5 +182,13 @@
     "username": "angrywolf829",
     "password": "vector",
     "invokedAt": "2020-10-07T22:00:42.105Z"
+  },
+  {
+    "firstName": "Enrique",
+    "lastName": "Black",
+    "email": "enrique.black@example.com",
+    "username": "lazyfish242",
+    "password": "717171",
+    "invokedAt": "2020-10-07T23:00:53.381Z"
   }
 ]
