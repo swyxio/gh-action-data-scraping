@@ -166,5 +166,13 @@
     "username": "crazybutterfly493",
     "password": "cbr900rr",
     "invokedAt": "2020-10-08T21:00:39.742Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Walker",
+    "email": "aaron.walker@example.com",
+    "username": "redgorilla395",
+    "password": "marie",
+    "invokedAt": "2020-10-08T22:01:04.844Z"
   }
 ]
