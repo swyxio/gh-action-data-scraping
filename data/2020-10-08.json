@@ -142,5 +142,13 @@
     "username": "blackmouse922",
     "password": "irving",
     "invokedAt": "2020-10-08T18:00:50.373Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Sirko",
+    "email": "charles.sirko@example.com",
+    "username": "blacksnake550",
+    "password": "toad",
+    "invokedAt": "2020-10-08T19:00:46.589Z"
   }
 ]
