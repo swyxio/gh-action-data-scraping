@@ -86,5 +86,13 @@
     "username": "crazyostrich555",
     "password": "bootsie",
     "invokedAt": "2020-10-08T10:00:59.895Z"
+  },
+  {
+    "firstName": "Gerhardt",
+    "lastName": "Franz",
+    "email": "gerhardt.franz@example.com",
+    "username": "greenelephant112",
+    "password": "hookem",
+    "invokedAt": "2020-10-08T11:00:37.904Z"
   }
 ]
