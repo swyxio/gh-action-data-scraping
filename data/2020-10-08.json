@@ -94,5 +94,13 @@
     "username": "greenelephant112",
     "password": "hookem",
     "invokedAt": "2020-10-08T11:00:37.904Z"
+  },
+  {
+    "firstName": "Elia",
+    "lastName": "Laurent",
+    "email": "elia.laurent@example.com",
+    "username": "bigbutterfly137",
+    "password": "cooldude",
+    "invokedAt": "2020-10-08T12:00:56.843Z"
   }
 ]
