@@ -158,5 +158,13 @@
     "username": "orangedog111",
     "password": "surfing",
     "invokedAt": "2020-10-08T20:01:10.336Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Martin",
+    "email": "sofia.martin@example.com",
+    "username": "crazybutterfly493",
+    "password": "cbr900rr",
+    "invokedAt": "2020-10-08T21:00:39.742Z"
   }
 ]
