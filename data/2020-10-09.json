@@ -182,5 +182,13 @@
     "username": "bigmeercat293",
     "password": "salmon",
     "invokedAt": "2020-10-09T22:00:49.763Z"
+  },
+  {
+    "firstName": "Esma",
+    "lastName": "Kunt",
+    "email": "esma.kunt@example.com",
+    "username": "purplepanda911",
+    "password": "spunk",
+    "invokedAt": "2020-10-09T23:00:58.838Z"
   }
 ]
