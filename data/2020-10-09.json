@@ -94,5 +94,13 @@
     "username": "greenkoala621",
     "password": "energy",
     "invokedAt": "2020-10-09T11:01:00.360Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Teixeira",
+    "email": "bruce.teixeira@example.com",
+    "username": "crazybutterfly649",
+    "password": "sarah",
+    "invokedAt": "2020-10-09T12:00:59.705Z"
   }
 ]
