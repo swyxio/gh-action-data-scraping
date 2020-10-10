@@ -94,5 +94,13 @@
     "username": "tinyladybug724",
     "password": "hammer",
     "invokedAt": "2020-10-10T11:00:49.435Z"
+  },
+  {
+    "firstName": "Natalia",
+    "lastName": "Vazquez",
+    "email": "natalia.vazquez@example.com",
+    "username": "blackbird733",
+    "password": "clint",
+    "invokedAt": "2020-10-10T12:00:55.353Z"
   }
 ]
