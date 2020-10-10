@@ -158,5 +158,13 @@
     "username": "brownbutterfly276",
     "password": "aquarius",
     "invokedAt": "2020-10-10T19:00:42.671Z"
+  },
+  {
+    "firstName": "Angèle",
+    "lastName": "Dubois",
+    "email": "angele.dubois@example.com",
+    "username": "silverbird453",
+    "password": "einstein",
+    "invokedAt": "2020-10-10T20:00:50.489Z"
   }
 ]
