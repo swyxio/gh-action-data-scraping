@@ -126,5 +126,13 @@
     "username": "tinybear372",
     "password": "oblivion",
     "invokedAt": "2020-10-10T15:00:44.124Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Peura",
+    "email": "miro.peura@example.com",
+    "username": "orangebear583",
+    "password": "oedipus",
+    "invokedAt": "2020-10-10T16:00:58.618Z"
   }
 ]
