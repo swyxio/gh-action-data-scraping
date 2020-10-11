@@ -182,5 +182,13 @@
     "username": "greenladybug181",
     "password": "leedsutd",
     "invokedAt": "2020-10-11T22:01:01.498Z"
+  },
+  {
+    "firstName": "Freya",
+    "lastName": "Sørheim",
+    "email": "freya.sorheim@example.com",
+    "username": "lazyladybug198",
+    "password": "celeb",
+    "invokedAt": "2020-10-11T23:00:43.485Z"
   }
 ]
