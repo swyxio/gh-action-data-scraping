@@ -86,5 +86,13 @@
     "username": "happyfish184",
     "password": "duffer",
     "invokedAt": "2020-10-11T10:01:03.232Z"
+  },
+  {
+    "firstName": "Onni",
+    "lastName": "Lahti",
+    "email": "onni.lahti@example.com",
+    "username": "bluelion954",
+    "password": "1225",
+    "invokedAt": "2020-10-11T11:00:45.478Z"
   }
 ]
