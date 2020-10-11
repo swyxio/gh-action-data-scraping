@@ -62,5 +62,13 @@
     "username": "tinyostrich370",
     "password": "express",
     "invokedAt": "2020-10-11T07:00:48.426Z"
+  },
+  {
+    "firstName": "Esperanza",
+    "lastName": "Marquez",
+    "email": "esperanza.marquez@example.com",
+    "username": "greenbutterfly824",
+    "password": "victoria",
+    "invokedAt": "2020-10-11T08:01:00.550Z"
   }
 ]
