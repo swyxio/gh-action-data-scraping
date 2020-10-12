@@ -38,5 +38,13 @@
     "username": "lazymouse991",
     "password": "sports",
     "invokedAt": "2020-10-12T04:00:49.610Z"
+  },
+  {
+    "firstName": "Garibaldo",
+    "lastName": "Farias",
+    "email": "garibaldo.farias@example.com",
+    "username": "yellowleopard200",
+    "password": "antelope",
+    "invokedAt": "2020-10-12T05:00:40.549Z"
   }
 ]
