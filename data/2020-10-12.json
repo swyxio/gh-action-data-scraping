@@ -94,5 +94,13 @@
     "username": "crazysnake646",
     "password": "1001",
     "invokedAt": "2020-10-12T11:00:52.226Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Dumont",
+    "email": "louis.dumont@example.com",
+    "username": "silvermeercat225",
+    "password": "brother",
+    "invokedAt": "2020-10-12T12:00:58.276Z"
   }
 ]
