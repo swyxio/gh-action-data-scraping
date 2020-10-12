@@ -126,5 +126,13 @@
     "username": "lazygoose144",
     "password": "hampton",
     "invokedAt": "2020-10-12T15:00:54.490Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Nalbantoğlu",
+    "email": "emre.nalbantoglu@example.com",
+    "username": "bigleopard944",
+    "password": "ccccc",
+    "invokedAt": "2020-10-12T16:00:47.676Z"
   }
 ]
