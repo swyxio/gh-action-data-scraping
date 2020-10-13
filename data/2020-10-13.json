@@ -14,5 +14,13 @@
     "username": "purpleswan292",
     "password": "maryland",
     "invokedAt": "2020-10-13T01:20:08.218Z"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Collins",
+    "email": "erik.collins@example.com",
+    "username": "sadswan447",
+    "password": "kitten",
+    "invokedAt": "2020-10-13T02:00:46.536Z"
   }
 ]
