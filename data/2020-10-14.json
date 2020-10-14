@@ -182,5 +182,13 @@
     "username": "beautifulbird119",
     "password": "galeries",
     "invokedAt": "2020-10-14T22:00:58.709Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Kivisto",
+    "email": "kasper.kivisto@example.com",
+    "username": "blackmeercat541",
+    "password": "wolverine",
+    "invokedAt": "2020-10-14T23:00:59.683Z"
   }
 ]
