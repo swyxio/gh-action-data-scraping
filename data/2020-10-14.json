@@ -126,5 +126,13 @@
     "username": "lazybutterfly148",
     "password": "cascade",
     "invokedAt": "2020-10-14T15:00:55.632Z"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Tekelioğlu",
+    "email": "ayse.tekelioglu@example.com",
+    "username": "happygorilla944",
+    "password": "brandy",
+    "invokedAt": "2020-10-14T16:01:20.025Z"
   }
 ]
