@@ -38,5 +38,13 @@
     "username": "smallbird501",
     "password": "printing",
     "invokedAt": "2020-10-14T04:01:07.743Z"
+  },
+  {
+    "firstName": "Nick",
+    "lastName": "Jean",
+    "email": "nick.jean@example.com",
+    "username": "redgoose955",
+    "password": "gotyoass",
+    "invokedAt": "2020-10-14T05:01:09.182Z"
   }
 ]
