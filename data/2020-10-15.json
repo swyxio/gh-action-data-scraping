@@ -78,5 +78,13 @@
     "username": "bluewolf122",
     "password": "topdog",
     "invokedAt": "2020-10-15T09:00:49.545Z"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Bishop",
+    "email": "matt.bishop@example.com",
+    "username": "greenpanda187",
+    "password": "hotmail0",
+    "invokedAt": "2020-10-15T10:00:41.446Z"
   }
 ]
