@@ -158,5 +158,13 @@
     "username": "ticklishcat753",
     "password": "reaper",
     "invokedAt": "2020-10-15T19:00:59.401Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Gomez",
+    "email": "gabriel.gomez@example.com",
+    "username": "purplecat493",
+    "password": "jian",
+    "invokedAt": "2020-10-15T20:01:01.898Z"
   }
 ]
