@@ -182,5 +182,13 @@
     "username": "redkoala836",
     "password": "sealteam",
     "invokedAt": "2020-10-16T22:00:46.764Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Sørensen",
+    "email": "mikkel.sorensen@example.com",
+    "username": "sadrabbit637",
+    "password": "number",
+    "invokedAt": "2020-10-16T23:00:46.332Z"
   }
 ]
