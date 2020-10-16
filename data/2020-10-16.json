@@ -158,5 +158,13 @@
     "username": "greenmouse452",
     "password": "alleycat",
     "invokedAt": "2020-10-16T19:00:52.574Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Koskinen",
+    "email": "elias.koskinen@example.com",
+    "username": "organicfrog562",
+    "password": "alberto",
+    "invokedAt": "2020-10-16T20:00:48.366Z"
   }
 ]
