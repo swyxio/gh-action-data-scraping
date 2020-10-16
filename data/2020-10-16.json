@@ -134,5 +134,13 @@
     "username": "yellowmeercat100",
     "password": "earth",
     "invokedAt": "2020-10-16T16:01:00.600Z"
+  },
+  {
+    "firstName": "Onildo",
+    "lastName": "Pereira",
+    "email": "onildo.pereira@example.com",
+    "username": "silvermeercat800",
+    "password": "zildjian",
+    "invokedAt": "2020-10-16T17:00:42.638Z"
   }
 ]
