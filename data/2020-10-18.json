@@ -166,5 +166,13 @@
     "username": "redmeercat620",
     "password": "yosemite",
     "invokedAt": "2020-10-18T20:00:56.376Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Rasmussen",
+    "email": "astrid.rasmussen@example.com",
+    "username": "orangeostrich147",
+    "password": "playstat",
+    "invokedAt": "2020-10-18T21:00:46.026Z"
   }
 ]
