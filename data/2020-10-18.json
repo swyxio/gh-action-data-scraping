@@ -182,5 +182,13 @@
     "username": "organicfish428",
     "password": "ready",
     "invokedAt": "2020-10-18T22:00:57.285Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Andersen",
+    "email": "sara.andersen@example.com",
+    "username": "orangegoose367",
+    "password": "forest",
+    "invokedAt": "2020-10-18T23:01:00.358Z"
   }
 ]
