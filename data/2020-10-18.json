@@ -134,5 +134,13 @@
     "username": "purplebird842",
     "password": "boxer",
     "invokedAt": "2020-10-18T16:00:57.657Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Guerrero",
+    "email": "fernando.guerrero@example.com",
+    "username": "whiteduck590",
+    "password": "xtreme",
+    "invokedAt": "2020-10-18T17:00:42.550Z"
   }
 ]
