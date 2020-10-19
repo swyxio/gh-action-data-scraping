@@ -158,5 +158,13 @@
     "username": "greenfish910",
     "password": "lawyer",
     "invokedAt": "2020-10-19T19:00:43.421Z"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Petersen",
+    "email": "frida.petersen@example.com",
+    "username": "beautifulmouse447",
+    "password": "renee",
+    "invokedAt": "2020-10-19T20:00:41.346Z"
   }
 ]
