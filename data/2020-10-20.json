@@ -142,5 +142,13 @@
     "username": "angrybutterfly105",
     "password": "vintage",
     "invokedAt": "2020-10-20T17:00:58.247Z"
+  },
+  {
+    "firstName": "Theresa",
+    "lastName": "Wagner",
+    "email": "theresa.wagner@example.com",
+    "username": "silvermouse704",
+    "password": "felicia",
+    "invokedAt": "2020-10-20T18:00:40.321Z"
   }
 ]
