@@ -158,5 +158,13 @@
     "username": "tinypeacock208",
     "password": "flicks",
     "invokedAt": "2020-10-20T19:00:46.867Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Dumas",
+    "email": "steve.dumas@example.com",
+    "username": "bigdog985",
+    "password": "massimo",
+    "invokedAt": "2020-10-20T20:00:43.256Z"
   }
 ]
