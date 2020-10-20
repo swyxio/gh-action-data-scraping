@@ -62,5 +62,13 @@
     "username": "ticklishbutterfly265",
     "password": "1002",
     "invokedAt": "2020-10-20T07:01:01.168Z"
+  },
+  {
+    "firstName": "Karina",
+    "lastName": "da Luz",
+    "email": "karina.daluz@example.com",
+    "username": "whitefish149",
+    "password": "2345",
+    "invokedAt": "2020-10-20T08:00:45.510Z"
   }
 ]
