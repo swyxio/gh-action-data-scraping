@@ -118,5 +118,13 @@
     "username": "browngorilla908",
     "password": "treefrog",
     "invokedAt": "2020-10-20T14:01:08.032Z"
+  },
+  {
+    "firstName": "Janice",
+    "lastName": "Fisher",
+    "email": "janice.fisher@example.com",
+    "username": "greenzebra824",
+    "password": "punch",
+    "invokedAt": "2020-10-20T15:00:49.490Z"
   }
 ]
