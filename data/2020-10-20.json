@@ -126,5 +126,13 @@
     "username": "greenzebra824",
     "password": "punch",
     "invokedAt": "2020-10-20T15:00:49.490Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Nielsen",
+    "email": "mathias.nielsen@example.com",
+    "username": "happyzebra579",
+    "password": "rangers1",
+    "invokedAt": "2020-10-20T16:00:48.645Z"
   }
 ]
