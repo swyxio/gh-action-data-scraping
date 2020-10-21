@@ -126,5 +126,13 @@
     "username": "browntiger726",
     "password": "beanie",
     "invokedAt": "2020-10-21T15:00:57.095Z"
+  },
+  {
+    "firstName": "Ömür",
+    "lastName": "Doğan",
+    "email": "omur.dogan@example.com",
+    "username": "tinyzebra352",
+    "password": "spectre",
+    "invokedAt": "2020-10-21T16:01:01.123Z"
   }
 ]
