@@ -38,5 +38,13 @@
     "username": "angrygoose620",
     "password": "spiker",
     "invokedAt": "2020-10-21T04:00:57.903Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Rasmussen",
+    "email": "sara.rasmussen@example.com",
+    "username": "happymouse943",
+    "password": "terefon",
+    "invokedAt": "2020-10-21T05:01:10.348Z"
   }
 ]
