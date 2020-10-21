@@ -118,5 +118,13 @@
     "username": "sadmeercat458",
     "password": "tophat",
     "invokedAt": "2020-10-21T14:01:01.438Z"
+  },
+  {
+    "firstName": "Paige",
+    "lastName": "Mitchell",
+    "email": "paige.mitchell@example.com",
+    "username": "browntiger726",
+    "password": "beanie",
+    "invokedAt": "2020-10-21T15:00:57.095Z"
   }
 ]
