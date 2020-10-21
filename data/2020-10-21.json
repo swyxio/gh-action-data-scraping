@@ -30,5 +30,13 @@
     "username": "purplewolf158",
     "password": "band",
     "invokedAt": "2020-10-21T03:00:39.821Z"
+  },
+  {
+    "firstName": "Eden",
+    "lastName": "Turner",
+    "email": "eden.turner@example.com",
+    "username": "angrygoose620",
+    "password": "spiker",
+    "invokedAt": "2020-10-21T04:00:57.903Z"
   }
 ]
