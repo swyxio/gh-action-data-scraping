@@ -182,5 +182,13 @@
     "username": "silverzebra322",
     "password": "manning",
     "invokedAt": "2020-10-21T22:00:59.447Z"
+  },
+  {
+    "firstName": "Fatma",
+    "lastName": "Dağdaş",
+    "email": "fatma.dagdas@example.com",
+    "username": "tinyleopard680",
+    "password": "dodger",
+    "invokedAt": "2020-10-21T23:00:53.416Z"
   }
 ]
