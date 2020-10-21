@@ -110,5 +110,13 @@
     "username": "redmeercat321",
     "password": "pooky",
     "invokedAt": "2020-10-21T13:00:54.611Z"
+  },
+  {
+    "firstName": "Maël",
+    "lastName": "Brun",
+    "email": "mael.brun@example.com",
+    "username": "sadmeercat458",
+    "password": "tophat",
+    "invokedAt": "2020-10-21T14:01:01.438Z"
   }
 ]
