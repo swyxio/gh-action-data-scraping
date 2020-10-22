@@ -174,5 +174,13 @@
     "username": "heavydog643",
     "password": "nimbus",
     "invokedAt": "2020-10-22T22:00:51.452Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Robertson",
+    "email": "ivan.robertson@example.com",
+    "username": "purplelion801",
+    "password": "jazzy",
+    "invokedAt": "2020-10-22T23:01:00.541Z"
   }
 ]
