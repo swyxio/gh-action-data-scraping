@@ -166,5 +166,13 @@
     "username": "heavycat834",
     "password": "dunbar",
     "invokedAt": "2020-10-22T21:00:38.552Z"
+  },
+  {
+    "firstName": "Matilde",
+    "lastName": "Rodriguez",
+    "email": "matilde.rodriguez@example.com",
+    "username": "heavydog643",
+    "password": "nimbus",
+    "invokedAt": "2020-10-22T22:00:51.452Z"
   }
 ]
