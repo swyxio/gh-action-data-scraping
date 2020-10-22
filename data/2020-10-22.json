@@ -158,5 +158,13 @@
     "username": "happymouse891",
     "password": "epsilon",
     "invokedAt": "2020-10-22T20:00:59.872Z"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Fisher",
+    "email": "jordan.fisher@example.com",
+    "username": "heavycat834",
+    "password": "dunbar",
+    "invokedAt": "2020-10-22T21:00:38.552Z"
   }
 ]
