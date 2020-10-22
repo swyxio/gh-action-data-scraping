@@ -54,5 +54,13 @@
     "username": "organicgoose291",
     "password": "gspot",
     "invokedAt": "2020-10-22T06:01:11.240Z"
+  },
+  {
+    "firstName": "Esteban",
+    "lastName": "Peña",
+    "email": "esteban.pena@example.com",
+    "username": "smallbear497",
+    "password": "beans",
+    "invokedAt": "2020-10-22T07:00:51.111Z"
   }
 ]
