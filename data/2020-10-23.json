@@ -142,5 +142,13 @@
     "username": "crazyzebra710",
     "password": "mother",
     "invokedAt": "2020-10-23T17:00:48.256Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Rasmussen",
+    "email": "storm.rasmussen@example.com",
+    "username": "happyzebra203",
+    "password": "bluejays",
+    "invokedAt": "2020-10-23T18:00:46.724Z"
   }
 ]
