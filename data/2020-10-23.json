@@ -38,5 +38,13 @@
     "username": "sadkoala469",
     "password": "sports",
     "invokedAt": "2020-10-23T04:01:04.241Z"
+  },
+  {
+    "firstName": "Kay",
+    "lastName": "Gonzalez",
+    "email": "kay.gonzalez@example.com",
+    "username": "heavyfrog839",
+    "password": "doomsday",
+    "invokedAt": "2020-10-23T05:00:57.679Z"
   }
 ]
