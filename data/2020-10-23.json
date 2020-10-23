@@ -158,5 +158,13 @@
     "username": "ticklishlion255",
     "password": "1125",
     "invokedAt": "2020-10-23T19:00:47.376Z"
+  },
+  {
+    "firstName": "Arquimedes",
+    "lastName": "Moura",
+    "email": "arquimedes.moura@example.com",
+    "username": "happymouse214",
+    "password": "calico",
+    "invokedAt": "2020-10-23T20:00:55.158Z"
   }
 ]
