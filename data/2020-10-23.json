@@ -62,5 +62,13 @@
     "username": "heavybird508",
     "password": "phillies",
     "invokedAt": "2020-10-23T07:00:38.337Z"
+  },
+  {
+    "firstName": "ماهان",
+    "lastName": "پارسا",
+    "email": "mhn.prs@example.com",
+    "username": "brownlion139",
+    "password": "queens",
+    "invokedAt": "2020-10-23T08:00:58.760Z"
   }
 ]
