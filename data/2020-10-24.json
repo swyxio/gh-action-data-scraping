@@ -78,5 +78,13 @@
     "username": "sadbird827",
     "password": "mariner",
     "invokedAt": "2020-10-24T09:00:50.281Z"
+  },
+  {
+    "firstName": "Noélie",
+    "lastName": "Gauthier",
+    "email": "noelie.gauthier@example.com",
+    "username": "sadfrog269",
+    "password": "newyork",
+    "invokedAt": "2020-10-24T10:00:44.686Z"
   }
 ]
