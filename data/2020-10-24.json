@@ -94,5 +94,13 @@
     "username": "angrygoose802",
     "password": "goforit",
     "invokedAt": "2020-10-24T11:00:51.508Z"
+  },
+  {
+    "firstName": "Kristian",
+    "lastName": "Walseth",
+    "email": "kristian.walseth@example.com",
+    "username": "greenswan480",
+    "password": "lumina",
+    "invokedAt": "2020-10-24T12:01:00.571Z"
   }
 ]
