@@ -134,5 +134,13 @@
     "username": "orangeduck744",
     "password": "wrestling",
     "invokedAt": "2020-10-25T16:00:56.014Z"
+  },
+  {
+    "firstName": "Evandro",
+    "lastName": "Monteiro",
+    "email": "evandro.monteiro@example.com",
+    "username": "happymeercat718",
+    "password": "1001",
+    "invokedAt": "2020-10-25T17:00:47.015Z"
   }
 ]
