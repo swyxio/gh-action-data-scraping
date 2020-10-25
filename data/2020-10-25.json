@@ -182,5 +182,13 @@
     "username": "ticklishbutterfly249",
     "password": "petunia",
     "invokedAt": "2020-10-25T22:00:47.667Z"
+  },
+  {
+    "firstName": "Konrad",
+    "lastName": "Nägele",
+    "email": "konrad.nagele@example.com",
+    "username": "beautifulcat239",
+    "password": "1969",
+    "invokedAt": "2020-10-25T23:01:01.901Z"
   }
 ]
