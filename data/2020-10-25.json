@@ -174,5 +174,13 @@
     "username": "purplefrog534",
     "password": "lucifer",
     "invokedAt": "2020-10-25T21:00:44.399Z"
+  },
+  {
+    "firstName": "Pippa",
+    "lastName": "Williams",
+    "email": "pippa.williams@example.com",
+    "username": "ticklishbutterfly249",
+    "password": "petunia",
+    "invokedAt": "2020-10-25T22:00:47.667Z"
   }
 ]
