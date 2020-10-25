@@ -126,5 +126,13 @@
     "username": "redfrog821",
     "password": "insomnia",
     "invokedAt": "2020-10-25T15:00:39.322Z"
+  },
+  {
+    "firstName": "Alberdina",
+    "lastName": "Van Diest",
+    "email": "alberdina.vandiest@example.com",
+    "username": "orangeduck744",
+    "password": "wrestling",
+    "invokedAt": "2020-10-25T16:00:56.014Z"
   }
 ]
