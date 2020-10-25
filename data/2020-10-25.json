@@ -46,5 +46,13 @@
     "username": "organicfish902",
     "password": "umbrella",
     "invokedAt": "2020-10-25T05:00:52.451Z"
+  },
+  {
+    "firstName": "Fadi",
+    "lastName": "Pijlman",
+    "email": "fadi.pijlman@example.com",
+    "username": "silversnake523",
+    "password": "cecile",
+    "invokedAt": "2020-10-25T06:01:06.533Z"
   }
 ]
