@@ -38,5 +38,13 @@
     "username": "tinyfrog649",
     "password": "nope",
     "invokedAt": "2020-10-25T04:00:54.680Z"
+  },
+  {
+    "firstName": "Murat",
+    "lastName": "Solmaz",
+    "email": "murat.solmaz@example.com",
+    "username": "organicfish902",
+    "password": "umbrella",
+    "invokedAt": "2020-10-25T05:00:52.451Z"
   }
 ]
