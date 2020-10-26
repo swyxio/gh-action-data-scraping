@@ -126,5 +126,13 @@
     "username": "smallpanda361",
     "password": "british",
     "invokedAt": "2020-10-26T15:01:05.637Z"
+  },
+  {
+    "firstName": "Fatma",
+    "lastName": "Aydan",
+    "email": "fatma.aydan@example.com",
+    "username": "crazyswan202",
+    "password": "cupoi",
+    "invokedAt": "2020-10-26T16:01:00.436Z"
   }
 ]
