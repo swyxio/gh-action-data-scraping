@@ -78,5 +78,13 @@
     "username": "tinywolf324",
     "password": "pocket",
     "invokedAt": "2020-10-26T09:00:52.315Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Nielsen",
+    "email": "lea.nielsen@example.com",
+    "username": "smallbutterfly113",
+    "password": "reggae",
+    "invokedAt": "2020-10-26T10:00:58.554Z"
   }
 ]
