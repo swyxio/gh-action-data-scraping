@@ -142,5 +142,13 @@
     "username": "orangedog220",
     "password": "marker",
     "invokedAt": "2020-10-27T17:00:51.616Z"
+  },
+  {
+    "firstName": "Willy",
+    "lastName": "Olie",
+    "email": "willy.olie@example.com",
+    "username": "yellowswan841",
+    "password": "1q2w3e4r",
+    "invokedAt": "2020-10-27T18:00:52.541Z"
   }
 ]
