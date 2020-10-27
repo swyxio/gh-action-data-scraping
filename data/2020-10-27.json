@@ -78,5 +78,13 @@
     "username": "brownzebra225",
     "password": "maxell",
     "invokedAt": "2020-10-27T09:00:55.092Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Çamdalı",
+    "email": "batur.camdali@example.com",
+    "username": "lazymeercat551",
+    "password": "monkey",
+    "invokedAt": "2020-10-27T10:00:52.495Z"
   }
 ]
