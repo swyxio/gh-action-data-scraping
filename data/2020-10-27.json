@@ -126,5 +126,13 @@
     "username": "blackmouse642",
     "password": "wallet",
     "invokedAt": "2020-10-27T15:01:12.520Z"
+  },
+  {
+    "firstName": "Isabelle",
+    "lastName": "Rogers",
+    "email": "isabelle.rogers@example.com",
+    "username": "blackbird144",
+    "password": "webster",
+    "invokedAt": "2020-10-27T16:01:29.277Z"
   }
 ]
