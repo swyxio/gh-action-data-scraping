@@ -166,5 +166,13 @@
     "username": "greendog659",
     "password": "toon",
     "invokedAt": "2020-10-28T20:00:50.525Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Jørgensen",
+    "email": "tristan.jorgensen@example.com",
+    "username": "yellowzebra661",
+    "password": "survivor",
+    "invokedAt": "2020-10-28T21:00:45.770Z"
   }
 ]
