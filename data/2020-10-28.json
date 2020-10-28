@@ -174,5 +174,13 @@
     "username": "yellowzebra661",
     "password": "survivor",
     "invokedAt": "2020-10-28T21:00:45.770Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Aalto",
+    "email": "aleksi.aalto@example.com",
+    "username": "silverkoala211",
+    "password": "morpheus",
+    "invokedAt": "2020-10-28T22:00:58.436Z"
   }
 ]
