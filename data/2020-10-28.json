@@ -158,5 +158,13 @@
     "username": "whitelion663",
     "password": "bigmoney",
     "invokedAt": "2020-10-28T19:00:43.768Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Scott",
+    "email": "tristan.scott@example.com",
+    "username": "greendog659",
+    "password": "toon",
+    "invokedAt": "2020-10-28T20:00:50.525Z"
   }
 ]
