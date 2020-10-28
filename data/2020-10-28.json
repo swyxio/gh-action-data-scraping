@@ -46,5 +46,13 @@
     "username": "yellowgorilla948",
     "password": "elway",
     "invokedAt": "2020-10-28T05:00:50.142Z"
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Moulin",
+    "email": "theo.moulin@example.com",
+    "username": "lazydog181",
+    "password": "0123456",
+    "invokedAt": "2020-10-28T06:00:43.398Z"
   }
 ]
