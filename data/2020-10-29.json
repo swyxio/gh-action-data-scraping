@@ -86,5 +86,13 @@
     "username": "orangebutterfly402",
     "password": "runner",
     "invokedAt": "2020-10-29T10:00:54.455Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Jacobs",
+    "email": "liam.jacobs@example.com",
+    "username": "redzebra534",
+    "password": "winner1",
+    "invokedAt": "2020-10-29T11:00:47.623Z"
   }
 ]
