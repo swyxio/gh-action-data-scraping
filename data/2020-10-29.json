@@ -166,5 +166,13 @@
     "username": "bigpanda378",
     "password": "twenty",
     "invokedAt": "2020-10-29T20:01:33.732Z"
+  },
+  {
+    "firstName": "Anita",
+    "lastName": "Pena",
+    "email": "anita.pena@example.com",
+    "username": "crazytiger384",
+    "password": "psycho",
+    "invokedAt": "2020-10-29T21:00:35.657Z"
   }
 ]
