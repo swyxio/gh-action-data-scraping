@@ -158,5 +158,13 @@
     "username": "bigfrog203",
     "password": "riders",
     "invokedAt": "2020-10-29T19:01:01.307Z"
+  },
+  {
+    "firstName": "Nino",
+    "lastName": "Picard",
+    "email": "nino.picard@example.com",
+    "username": "bigpanda378",
+    "password": "twenty",
+    "invokedAt": "2020-10-29T20:01:33.732Z"
   }
 ]
