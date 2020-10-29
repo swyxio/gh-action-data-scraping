@@ -150,5 +150,13 @@
     "username": "bigtiger998",
     "password": "hyperion",
     "invokedAt": "2020-10-29T18:00:55.445Z"
+  },
+  {
+    "firstName": "Chad",
+    "lastName": "Fleming",
+    "email": "chad.fleming@example.com",
+    "username": "bigfrog203",
+    "password": "riders",
+    "invokedAt": "2020-10-29T19:01:01.307Z"
   }
 ]
