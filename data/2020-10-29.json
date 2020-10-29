@@ -102,5 +102,13 @@
     "username": "sadladybug648",
     "password": "lightning",
     "invokedAt": "2020-10-29T12:00:52.571Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Eskola",
+    "email": "miro.eskola@example.com",
+    "username": "angryswan752",
+    "password": "tennis1",
+    "invokedAt": "2020-10-29T13:02:05.825Z"
   }
 ]
