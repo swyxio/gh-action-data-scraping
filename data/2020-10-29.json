@@ -94,5 +94,13 @@
     "username": "redzebra534",
     "password": "winner1",
     "invokedAt": "2020-10-29T11:00:47.623Z"
+  },
+  {
+    "firstName": "Torben",
+    "lastName": "Brustad",
+    "email": "torben.brustad@example.com",
+    "username": "sadladybug648",
+    "password": "lightning",
+    "invokedAt": "2020-10-29T12:00:52.571Z"
   }
 ]
