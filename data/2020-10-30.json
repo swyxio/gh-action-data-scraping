@@ -86,5 +86,13 @@
     "username": "goldenmeercat923",
     "password": "852456",
     "invokedAt": "2020-10-30T10:00:54.193Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Sinanoğlu",
+    "email": "afsar.sinanoglu@example.com",
+    "username": "happypanda387",
+    "password": "yankee",
+    "invokedAt": "2020-10-30T11:00:43.421Z"
   }
 ]
