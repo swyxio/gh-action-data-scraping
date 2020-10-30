@@ -38,5 +38,13 @@
     "username": "lazyrabbit630",
     "password": "piercing",
     "invokedAt": "2020-10-30T04:00:48.767Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Hansen",
+    "email": "rosa.hansen@example.com",
+    "username": "silverbird517",
+    "password": "stinky",
+    "invokedAt": "2020-10-30T05:00:58.591Z"
   }
 ]
