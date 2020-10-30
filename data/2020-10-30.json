@@ -94,5 +94,13 @@
     "username": "happypanda387",
     "password": "yankee",
     "invokedAt": "2020-10-30T11:00:43.421Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Van der Horn",
+    "email": "tristan.vanderhorn@example.com",
+    "username": "yellowwolf668",
+    "password": "mykids",
+    "invokedAt": "2020-10-30T12:00:58.819Z"
   }
 ]
