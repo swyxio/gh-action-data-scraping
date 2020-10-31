@@ -110,5 +110,13 @@
     "username": "blueduck184",
     "password": "sundance",
     "invokedAt": "2020-10-31T13:00:47.305Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Barbarosoğlu",
+    "email": "efe.barbarosoglu@example.com",
+    "username": "bluesnake619",
+    "password": "tractor",
+    "invokedAt": "2020-10-31T14:00:46.525Z"
   }
 ]
