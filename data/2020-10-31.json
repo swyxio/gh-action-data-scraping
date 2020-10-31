@@ -38,5 +38,13 @@
     "username": "beautifultiger222",
     "password": "bonbon",
     "invokedAt": "2020-10-31T04:00:47.353Z"
+  },
+  {
+    "firstName": "Brent",
+    "lastName": "Rogers",
+    "email": "brent.rogers@example.com",
+    "username": "redmeercat931",
+    "password": "hithere",
+    "invokedAt": "2020-10-31T05:00:40.261Z"
   }
 ]
