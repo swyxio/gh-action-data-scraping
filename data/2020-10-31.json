@@ -142,5 +142,13 @@
     "username": "whitewolf466",
     "password": "base",
     "invokedAt": "2020-10-31T17:00:33.780Z"
+  },
+  {
+    "firstName": "Willow",
+    "lastName": "Hall",
+    "email": "willow.hall@example.com",
+    "username": "organicgoose100",
+    "password": "hardrock",
+    "invokedAt": "2020-10-31T18:00:46.422Z"
   }
 ]
