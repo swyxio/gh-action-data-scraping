@@ -78,5 +78,13 @@
     "username": "bluebear607",
     "password": "world",
     "invokedAt": "2020-10-31T09:00:59.825Z"
+  },
+  {
+    "firstName": "Murielle",
+    "lastName": "Morel",
+    "email": "murielle.morel@example.com",
+    "username": "whitewolf556",
+    "password": "reader",
+    "invokedAt": "2020-10-31T10:01:09.438Z"
   }
 ]
