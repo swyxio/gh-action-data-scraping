@@ -150,5 +150,13 @@
     "username": "organicgoose100",
     "password": "hardrock",
     "invokedAt": "2020-10-31T18:00:46.422Z"
+  },
+  {
+    "firstName": "Phillip",
+    "lastName": "Carpenter",
+    "email": "phillip.carpenter@example.com",
+    "username": "heavytiger723",
+    "password": "marc",
+    "invokedAt": "2020-10-31T19:00:51.375Z"
   }
 ]
