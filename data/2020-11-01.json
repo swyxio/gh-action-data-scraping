@@ -158,5 +158,13 @@
     "username": "greenrabbit335",
     "password": "boricua",
     "invokedAt": "2020-11-01T19:00:59.473Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Jones",
+    "email": "sebastian.jones@example.com",
+    "username": "greenswan772",
+    "password": "coldbeer",
+    "invokedAt": "2020-11-01T20:00:36.405Z"
   }
 ]
