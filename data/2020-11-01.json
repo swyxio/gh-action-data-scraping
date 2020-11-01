@@ -118,5 +118,13 @@
     "username": "bluebird673",
     "password": "looker",
     "invokedAt": "2020-11-01T14:00:42.527Z"
+  },
+  {
+    "firstName": "Allie",
+    "lastName": "Graham",
+    "email": "allie.graham@example.com",
+    "username": "blueostrich535",
+    "password": "wallet",
+    "invokedAt": "2020-11-01T15:00:59.661Z"
   }
 ]
