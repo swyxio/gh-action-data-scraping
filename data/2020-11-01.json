@@ -110,5 +110,13 @@
     "username": "silverbear492",
     "password": "dominic",
     "invokedAt": "2020-11-01T13:01:02.603Z"
+  },
+  {
+    "firstName": "Emiliano",
+    "lastName": "Van de Veen",
+    "email": "emiliano.vandeveen@example.com",
+    "username": "bluebird673",
+    "password": "looker",
+    "invokedAt": "2020-11-01T14:00:42.527Z"
   }
 ]
