@@ -54,5 +54,13 @@
     "username": "greencat307",
     "password": "waterfal",
     "invokedAt": "2020-11-01T06:00:36.300Z"
+  },
+  {
+    "firstName": "Taylor",
+    "lastName": "Pierce",
+    "email": "taylor.pierce@example.com",
+    "username": "redwolf748",
+    "password": "sixpack",
+    "invokedAt": "2020-11-01T07:01:02.951Z"
   }
 ]
