@@ -126,5 +126,13 @@
     "username": "blueostrich535",
     "password": "wallet",
     "invokedAt": "2020-11-01T15:00:59.661Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Lawrence",
+    "email": "fred.lawrence@example.com",
+    "username": "greencat141",
+    "password": "ring",
+    "invokedAt": "2020-11-01T16:00:45.222Z"
   }
 ]
