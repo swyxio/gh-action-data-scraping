@@ -78,5 +78,13 @@
     "username": "bigrabbit157",
     "password": "bigal",
     "invokedAt": "2020-11-01T09:00:54.877Z"
+  },
+  {
+    "firstName": "Alcino",
+    "lastName": "da Cruz",
+    "email": "alcino.dacruz@example.com",
+    "username": "brownfish724",
+    "password": "killa",
+    "invokedAt": "2020-11-01T10:00:39.803Z"
   }
 ]
