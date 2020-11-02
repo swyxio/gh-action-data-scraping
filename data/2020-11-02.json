@@ -126,5 +126,13 @@
     "username": "happyrabbit642",
     "password": "slayer1",
     "invokedAt": "2020-11-02T15:00:55.885Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Fitzpatrick",
+    "email": "connor.fitzpatrick@example.com",
+    "username": "angrywolf143",
+    "password": "boating",
+    "invokedAt": "2020-11-02T16:00:44.083Z"
   }
 ]
