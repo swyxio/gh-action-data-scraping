@@ -70,5 +70,13 @@
     "username": "silvertiger773",
     "password": "premier",
     "invokedAt": "2020-11-02T08:00:58.221Z"
+  },
+  {
+    "firstName": "Natão",
+    "lastName": "Nascimento",
+    "email": "natao.nascimento@example.com",
+    "username": "angrylion144",
+    "password": "panic",
+    "invokedAt": "2020-11-02T09:01:10.472Z"
   }
 ]
