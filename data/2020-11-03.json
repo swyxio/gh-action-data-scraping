@@ -30,5 +30,13 @@
     "username": "whitesnake304",
     "password": "scotland",
     "invokedAt": "2020-11-03T03:00:42.309Z"
+  },
+  {
+    "firstName": "Noelia",
+    "lastName": "Moseng",
+    "email": "noelia.moseng@example.com",
+    "username": "blackrabbit909",
+    "password": "pocket",
+    "invokedAt": "2020-11-03T04:00:38.414Z"
   }
 ]
