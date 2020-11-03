@@ -134,5 +134,13 @@
     "username": "greensnake812",
     "password": "frogger",
     "invokedAt": "2020-11-03T16:02:01.559Z"
+  },
+  {
+    "firstName": "Jerome",
+    "lastName": "Shaw",
+    "email": "jerome.shaw@example.com",
+    "username": "bigduck599",
+    "password": "playstat",
+    "invokedAt": "2020-11-03T17:00:48.108Z"
   }
 ]
