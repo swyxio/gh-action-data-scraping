@@ -54,5 +54,13 @@
     "username": "orangebear600",
     "password": "pinetree",
     "invokedAt": "2020-11-04T06:00:44.069Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Webb",
+    "email": "kate.webb@example.com",
+    "username": "orangegoose145",
+    "password": "bigpimp",
+    "invokedAt": "2020-11-04T07:00:43.393Z"
   }
 ]
