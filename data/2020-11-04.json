@@ -62,5 +62,13 @@
     "username": "orangegoose145",
     "password": "bigpimp",
     "invokedAt": "2020-11-04T07:00:43.393Z"
+  },
+  {
+    "firstName": "Nino",
+    "lastName": "Gonzalez",
+    "email": "nino.gonzalez@example.com",
+    "username": "bluelion502",
+    "password": "woman",
+    "invokedAt": "2020-11-04T08:00:38.947Z"
   }
 ]
