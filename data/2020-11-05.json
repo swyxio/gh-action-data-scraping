@@ -86,5 +86,13 @@
     "username": "blacklion826",
     "password": "dnsadm",
     "invokedAt": "2020-11-05T10:01:00.879Z"
+  },
+  {
+    "firstName": "Barthelomeus",
+    "lastName": "Veeneman",
+    "email": "barthelomeus.veeneman@example.com",
+    "username": "silverswan601",
+    "password": "turtle",
+    "invokedAt": "2020-11-05T11:00:47.754Z"
   }
 ]
