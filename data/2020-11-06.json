@@ -38,5 +38,13 @@
     "username": "yellowtiger653",
     "password": "second",
     "invokedAt": "2020-11-06T04:00:41.680Z"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Schmidt",
+    "email": "erik.schmidt@example.com",
+    "username": "angryfish882",
+    "password": "stiletto",
+    "invokedAt": "2020-11-06T05:00:49.626Z"
   }
 ]
