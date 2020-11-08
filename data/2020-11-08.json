@@ -182,5 +182,13 @@
     "username": "goldengorilla194",
     "password": "astro",
     "invokedAt": "2020-11-08T22:00:56.935Z"
+  },
+  {
+    "firstName": "Dorian",
+    "lastName": "Lefevre",
+    "email": "dorian.lefevre@example.com",
+    "username": "greenfish311",
+    "password": "oxygen",
+    "invokedAt": "2020-11-08T23:00:50.770Z"
   }
 ]
