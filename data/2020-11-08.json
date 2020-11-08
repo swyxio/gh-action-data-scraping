@@ -118,5 +118,13 @@
     "username": "reddog482",
     "password": "hatred",
     "invokedAt": "2020-11-08T14:01:02.333Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Patel",
+    "email": "emma.patel@example.com",
+    "username": "yellowpeacock788",
+    "password": "lick",
+    "invokedAt": "2020-11-08T15:00:53.700Z"
   }
 ]
