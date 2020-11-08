@@ -78,5 +78,13 @@
     "username": "orangewolf756",
     "password": "cayman",
     "invokedAt": "2020-11-08T09:00:34.065Z"
+  },
+  {
+    "firstName": "Alexandra",
+    "lastName": "Hayes",
+    "email": "alexandra.hayes@example.com",
+    "username": "blueduck720",
+    "password": "cypress",
+    "invokedAt": "2020-11-08T10:00:34.574Z"
   }
 ]
