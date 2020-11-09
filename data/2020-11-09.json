@@ -46,5 +46,13 @@
     "username": "heavybutterfly674",
     "password": "0101",
     "invokedAt": "2020-11-09T05:00:58.239Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Aşıkoğlu",
+    "email": "vildan.asikoglu@example.com",
+    "username": "tinyladybug439",
+    "password": "asdf12",
+    "invokedAt": "2020-11-09T06:00:50.604Z"
   }
 ]
