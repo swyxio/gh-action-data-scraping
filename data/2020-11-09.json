@@ -70,5 +70,13 @@
     "username": "redlion868",
     "password": "trunks",
     "invokedAt": "2020-11-09T08:00:56.573Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Hawkins",
+    "email": "roger.hawkins@example.com",
+    "username": "tinyzebra689",
+    "password": "sithlord",
+    "invokedAt": "2020-11-09T09:00:38.843Z"
   }
 ]
