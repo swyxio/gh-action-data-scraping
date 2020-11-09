@@ -118,5 +118,13 @@
     "username": "crazygorilla318",
     "password": "qing",
     "invokedAt": "2020-11-09T14:00:46.400Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Robinson",
+    "email": "ryan.robinson@example.com",
+    "username": "heavyrabbit450",
+    "password": "legend",
+    "invokedAt": "2020-11-09T15:00:45.893Z"
   }
 ]
