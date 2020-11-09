@@ -158,5 +158,13 @@
     "username": "bluecat911",
     "password": "dwayne",
     "invokedAt": "2020-11-09T19:00:46.589Z"
+  },
+  {
+    "firstName": "Begüm",
+    "lastName": "Topçuoğlu",
+    "email": "begum.topcuoglu@example.com",
+    "username": "orangekoala263",
+    "password": "676767",
+    "invokedAt": "2020-11-09T20:00:51.691Z"
   }
 ]
