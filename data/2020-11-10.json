@@ -182,5 +182,13 @@
     "username": "beautifulgoose141",
     "password": "lightning",
     "invokedAt": "2020-11-10T22:00:59.756Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Morin",
+    "email": "diego.morin@example.com",
+    "username": "greenbird233",
+    "password": "tyvugq",
+    "invokedAt": "2020-11-10T23:00:33.290Z"
   }
 ]
