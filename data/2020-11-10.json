@@ -166,5 +166,13 @@
     "username": "beautifulgorilla486",
     "password": "batman1",
     "invokedAt": "2020-11-10T20:01:16.625Z"
+  },
+  {
+    "firstName": "Pim",
+    "lastName": "Ploegmakers",
+    "email": "pim.ploegmakers@example.com",
+    "username": "yellowduck743",
+    "password": "woohoo",
+    "invokedAt": "2020-11-10T21:00:48.700Z"
   }
 ]
