@@ -46,5 +46,13 @@
     "username": "whitemeercat475",
     "password": "playing",
     "invokedAt": "2020-11-10T05:00:45.188Z"
+  },
+  {
+    "firstName": "Line",
+    "lastName": "Meunier",
+    "email": "line.meunier@example.com",
+    "username": "whitemeercat456",
+    "password": "reaper",
+    "invokedAt": "2020-11-10T06:01:01.001Z"
   }
 ]
