@@ -54,5 +54,13 @@
     "username": "whitemeercat456",
     "password": "reaper",
     "invokedAt": "2020-11-10T06:01:01.001Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Rørvik",
+    "email": "christian.rorvik@example.com",
+    "username": "angryzebra144",
+    "password": "bonita",
+    "invokedAt": "2020-11-10T07:01:08.462Z"
   }
 ]
