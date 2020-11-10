@@ -142,5 +142,13 @@
     "username": "smallmeercat938",
     "password": "sander",
     "invokedAt": "2020-11-10T17:00:41.957Z"
+  },
+  {
+    "firstName": "Jann",
+    "lastName": "Dieckmann",
+    "email": "jann.dieckmann@example.com",
+    "username": "redlion469",
+    "password": "football",
+    "invokedAt": "2020-11-10T18:00:38.365Z"
   }
 ]
