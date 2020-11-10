@@ -174,5 +174,13 @@
     "username": "yellowduck743",
     "password": "woohoo",
     "invokedAt": "2020-11-10T21:00:48.700Z"
+  },
+  {
+    "firstName": "Ninon",
+    "lastName": "Marchand",
+    "email": "ninon.marchand@example.com",
+    "username": "beautifulgoose141",
+    "password": "lightning",
+    "invokedAt": "2020-11-10T22:00:59.756Z"
   }
 ]
