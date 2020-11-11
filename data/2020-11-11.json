@@ -142,5 +142,13 @@
     "username": "angrylion446",
     "password": "playing",
     "invokedAt": "2020-11-11T17:00:47.888Z"
+  },
+  {
+    "firstName": "Joann",
+    "lastName": "Foster",
+    "email": "joann.foster@example.com",
+    "username": "bluelion809",
+    "password": "snuggles",
+    "invokedAt": "2020-11-11T18:00:50.536Z"
   }
 ]
