@@ -94,5 +94,13 @@
     "username": "blueladybug515",
     "password": "canucks",
     "invokedAt": "2020-11-11T11:00:59.649Z"
+  },
+  {
+    "firstName": "Heitor",
+    "lastName": "Nogueira",
+    "email": "heitor.nogueira@example.com",
+    "username": "browndog521",
+    "password": "desert",
+    "invokedAt": "2020-11-11T12:00:47.503Z"
   }
 ]
