@@ -158,5 +158,13 @@
     "username": "greenkoala286",
     "password": "brooks",
     "invokedAt": "2020-11-12T19:01:05.612Z"
+  },
+  {
+    "firstName": "Macit",
+    "lastName": "Velioğlu",
+    "email": "macit.velioglu@example.com",
+    "username": "orangeduck237",
+    "password": "pitch",
+    "invokedAt": "2020-11-12T20:00:41.772Z"
   }
 ]
