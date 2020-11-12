@@ -118,5 +118,13 @@
     "username": "tinywolf173",
     "password": "wyoming",
     "invokedAt": "2020-11-12T14:00:47.503Z"
+  },
+  {
+    "firstName": "Tirso",
+    "lastName": "Farias",
+    "email": "tirso.farias@example.com",
+    "username": "greenbird486",
+    "password": "valencia",
+    "invokedAt": "2020-11-12T15:01:12.399Z"
   }
 ]
