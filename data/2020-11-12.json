@@ -166,5 +166,13 @@
     "username": "orangeduck237",
     "password": "pitch",
     "invokedAt": "2020-11-12T20:00:41.772Z"
+  },
+  {
+    "firstName": "Matheo",
+    "lastName": "Opedal",
+    "email": "matheo.opedal@example.com",
+    "username": "beautifulpanda493",
+    "password": "davids",
+    "invokedAt": "2020-11-12T21:00:50.667Z"
   }
 ]
