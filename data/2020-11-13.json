@@ -62,5 +62,13 @@
     "username": "whitefrog703",
     "password": "anarchy",
     "invokedAt": "2020-11-13T07:01:05.994Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Tomren",
+    "email": "edward.tomren@example.com",
+    "username": "silvergorilla548",
+    "password": "tarpon",
+    "invokedAt": "2020-11-13T08:00:39.375Z"
   }
 ]
