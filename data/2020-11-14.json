@@ -70,5 +70,13 @@
     "username": "lazybird409",
     "password": "finish",
     "invokedAt": "2020-11-14T08:01:13.786Z"
+  },
+  {
+    "firstName": "Guy",
+    "lastName": "Hall",
+    "email": "guy.hall@example.com",
+    "username": "blackrabbit797",
+    "password": "toshiba",
+    "invokedAt": "2020-11-14T09:01:00.603Z"
   }
 ]
