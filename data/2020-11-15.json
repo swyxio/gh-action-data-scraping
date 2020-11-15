@@ -70,5 +70,13 @@
     "username": "happyfrog477",
     "password": "oakland",
     "invokedAt": "2020-11-15T08:00:43.748Z"
+  },
+  {
+    "firstName": "Tomine",
+    "lastName": "Kvalvåg",
+    "email": "tomine.kvalvag@example.com",
+    "username": "tinymouse647",
+    "password": "shot",
+    "invokedAt": "2020-11-15T09:00:41.301Z"
   }
 ]
