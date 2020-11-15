@@ -126,5 +126,13 @@
     "username": "heavypanda166",
     "password": "metoo",
     "invokedAt": "2020-11-15T15:01:00.735Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Jimenez",
+    "email": "fred.jimenez@example.com",
+    "username": "beautifulladybug965",
+    "password": "union",
+    "invokedAt": "2020-11-15T16:00:42.650Z"
   }
 ]
