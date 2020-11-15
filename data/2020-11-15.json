@@ -94,5 +94,13 @@
     "username": "tinybird350",
     "password": "orgasms",
     "invokedAt": "2020-11-15T11:01:12.824Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Miles",
+    "email": "dan.miles@example.com",
+    "username": "heavyduck776",
+    "password": "cabbage",
+    "invokedAt": "2020-11-15T12:00:56.628Z"
   }
 ]
