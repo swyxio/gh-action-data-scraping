@@ -166,5 +166,13 @@
     "username": "goldenwolf394",
     "password": "barron",
     "invokedAt": "2020-11-15T20:00:56.641Z"
+  },
+  {
+    "firstName": "Eren",
+    "lastName": "Numanoğlu",
+    "email": "eren.numanoglu@example.com",
+    "username": "blackostrich624",
+    "password": "uranus",
+    "invokedAt": "2020-11-15T21:02:16.390Z"
   }
 ]
