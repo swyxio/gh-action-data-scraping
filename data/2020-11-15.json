@@ -46,5 +46,13 @@
     "username": "bigsnake679",
     "password": "vicky",
     "invokedAt": "2020-11-15T05:01:04.845Z"
+  },
+  {
+    "firstName": "Inmaculada",
+    "lastName": "Vidal",
+    "email": "inmaculada.vidal@example.com",
+    "username": "lazyfrog585",
+    "password": "phish1",
+    "invokedAt": "2020-11-15T06:01:00.903Z"
   }
 ]
