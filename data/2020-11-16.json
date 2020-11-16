@@ -38,5 +38,13 @@
     "username": "sadmeercat113",
     "password": "98765432",
     "invokedAt": "2020-11-16T04:00:50.791Z"
+  },
+  {
+    "firstName": "Jasmine",
+    "lastName": "Chan",
+    "email": "jasmine.chan@example.com",
+    "username": "sadtiger352",
+    "password": "postman",
+    "invokedAt": "2020-11-16T05:01:32.042Z"
   }
 ]
