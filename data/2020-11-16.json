@@ -46,5 +46,13 @@
     "username": "sadtiger352",
     "password": "postman",
     "invokedAt": "2020-11-16T05:01:32.042Z"
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "Butler",
+    "email": "gary.butler@example.com",
+    "username": "browntiger350",
+    "password": "times",
+    "invokedAt": "2020-11-16T06:00:41.588Z"
   }
 ]
