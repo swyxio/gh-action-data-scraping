@@ -30,5 +30,13 @@
     "username": "sadbutterfly477",
     "password": "anthrax",
     "invokedAt": "2020-11-16T03:00:48.562Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Aykaç",
+    "email": "gul.aykac@example.com",
+    "username": "sadmeercat113",
+    "password": "98765432",
+    "invokedAt": "2020-11-16T04:00:50.791Z"
   }
 ]
