@@ -166,5 +166,13 @@
     "username": "angryduck372",
     "password": "bitter",
     "invokedAt": "2020-11-17T20:01:14.170Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Petersen",
+    "email": "nicklas.petersen@example.com",
+    "username": "bluemeercat193",
+    "password": "backbone",
+    "invokedAt": "2020-11-17T21:00:54.646Z"
   }
 ]
