@@ -54,5 +54,13 @@
     "username": "silvertiger179",
     "password": "megan1",
     "invokedAt": "2020-11-17T06:01:04.779Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Nielsen",
+    "email": "nikolaj.nielsen@example.com",
+    "username": "blackkoala705",
+    "password": "cindy1",
+    "invokedAt": "2020-11-17T07:00:58.388Z"
   }
 ]
