@@ -38,5 +38,13 @@
     "username": "greenwolf102",
     "password": "pimp",
     "invokedAt": "2020-11-18T04:00:57.432Z"
+  },
+  {
+    "firstName": "Archie",
+    "lastName": "Thomas",
+    "email": "archie.thomas@example.com",
+    "username": "bigbear570",
+    "password": "fruity",
+    "invokedAt": "2020-11-18T05:01:06.389Z"
   }
 ]
