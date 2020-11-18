@@ -150,5 +150,13 @@
     "username": "redfrog221",
     "password": "fletch",
     "invokedAt": "2020-11-18T18:00:42.677Z"
+  },
+  {
+    "firstName": "Amine",
+    "lastName": "Hall",
+    "email": "amine.hall@example.com",
+    "username": "whitepanda284",
+    "password": "swim",
+    "invokedAt": "2020-11-18T19:01:01.736Z"
   }
 ]
