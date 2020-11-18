@@ -158,5 +158,13 @@
     "username": "whitepanda284",
     "password": "swim",
     "invokedAt": "2020-11-18T19:01:01.736Z"
+  },
+  {
+    "firstName": "Arndt",
+    "lastName": "Stegmaier",
+    "email": "arndt.stegmaier@example.com",
+    "username": "sadmeercat660",
+    "password": "shan",
+    "invokedAt": "2020-11-18T20:00:45.552Z"
   }
 ]
