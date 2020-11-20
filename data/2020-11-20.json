@@ -94,5 +94,13 @@
     "username": "smallfrog502",
     "password": "chinese",
     "invokedAt": "2020-11-20T11:00:47.728Z"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Thompson",
+    "email": "mia.thompson@example.com",
+    "username": "purpleostrich263",
+    "password": "killers",
+    "invokedAt": "2020-11-20T12:00:52.444Z"
   }
 ]
