@@ -166,5 +166,13 @@
     "username": "crazybird967",
     "password": "passthie",
     "invokedAt": "2020-11-20T20:00:46.451Z"
+  },
+  {
+    "firstName": "Fletcher",
+    "lastName": "Morris",
+    "email": "fletcher.morris@example.com",
+    "username": "orangefish225",
+    "password": "ireland",
+    "invokedAt": "2020-11-20T21:00:56.825Z"
   }
 ]
