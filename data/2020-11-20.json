@@ -182,5 +182,13 @@
     "username": "ticklishkoala536",
     "password": "klingon",
     "invokedAt": "2020-11-20T22:01:05.452Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Miles",
+    "email": "fred.miles@example.com",
+    "username": "greenelephant507",
+    "password": "wildcats",
+    "invokedAt": "2020-11-20T23:00:48.875Z"
   }
 ]
