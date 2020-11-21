@@ -182,5 +182,13 @@
     "username": "lazydog668",
     "password": "stiletto",
     "invokedAt": "2020-11-21T22:00:55.557Z"
+  },
+  {
+    "firstName": "Steffen",
+    "lastName": "Wenig",
+    "email": "steffen.wenig@example.com",
+    "username": "orangerabbit818",
+    "password": "superstar",
+    "invokedAt": "2020-11-21T23:00:59.569Z"
   }
 ]
