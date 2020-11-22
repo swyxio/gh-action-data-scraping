@@ -174,5 +174,13 @@
     "username": "smallleopard883",
     "password": "captain1",
     "invokedAt": "2020-11-22T21:00:35.733Z"
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Valckx",
+    "email": "jeff.valckx@example.com",
+    "username": "blacklion653",
+    "password": "ping",
+    "invokedAt": "2020-11-22T22:00:42.355Z"
   }
 ]
