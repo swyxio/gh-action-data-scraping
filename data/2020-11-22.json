@@ -126,5 +126,13 @@
     "username": "brownleopard189",
     "password": "antares",
     "invokedAt": "2020-11-22T15:00:48.487Z"
+  },
+  {
+    "firstName": "Lloyd",
+    "lastName": "Otoole",
+    "email": "lloyd.otoole@example.com",
+    "username": "crazybutterfly394",
+    "password": "coldbeer",
+    "invokedAt": "2020-11-22T16:01:01.669Z"
   }
 ]
