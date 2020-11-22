@@ -158,5 +158,13 @@
     "username": "browntiger108",
     "password": "huan",
     "invokedAt": "2020-11-22T19:00:43.529Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Iglesias",
+    "email": "isaac.iglesias@example.com",
+    "username": "smallgorilla685",
+    "password": "azerty",
+    "invokedAt": "2020-11-22T20:00:38.810Z"
   }
 ]
