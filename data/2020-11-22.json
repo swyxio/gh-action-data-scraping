@@ -182,5 +182,13 @@
     "username": "blacklion653",
     "password": "ping",
     "invokedAt": "2020-11-22T22:00:42.355Z"
+  },
+  {
+    "firstName": "Dino",
+    "lastName": "Teixeira",
+    "email": "dino.teixeira@example.com",
+    "username": "whitelion448",
+    "password": "lkjhgf",
+    "invokedAt": "2020-11-22T23:00:38.555Z"
   }
 ]
