@@ -86,5 +86,13 @@
     "username": "sadelephant662",
     "password": "benfica",
     "invokedAt": "2020-11-23T10:00:52.584Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Justi",
+    "email": "juho.justi@example.com",
+    "username": "whitekoala687",
+    "password": "diesel",
+    "invokedAt": "2020-11-23T11:00:46.707Z"
   }
 ]
