@@ -158,5 +158,13 @@
     "username": "lazyfrog567",
     "password": "faith1",
     "invokedAt": "2020-11-23T19:00:46.826Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Pulkkinen",
+    "email": "julia.pulkkinen@example.com",
+    "username": "heavyfrog148",
+    "password": "harpoon",
+    "invokedAt": "2020-11-23T20:01:02.515Z"
   }
 ]
