@@ -142,5 +142,13 @@
     "username": "goldenbear407",
     "password": "mommy",
     "invokedAt": "2020-11-24T17:00:54.519Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Samancı",
+    "email": "ali.samanci@example.com",
+    "username": "happybird188",
+    "password": "cowboy",
+    "invokedAt": "2020-11-24T18:00:41.651Z"
   }
 ]
