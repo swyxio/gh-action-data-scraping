@@ -110,5 +110,13 @@
     "username": "crazygoose998",
     "password": "citroen",
     "invokedAt": "2020-11-24T13:00:36.682Z"
+  },
+  {
+    "firstName": "Roland",
+    "lastName": "Van Schuppen",
+    "email": "roland.vanschuppen@example.com",
+    "username": "beautifuldog400",
+    "password": "boobs",
+    "invokedAt": "2020-11-24T14:00:36.706Z"
   }
 ]
