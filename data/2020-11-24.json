@@ -118,5 +118,13 @@
     "username": "beautifuldog400",
     "password": "boobs",
     "invokedAt": "2020-11-24T14:00:36.706Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Reyes",
+    "email": "jenny.reyes@example.com",
+    "username": "sadleopard893",
+    "password": "guinness",
+    "invokedAt": "2020-11-24T15:00:53.711Z"
   }
 ]
