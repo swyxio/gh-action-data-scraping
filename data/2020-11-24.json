@@ -94,5 +94,13 @@
     "username": "whiteduck673",
     "password": "cobain",
     "invokedAt": "2020-11-24T11:00:59.027Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Hernandez",
+    "email": "hugo.hernandez@example.com",
+    "username": "angrywolf505",
+    "password": "bizkit",
+    "invokedAt": "2020-11-24T12:00:43.107Z"
   }
 ]
