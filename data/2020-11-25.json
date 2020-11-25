@@ -182,5 +182,13 @@
     "username": "goldendog643",
     "password": "tower",
     "invokedAt": "2020-11-25T22:00:50.689Z"
+  },
+  {
+    "firstName": "Cecy",
+    "lastName": "Rodrigues",
+    "email": "cecy.rodrigues@example.com",
+    "username": "goldenlion999",
+    "password": "flip",
+    "invokedAt": "2020-11-25T23:00:36.342Z"
   }
 ]
