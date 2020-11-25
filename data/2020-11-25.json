@@ -78,5 +78,13 @@
     "username": "brownbear424",
     "password": "patch",
     "invokedAt": "2020-11-25T09:01:03.837Z"
+  },
+  {
+    "firstName": "Elon",
+    "lastName": "Van Genugten",
+    "email": "elon.vangenugten@example.com",
+    "username": "whitezebra939",
+    "password": "chase1",
+    "invokedAt": "2020-11-25T10:01:02.455Z"
   }
 ]
