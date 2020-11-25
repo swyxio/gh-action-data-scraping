@@ -94,5 +94,13 @@
     "username": "yellowrabbit221",
     "password": "admiral",
     "invokedAt": "2020-11-25T11:00:43.895Z"
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Hansen",
+    "email": "signe.hansen@example.com",
+    "username": "orangedog373",
+    "password": "anaconda",
+    "invokedAt": "2020-11-25T12:00:57.746Z"
   }
 ]
