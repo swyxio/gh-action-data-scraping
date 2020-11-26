@@ -118,5 +118,13 @@
     "username": "silverfish359",
     "password": "sixty9",
     "invokedAt": "2020-11-26T14:00:46.473Z"
+  },
+  {
+    "firstName": "Klaus Dieter",
+    "lastName": "Ehrlich",
+    "email": "klausdieter.ehrlich@example.com",
+    "username": "orangeleopard497",
+    "password": "balloon",
+    "invokedAt": "2020-11-26T15:00:56.066Z"
   }
 ]
