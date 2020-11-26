@@ -70,5 +70,13 @@
     "username": "whiteelephant377",
     "password": "damien",
     "invokedAt": "2020-11-26T08:01:05.562Z"
+  },
+  {
+    "firstName": "Theodore",
+    "lastName": "Zhang",
+    "email": "theodore.zhang@example.com",
+    "username": "beautifulbear769",
+    "password": "area51",
+    "invokedAt": "2020-11-26T09:00:41.425Z"
   }
 ]
