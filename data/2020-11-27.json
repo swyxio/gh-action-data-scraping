@@ -126,5 +126,13 @@
     "username": "crazypanda188",
     "password": "pacers",
     "invokedAt": "2020-11-27T15:00:59.404Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Sarıoğlu",
+    "email": "ozkan.sarioglu@example.com",
+    "username": "sadgoose991",
+    "password": "twinkie",
+    "invokedAt": "2020-11-27T17:01:01.500Z"
   }
 ]
