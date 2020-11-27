@@ -174,5 +174,13 @@
     "username": "orangepeacock710",
     "password": "camber",
     "invokedAt": "2020-11-27T22:00:43.515Z"
+  },
+  {
+    "firstName": "Michelle",
+    "lastName": "Murphy",
+    "email": "michelle.murphy@example.com",
+    "username": "blackmeercat974",
+    "password": "extra",
+    "invokedAt": "2020-11-27T23:00:49.210Z"
   }
 ]
