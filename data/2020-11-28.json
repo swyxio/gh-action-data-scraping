@@ -78,5 +78,13 @@
     "username": "angryswan281",
     "password": "twist",
     "invokedAt": "2020-11-28T09:00:56.495Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Graves",
+    "email": "amy.graves@example.com",
+    "username": "bigfrog507",
+    "password": "coventry",
+    "invokedAt": "2020-11-28T10:00:38.464Z"
   }
 ]
