@@ -86,5 +86,13 @@
     "username": "bigfrog507",
     "password": "coventry",
     "invokedAt": "2020-11-28T10:00:38.464Z"
+  },
+  {
+    "firstName": "Estelle",
+    "lastName": "Giraud",
+    "email": "estelle.giraud@example.com",
+    "username": "bigdog165",
+    "password": "jets",
+    "invokedAt": "2020-11-28T11:00:43.422Z"
   }
 ]
