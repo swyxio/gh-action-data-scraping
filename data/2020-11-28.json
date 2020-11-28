@@ -166,5 +166,13 @@
     "username": "blueelephant662",
     "password": "munch",
     "invokedAt": "2020-11-28T20:01:01.130Z"
+  },
+  {
+    "firstName": "Konsta",
+    "lastName": "Marttila",
+    "email": "konsta.marttila@example.com",
+    "username": "tinywolf301",
+    "password": "access14",
+    "invokedAt": "2020-11-28T21:00:59.599Z"
   }
 ]
