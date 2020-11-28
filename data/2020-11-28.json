@@ -22,5 +22,13 @@
     "username": "silverbear280",
     "password": "transam",
     "invokedAt": "2020-11-28T02:00:47.467Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Côté",
+    "email": "liam.cote@example.com",
+    "username": "silverduck495",
+    "password": "having",
+    "invokedAt": "2020-11-28T03:00:47.001Z"
   }
 ]
