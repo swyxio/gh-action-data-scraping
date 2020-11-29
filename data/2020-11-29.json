@@ -86,5 +86,13 @@
     "username": "lazytiger368",
     "password": "printing",
     "invokedAt": "2020-11-29T10:00:40.579Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Christiansen",
+    "email": "mikkel.christiansen@example.com",
+    "username": "blackostrich433",
+    "password": "clock",
+    "invokedAt": "2020-11-29T11:00:44.583Z"
   }
 ]
