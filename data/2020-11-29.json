@@ -46,5 +46,13 @@
     "username": "greentiger586",
     "password": "theater",
     "invokedAt": "2020-11-29T05:00:37.592Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Wright",
+    "email": "william.wright@example.com",
+    "username": "goldensnake503",
+    "password": "gobucks",
+    "invokedAt": "2020-11-29T06:00:38.505Z"
   }
 ]
