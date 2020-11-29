@@ -174,5 +174,13 @@
     "username": "happyfish904",
     "password": "chainsaw",
     "invokedAt": "2020-11-29T21:01:07.511Z"
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Adams",
+    "email": "nora.adams@example.com",
+    "username": "brownkoala551",
+    "password": "evolutio",
+    "invokedAt": "2020-11-29T22:00:34.623Z"
   }
 ]
