@@ -86,5 +86,13 @@
     "username": "organicfrog276",
     "password": "meredith",
     "invokedAt": "2020-11-30T10:00:54.875Z"
+  },
+  {
+    "firstName": "Afet",
+    "lastName": "Adıvar",
+    "email": "afet.adivar@example.com",
+    "username": "bigfrog901",
+    "password": "ramirez",
+    "invokedAt": "2020-11-30T11:00:53.556Z"
   }
 ]
