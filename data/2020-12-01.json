@@ -102,5 +102,13 @@
     "username": "yellowpanda773",
     "password": "tree",
     "invokedAt": "2020-12-01T12:00:43.597Z"
+  },
+  {
+    "firstName": "Ema",
+    "lastName": "Ferreira",
+    "email": "ema.ferreira@example.com",
+    "username": "whitefish388",
+    "password": "doitnow",
+    "invokedAt": "2020-12-01T13:00:57.361Z"
   }
 ]
