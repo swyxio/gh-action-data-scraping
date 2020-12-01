@@ -166,5 +166,13 @@
     "username": "heavyostrich943",
     "password": "banane",
     "invokedAt": "2020-12-01T22:00:55.482Z"
+  },
+  {
+    "firstName": "Plácida",
+    "lastName": "Santos",
+    "email": "placida.santos@example.com",
+    "username": "crazykoala793",
+    "password": "wombat",
+    "invokedAt": "2020-12-01T23:00:50.492Z"
   }
 ]
