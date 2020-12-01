@@ -54,5 +54,13 @@
     "username": "whitebear394",
     "password": "balance",
     "invokedAt": "2020-12-01T06:01:00.142Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Jørgensen",
+    "email": "adam.jorgensen@example.com",
+    "username": "blackfish632",
+    "password": "hithere",
+    "invokedAt": "2020-12-01T07:01:02.481Z"
   }
 ]
