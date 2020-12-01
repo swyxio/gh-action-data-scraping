@@ -134,5 +134,13 @@
     "username": "blackfish869",
     "password": "kingkong",
     "invokedAt": "2020-12-01T16:21:56.017Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Kumar",
+    "email": "samuel.kumar@example.com",
+    "username": "goldenladybug181",
+    "password": "duane",
+    "invokedAt": "2020-12-01T17:44:31.702Z"
   }
 ]
