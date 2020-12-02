@@ -102,5 +102,13 @@
     "username": "sadgorilla286",
     "password": "foolish",
     "invokedAt": "2020-12-02T12:00:52.790Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Arıcan",
+    "email": "vildan.arican@example.com",
+    "username": "bluefrog593",
+    "password": "liverpoo",
+    "invokedAt": "2020-12-02T13:00:52.547Z"
   }
 ]
