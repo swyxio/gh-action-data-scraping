@@ -158,5 +158,13 @@
     "username": "smallcat294",
     "password": "sugar",
     "invokedAt": "2020-12-02T19:00:42.406Z"
+  },
+  {
+    "firstName": "Dean",
+    "lastName": "Lee",
+    "email": "dean.lee@example.com",
+    "username": "smallduck416",
+    "password": "wave",
+    "invokedAt": "2020-12-02T20:01:02.028Z"
   }
 ]
