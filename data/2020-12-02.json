@@ -182,5 +182,13 @@
     "username": "bigelephant203",
     "password": "bounce",
     "invokedAt": "2020-12-02T22:00:48.575Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Barnaby",
+    "email": "sophie.barnaby@example.com",
+    "username": "bigbutterfly202",
+    "password": "coolness",
+    "invokedAt": "2020-12-02T23:00:37.051Z"
   }
 ]
