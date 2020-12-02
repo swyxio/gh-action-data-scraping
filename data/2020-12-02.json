@@ -166,5 +166,13 @@
     "username": "smallduck416",
     "password": "wave",
     "invokedAt": "2020-12-02T20:01:02.028Z"
+  },
+  {
+    "firstName": "Eliseu",
+    "lastName": "da Mota",
+    "email": "eliseu.damota@example.com",
+    "username": "orangepeacock257",
+    "password": "travis1",
+    "invokedAt": "2020-12-02T21:00:44.354Z"
   }
 ]
