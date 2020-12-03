@@ -142,5 +142,13 @@
     "username": "purpleduck697",
     "password": "street",
     "invokedAt": "2020-12-03T17:03:26.508Z"
+  },
+  {
+    "firstName": "Miriam",
+    "lastName": "Ortiz",
+    "email": "miriam.ortiz@example.com",
+    "username": "goldentiger415",
+    "password": "bentley",
+    "invokedAt": "2020-12-03T18:01:06.327Z"
   }
 ]
