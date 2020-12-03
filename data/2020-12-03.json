@@ -102,5 +102,13 @@
     "username": "orangewolf375",
     "password": "wind",
     "invokedAt": "2020-12-03T12:00:52.831Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Kristensen",
+    "email": "mathilde.kristensen@example.com",
+    "username": "ticklishkoala388",
+    "password": "architec",
+    "invokedAt": "2020-12-03T13:01:23.004Z"
   }
 ]
