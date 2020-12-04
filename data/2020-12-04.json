@@ -158,5 +158,13 @@
     "username": "organicpeacock789",
     "password": "thunder",
     "invokedAt": "2020-12-04T19:00:38.131Z"
+  },
+  {
+    "firstName": "Peetu",
+    "lastName": "Kallio",
+    "email": "peetu.kallio@example.com",
+    "username": "organicbear339",
+    "password": "tribal",
+    "invokedAt": "2020-12-04T20:00:45.695Z"
   }
 ]
