@@ -174,5 +174,13 @@
     "username": "ticklishostrich138",
     "password": "hello",
     "invokedAt": "2020-12-04T21:00:58.450Z"
+  },
+  {
+    "firstName": "Isac",
+    "lastName": "Monteiro",
+    "email": "isac.monteiro@example.com",
+    "username": "bluefrog609",
+    "password": "sunset",
+    "invokedAt": "2020-12-04T22:00:55.589Z"
   }
 ]
