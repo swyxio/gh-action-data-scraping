@@ -78,5 +78,13 @@
     "username": "ticklishostrich392",
     "password": "jaeger",
     "invokedAt": "2020-12-04T09:00:50.889Z"
+  },
+  {
+    "firstName": "Nurdan",
+    "lastName": "Abanuz",
+    "email": "nurdan.abanuz@example.com",
+    "username": "angryleopard542",
+    "password": "myself",
+    "invokedAt": "2020-12-04T10:00:48.428Z"
   }
 ]
