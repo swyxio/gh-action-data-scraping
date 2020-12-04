@@ -86,5 +86,13 @@
     "username": "angryleopard542",
     "password": "myself",
     "invokedAt": "2020-12-04T10:00:48.428Z"
+  },
+  {
+    "firstName": "Beatriz",
+    "lastName": "Santiago",
+    "email": "beatriz.santiago@example.com",
+    "username": "bigsnake866",
+    "password": "kill",
+    "invokedAt": "2020-12-04T11:00:37.724Z"
   }
 ]
