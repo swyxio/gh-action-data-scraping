@@ -182,5 +182,13 @@
     "username": "bluefrog609",
     "password": "sunset",
     "invokedAt": "2020-12-04T22:00:55.589Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Özbey",
+    "email": "onal.ozbey@example.com",
+    "username": "tinylion153",
+    "password": "flame",
+    "invokedAt": "2020-12-04T23:00:44.473Z"
   }
 ]
