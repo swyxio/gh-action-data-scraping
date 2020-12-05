@@ -22,5 +22,13 @@
     "username": "purplewolf932",
     "password": "kingston",
     "invokedAt": "2020-12-05T02:01:14.368Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Mitchell",
+    "email": "alexandre.mitchell@example.com",
+    "username": "blueduck640",
+    "password": "stalker",
+    "invokedAt": "2020-12-05T03:00:53.360Z"
   }
 ]
