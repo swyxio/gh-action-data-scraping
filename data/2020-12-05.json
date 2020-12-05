@@ -166,5 +166,13 @@
     "username": "brownfish415",
     "password": "twist",
     "invokedAt": "2020-12-05T21:00:46.494Z"
+  },
+  {
+    "firstName": "Abby",
+    "lastName": "Hicks",
+    "email": "abby.hicks@example.com",
+    "username": "browngoose639",
+    "password": "toshiba",
+    "invokedAt": "2020-12-05T22:01:01.447Z"
   }
 ]
