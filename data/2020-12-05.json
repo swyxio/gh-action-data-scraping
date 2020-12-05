@@ -174,5 +174,13 @@
     "username": "browngoose639",
     "password": "toshiba",
     "invokedAt": "2020-12-05T22:01:01.447Z"
+  },
+  {
+    "firstName": "Younes",
+    "lastName": "Onink",
+    "email": "younes.onink@example.com",
+    "username": "greenlion130",
+    "password": "peekaboo",
+    "invokedAt": "2020-12-05T23:00:50.112Z"
   }
 ]
