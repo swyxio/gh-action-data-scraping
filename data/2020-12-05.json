@@ -30,5 +30,13 @@
     "username": "blueduck640",
     "password": "stalker",
     "invokedAt": "2020-12-05T03:00:53.360Z"
+  },
+  {
+    "firstName": "Thymo",
+    "lastName": "Kling",
+    "email": "thymo.kling@example.com",
+    "username": "crazywolf196",
+    "password": "fullmoon",
+    "invokedAt": "2020-12-05T04:00:39.635Z"
   }
 ]
