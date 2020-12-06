@@ -70,5 +70,13 @@
     "username": "blackgoose143",
     "password": "films",
     "invokedAt": "2020-12-06T09:00:44.529Z"
+  },
+  {
+    "firstName": "Loena",
+    "lastName": "Van der Weide",
+    "email": "loena.vanderweide@example.com",
+    "username": "angryswan554",
+    "password": "tinman",
+    "invokedAt": "2020-12-06T10:01:00.461Z"
   }
 ]
