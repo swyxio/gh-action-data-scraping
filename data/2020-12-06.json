@@ -46,5 +46,13 @@
     "username": "heavymeercat296",
     "password": "rescue",
     "invokedAt": "2020-12-06T06:00:55.093Z"
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Jensen",
+    "email": "maja.jensen@example.com",
+    "username": "tinygoose169",
+    "password": "backup",
+    "invokedAt": "2020-12-06T07:00:44.257Z"
   }
 ]
