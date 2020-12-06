@@ -174,5 +174,13 @@
     "username": "crazyelephant765",
     "password": "times",
     "invokedAt": "2020-12-06T22:01:08.331Z"
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Durand",
+    "email": "luna.durand@example.com",
+    "username": "sadfish882",
+    "password": "spread",
+    "invokedAt": "2020-12-06T23:00:45.726Z"
   }
 ]
