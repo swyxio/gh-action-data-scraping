@@ -166,5 +166,13 @@
     "username": "crazyfish334",
     "password": "disney1",
     "invokedAt": "2020-12-07T20:00:43.850Z"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Wright",
+    "email": "thea.wright@example.com",
+    "username": "crazycat375",
+    "password": "redrum",
+    "invokedAt": "2020-12-07T21:01:27.541Z"
   }
 ]
