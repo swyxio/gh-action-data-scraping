@@ -158,5 +158,13 @@
     "username": "silversnake913",
     "password": "england",
     "invokedAt": "2020-12-07T19:00:57.419Z"
+  },
+  {
+    "firstName": "Morgan",
+    "lastName": "Wingelaar",
+    "email": "morgan.wingelaar@example.com",
+    "username": "crazyfish334",
+    "password": "disney1",
+    "invokedAt": "2020-12-07T20:00:43.850Z"
   }
 ]
