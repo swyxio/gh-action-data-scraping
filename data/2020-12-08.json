@@ -150,5 +150,13 @@
     "username": "tinybutterfly227",
     "password": "airwolf",
     "invokedAt": "2020-12-08T18:00:57.734Z"
+  },
+  {
+    "firstName": "Madison",
+    "lastName": "Mackay",
+    "email": "madison.mackay@example.com",
+    "username": "crazywolf421",
+    "password": "roadrunn",
+    "invokedAt": "2020-12-08T19:00:54.605Z"
   }
 ]
