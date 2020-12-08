@@ -158,5 +158,13 @@
     "username": "crazywolf421",
     "password": "roadrunn",
     "invokedAt": "2020-12-08T19:00:54.605Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Tucker",
+    "email": "daniel.tucker@example.com",
+    "username": "orangebird586",
+    "password": "capital",
+    "invokedAt": "2020-12-08T20:00:43.904Z"
   }
 ]
