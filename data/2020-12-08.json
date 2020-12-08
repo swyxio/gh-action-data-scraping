@@ -174,5 +174,13 @@
     "username": "crazypanda101",
     "password": "jackal",
     "invokedAt": "2020-12-08T21:01:03.062Z"
+  },
+  {
+    "firstName": "Delphine",
+    "lastName": "Grewal",
+    "email": "delphine.grewal@example.com",
+    "username": "yellowfish610",
+    "password": "scooby1",
+    "invokedAt": "2020-12-08T22:00:53.853Z"
   }
 ]
