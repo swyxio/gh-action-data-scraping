@@ -126,5 +126,13 @@
     "username": "bluetiger199",
     "password": "orgasm",
     "invokedAt": "2020-12-08T15:00:56.818Z"
+  },
+  {
+    "firstName": "Heather",
+    "lastName": "Simpson",
+    "email": "heather.simpson@example.com",
+    "username": "crazyfish140",
+    "password": "cards",
+    "invokedAt": "2020-12-08T16:00:52.560Z"
   }
 ]
