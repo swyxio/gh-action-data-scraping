@@ -118,5 +118,13 @@
     "username": "organiclion502",
     "password": "surprise",
     "invokedAt": "2020-12-09T14:01:09.962Z"
+  },
+  {
+    "firstName": "Amaury",
+    "lastName": "Carpentier",
+    "email": "amaury.carpentier@example.com",
+    "username": "happyzebra999",
+    "password": "leng",
+    "invokedAt": "2020-12-09T15:00:47.294Z"
   }
 ]
