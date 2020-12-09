@@ -134,5 +134,13 @@
     "username": "ticklishostrich374",
     "password": "europe",
     "invokedAt": "2020-12-09T16:01:01.162Z"
+  },
+  {
+    "firstName": "Hazel",
+    "lastName": "Zhang",
+    "email": "hazel.zhang@example.com",
+    "username": "happygoose254",
+    "password": "pinhead",
+    "invokedAt": "2020-12-09T17:03:10.856Z"
   }
 ]
