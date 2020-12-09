@@ -142,5 +142,13 @@
     "username": "happygoose254",
     "password": "pinhead",
     "invokedAt": "2020-12-09T17:03:10.856Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Moulin",
+    "email": "nathan.moulin@example.com",
+    "username": "purplesnake644",
+    "password": "21122112",
+    "invokedAt": "2020-12-09T18:00:56.084Z"
   }
 ]
