@@ -126,5 +126,13 @@
     "username": "purplepanda673",
     "password": "pancho",
     "invokedAt": "2020-12-10T15:00:51.784Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Madsen",
+    "email": "clara.madsen@example.com",
+    "username": "browntiger281",
+    "password": "limewire",
+    "invokedAt": "2020-12-10T16:00:54.282Z"
   }
 ]
