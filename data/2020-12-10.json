@@ -158,5 +158,13 @@
     "username": "purplekoala320",
     "password": "fishes",
     "invokedAt": "2020-12-10T19:00:49.473Z"
+  },
+  {
+    "firstName": "Hudson",
+    "lastName": "Lee",
+    "email": "hudson.lee@example.com",
+    "username": "crazybutterfly356",
+    "password": "aries",
+    "invokedAt": "2020-12-10T20:00:51.474Z"
   }
 ]
