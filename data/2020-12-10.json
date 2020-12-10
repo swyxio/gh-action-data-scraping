@@ -14,5 +14,13 @@
     "username": "beautifulgoose698",
     "password": "pharmacy",
     "invokedAt": "2020-12-10T01:28:06.363Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Nielsen",
+    "email": "marcus.nielsen@example.com",
+    "username": "ticklishbird381",
+    "password": "drummer",
+    "invokedAt": "2020-12-10T02:09:16.800Z"
   }
 ]
