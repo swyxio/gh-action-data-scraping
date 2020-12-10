@@ -78,5 +78,13 @@
     "username": "lazyzebra632",
     "password": "beaner",
     "invokedAt": "2020-12-10T09:00:57.251Z"
+  },
+  {
+    "firstName": "Ceres",
+    "lastName": "Dias",
+    "email": "ceres.dias@example.com",
+    "username": "browndog869",
+    "password": "magellan",
+    "invokedAt": "2020-12-10T10:00:46.741Z"
   }
 ]
