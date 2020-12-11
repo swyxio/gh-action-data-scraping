@@ -126,5 +126,13 @@
     "username": "organicladybug866",
     "password": "jameson",
     "invokedAt": "2020-12-11T15:00:59.401Z"
+  },
+  {
+    "firstName": "Timmothy",
+    "lastName": "Davidson",
+    "email": "timmothy.davidson@example.com",
+    "username": "bigcat403",
+    "password": "slacker",
+    "invokedAt": "2020-12-11T16:01:01.394Z"
   }
 ]
