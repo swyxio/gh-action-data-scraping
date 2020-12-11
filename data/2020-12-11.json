@@ -54,5 +54,13 @@
     "username": "smalllion320",
     "password": "chinook",
     "invokedAt": "2020-12-11T06:00:49.544Z"
+  },
+  {
+    "firstName": "Lara",
+    "lastName": "Gauthier",
+    "email": "lara.gauthier@example.com",
+    "username": "lazyfrog897",
+    "password": "five",
+    "invokedAt": "2020-12-11T07:07:29.272Z"
   }
 ]
