@@ -158,5 +158,13 @@
     "username": "browncat807",
     "password": "strike",
     "invokedAt": "2020-12-11T19:00:41.476Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Fahri",
+    "email": "afsar.fahri@example.com",
+    "username": "happyduck534",
+    "password": "blue42",
+    "invokedAt": "2020-12-11T20:00:53.412Z"
   }
 ]
