@@ -142,5 +142,13 @@
     "username": "sadbird649",
     "password": "elcamino",
     "invokedAt": "2020-12-11T17:10:11.850Z"
+  },
+  {
+    "firstName": "Raul",
+    "lastName": "Fuentes",
+    "email": "raul.fuentes@example.com",
+    "username": "blacktiger641",
+    "password": "999999",
+    "invokedAt": "2020-12-11T18:00:45.447Z"
   }
 ]
