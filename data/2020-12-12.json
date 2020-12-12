@@ -94,5 +94,13 @@
     "username": "beautifulmeercat508",
     "password": "husband",
     "invokedAt": "2020-12-12T11:01:03.059Z"
+  },
+  {
+    "firstName": "Toralf",
+    "lastName": "Knuth",
+    "email": "toralf.knuth@example.com",
+    "username": "tinycat230",
+    "password": "blink182",
+    "invokedAt": "2020-12-12T12:01:09.325Z"
   }
 ]
