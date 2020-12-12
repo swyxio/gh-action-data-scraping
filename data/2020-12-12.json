@@ -78,5 +78,13 @@
     "username": "blacktiger952",
     "password": "carman",
     "invokedAt": "2020-12-12T09:01:19.436Z"
+  },
+  {
+    "firstName": "Fatma",
+    "lastName": "Akar",
+    "email": "fatma.akar@example.com",
+    "username": "smallbutterfly122",
+    "password": "monkey",
+    "invokedAt": "2020-12-12T10:00:53.360Z"
   }
 ]
