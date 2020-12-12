@@ -86,5 +86,13 @@
     "username": "smallbutterfly122",
     "password": "monkey",
     "invokedAt": "2020-12-12T10:00:53.360Z"
+  },
+  {
+    "firstName": "Niilo",
+    "lastName": "Kotila",
+    "email": "niilo.kotila@example.com",
+    "username": "beautifulmeercat508",
+    "password": "husband",
+    "invokedAt": "2020-12-12T11:01:03.059Z"
   }
 ]
