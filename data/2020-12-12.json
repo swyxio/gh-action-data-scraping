@@ -102,5 +102,13 @@
     "username": "tinycat230",
     "password": "blink182",
     "invokedAt": "2020-12-12T12:01:09.325Z"
+  },
+  {
+    "firstName": "Dick",
+    "lastName": "Hopkins",
+    "email": "dick.hopkins@example.com",
+    "username": "ticklishladybug222",
+    "password": "frost",
+    "invokedAt": "2020-12-12T13:01:03.585Z"
   }
 ]
