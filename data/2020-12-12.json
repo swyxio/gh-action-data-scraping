@@ -166,5 +166,13 @@
     "username": "yellowfrog692",
     "password": "contortionist",
     "invokedAt": "2020-12-12T20:00:56.321Z"
+  },
+  {
+    "firstName": "Becky",
+    "lastName": "Davies",
+    "email": "becky.davies@example.com",
+    "username": "sadsnake683",
+    "password": "expert",
+    "invokedAt": "2020-12-12T21:00:36.497Z"
   }
 ]
