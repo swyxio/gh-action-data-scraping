@@ -142,5 +142,13 @@
     "username": "happymeercat105",
     "password": "alissa",
     "invokedAt": "2020-12-13T17:11:51.019Z"
+  },
+  {
+    "firstName": "Melinda",
+    "lastName": "Gibson",
+    "email": "melinda.gibson@example.com",
+    "username": "purplepeacock810",
+    "password": "peeper",
+    "invokedAt": "2020-12-13T18:00:39.451Z"
   }
 ]
