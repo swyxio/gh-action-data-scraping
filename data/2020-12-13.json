@@ -70,5 +70,13 @@
     "username": "blueduck970",
     "password": "ncc1701e",
     "invokedAt": "2020-12-13T08:00:44.367Z"
+  },
+  {
+    "firstName": "Nicolai",
+    "lastName": "Lück",
+    "email": "nicolai.luck@example.com",
+    "username": "browngoose921",
+    "password": "cookies",
+    "invokedAt": "2020-12-13T09:00:40.054Z"
   }
 ]
