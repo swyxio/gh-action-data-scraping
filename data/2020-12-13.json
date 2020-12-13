@@ -126,5 +126,13 @@
     "username": "redrabbit569",
     "password": "chico",
     "invokedAt": "2020-12-13T15:00:35.394Z"
+  },
+  {
+    "firstName": "Brandão",
+    "lastName": "Dias",
+    "email": "brandao.dias@example.com",
+    "username": "crazypanda363",
+    "password": "wordpass",
+    "invokedAt": "2020-12-13T16:00:59.775Z"
   }
 ]
