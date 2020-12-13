@@ -94,5 +94,13 @@
     "username": "organicpeacock571",
     "password": "unique",
     "invokedAt": "2020-12-13T11:01:03.613Z"
+  },
+  {
+    "firstName": "Brett",
+    "lastName": "Dunn",
+    "email": "brett.dunn@example.com",
+    "username": "heavycat949",
+    "password": "ross",
+    "invokedAt": "2020-12-13T12:00:46.303Z"
   }
 ]
