@@ -78,5 +78,13 @@
     "username": "browngoose921",
     "password": "cookies",
     "invokedAt": "2020-12-13T09:00:40.054Z"
+  },
+  {
+    "firstName": "Gundula",
+    "lastName": "Storch",
+    "email": "gundula.storch@example.com",
+    "username": "lazyfish253",
+    "password": "venom",
+    "invokedAt": "2020-12-13T10:00:52.767Z"
   }
 ]
