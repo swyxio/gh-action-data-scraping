@@ -126,5 +126,13 @@
     "username": "bluelion576",
     "password": "sheba1",
     "invokedAt": "2020-12-14T15:01:04.320Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Chan",
+    "email": "david.chan@example.com",
+    "username": "lazygorilla497",
+    "password": "entropy",
+    "invokedAt": "2020-12-14T16:00:43.668Z"
   }
 ]
