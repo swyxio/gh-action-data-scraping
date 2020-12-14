@@ -78,5 +78,13 @@
     "username": "organicwolf627",
     "password": "bookie",
     "invokedAt": "2020-12-14T09:00:55.518Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Walker",
+    "email": "arnaud.walker@example.com",
+    "username": "goldentiger363",
+    "password": "claymore",
+    "invokedAt": "2020-12-14T10:00:58.878Z"
   }
 ]
