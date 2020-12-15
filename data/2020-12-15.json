@@ -78,5 +78,13 @@
     "username": "brownbear638",
     "password": "napster",
     "invokedAt": "2020-12-15T09:00:45.281Z"
+  },
+  {
+    "firstName": "Samir",
+    "lastName": "Rodrigues",
+    "email": "samir.rodrigues@example.com",
+    "username": "tinypanda575",
+    "password": "claude",
+    "invokedAt": "2020-12-15T10:00:38.826Z"
   }
 ]
