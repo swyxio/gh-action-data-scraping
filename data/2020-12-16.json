@@ -166,5 +166,13 @@
     "username": "whitepeacock750",
     "password": "delphi",
     "invokedAt": "2020-12-16T20:00:45.453Z"
+  },
+  {
+    "firstName": "Javier",
+    "lastName": "Meyer",
+    "email": "javier.meyer@example.com",
+    "username": "lazypanda590",
+    "password": "morning",
+    "invokedAt": "2020-12-16T21:01:02.004Z"
   }
 ]
