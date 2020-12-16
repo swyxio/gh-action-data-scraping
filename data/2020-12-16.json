@@ -46,5 +46,13 @@
     "username": "smallbird681",
     "password": "gogo",
     "invokedAt": "2020-12-16T05:00:47.489Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Johansen",
+    "email": "alexander.johansen@example.com",
+    "username": "whitebutterfly806",
+    "password": "brando",
+    "invokedAt": "2020-12-16T06:00:54.424Z"
   }
 ]
