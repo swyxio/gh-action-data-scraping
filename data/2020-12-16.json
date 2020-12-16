@@ -102,5 +102,13 @@
     "username": "angrypanda455",
     "password": "highland",
     "invokedAt": "2020-12-16T12:00:53.937Z"
+  },
+  {
+    "firstName": "Connie",
+    "lastName": "Rogers",
+    "email": "connie.rogers@example.com",
+    "username": "happybird952",
+    "password": "studio",
+    "invokedAt": "2020-12-16T13:04:03.396Z"
   }
 ]
