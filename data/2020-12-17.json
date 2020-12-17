@@ -174,5 +174,13 @@
     "username": "smallfish274",
     "password": "nuclear",
     "invokedAt": "2020-12-17T21:00:36.407Z"
+  },
+  {
+    "firstName": "Vito",
+    "lastName": "Leclercq",
+    "email": "vito.leclercq@example.com",
+    "username": "yellowsnake125",
+    "password": "chimera",
+    "invokedAt": "2020-12-17T22:00:56.104Z"
   }
 ]
