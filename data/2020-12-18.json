@@ -102,5 +102,13 @@
     "username": "sadpeacock545",
     "password": "karate",
     "invokedAt": "2020-12-18T12:00:52.688Z"
+  },
+  {
+    "firstName": "Ricky",
+    "lastName": "Moore",
+    "email": "ricky.moore@example.com",
+    "username": "goldenleopard535",
+    "password": "taurus",
+    "invokedAt": "2020-12-18T13:09:40.436Z"
   }
 ]
