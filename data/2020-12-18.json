@@ -94,5 +94,13 @@
     "username": "angrypanda458",
     "password": "rain",
     "invokedAt": "2020-12-18T11:03:20.788Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Otoole",
+    "email": "eva.otoole@example.com",
+    "username": "sadpeacock545",
+    "password": "karate",
+    "invokedAt": "2020-12-18T12:00:52.688Z"
   }
 ]
