@@ -182,5 +182,13 @@
     "username": "yellowdog411",
     "password": "booger",
     "invokedAt": "2020-12-18T22:01:02.291Z"
+  },
+  {
+    "firstName": "Méline",
+    "lastName": "Dupuis",
+    "email": "meline.dupuis@example.com",
+    "username": "tinyswan781",
+    "password": "sapphire",
+    "invokedAt": "2020-12-18T23:02:25.079Z"
   }
 ]
