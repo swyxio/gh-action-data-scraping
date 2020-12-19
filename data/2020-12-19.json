@@ -126,5 +126,13 @@
     "username": "orangeelephant547",
     "password": "premium",
     "invokedAt": "2020-12-19T15:01:05.844Z"
+  },
+  {
+    "firstName": "Meral",
+    "lastName": "Kıraç",
+    "email": "meral.kirac@example.com",
+    "username": "redlion498",
+    "password": "ariana",
+    "invokedAt": "2020-12-19T16:05:30.304Z"
   }
 ]
