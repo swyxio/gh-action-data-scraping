@@ -22,5 +22,13 @@
     "username": "bigdog166",
     "password": "senior",
     "invokedAt": "2020-12-19T02:16:13.197Z"
+  },
+  {
+    "firstName": "Sienna",
+    "lastName": "Smith",
+    "email": "sienna.smith@example.com",
+    "username": "crazybutterfly456",
+    "password": "idefix",
+    "invokedAt": "2020-12-19T03:03:50.257Z"
   }
 ]
