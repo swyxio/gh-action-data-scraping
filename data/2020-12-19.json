@@ -86,5 +86,13 @@
     "username": "sadfrog499",
     "password": "nirvana",
     "invokedAt": "2020-12-19T10:03:03.368Z"
+  },
+  {
+    "firstName": "Idun",
+    "lastName": "Oliversen",
+    "email": "idun.oliversen@example.com",
+    "username": "heavyfrog632",
+    "password": "barbara",
+    "invokedAt": "2020-12-19T11:02:22.397Z"
   }
 ]
