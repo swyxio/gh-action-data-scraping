@@ -30,5 +30,13 @@
     "username": "crazybutterfly456",
     "password": "idefix",
     "invokedAt": "2020-12-19T03:03:50.257Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Willis",
+    "email": "marcus.willis@example.com",
+    "username": "smallpeacock976",
+    "password": "check",
+    "invokedAt": "2020-12-19T04:02:40.224Z"
   }
 ]
