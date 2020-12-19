@@ -78,5 +78,13 @@
     "username": "happygoose680",
     "password": "senators",
     "invokedAt": "2020-12-19T09:02:27.690Z"
+  },
+  {
+    "firstName": "Hans-Ludwig",
+    "lastName": "Kampe",
+    "email": "hans-ludwig.kampe@example.com",
+    "username": "sadfrog499",
+    "password": "nirvana",
+    "invokedAt": "2020-12-19T10:03:03.368Z"
   }
 ]
