@@ -174,5 +174,13 @@
     "username": "crazytiger617",
     "password": "weird",
     "invokedAt": "2020-12-19T21:00:42.911Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Vincent",
+    "email": "charles.vincent@example.com",
+    "username": "angryrabbit963",
+    "password": "intel",
+    "invokedAt": "2020-12-19T22:00:55.528Z"
   }
 ]
