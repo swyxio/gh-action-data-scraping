@@ -182,5 +182,13 @@
     "username": "angryrabbit963",
     "password": "intel",
     "invokedAt": "2020-12-19T22:00:55.528Z"
+  },
+  {
+    "firstName": "Britney",
+    "lastName": "Griffin",
+    "email": "britney.griffin@example.com",
+    "username": "orangelion217",
+    "password": "astro",
+    "invokedAt": "2020-12-19T23:00:39.652Z"
   }
 ]
