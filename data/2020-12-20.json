@@ -118,5 +118,13 @@
     "username": "crazylion706",
     "password": "poppop",
     "invokedAt": "2020-12-20T14:00:49.285Z"
+  },
+  {
+    "firstName": "Engrácio",
+    "lastName": "da Cruz",
+    "email": "engracio.dacruz@example.com",
+    "username": "smallrabbit529",
+    "password": "lucas",
+    "invokedAt": "2020-12-20T15:00:47.479Z"
   }
 ]
