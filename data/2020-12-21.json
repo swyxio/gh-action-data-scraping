@@ -94,5 +94,13 @@
     "username": "smallkoala794",
     "password": "freepass",
     "invokedAt": "2020-12-21T11:03:37.451Z"
+  },
+  {
+    "firstName": "Katrine",
+    "lastName": "Andersen",
+    "email": "katrine.andersen@example.com",
+    "username": "bigmouse706",
+    "password": "madman",
+    "invokedAt": "2020-12-21T12:01:10.795Z"
   }
 ]
