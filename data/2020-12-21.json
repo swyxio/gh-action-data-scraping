@@ -86,5 +86,13 @@
     "username": "brownmeercat237",
     "password": "thompson",
     "invokedAt": "2020-12-21T10:03:51.546Z"
+  },
+  {
+    "firstName": "Marine",
+    "lastName": "Roger",
+    "email": "marine.roger@example.com",
+    "username": "smallkoala794",
+    "password": "freepass",
+    "invokedAt": "2020-12-21T11:03:37.451Z"
   }
 ]
