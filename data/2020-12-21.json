@@ -158,5 +158,13 @@
     "username": "angryswan526",
     "password": "compass",
     "invokedAt": "2020-12-21T19:08:41.674Z"
+  },
+  {
+    "firstName": "Taylor",
+    "lastName": "Henry",
+    "email": "taylor.henry@example.com",
+    "username": "goldenwolf819",
+    "password": "paradigm",
+    "invokedAt": "2020-12-21T20:01:14.441Z"
   }
 ]
