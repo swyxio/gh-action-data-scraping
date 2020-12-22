@@ -78,5 +78,13 @@
     "username": "purplekoala507",
     "password": "irving",
     "invokedAt": "2020-12-22T09:09:02.844Z"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Dean",
+    "email": "claire.dean@example.com",
+    "username": "tinyzebra309",
+    "password": "rhythm",
+    "invokedAt": "2020-12-22T10:07:40.553Z"
   }
 ]
