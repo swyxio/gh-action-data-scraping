@@ -182,5 +182,13 @@
     "username": "redfish384",
     "password": "building",
     "invokedAt": "2020-12-22T22:04:57.391Z"
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Morgan",
+    "email": "andre.morgan@example.com",
+    "username": "sadkoala830",
+    "password": "benton",
+    "invokedAt": "2020-12-22T23:09:27.903Z"
   }
 ]
