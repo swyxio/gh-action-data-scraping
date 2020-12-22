@@ -142,5 +142,13 @@
     "username": "smalldog105",
     "password": "adult",
     "invokedAt": "2020-12-22T17:31:21.989Z"
+  },
+  {
+    "firstName": "Ilona",
+    "lastName": "Ahonen",
+    "email": "ilona.ahonen@example.com",
+    "username": "silverpanda814",
+    "password": "hiphop",
+    "invokedAt": "2020-12-22T18:15:51.219Z"
   }
 ]
