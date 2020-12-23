@@ -126,5 +126,13 @@
     "username": "happyelephant663",
     "password": "digital1",
     "invokedAt": "2020-12-23T15:03:19.449Z"
+  },
+  {
+    "firstName": "Givano",
+    "lastName": "Goudswaard",
+    "email": "givano.goudswaard@example.com",
+    "username": "happyfish714",
+    "password": "boss",
+    "invokedAt": "2020-12-23T16:11:36.428Z"
   }
 ]
