@@ -70,5 +70,13 @@
     "username": "brownwolf646",
     "password": "cornell",
     "invokedAt": "2020-12-23T08:05:04.217Z"
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "Scott",
+    "email": "jimmy.scott@example.com",
+    "username": "greengoose205",
+    "password": "jazz",
+    "invokedAt": "2020-12-23T09:09:30.826Z"
   }
 ]
