@@ -62,5 +62,13 @@
     "username": "lazyleopard581",
     "password": "hooters",
     "invokedAt": "2020-12-23T07:12:21.512Z"
+  },
+  {
+    "firstName": "Oğuzhan",
+    "lastName": "Hakyemez",
+    "email": "oguzhan.hakyemez@example.com",
+    "username": "brownwolf646",
+    "password": "cornell",
+    "invokedAt": "2020-12-23T08:05:04.217Z"
   }
 ]
