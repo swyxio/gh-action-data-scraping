@@ -94,5 +94,13 @@
     "username": "bigsnake593",
     "password": "simon",
     "invokedAt": "2020-12-24T11:07:04.852Z"
+  },
+  {
+    "firstName": "Renzo",
+    "lastName": "Pierre",
+    "email": "renzo.pierre@example.com",
+    "username": "organiczebra270",
+    "password": "server",
+    "invokedAt": "2020-12-24T12:03:05.638Z"
   }
 ]
