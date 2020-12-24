@@ -166,5 +166,13 @@
     "username": "goldencat333",
     "password": "avatar",
     "invokedAt": "2020-12-24T20:04:04.154Z"
+  },
+  {
+    "firstName": "Alberte",
+    "lastName": "Christiansen",
+    "email": "alberte.christiansen@example.com",
+    "username": "heavybear869",
+    "password": "cherry",
+    "invokedAt": "2020-12-24T21:02:43.448Z"
   }
 ]
