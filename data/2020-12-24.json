@@ -102,5 +102,13 @@
     "username": "organiczebra270",
     "password": "server",
     "invokedAt": "2020-12-24T12:03:05.638Z"
+  },
+  {
+    "firstName": "Quirino",
+    "lastName": "Dias",
+    "email": "quirino.dias@example.com",
+    "username": "greenfish452",
+    "password": "pizzas",
+    "invokedAt": "2020-12-24T13:17:23.403Z"
   }
 ]
