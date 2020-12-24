@@ -126,5 +126,13 @@
     "username": "sadpanda998",
     "password": "myxworld",
     "invokedAt": "2020-12-24T15:03:16.369Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Kivela",
+    "email": "elias.kivela@example.com",
+    "username": "orangebutterfly606",
+    "password": "daewoo",
+    "invokedAt": "2020-12-24T16:11:53.318Z"
   }
 ]
