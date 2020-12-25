@@ -126,5 +126,13 @@
     "username": "sadgorilla443",
     "password": "anubis",
     "invokedAt": "2020-12-25T15:00:57.326Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Tahincioğlu",
+    "email": "mustafa.tahincioglu@example.com",
+    "username": "greensnake237",
+    "password": "575757",
+    "invokedAt": "2020-12-25T16:06:42.363Z"
   }
 ]
