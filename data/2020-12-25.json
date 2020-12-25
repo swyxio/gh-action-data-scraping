@@ -158,5 +158,13 @@
     "username": "silvercat243",
     "password": "a1b2c3d4",
     "invokedAt": "2020-12-25T19:13:22.143Z"
+  },
+  {
+    "firstName": "Nalan",
+    "lastName": "Gümüşpala",
+    "email": "nalan.gumuspala@example.com",
+    "username": "heavybutterfly638",
+    "password": "kitty",
+    "invokedAt": "2020-12-25T20:00:46.486Z"
   }
 ]
