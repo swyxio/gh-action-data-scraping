@@ -46,5 +46,13 @@
     "username": "tinymeercat406",
     "password": "blackdog",
     "invokedAt": "2020-12-26T05:08:33.432Z"
+  },
+  {
+    "firstName": "Jesus",
+    "lastName": "Vega",
+    "email": "jesus.vega@example.com",
+    "username": "purplesnake604",
+    "password": "adult",
+    "invokedAt": "2020-12-26T06:00:57.531Z"
   }
 ]
