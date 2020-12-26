@@ -174,5 +174,13 @@
     "username": "brownfrog810",
     "password": "chair",
     "invokedAt": "2020-12-26T22:02:43.680Z"
+  },
+  {
+    "firstName": "Livio",
+    "lastName": "Rodriguez",
+    "email": "livio.rodriguez@example.com",
+    "username": "purpletiger781",
+    "password": "whiplash",
+    "invokedAt": "2020-12-26T23:08:22.631Z"
   }
 ]
