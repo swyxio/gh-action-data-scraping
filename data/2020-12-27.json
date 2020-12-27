@@ -142,5 +142,13 @@
     "username": "blackbear689",
     "password": "deerhunt",
     "invokedAt": "2020-12-27T17:32:36.791Z"
+  },
+  {
+    "firstName": "Pauline",
+    "lastName": "Murphy",
+    "email": "pauline.murphy@example.com",
+    "username": "blacktiger238",
+    "password": "condor",
+    "invokedAt": "2020-12-27T18:17:38.414Z"
   }
 ]
