@@ -78,5 +78,13 @@
     "username": "whitebear433",
     "password": "havana",
     "invokedAt": "2020-12-27T09:06:29.443Z"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Green",
+    "email": "claire.green@example.com",
+    "username": "redsnake241",
+    "password": "skipper",
+    "invokedAt": "2020-12-27T10:06:19.274Z"
   }
 ]
