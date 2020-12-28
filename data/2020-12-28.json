@@ -158,5 +158,13 @@
     "username": "happydog674",
     "password": "jammer",
     "invokedAt": "2020-12-28T19:17:45.806Z"
+  },
+  {
+    "firstName": "Riccardo",
+    "lastName": "Lefebvre",
+    "email": "riccardo.lefebvre@example.com",
+    "username": "blackbear761",
+    "password": "wage",
+    "invokedAt": "2020-12-28T20:03:21.323Z"
   }
 ]
