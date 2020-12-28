@@ -150,5 +150,13 @@
     "username": "orangeelephant748",
     "password": "pearljam",
     "invokedAt": "2020-12-28T18:21:01.422Z"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Thompson",
+    "email": "ellie.thompson@example.com",
+    "username": "happydog674",
+    "password": "jammer",
+    "invokedAt": "2020-12-28T19:17:45.806Z"
   }
 ]
