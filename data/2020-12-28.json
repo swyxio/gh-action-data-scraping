@@ -166,5 +166,13 @@
     "username": "blackbear761",
     "password": "wage",
     "invokedAt": "2020-12-28T20:03:21.323Z"
+  },
+  {
+    "firstName": "Barış",
+    "lastName": "Çağıran",
+    "email": "baris.cagiran@example.com",
+    "username": "bluefish455",
+    "password": "qwerasdf",
+    "invokedAt": "2020-12-28T21:01:31.527Z"
   }
 ]
