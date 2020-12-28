@@ -22,5 +22,13 @@
     "username": "tinydog508",
     "password": "redfish",
     "invokedAt": "2020-12-28T02:30:01.373Z"
+  },
+  {
+    "firstName": "Connie",
+    "lastName": "Bennett",
+    "email": "connie.bennett@example.com",
+    "username": "greencat912",
+    "password": "1226",
+    "invokedAt": "2020-12-28T03:11:14.524Z"
   }
 ]
