@@ -142,5 +142,13 @@
     "username": "crazydog148",
     "password": "debbie",
     "invokedAt": "2020-12-28T17:35:30.507Z"
+  },
+  {
+    "firstName": "Kaya",
+    "lastName": "Önür",
+    "email": "kaya.onur@example.com",
+    "username": "orangeelephant748",
+    "password": "pearljam",
+    "invokedAt": "2020-12-28T18:21:01.422Z"
   }
 ]
