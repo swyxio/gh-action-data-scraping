@@ -14,5 +14,13 @@
     "username": "lazypanda255",
     "password": "doubled",
     "invokedAt": "2020-12-29T01:54:38.391Z"
+  },
+  {
+    "firstName": "Ezio",
+    "lastName": "Gautier",
+    "email": "ezio.gautier@example.com",
+    "username": "biggorilla838",
+    "password": "choice",
+    "invokedAt": "2020-12-29T02:31:14.653Z"
   }
 ]
