@@ -126,5 +126,13 @@
     "username": "greenwolf244",
     "password": "pointer",
     "invokedAt": "2020-12-29T15:02:16.315Z"
+  },
+  {
+    "firstName": "Elmer",
+    "lastName": "Neal",
+    "email": "elmer.neal@example.com",
+    "username": "brownswan733",
+    "password": "mannn",
+    "invokedAt": "2020-12-29T16:11:34.403Z"
   }
 ]
