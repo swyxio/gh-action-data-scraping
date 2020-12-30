@@ -78,5 +78,13 @@
     "username": "purplepeacock723",
     "password": "halflife",
     "invokedAt": "2020-12-30T09:09:48.199Z"
+  },
+  {
+    "firstName": "Douglas",
+    "lastName": "Wallace",
+    "email": "douglas.wallace@example.com",
+    "username": "smallelephant875",
+    "password": "nathan",
+    "invokedAt": "2020-12-30T10:09:07.634Z"
   }
 ]
