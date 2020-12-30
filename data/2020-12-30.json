@@ -14,5 +14,13 @@
     "username": "redbutterfly449",
     "password": "1011",
     "invokedAt": "2020-12-30T01:56:24.817Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Andersen",
+    "email": "nanna.andersen@example.com",
+    "username": "bigladybug711",
+    "password": "photos",
+    "invokedAt": "2020-12-30T02:35:32.807Z"
   }
 ]
