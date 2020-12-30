@@ -94,5 +94,13 @@
     "username": "lazycat793",
     "password": "1210",
     "invokedAt": "2020-12-30T11:08:01.617Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Moraes",
+    "email": "alex.moraes@example.com",
+    "username": "smallmeercat533",
+    "password": "harvest",
+    "invokedAt": "2020-12-30T12:01:21.455Z"
   }
 ]
