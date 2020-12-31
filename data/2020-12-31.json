@@ -102,5 +102,13 @@
     "username": "sadostrich382",
     "password": "corolla",
     "invokedAt": "2020-12-31T12:04:23.467Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Koskinen",
+    "email": "niklas.koskinen@example.com",
+    "username": "biglion259",
+    "password": "ronald",
+    "invokedAt": "2020-12-31T13:21:42.344Z"
   }
 ]
