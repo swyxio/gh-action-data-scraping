@@ -126,5 +126,13 @@
     "username": "tinyleopard738",
     "password": "mellow",
     "invokedAt": "2020-12-31T15:04:57.668Z"
+  },
+  {
+    "firstName": "Begoña",
+    "lastName": "Molina",
+    "email": "begona.molina@example.com",
+    "username": "sadfish463",
+    "password": "topdog",
+    "invokedAt": "2020-12-31T16:13:30.467Z"
   }
 ]
