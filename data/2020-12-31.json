@@ -134,5 +134,13 @@
     "username": "sadfish463",
     "password": "topdog",
     "invokedAt": "2020-12-31T16:13:30.467Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Côté",
+    "email": "louis.cote@example.com",
+    "username": "organicleopard915",
+    "password": "tasha",
+    "invokedAt": "2020-12-31T17:44:33.799Z"
   }
 ]
