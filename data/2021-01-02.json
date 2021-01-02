@@ -70,5 +70,13 @@
     "username": "angryostrich760",
     "password": "digital",
     "invokedAt": "2021-01-02T08:05:18.931Z"
+  },
+  {
+    "firstName": "محمد",
+    "lastName": "پارسا",
+    "email": "mhmd.prs@example.com",
+    "username": "blackfish722",
+    "password": "wolfie",
+    "invokedAt": "2021-01-02T09:10:14.707Z"
   }
 ]
