@@ -174,5 +174,13 @@
     "username": "smallcat136",
     "password": "fender",
     "invokedAt": "2021-01-02T21:02:19.307Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Simmons",
+    "email": "grace.simmons@example.com",
+    "username": "goldenladybug698",
+    "password": "flower2",
+    "invokedAt": "2021-01-02T22:05:19.717Z"
   }
 ]
