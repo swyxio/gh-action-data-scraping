@@ -62,5 +62,13 @@
     "username": "orangerabbit399",
     "password": "ooooooo",
     "invokedAt": "2021-01-05T08:09:08.496Z"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Lawson",
+    "email": "mia.lawson@example.com",
+    "username": "orangepanda315",
+    "password": "lionel",
+    "invokedAt": "2021-01-05T09:14:46.145Z"
   }
 ]
