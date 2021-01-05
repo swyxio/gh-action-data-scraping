@@ -126,5 +126,13 @@
     "username": "lazywolf422",
     "password": "kingpin",
     "invokedAt": "2021-01-05T16:12:37.900Z"
+  },
+  {
+    "firstName": "Domingo",
+    "lastName": "Peña",
+    "email": "domingo.pena@example.com",
+    "username": "yellowgoose283",
+    "password": "freeway",
+    "invokedAt": "2021-01-05T17:50:05.684Z"
   }
 ]
