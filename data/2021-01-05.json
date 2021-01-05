@@ -166,5 +166,13 @@
     "username": "silverbear763",
     "password": "logitech",
     "invokedAt": "2021-01-05T21:04:03.604Z"
+  },
+  {
+    "firstName": "Johannes",
+    "lastName": "Perrin",
+    "email": "johannes.perrin@example.com",
+    "username": "greenbear691",
+    "password": "cosmos",
+    "invokedAt": "2021-01-05T22:06:34.665Z"
   }
 ]
