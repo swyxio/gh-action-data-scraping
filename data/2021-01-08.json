@@ -150,5 +150,13 @@
     "username": "happypeacock822",
     "password": "ncc1701e",
     "invokedAt": "2021-01-08T19:19:33.692Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Gagné",
+    "email": "james.gagne@example.com",
+    "username": "goldencat836",
+    "password": "blonde",
+    "invokedAt": "2021-01-08T20:07:26.465Z"
   }
 ]
