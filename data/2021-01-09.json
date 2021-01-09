@@ -54,5 +54,13 @@
     "username": "organicfish232",
     "password": "razor",
     "invokedAt": "2021-01-09T07:19:09.951Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Reed",
+    "email": "mary.reed@example.com",
+    "username": "lazytiger631",
+    "password": "blanche",
+    "invokedAt": "2021-01-09T08:11:40.401Z"
   }
 ]
