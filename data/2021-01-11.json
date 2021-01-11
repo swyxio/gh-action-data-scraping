@@ -78,5 +78,13 @@
     "username": "goldenlion422",
     "password": "robot",
     "invokedAt": "2021-01-11T10:22:48.621Z"
+  },
+  {
+    "firstName": "Wallace",
+    "lastName": "Hopkins",
+    "email": "wallace.hopkins@example.com",
+    "username": "goldenleopard606",
+    "password": "figure",
+    "invokedAt": "2021-01-11T11:19:40.557Z"
   }
 ]
