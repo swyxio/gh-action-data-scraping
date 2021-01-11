@@ -86,5 +86,13 @@
     "username": "goldenleopard606",
     "password": "figure",
     "invokedAt": "2021-01-11T11:19:40.557Z"
+  },
+  {
+    "firstName": "Jonah",
+    "lastName": "Løset",
+    "email": "jonah.loset@example.com",
+    "username": "heavycat455",
+    "password": "picasso",
+    "invokedAt": "2021-01-11T12:09:34.712Z"
   }
 ]
