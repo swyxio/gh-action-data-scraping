@@ -94,5 +94,13 @@
     "username": "orangelion550",
     "password": "munich",
     "invokedAt": "2021-01-13T12:19:18.303Z"
+  },
+  {
+    "firstName": "Pilar",
+    "lastName": "Herrero",
+    "email": "pilar.herrero@example.com",
+    "username": "bigfrog761",
+    "password": "pass123",
+    "invokedAt": "2021-01-13T13:37:43.338Z"
   }
 ]
