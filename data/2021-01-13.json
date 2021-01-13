@@ -102,5 +102,13 @@
     "username": "bigfrog761",
     "password": "pass123",
     "invokedAt": "2021-01-13T13:37:43.338Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Sørensen",
+    "email": "nanna.sorensen@example.com",
+    "username": "beautifulgoose406",
+    "password": "oblivion",
+    "invokedAt": "2021-01-13T14:26:01.281Z"
   }
 ]
