@@ -134,5 +134,13 @@
     "username": "ticklishduck425",
     "password": "printer",
     "invokedAt": "2021-01-14T19:42:38.622Z"
+  },
+  {
+    "firstName": "Jakob",
+    "lastName": "Pierce",
+    "email": "jakob.pierce@example.com",
+    "username": "yellowzebra838",
+    "password": "lancia",
+    "invokedAt": "2021-01-14T20:23:50.359Z"
   }
 ]
