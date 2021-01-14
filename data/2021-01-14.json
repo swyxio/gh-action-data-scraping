@@ -38,5 +38,13 @@
     "username": "bluepeacock380",
     "password": "eraser",
     "invokedAt": "2021-01-14T05:33:04.959Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Henderson",
+    "email": "marcus.henderson@example.com",
+    "username": "crazyduck904",
+    "password": "asdf12",
+    "invokedAt": "2021-01-14T06:24:53.640Z"
   }
 ]
