@@ -46,5 +46,13 @@
     "username": "crazyduck904",
     "password": "asdf12",
     "invokedAt": "2021-01-14T06:24:53.640Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Demirbaş",
+    "email": "davut.demirbas@example.com",
+    "username": "bluesnake195",
+    "password": "anthrax",
+    "invokedAt": "2021-01-14T07:31:16.257Z"
   }
 ]
