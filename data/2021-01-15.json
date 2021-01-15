@@ -62,5 +62,13 @@
     "username": "happywolf464",
     "password": "screen",
     "invokedAt": "2021-01-15T10:30:39.040Z"
+  },
+  {
+    "firstName": "Phillip",
+    "lastName": "Brewer",
+    "email": "phillip.brewer@example.com",
+    "username": "angrygoose953",
+    "password": "batman",
+    "invokedAt": "2021-01-15T11:29:03.340Z"
   }
 ]
