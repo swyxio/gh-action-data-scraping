@@ -94,5 +94,13 @@
     "username": "bluegorilla415",
     "password": "bender",
     "invokedAt": "2021-01-16T12:15:58.498Z"
+  },
+  {
+    "firstName": "Meral",
+    "lastName": "Kocabıyık",
+    "email": "meral.kocabiyik@example.com",
+    "username": "bluedog702",
+    "password": "zippy",
+    "invokedAt": "2021-01-16T13:34:36.535Z"
   }
 ]
