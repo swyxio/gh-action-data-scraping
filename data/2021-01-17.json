@@ -86,5 +86,13 @@
     "username": "whitebutterfly108",
     "password": "beat",
     "invokedAt": "2021-01-17T11:26:49.848Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Christensen",
+    "email": "rasmus.christensen@example.com",
+    "username": "heavymeercat390",
+    "password": "transfer",
+    "invokedAt": "2021-01-17T12:14:56.567Z"
   }
 ]
