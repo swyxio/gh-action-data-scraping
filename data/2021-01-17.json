@@ -102,5 +102,13 @@
     "username": "greenzebra599",
     "password": "mike",
     "invokedAt": "2021-01-17T13:33:13.444Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Green",
+    "email": "charles.green@example.com",
+    "username": "silverleopard540",
+    "password": "zipper",
+    "invokedAt": "2021-01-17T14:20:31.545Z"
   }
 ]
