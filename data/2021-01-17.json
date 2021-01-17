@@ -166,5 +166,13 @@
     "username": "bluesnake486",
     "password": "just4me",
     "invokedAt": "2021-01-17T22:15:28.722Z"
+  },
+  {
+    "firstName": "Eetu",
+    "lastName": "Keto",
+    "email": "eetu.keto@example.com",
+    "username": "bigdog367",
+    "password": "punkin",
+    "invokedAt": "2021-01-17T23:23:32.616Z"
   }
 ]
