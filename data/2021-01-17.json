@@ -78,5 +78,13 @@
     "username": "organicwolf374",
     "password": "films",
     "invokedAt": "2021-01-17T10:28:40.377Z"
+  },
+  {
+    "firstName": "Andres",
+    "lastName": "Lopez",
+    "email": "andres.lopez@example.com",
+    "username": "whitebutterfly108",
+    "password": "beat",
+    "invokedAt": "2021-01-17T11:26:49.848Z"
   }
 ]
