@@ -46,5 +46,13 @@
     "username": "blackpanda398",
     "password": "bounty",
     "invokedAt": "2021-01-19T06:24:47.624Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Tuominen",
+    "email": "emma.tuominen@example.com",
+    "username": "bluefrog758",
+    "password": "massive",
+    "invokedAt": "2021-01-19T07:31:35.849Z"
   }
 ]
