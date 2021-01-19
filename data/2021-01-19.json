@@ -94,5 +94,13 @@
     "username": "goldenostrich210",
     "password": "picard",
     "invokedAt": "2021-01-19T12:19:23.601Z"
+  },
+  {
+    "firstName": "Lori",
+    "lastName": "Carter",
+    "email": "lori.carter@example.com",
+    "username": "crazygorilla587",
+    "password": "port",
+    "invokedAt": "2021-01-19T13:39:22.984Z"
   }
 ]
