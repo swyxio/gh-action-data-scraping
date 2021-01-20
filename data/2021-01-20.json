@@ -126,5 +126,13 @@
     "username": "silvercat263",
     "password": "planes",
     "invokedAt": "2021-01-20T16:35:13.739Z"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Alvarez",
+    "email": "bradley.alvarez@example.com",
+    "username": "orangegorilla587",
+    "password": "passpass",
+    "invokedAt": "2021-01-20T18:12:07.875Z"
   }
 ]
