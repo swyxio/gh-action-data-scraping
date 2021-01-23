@@ -118,5 +118,13 @@
     "username": "greenfrog839",
     "password": "chinese",
     "invokedAt": "2021-01-23T15:15:10.357Z"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Edwards",
+    "email": "michael.edwards@example.com",
+    "username": "redrabbit558",
+    "password": "ripple",
+    "invokedAt": "2021-01-23T16:22:37.842Z"
   }
 ]
