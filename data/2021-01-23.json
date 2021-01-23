@@ -78,5 +78,13 @@
     "username": "bigsnake651",
     "password": "pimp",
     "invokedAt": "2021-01-23T10:29:57.701Z"
+  },
+  {
+    "firstName": "Lærke",
+    "lastName": "Jensen",
+    "email": "laerke.jensen@example.com",
+    "username": "whitebear567",
+    "password": "parker",
+    "invokedAt": "2021-01-23T11:28:27.065Z"
   }
 ]
