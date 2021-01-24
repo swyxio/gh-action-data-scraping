@@ -142,5 +142,13 @@
     "username": "blacklion979",
     "password": "niners",
     "invokedAt": "2021-01-24T19:38:57.616Z"
+  },
+  {
+    "firstName": "Shawn",
+    "lastName": "Gutierrez",
+    "email": "shawn.gutierrez@example.com",
+    "username": "redleopard109",
+    "password": "jarhead",
+    "invokedAt": "2021-01-24T20:23:17.952Z"
   }
 ]
