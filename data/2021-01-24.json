@@ -126,5 +126,13 @@
     "username": "redtiger772",
     "password": "cisco",
     "invokedAt": "2021-01-24T16:23:25.796Z"
+  },
+  {
+    "firstName": "Piper",
+    "lastName": "Thompson",
+    "email": "piper.thompson@example.com",
+    "username": "angryduck881",
+    "password": "mystery",
+    "invokedAt": "2021-01-24T18:09:40.707Z"
   }
 ]
