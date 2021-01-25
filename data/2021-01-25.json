@@ -30,5 +30,13 @@
     "username": "beautifulpanda433",
     "password": "border",
     "invokedAt": "2021-01-25T04:27:52.683Z"
+  },
+  {
+    "firstName": "Marvin",
+    "lastName": "Fields",
+    "email": "marvin.fields@example.com",
+    "username": "smallfish699",
+    "password": "fish",
+    "invokedAt": "2021-01-25T05:35:34.160Z"
   }
 ]
