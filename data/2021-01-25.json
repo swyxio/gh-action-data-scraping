@@ -46,5 +46,13 @@
     "username": "sadgorilla604",
     "password": "papito",
     "invokedAt": "2021-01-25T06:25:17.427Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Taşçı",
+    "email": "mustafa.tasci@example.com",
+    "username": "lazyswan430",
+    "password": "arctic",
+    "invokedAt": "2021-01-25T07:32:47.606Z"
   }
 ]
