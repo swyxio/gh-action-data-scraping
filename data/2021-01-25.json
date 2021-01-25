@@ -110,5 +110,13 @@
     "username": "redbutterfly698",
     "password": "gaston",
     "invokedAt": "2021-01-25T14:25:54.006Z"
+  },
+  {
+    "firstName": "Beatrice",
+    "lastName": "Ouellet",
+    "email": "beatrice.ouellet@example.com",
+    "username": "brownzebra874",
+    "password": "trainer",
+    "invokedAt": "2021-01-25T15:17:11.768Z"
   }
 ]
