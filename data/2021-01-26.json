@@ -94,5 +94,13 @@
     "username": "redlion214",
     "password": "gizmodo",
     "invokedAt": "2021-01-26T11:02:15.743Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Robert",
+    "email": "david.robert@example.com",
+    "username": "orangegorilla890",
+    "password": "jimbob",
+    "invokedAt": "2021-01-26T12:00:56.550Z"
   }
 ]
