@@ -62,5 +62,13 @@
     "username": "happyswan339",
     "password": "washington",
     "invokedAt": "2021-01-27T07:04:14.315Z"
+  },
+  {
+    "firstName": "Ewald",
+    "lastName": "Van den Toorn",
+    "email": "ewald.vandentoorn@example.com",
+    "username": "bluepeacock559",
+    "password": "domain",
+    "invokedAt": "2021-01-27T08:00:54.696Z"
   }
 ]
