@@ -70,5 +70,13 @@
     "username": "bluepeacock559",
     "password": "domain",
     "invokedAt": "2021-01-27T08:00:54.696Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Ouellet",
+    "email": "olivier.ouellet@example.com",
+    "username": "beautifuldog105",
+    "password": "stafford",
+    "invokedAt": "2021-01-27T09:04:42.226Z"
   }
 ]
