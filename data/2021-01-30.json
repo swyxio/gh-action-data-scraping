@@ -158,5 +158,13 @@
     "username": "blackrabbit462",
     "password": "metal",
     "invokedAt": "2021-01-30T19:11:47.248Z"
+  },
+  {
+    "firstName": "Delphine",
+    "lastName": "Ennis",
+    "email": "delphine.ennis@example.com",
+    "username": "whitecat202",
+    "password": "capone",
+    "invokedAt": "2021-01-30T20:00:49.428Z"
   }
 ]
