@@ -126,5 +126,13 @@
     "username": "happyzebra848",
     "password": "marker",
     "invokedAt": "2021-01-30T15:00:41.629Z"
+  },
+  {
+    "firstName": "Aylin",
+    "lastName": "Clement",
+    "email": "aylin.clement@example.com",
+    "username": "browndog219",
+    "password": "giraffe",
+    "invokedAt": "2021-01-30T16:04:29.220Z"
   }
 ]
