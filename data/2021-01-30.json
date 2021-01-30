@@ -118,5 +118,13 @@
     "username": "yellowfish738",
     "password": "benji",
     "invokedAt": "2021-01-30T14:00:48.671Z"
+  },
+  {
+    "firstName": "Karl-Peter",
+    "lastName": "Köcher",
+    "email": "karl-peter.kocher@example.com",
+    "username": "happyzebra848",
+    "password": "marker",
+    "invokedAt": "2021-01-30T15:00:41.629Z"
   }
 ]
