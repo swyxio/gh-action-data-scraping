@@ -102,5 +102,13 @@
     "username": "sadfrog980",
     "password": "onetime",
     "invokedAt": "2021-01-30T12:00:53.323Z"
+  },
+  {
+    "firstName": "Lia",
+    "lastName": "Rousseau",
+    "email": "lia.rousseau@example.com",
+    "username": "goldenbird429",
+    "password": "444444",
+    "invokedAt": "2021-01-30T13:11:39.468Z"
   }
 ]
