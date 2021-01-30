@@ -94,5 +94,13 @@
     "username": "whitemeercat701",
     "password": "reload",
     "invokedAt": "2021-01-30T11:02:22.768Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Ellis",
+    "email": "ivan.ellis@example.com",
+    "username": "sadfrog980",
+    "password": "onetime",
+    "invokedAt": "2021-01-30T12:00:53.323Z"
   }
 ]
