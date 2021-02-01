@@ -174,5 +174,13 @@
     "username": "purplebird809",
     "password": "spanking",
     "invokedAt": "2021-02-01T21:00:44.281Z"
+  },
+  {
+    "firstName": "Hans",
+    "lastName": "Arens",
+    "email": "hans.arens@example.com",
+    "username": "goldenlion674",
+    "password": "forest",
+    "invokedAt": "2021-02-01T22:00:54.845Z"
   }
 ]
