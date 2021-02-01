@@ -118,5 +118,13 @@
     "username": "goldengorilla298",
     "password": "animals",
     "invokedAt": "2021-02-01T14:00:56.722Z"
+  },
+  {
+    "firstName": "Leonel",
+    "lastName": "Stadheim",
+    "email": "leonel.stadheim@example.com",
+    "username": "purplekoala151",
+    "password": "atlanta",
+    "invokedAt": "2021-02-01T15:00:53.859Z"
   }
 ]
