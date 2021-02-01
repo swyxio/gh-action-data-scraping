@@ -182,5 +182,13 @@
     "username": "goldenlion674",
     "password": "forest",
     "invokedAt": "2021-02-01T22:00:54.845Z"
+  },
+  {
+    "firstName": "Cosima",
+    "lastName": "Eibl",
+    "email": "cosima.eibl@example.com",
+    "username": "blackswan448",
+    "password": "creature",
+    "invokedAt": "2021-02-01T23:04:24.555Z"
   }
 ]
