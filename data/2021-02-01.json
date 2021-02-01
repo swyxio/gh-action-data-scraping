@@ -46,5 +46,13 @@
     "username": "greenbird786",
     "password": "californ",
     "invokedAt": "2021-02-01T05:11:03.726Z"
+  },
+  {
+    "firstName": "Sofie",
+    "lastName": "Christensen",
+    "email": "sofie.christensen@example.com",
+    "username": "angrybird472",
+    "password": "riddle",
+    "invokedAt": "2021-02-01T06:00:56.278Z"
   }
 ]
