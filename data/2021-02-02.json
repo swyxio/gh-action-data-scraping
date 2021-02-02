@@ -118,5 +118,13 @@
     "username": "organicostrich113",
     "password": "dabomb",
     "invokedAt": "2021-02-02T14:00:53.151Z"
+  },
+  {
+    "firstName": "Marshall",
+    "lastName": "Reid",
+    "email": "marshall.reid@example.com",
+    "username": "happysnake617",
+    "password": "objects",
+    "invokedAt": "2021-02-02T15:00:59.401Z"
   }
 ]
