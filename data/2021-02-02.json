@@ -46,5 +46,13 @@
     "username": "greendog421",
     "password": "schmidt",
     "invokedAt": "2021-02-02T05:07:34.710Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Mendoza",
+    "email": "victor.mendoza@example.com",
+    "username": "orangebird161",
+    "password": "altoids",
+    "invokedAt": "2021-02-02T06:00:49.550Z"
   }
 ]
