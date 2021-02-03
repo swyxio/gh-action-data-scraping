@@ -62,5 +62,13 @@
     "username": "happyleopard347",
     "password": "forward",
     "invokedAt": "2021-02-03T07:02:24.639Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Stephens",
+    "email": "gabriel.stephens@example.com",
+    "username": "whitefrog714",
+    "password": "manchester",
+    "invokedAt": "2021-02-03T08:00:52.228Z"
   }
 ]
