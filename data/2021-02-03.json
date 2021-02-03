@@ -38,5 +38,13 @@
     "username": "blackfrog742",
     "password": "nitram",
     "invokedAt": "2021-02-03T04:01:00.286Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Campbell",
+    "email": "maxime.campbell@example.com",
+    "username": "happypeacock108",
+    "password": "ticklish",
+    "invokedAt": "2021-02-03T05:02:40.488Z"
   }
 ]
