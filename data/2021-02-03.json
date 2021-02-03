@@ -150,5 +150,13 @@
     "username": "redkoala836",
     "password": "recon",
     "invokedAt": "2021-02-03T18:07:05.892Z"
+  },
+  {
+    "firstName": "Gonca",
+    "lastName": "Yazıcı",
+    "email": "gonca.yazici@example.com",
+    "username": "happykoala892",
+    "password": "1201",
+    "invokedAt": "2021-02-03T19:06:31.685Z"
   }
 ]
