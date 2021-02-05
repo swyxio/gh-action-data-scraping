@@ -118,5 +118,13 @@
     "username": "heavytiger711",
     "password": "cigars",
     "invokedAt": "2021-02-05T14:01:01.700Z"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Wang",
+    "email": "tyler.wang@example.com",
+    "username": "organicpeacock115",
+    "password": "anakin",
+    "invokedAt": "2021-02-05T15:00:37.790Z"
   }
 ]
