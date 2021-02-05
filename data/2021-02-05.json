@@ -78,5 +78,13 @@
     "username": "greenfrog710",
     "password": "county",
     "invokedAt": "2021-02-05T09:00:50.235Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Wilson",
+    "email": "alex.wilson@example.com",
+    "username": "organicmeercat549",
+    "password": "fishfish",
+    "invokedAt": "2021-02-05T10:00:47.816Z"
   }
 ]
