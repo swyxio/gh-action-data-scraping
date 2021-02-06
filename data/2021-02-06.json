@@ -86,5 +86,13 @@
     "username": "ticklishelephant706",
     "password": "hiphop",
     "invokedAt": "2021-02-06T10:00:44.753Z"
+  },
+  {
+    "firstName": "Noémie",
+    "lastName": "Andersen",
+    "email": "noemie.andersen@example.com",
+    "username": "happygoose700",
+    "password": "webmaste",
+    "invokedAt": "2021-02-06T11:00:38.593Z"
   }
 ]
