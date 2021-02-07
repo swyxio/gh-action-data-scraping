@@ -126,5 +126,13 @@
     "username": "sadfrog210",
     "password": "matrix",
     "invokedAt": "2021-02-07T15:00:55.682Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Knight",
+    "email": "xavier.knight@example.com",
+    "username": "ticklishtiger776",
+    "password": "watcher",
+    "invokedAt": "2021-02-07T16:01:04.496Z"
   }
 ]
