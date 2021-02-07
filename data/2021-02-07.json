@@ -182,5 +182,13 @@
     "username": "blackfish385",
     "password": "hooper",
     "invokedAt": "2021-02-07T22:00:45.410Z"
+  },
+  {
+    "firstName": "Roland",
+    "lastName": "Rodriquez",
+    "email": "roland.rodriquez@example.com",
+    "username": "organicpanda465",
+    "password": "market",
+    "invokedAt": "2021-02-07T23:00:45.628Z"
   }
 ]
