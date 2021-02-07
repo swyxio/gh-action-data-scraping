@@ -110,5 +110,13 @@
     "username": "lazywolf275",
     "password": "keeper",
     "invokedAt": "2021-02-07T13:00:55.637Z"
+  },
+  {
+    "firstName": "Sinorá",
+    "lastName": "Santos",
+    "email": "sinora.santos@example.com",
+    "username": "lazydog313",
+    "password": "elwood",
+    "invokedAt": "2021-02-07T14:00:53.978Z"
   }
 ]
