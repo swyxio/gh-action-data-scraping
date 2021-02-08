@@ -158,5 +158,13 @@
     "username": "happyduck736",
     "password": "transam",
     "invokedAt": "2021-02-08T19:00:44.892Z"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Mortensen",
+    "email": "olivia.mortensen@example.com",
+    "username": "organickoala333",
+    "password": "456654",
+    "invokedAt": "2021-02-08T20:00:45.082Z"
   }
 ]
