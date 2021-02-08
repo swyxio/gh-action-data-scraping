@@ -150,5 +150,13 @@
     "username": "happyfish475",
     "password": "trouble1",
     "invokedAt": "2021-02-08T18:00:56.596Z"
+  },
+  {
+    "firstName": "Irá",
+    "lastName": "Ramos",
+    "email": "ira.ramos@example.com",
+    "username": "happyduck736",
+    "password": "transam",
+    "invokedAt": "2021-02-08T19:00:44.892Z"
   }
 ]
