@@ -78,5 +78,13 @@
     "username": "smalldog380",
     "password": "funstuff",
     "invokedAt": "2021-02-09T09:00:57.498Z"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Rezende",
+    "email": "ian.rezende@example.com",
+    "username": "beautifulgorilla945",
+    "password": "sparrow",
+    "invokedAt": "2021-02-09T10:00:48.982Z"
   }
 ]
