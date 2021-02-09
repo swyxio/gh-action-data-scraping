@@ -118,5 +118,13 @@
     "username": "bluegoose820",
     "password": "earth",
     "invokedAt": "2021-02-09T14:00:45.870Z"
+  },
+  {
+    "firstName": "Nelly",
+    "lastName": "Moan",
+    "email": "nelly.moan@example.com",
+    "username": "purplefrog917",
+    "password": "bubbles",
+    "invokedAt": "2021-02-09T15:12:13.936Z"
   }
 ]
