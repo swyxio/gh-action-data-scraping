@@ -174,5 +174,13 @@
     "username": "greenladybug907",
     "password": "bubbles",
     "invokedAt": "2021-02-09T21:00:44.274Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Chapman",
+    "email": "ralph.chapman@example.com",
+    "username": "redelephant730",
+    "password": "shells",
+    "invokedAt": "2021-02-09T22:01:06.672Z"
   }
 ]
