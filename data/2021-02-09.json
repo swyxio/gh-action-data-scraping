@@ -94,5 +94,13 @@
     "username": "heavysnake241",
     "password": "licker",
     "invokedAt": "2021-02-09T11:00:51.731Z"
+  },
+  {
+    "firstName": "Åsmund",
+    "lastName": "Lidal",
+    "email": "asmund.lidal@example.com",
+    "username": "angrykoala706",
+    "password": "banshee",
+    "invokedAt": "2021-02-09T12:00:52.830Z"
   }
 ]
