@@ -158,5 +158,13 @@
     "username": "brownsnake597",
     "password": "puffy",
     "invokedAt": "2021-02-10T19:00:56.159Z"
+  },
+  {
+    "firstName": "Driek",
+    "lastName": "Keurentjes",
+    "email": "driek.keurentjes@example.com",
+    "username": "tinybutterfly818",
+    "password": "airborne",
+    "invokedAt": "2021-02-10T20:01:05.030Z"
   }
 ]
