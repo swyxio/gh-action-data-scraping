@@ -166,5 +166,13 @@
     "username": "tinybutterfly818",
     "password": "airborne",
     "invokedAt": "2021-02-10T20:01:05.030Z"
+  },
+  {
+    "firstName": "Jimi",
+    "lastName": "Korhonen",
+    "email": "jimi.korhonen@example.com",
+    "username": "blackswan890",
+    "password": "illusion",
+    "invokedAt": "2021-02-10T21:01:03.167Z"
   }
 ]
