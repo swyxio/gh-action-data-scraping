@@ -158,5 +158,13 @@
     "username": "orangefish441",
     "password": "disco",
     "invokedAt": "2021-02-11T19:00:51.679Z"
+  },
+  {
+    "firstName": "Tracey",
+    "lastName": "Farragher",
+    "email": "tracey.farragher@example.com",
+    "username": "bigmeercat485",
+    "password": "switch",
+    "invokedAt": "2021-02-11T20:00:52.405Z"
   }
 ]
