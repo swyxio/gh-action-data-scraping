@@ -70,5 +70,13 @@
     "username": "brownwolf302",
     "password": "cohiba",
     "invokedAt": "2021-02-13T08:00:58.208Z"
+  },
+  {
+    "firstName": "Nelleke",
+    "lastName": "Bloemen",
+    "email": "nelleke.bloemen@example.com",
+    "username": "crazyswan234",
+    "password": "nintendo",
+    "invokedAt": "2021-02-13T09:01:00.565Z"
   }
 ]
