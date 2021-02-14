@@ -102,5 +102,13 @@
     "username": "smallgoose615",
     "password": "spikey",
     "invokedAt": "2021-02-14T12:00:36.410Z"
+  },
+  {
+    "firstName": "Léon",
+    "lastName": "Picard",
+    "email": "leon.picard@example.com",
+    "username": "goldenrabbit618",
+    "password": "boating",
+    "invokedAt": "2021-02-14T13:01:51.346Z"
   }
 ]
