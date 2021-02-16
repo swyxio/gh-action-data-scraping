@@ -30,5 +30,13 @@
     "username": "smallpanda878",
     "password": "booty",
     "invokedAt": "2021-02-16T03:00:45.415Z"
+  },
+  {
+    "firstName": "Cassiano",
+    "lastName": "Monteiro",
+    "email": "cassiano.monteiro@example.com",
+    "username": "bigfish999",
+    "password": "benny",
+    "invokedAt": "2021-02-16T04:00:50.188Z"
   }
 ]
