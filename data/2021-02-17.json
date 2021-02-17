@@ -166,5 +166,13 @@
     "username": "yellowtiger326",
     "password": "xanadu",
     "invokedAt": "2021-02-17T20:00:50.704Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Poulsen",
+    "email": "jacob.poulsen@example.com",
+    "username": "whitedog719",
+    "password": "dirty",
+    "invokedAt": "2021-02-17T21:00:34.738Z"
   }
 ]
