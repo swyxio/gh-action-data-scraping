@@ -38,5 +38,13 @@
     "username": "yellowfish445",
     "password": "anchor",
     "invokedAt": "2021-02-19T04:00:48.602Z"
+  },
+  {
+    "firstName": "Milka",
+    "lastName": "Hopf",
+    "email": "milka.hopf@example.com",
+    "username": "happyfish584",
+    "password": "oliver",
+    "invokedAt": "2021-02-19T05:01:00.868Z"
   }
 ]
