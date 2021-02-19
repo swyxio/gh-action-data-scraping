@@ -166,5 +166,13 @@
     "username": "greenelephant417",
     "password": "geheim",
     "invokedAt": "2021-02-19T20:00:57.775Z"
+  },
+  {
+    "firstName": "Edwin",
+    "lastName": "Trapp",
+    "email": "edwin.trapp@example.com",
+    "username": "crazybutterfly180",
+    "password": "1999",
+    "invokedAt": "2021-02-19T21:00:43.637Z"
   }
 ]
