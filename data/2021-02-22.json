@@ -126,5 +126,13 @@
     "username": "purplesnake101",
     "password": "forumwp",
     "invokedAt": "2021-02-22T15:00:56.246Z"
+  },
+  {
+    "firstName": "Megan",
+    "lastName": "Mackay",
+    "email": "megan.mackay@example.com",
+    "username": "redfrog345",
+    "password": "acidburn",
+    "invokedAt": "2021-02-22T16:01:06.282Z"
   }
 ]
