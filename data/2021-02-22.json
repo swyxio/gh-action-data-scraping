@@ -118,5 +118,13 @@
     "username": "goldendog747",
     "password": "hippie",
     "invokedAt": "2021-02-22T14:00:59.360Z"
+  },
+  {
+    "firstName": "Misha",
+    "lastName": "Rosman",
+    "email": "misha.rosman@example.com",
+    "username": "purplesnake101",
+    "password": "forumwp",
+    "invokedAt": "2021-02-22T15:00:56.246Z"
   }
 ]
