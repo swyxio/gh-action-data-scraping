@@ -46,5 +46,13 @@
     "username": "bigduck799",
     "password": "biguns",
     "invokedAt": "2021-02-22T05:00:44.676Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Mortensen",
+    "email": "william.mortensen@example.com",
+    "username": "brownbear355",
+    "password": "logger",
+    "invokedAt": "2021-02-22T06:00:55.665Z"
   }
 ]
