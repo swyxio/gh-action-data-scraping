@@ -166,5 +166,13 @@
     "username": "silverzebra735",
     "password": "enterprise",
     "invokedAt": "2021-02-22T20:00:48.262Z"
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Riley",
+    "email": "mark.riley@example.com",
+    "username": "blackmouse471",
+    "password": "booty",
+    "invokedAt": "2021-02-22T21:00:41.639Z"
   }
 ]
