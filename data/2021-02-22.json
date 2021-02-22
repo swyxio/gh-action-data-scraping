@@ -54,5 +54,13 @@
     "username": "brownbear355",
     "password": "logger",
     "invokedAt": "2021-02-22T06:00:55.665Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Andersen",
+    "email": "blake.andersen@example.com",
+    "username": "orangesnake115",
+    "password": "song",
+    "invokedAt": "2021-02-22T07:00:44.652Z"
   }
 ]
