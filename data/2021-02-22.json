@@ -134,5 +134,13 @@
     "username": "redfrog345",
     "password": "acidburn",
     "invokedAt": "2021-02-22T16:01:06.282Z"
+  },
+  {
+    "firstName": "Carlo",
+    "lastName": "Kremer",
+    "email": "carlo.kremer@example.com",
+    "username": "silvergoose382",
+    "password": "operator",
+    "invokedAt": "2021-02-22T17:18:12.599Z"
   }
 ]
