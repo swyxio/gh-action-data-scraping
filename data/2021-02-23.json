@@ -70,5 +70,13 @@
     "username": "redpanda484",
     "password": "fishman",
     "invokedAt": "2021-02-23T08:00:58.683Z"
+  },
+  {
+    "firstName": "Durmuş",
+    "lastName": "Gouda",
+    "email": "durmus.gouda@example.com",
+    "username": "organicfish210",
+    "password": "benoit",
+    "invokedAt": "2021-02-23T09:00:50.214Z"
   }
 ]
