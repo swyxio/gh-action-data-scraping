@@ -174,5 +174,13 @@
     "username": "biglion166",
     "password": "boxcar",
     "invokedAt": "2021-02-23T21:00:55.922Z"
+  },
+  {
+    "firstName": "Erich",
+    "lastName": "Morin",
+    "email": "erich.morin@example.com",
+    "username": "goldenladybug776",
+    "password": "coming",
+    "invokedAt": "2021-02-23T22:00:38.693Z"
   }
 ]
