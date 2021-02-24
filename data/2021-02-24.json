@@ -182,5 +182,13 @@
     "username": "angrypanda113",
     "password": "goblue",
     "invokedAt": "2021-02-24T22:00:57.492Z"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Grønningsæter",
+    "email": "amelia.gronningsaeter@example.com",
+    "username": "brownfrog871",
+    "password": "tian",
+    "invokedAt": "2021-02-24T23:00:52.172Z"
   }
 ]
