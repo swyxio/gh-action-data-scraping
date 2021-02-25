@@ -62,5 +62,13 @@
     "username": "smallpeacock222",
     "password": "diver1",
     "invokedAt": "2021-02-25T07:00:44.734Z"
+  },
+  {
+    "firstName": "Heather",
+    "lastName": "Scott",
+    "email": "heather.scott@example.com",
+    "username": "purplepanda666",
+    "password": "alive",
+    "invokedAt": "2021-02-25T08:01:13.780Z"
   }
 ]
