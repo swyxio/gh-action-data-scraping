@@ -174,5 +174,13 @@
     "username": "brownpeacock719",
     "password": "transit",
     "invokedAt": "2021-02-26T21:00:49.740Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Charles",
+    "email": "rose.charles@example.com",
+    "username": "smallleopard945",
+    "password": "peng",
+    "invokedAt": "2021-02-26T22:00:41.746Z"
   }
 ]
