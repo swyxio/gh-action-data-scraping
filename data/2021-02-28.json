@@ -134,5 +134,13 @@
     "username": "bluegoose798",
     "password": "starfish",
     "invokedAt": "2021-02-28T16:01:02.636Z"
+  },
+  {
+    "firstName": "Addison",
+    "lastName": "Denys",
+    "email": "addison.denys@example.com",
+    "username": "greengoose359",
+    "password": "frontier",
+    "invokedAt": "2021-02-28T17:19:19.135Z"
   }
 ]
