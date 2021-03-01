@@ -70,5 +70,13 @@
     "username": "ticklishostrich700",
     "password": "mordor",
     "invokedAt": "2021-03-01T08:00:58.885Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Erkkila",
+    "email": "miro.erkkila@example.com",
+    "username": "heavywolf555",
+    "password": "undertak",
+    "invokedAt": "2021-03-01T09:00:47.913Z"
   }
 ]
