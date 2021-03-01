@@ -182,5 +182,13 @@
     "username": "heavypeacock167",
     "password": "monitor",
     "invokedAt": "2021-03-01T22:00:55.449Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Jensen",
+    "email": "jacob.jensen@example.com",
+    "username": "ticklishpeacock600",
+    "password": "zhang",
+    "invokedAt": "2021-03-01T23:00:44.870Z"
   }
 ]
