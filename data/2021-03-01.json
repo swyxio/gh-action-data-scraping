@@ -158,5 +158,13 @@
     "username": "tinyrabbit661",
     "password": "apple",
     "invokedAt": "2021-03-01T19:00:45.313Z"
+  },
+  {
+    "firstName": "Afonsina",
+    "lastName": "da Mota",
+    "email": "afonsina.damota@example.com",
+    "username": "goldenpanda630",
+    "password": "wxcvbn",
+    "invokedAt": "2021-03-01T20:00:53.693Z"
   }
 ]
