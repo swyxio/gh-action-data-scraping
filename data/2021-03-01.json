@@ -62,5 +62,13 @@
     "username": "tinyelephant806",
     "password": "tattoo",
     "invokedAt": "2021-03-01T07:00:53.799Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Smith",
+    "email": "sarah.smith@example.com",
+    "username": "ticklishostrich700",
+    "password": "mordor",
+    "invokedAt": "2021-03-01T08:00:58.885Z"
   }
 ]
