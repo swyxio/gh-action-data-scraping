@@ -158,5 +158,13 @@
     "username": "lazyfish315",
     "password": "mongoose",
     "invokedAt": "2021-03-02T19:00:38.549Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Gonzalez",
+    "email": "gabriel.gonzalez@example.com",
+    "username": "purplemeercat431",
+    "password": "wesley",
+    "invokedAt": "2021-03-02T20:00:37.195Z"
   }
 ]
