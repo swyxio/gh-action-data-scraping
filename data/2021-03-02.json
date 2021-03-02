@@ -182,5 +182,13 @@
     "username": "yellowelephant481",
     "password": "spikey",
     "invokedAt": "2021-03-02T22:00:57.698Z"
+  },
+  {
+    "firstName": "Vilma",
+    "lastName": "Kantola",
+    "email": "vilma.kantola@example.com",
+    "username": "ticklishbird310",
+    "password": "shelley",
+    "invokedAt": "2021-03-02T23:00:54.719Z"
   }
 ]
