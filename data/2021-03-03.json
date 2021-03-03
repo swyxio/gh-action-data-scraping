@@ -54,5 +54,13 @@
     "username": "purplelion453",
     "password": "jenkins",
     "invokedAt": "2021-03-03T06:00:46.494Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Wong",
+    "email": "lucas.wong@example.com",
+    "username": "smallswan287",
+    "password": "0911",
+    "invokedAt": "2021-03-03T07:00:42.239Z"
   }
 ]
