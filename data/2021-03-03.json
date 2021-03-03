@@ -6,5 +6,13 @@
     "username": "lazydog896",
     "password": "pang",
     "invokedAt": "2021-03-03T00:01:11.701Z"
+  },
+  {
+    "firstName": "Tor",
+    "lastName": "Rist",
+    "email": "tor.rist@example.com",
+    "username": "lazywolf573",
+    "password": "3636",
+    "invokedAt": "2021-03-03T01:30:26.822Z"
   }
 ]
