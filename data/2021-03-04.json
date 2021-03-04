@@ -78,5 +78,13 @@
     "username": "redtiger540",
     "password": "vanguard",
     "invokedAt": "2021-03-04T09:00:48.827Z"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Martin",
+    "email": "sophia.martin@example.com",
+    "username": "greentiger801",
+    "password": "21122112",
+    "invokedAt": "2021-03-04T10:00:49.079Z"
   }
 ]
