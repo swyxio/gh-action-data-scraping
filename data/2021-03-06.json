@@ -70,5 +70,13 @@
     "username": "tinykoala415",
     "password": "phpbb",
     "invokedAt": "2021-03-06T08:00:46.738Z"
+  },
+  {
+    "firstName": "Viktor",
+    "lastName": "Grunwald",
+    "email": "viktor.grunwald@example.com",
+    "username": "purplebutterfly232",
+    "password": "sublime",
+    "invokedAt": "2021-03-06T09:00:47.656Z"
   }
 ]
