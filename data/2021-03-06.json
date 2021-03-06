@@ -102,5 +102,13 @@
     "username": "sadrabbit626",
     "password": "spectrum",
     "invokedAt": "2021-03-06T12:00:55.628Z"
+  },
+  {
+    "firstName": "Misty",
+    "lastName": "Banks",
+    "email": "misty.banks@example.com",
+    "username": "redcat641",
+    "password": "carolyn",
+    "invokedAt": "2021-03-06T13:04:06.678Z"
   }
 ]
