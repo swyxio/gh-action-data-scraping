@@ -38,5 +38,13 @@
     "username": "brownbird278",
     "password": "bank",
     "invokedAt": "2021-03-06T04:00:52.877Z"
+  },
+  {
+    "firstName": "Louise",
+    "lastName": "Sanchez",
+    "email": "louise.sanchez@example.com",
+    "username": "beautifulpanda878",
+    "password": "pontiac",
+    "invokedAt": "2021-03-06T05:00:53.973Z"
   }
 ]
