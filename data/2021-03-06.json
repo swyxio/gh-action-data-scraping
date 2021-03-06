@@ -62,5 +62,13 @@
     "username": "crazyrabbit968",
     "password": "comet",
     "invokedAt": "2021-03-06T07:00:52.620Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Beşok",
+    "email": "gul.besok@example.com",
+    "username": "tinykoala415",
+    "password": "phpbb",
+    "invokedAt": "2021-03-06T08:00:46.738Z"
   }
 ]
