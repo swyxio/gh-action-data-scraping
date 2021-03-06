@@ -78,5 +78,13 @@
     "username": "purplebutterfly232",
     "password": "sublime",
     "invokedAt": "2021-03-06T09:00:47.656Z"
+  },
+  {
+    "firstName": "Malthe",
+    "lastName": "Petersen",
+    "email": "malthe.petersen@example.com",
+    "username": "heavypanda297",
+    "password": "chef",
+    "invokedAt": "2021-03-06T10:00:53.582Z"
   }
 ]
