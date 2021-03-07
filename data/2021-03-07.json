@@ -86,5 +86,13 @@
     "username": "crazytiger469",
     "password": "blowfish",
     "invokedAt": "2021-03-07T10:00:52.472Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Barbarosoğlu",
+    "email": "esat.barbarosoglu@example.com",
+    "username": "silverbutterfly445",
+    "password": "philips",
+    "invokedAt": "2021-03-07T11:00:45.740Z"
   }
 ]
