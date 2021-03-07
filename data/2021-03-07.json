@@ -158,5 +158,13 @@
     "username": "yellowfrog366",
     "password": "fantasy",
     "invokedAt": "2021-03-07T19:00:42.618Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Pelletier",
+    "email": "philip.pelletier@example.com",
+    "username": "goldenzebra595",
+    "password": "sniffing",
+    "invokedAt": "2021-03-07T20:00:53.551Z"
   }
 ]
