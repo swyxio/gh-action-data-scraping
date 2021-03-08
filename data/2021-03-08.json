@@ -174,5 +174,13 @@
     "username": "yellowdog983",
     "password": "listen",
     "invokedAt": "2021-03-08T21:00:51.517Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Halko",
+    "email": "lauri.halko@example.com",
+    "username": "blackmouse101",
+    "password": "tophat",
+    "invokedAt": "2021-03-08T22:00:41.722Z"
   }
 ]
