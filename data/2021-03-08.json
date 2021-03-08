@@ -182,5 +182,13 @@
     "username": "blackmouse101",
     "password": "tophat",
     "invokedAt": "2021-03-08T22:00:41.722Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Kunt",
+    "email": "efe.kunt@example.com",
+    "username": "smallleopard120",
+    "password": "teddy1",
+    "invokedAt": "2021-03-08T23:00:58.745Z"
   }
 ]
