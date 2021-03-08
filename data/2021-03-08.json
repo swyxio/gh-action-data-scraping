@@ -166,5 +166,13 @@
     "username": "happyfrog548",
     "password": "shou",
     "invokedAt": "2021-03-08T20:01:04.683Z"
+  },
+  {
+    "firstName": "Brecht",
+    "lastName": "Poell",
+    "email": "brecht.poell@example.com",
+    "username": "yellowdog983",
+    "password": "listen",
+    "invokedAt": "2021-03-08T21:00:51.517Z"
   }
 ]
