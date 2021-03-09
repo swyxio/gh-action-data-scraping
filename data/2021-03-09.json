@@ -46,5 +46,13 @@
     "username": "lazyladybug379",
     "password": "maggot",
     "invokedAt": "2021-03-09T05:01:42.802Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Medina",
+    "email": "robin.medina@example.com",
+    "username": "smallfish313",
+    "password": "famous",
+    "invokedAt": "2021-03-09T06:01:04.509Z"
   }
 ]
