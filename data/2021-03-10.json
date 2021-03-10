@@ -54,5 +54,13 @@
     "username": "bluefish553",
     "password": "mother",
     "invokedAt": "2021-03-10T06:00:51.338Z"
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Li",
+    "email": "theo.li@example.com",
+    "username": "biggoose584",
+    "password": "future",
+    "invokedAt": "2021-03-10T07:00:41.803Z"
   }
 ]
