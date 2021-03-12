@@ -46,5 +46,13 @@
     "username": "reddog600",
     "password": "enternow",
     "invokedAt": "2021-03-12T05:02:15.838Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "Jean-Baptiste",
+    "email": "antoine.jean-baptiste@example.com",
+    "username": "tinywolf238",
+    "password": "damien",
+    "invokedAt": "2021-03-12T06:00:42.705Z"
   }
 ]
