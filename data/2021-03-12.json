@@ -54,5 +54,13 @@
     "username": "tinywolf238",
     "password": "damien",
     "invokedAt": "2021-03-12T06:00:42.705Z"
+  },
+  {
+    "firstName": "Plácido",
+    "lastName": "Carvalho",
+    "email": "placido.carvalho@example.com",
+    "username": "blueswan817",
+    "password": "gemini",
+    "invokedAt": "2021-03-12T07:00:39.700Z"
   }
 ]
