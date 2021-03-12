@@ -94,5 +94,13 @@
     "username": "blackcat318",
     "password": "packers",
     "invokedAt": "2021-03-12T11:05:33.534Z"
+  },
+  {
+    "firstName": "Eemeli",
+    "lastName": "Nevala",
+    "email": "eemeli.nevala@example.com",
+    "username": "purplefrog494",
+    "password": "offshore",
+    "invokedAt": "2021-03-12T12:05:43.356Z"
   }
 ]
