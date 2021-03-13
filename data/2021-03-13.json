@@ -70,5 +70,13 @@
     "username": "beautifultiger557",
     "password": "gesperrt",
     "invokedAt": "2021-03-13T08:00:39.641Z"
+  },
+  {
+    "firstName": "August",
+    "lastName": "Christensen",
+    "email": "august.christensen@example.com",
+    "username": "redfish252",
+    "password": "site",
+    "invokedAt": "2021-03-13T09:00:48.282Z"
   }
 ]
