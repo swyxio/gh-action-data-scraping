@@ -94,5 +94,13 @@
     "username": "angrylion661",
     "password": "magpie",
     "invokedAt": "2021-03-14T11:00:43.001Z"
+  },
+  {
+    "firstName": "Fanny",
+    "lastName": "Renard",
+    "email": "fanny.renard@example.com",
+    "username": "tinytiger762",
+    "password": "poetry",
+    "invokedAt": "2021-03-14T12:00:46.519Z"
   }
 ]
