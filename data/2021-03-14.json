@@ -174,5 +174,13 @@
     "username": "lazywolf942",
     "password": "newman",
     "invokedAt": "2021-03-14T21:00:35.785Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Denis",
+    "email": "lucy.denis@example.com",
+    "username": "lazyrabbit472",
+    "password": "smashing",
+    "invokedAt": "2021-03-14T22:00:48.203Z"
   }
 ]
