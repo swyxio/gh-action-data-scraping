@@ -62,5 +62,13 @@
     "username": "silverlion273",
     "password": "orange",
     "invokedAt": "2021-03-14T07:00:44.728Z"
+  },
+  {
+    "firstName": "Daniela",
+    "lastName": "Marin",
+    "email": "daniela.marin@example.com",
+    "username": "blacktiger165",
+    "password": "strap",
+    "invokedAt": "2021-03-14T08:00:52.571Z"
   }
 ]
