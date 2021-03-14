@@ -70,5 +70,13 @@
     "username": "blacktiger165",
     "password": "strap",
     "invokedAt": "2021-03-14T08:00:52.571Z"
+  },
+  {
+    "firstName": "Oğuzhan",
+    "lastName": "Taşçı",
+    "email": "oguzhan.tasci@example.com",
+    "username": "happybutterfly202",
+    "password": "public",
+    "invokedAt": "2021-03-14T09:00:43.840Z"
   }
 ]
