@@ -158,5 +158,13 @@
     "username": "sadmouse120",
     "password": "everest",
     "invokedAt": "2021-03-15T19:05:47.774Z"
+  },
+  {
+    "firstName": "Aurelino",
+    "lastName": "da Conceição",
+    "email": "aurelino.daconceicao@example.com",
+    "username": "crazymeercat223",
+    "password": "impala",
+    "invokedAt": "2021-03-15T21:25:06.488Z"
   }
 ]
