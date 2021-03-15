@@ -110,5 +110,13 @@
     "username": "happygoose560",
     "password": "cupoi",
     "invokedAt": "2021-03-15T13:10:05.084Z"
+  },
+  {
+    "firstName": "Pirmin",
+    "lastName": "Mittelstädt",
+    "email": "pirmin.mittelstadt@example.com",
+    "username": "yellowrabbit759",
+    "password": "woofer",
+    "invokedAt": "2021-03-15T14:05:58.898Z"
   }
 ]
