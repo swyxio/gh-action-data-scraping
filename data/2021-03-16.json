@@ -86,5 +86,13 @@
     "username": "biglion424",
     "password": "spectre",
     "invokedAt": "2021-03-16T10:01:01.096Z"
+  },
+  {
+    "firstName": "Castor",
+    "lastName": "Barros",
+    "email": "castor.barros@example.com",
+    "username": "angrywolf643",
+    "password": "dhip6a",
+    "invokedAt": "2021-03-16T11:00:43.772Z"
   }
 ]
