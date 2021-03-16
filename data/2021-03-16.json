@@ -38,5 +38,13 @@
     "username": "crazywolf406",
     "password": "lightnin",
     "invokedAt": "2021-03-16T04:00:50.544Z"
+  },
+  {
+    "firstName": "Pippa",
+    "lastName": "Lewis",
+    "email": "pippa.lewis@example.com",
+    "username": "silverbird271",
+    "password": "cypress",
+    "invokedAt": "2021-03-16T05:01:31.676Z"
   }
 ]
