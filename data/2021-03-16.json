@@ -78,5 +78,13 @@
     "username": "angryzebra817",
     "password": "slave",
     "invokedAt": "2021-03-16T09:00:41.806Z"
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Zhang",
+    "email": "elijah.zhang@example.com",
+    "username": "biglion424",
+    "password": "spectre",
+    "invokedAt": "2021-03-16T10:01:01.096Z"
   }
 ]
