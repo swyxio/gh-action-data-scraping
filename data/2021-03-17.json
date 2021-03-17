@@ -182,5 +182,13 @@
     "username": "angryostrich638",
     "password": "lassie",
     "invokedAt": "2021-03-17T22:00:53.831Z"
+  },
+  {
+    "firstName": "Mille",
+    "lastName": "Pedersen",
+    "email": "mille.pedersen@example.com",
+    "username": "tinyswan438",
+    "password": "trace",
+    "invokedAt": "2021-03-17T23:00:38.926Z"
   }
 ]
