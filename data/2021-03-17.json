@@ -110,5 +110,13 @@
     "username": "bluezebra313",
     "password": "outside",
     "invokedAt": "2021-03-17T13:10:48.014Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Poulsen",
+    "email": "jacob.poulsen@example.com",
+    "username": "biggoose137",
+    "password": "spot",
+    "invokedAt": "2021-03-17T14:05:49.506Z"
   }
 ]
