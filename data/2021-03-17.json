@@ -94,5 +94,13 @@
     "username": "sadwolf103",
     "password": "trustme",
     "invokedAt": "2021-03-17T11:00:53.676Z"
+  },
+  {
+    "firstName": "Saga",
+    "lastName": "Grønlund",
+    "email": "saga.gronlund@example.com",
+    "username": "tinybear169",
+    "password": "buck",
+    "invokedAt": "2021-03-17T12:01:00.528Z"
   }
 ]
