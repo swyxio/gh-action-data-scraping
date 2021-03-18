@@ -182,5 +182,13 @@
     "username": "silverdog407",
     "password": "colonial",
     "invokedAt": "2021-03-18T22:01:07.296Z"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Balcı",
+    "email": "ayse.balci@example.com",
+    "username": "greenduck469",
+    "password": "porsche",
+    "invokedAt": "2021-03-18T23:00:42.838Z"
   }
 ]
