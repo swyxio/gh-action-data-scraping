@@ -78,5 +78,13 @@
     "username": "purplegoose207",
     "password": "test123",
     "invokedAt": "2021-03-18T09:00:51.705Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Barbier",
+    "email": "justin.barbier@example.com",
+    "username": "browncat461",
+    "password": "masturbation",
+    "invokedAt": "2021-03-18T10:00:50.518Z"
   }
 ]
