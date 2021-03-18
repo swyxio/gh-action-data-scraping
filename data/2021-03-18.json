@@ -142,5 +142,13 @@
     "username": "sadfish309",
     "password": "dunbar",
     "invokedAt": "2021-03-18T17:23:02.489Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "Miller",
+    "email": "antoine.miller@example.com",
+    "username": "blacklion719",
+    "password": "cubbies",
+    "invokedAt": "2021-03-18T18:02:59.769Z"
   }
 ]
