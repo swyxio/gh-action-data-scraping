@@ -62,5 +62,13 @@
     "username": "redelephant443",
     "password": "rhythm",
     "invokedAt": "2021-03-19T07:00:42.110Z"
+  },
+  {
+    "firstName": "Dustin",
+    "lastName": "Black",
+    "email": "dustin.black@example.com",
+    "username": "redfrog256",
+    "password": "niao",
+    "invokedAt": "2021-03-19T08:00:42.096Z"
   }
 ]
