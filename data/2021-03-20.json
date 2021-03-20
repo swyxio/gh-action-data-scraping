@@ -94,5 +94,13 @@
     "username": "happylion783",
     "password": "8888",
     "invokedAt": "2021-03-20T11:00:50.494Z"
+  },
+  {
+    "firstName": "Ester",
+    "lastName": "Storheim",
+    "email": "ester.storheim@example.com",
+    "username": "organicgoose249",
+    "password": "entropy",
+    "invokedAt": "2021-03-20T12:00:50.608Z"
   }
 ]
