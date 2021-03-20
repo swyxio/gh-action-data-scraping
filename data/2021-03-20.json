@@ -102,5 +102,13 @@
     "username": "organicgoose249",
     "password": "entropy",
     "invokedAt": "2021-03-20T12:00:50.608Z"
+  },
+  {
+    "firstName": "Lillian",
+    "lastName": "Grant",
+    "email": "lillian.grant@example.com",
+    "username": "heavyfrog281",
+    "password": "mamas",
+    "invokedAt": "2021-03-20T13:05:51.963Z"
   }
 ]
