@@ -46,5 +46,13 @@
     "username": "lazyduck161",
     "password": "century",
     "invokedAt": "2021-03-20T05:03:33.658Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Watson",
+    "email": "peter.watson@example.com",
+    "username": "purplemouse295",
+    "password": "catcher",
+    "invokedAt": "2021-03-20T06:00:43.928Z"
   }
 ]
