@@ -70,5 +70,13 @@
     "username": "lazyswan310",
     "password": "redbone",
     "invokedAt": "2021-03-21T08:00:53.648Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Thomsen",
+    "email": "storm.thomsen@example.com",
+    "username": "brownfrog312",
+    "password": "bowl",
+    "invokedAt": "2021-03-21T09:00:44.205Z"
   }
 ]
