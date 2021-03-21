@@ -158,5 +158,13 @@
     "username": "orangeladybug875",
     "password": "doubled",
     "invokedAt": "2021-03-21T19:05:48.824Z"
+  },
+  {
+    "firstName": "Byron",
+    "lastName": "Austin",
+    "email": "byron.austin@example.com",
+    "username": "angrybutterfly542",
+    "password": "iwantu",
+    "invokedAt": "2021-03-21T20:00:54.702Z"
   }
 ]
