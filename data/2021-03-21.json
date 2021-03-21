@@ -62,5 +62,13 @@
     "username": "whiteelephant230",
     "password": "norwich",
     "invokedAt": "2021-03-21T07:00:46.781Z"
+  },
+  {
+    "firstName": "Georgia",
+    "lastName": "Walker",
+    "email": "georgia.walker@example.com",
+    "username": "lazyswan310",
+    "password": "redbone",
+    "invokedAt": "2021-03-21T08:00:53.648Z"
   }
 ]
