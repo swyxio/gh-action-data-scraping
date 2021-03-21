@@ -78,5 +78,13 @@
     "username": "brownfrog312",
     "password": "bowl",
     "invokedAt": "2021-03-21T09:00:44.205Z"
+  },
+  {
+    "firstName": "Flavie",
+    "lastName": "Girard",
+    "email": "flavie.girard@example.com",
+    "username": "happycat561",
+    "password": "monitor",
+    "invokedAt": "2021-03-21T10:00:57.367Z"
   }
 ]
