@@ -38,5 +38,13 @@
     "username": "organicgoose772",
     "password": "whiteout",
     "invokedAt": "2021-03-22T04:05:35.577Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Lam",
+    "email": "victor.lam@example.com",
+    "username": "greenleopard215",
+    "password": "trouble",
+    "invokedAt": "2021-03-22T05:09:38.756Z"
   }
 ]
