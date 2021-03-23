@@ -78,5 +78,13 @@
     "username": "blueostrich937",
     "password": "crunch",
     "invokedAt": "2021-03-23T09:00:46.779Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Gill",
+    "email": "justin.gill@example.com",
+    "username": "brownbear639",
+    "password": "sharon",
+    "invokedAt": "2021-03-23T10:00:59.240Z"
   }
 ]
