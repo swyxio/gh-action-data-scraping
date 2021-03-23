@@ -182,5 +182,13 @@
     "username": "redduck506",
     "password": "fire",
     "invokedAt": "2021-03-23T22:00:58.787Z"
+  },
+  {
+    "firstName": "Nomi",
+    "lastName": "Koppenol",
+    "email": "nomi.koppenol@example.com",
+    "username": "crazyswan584",
+    "password": "toolbox",
+    "invokedAt": "2021-03-23T23:01:03.763Z"
   }
 ]
