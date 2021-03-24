@@ -182,5 +182,13 @@
     "username": "heavyleopard540",
     "password": "sage",
     "invokedAt": "2021-03-24T22:00:44.375Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Wilson",
+    "email": "clara.wilson@example.com",
+    "username": "bigfish753",
+    "password": "linkin",
+    "invokedAt": "2021-03-24T23:01:53.668Z"
   }
 ]
