@@ -126,5 +126,13 @@
     "username": "sadmouse519",
     "password": "toilet",
     "invokedAt": "2021-03-24T15:00:57.629Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Barbarosoğlu",
+    "email": "gokhan.barbarosoglu@example.com",
+    "username": "heavybutterfly367",
+    "password": "flyboy",
+    "invokedAt": "2021-03-24T16:05:32.937Z"
   }
 ]
