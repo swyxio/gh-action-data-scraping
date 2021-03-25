@@ -158,5 +158,13 @@
     "username": "bigpeacock313",
     "password": "pirate",
     "invokedAt": "2021-03-25T19:10:17.505Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Christensen",
+    "email": "astrid.christensen@example.com",
+    "username": "whitefish341",
+    "password": "karina",
+    "invokedAt": "2021-03-25T20:00:46.677Z"
   }
 ]
