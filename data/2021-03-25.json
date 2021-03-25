@@ -14,5 +14,13 @@
     "username": "lazycat976",
     "password": "hawaii",
     "invokedAt": "2021-03-25T01:06:12.126Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Bergeron",
+    "email": "daniel.bergeron@example.com",
+    "username": "smallbear424",
+    "password": "records",
+    "invokedAt": "2021-03-25T02:06:41.686Z"
   }
 ]
