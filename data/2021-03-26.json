@@ -38,5 +38,13 @@
     "username": "lazyleopard501",
     "password": "tuesday",
     "invokedAt": "2021-03-26T04:06:13.545Z"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Lopez",
+    "email": "jamie.lopez@example.com",
+    "username": "greenfish650",
+    "password": "peeper",
+    "invokedAt": "2021-03-26T05:05:58.768Z"
   }
 ]
