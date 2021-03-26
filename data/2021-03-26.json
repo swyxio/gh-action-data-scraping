@@ -46,5 +46,13 @@
     "username": "greenfish650",
     "password": "peeper",
     "invokedAt": "2021-03-26T05:05:58.768Z"
+  },
+  {
+    "firstName": "Oğuzhan",
+    "lastName": "Adıvar",
+    "email": "oguzhan.adivar@example.com",
+    "username": "goldenlion936",
+    "password": "poppy",
+    "invokedAt": "2021-03-26T06:01:18.048Z"
   }
 ]
