@@ -182,5 +182,13 @@
     "username": "happyfish920",
     "password": "satchmo",
     "invokedAt": "2021-03-26T22:00:40.294Z"
+  },
+  {
+    "firstName": "Quinn",
+    "lastName": "Taylor",
+    "email": "quinn.taylor@example.com",
+    "username": "heavyzebra809",
+    "password": "alberta",
+    "invokedAt": "2021-03-26T23:00:36.871Z"
   }
 ]
