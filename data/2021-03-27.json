@@ -158,5 +158,13 @@
     "username": "bigbear293",
     "password": "snoop",
     "invokedAt": "2021-03-27T19:05:34.705Z"
+  },
+  {
+    "firstName": "Raquel",
+    "lastName": "Gonzalez",
+    "email": "raquel.gonzalez@example.com",
+    "username": "goldenrabbit548",
+    "password": "light",
+    "invokedAt": "2021-03-27T20:00:52.591Z"
   }
 ]
