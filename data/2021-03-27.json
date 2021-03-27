@@ -166,5 +166,13 @@
     "username": "goldenrabbit548",
     "password": "light",
     "invokedAt": "2021-03-27T20:00:52.591Z"
+  },
+  {
+    "firstName": "Heinz-Jürgen",
+    "lastName": "Neumeister",
+    "email": "heinz-jurgen.neumeister@example.com",
+    "username": "orangekoala931",
+    "password": "monkey1",
+    "invokedAt": "2021-03-27T21:00:33.465Z"
   }
 ]
