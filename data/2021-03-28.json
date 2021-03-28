@@ -142,5 +142,13 @@
     "username": "brownbear374",
     "password": "firefox",
     "invokedAt": "2021-03-28T17:18:10.889Z"
+  },
+  {
+    "firstName": "Isla",
+    "lastName": "Jones",
+    "email": "isla.jones@example.com",
+    "username": "goldendog497",
+    "password": "ride",
+    "invokedAt": "2021-03-28T18:10:01.864Z"
   }
 ]
