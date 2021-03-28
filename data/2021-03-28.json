@@ -134,5 +134,13 @@
     "username": "brownpeacock332",
     "password": "bayern",
     "invokedAt": "2021-03-28T16:01:50.205Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Sørensen",
+    "email": "oscar.sorensen@example.com",
+    "username": "brownbear374",
+    "password": "firefox",
+    "invokedAt": "2021-03-28T17:18:10.889Z"
   }
 ]
