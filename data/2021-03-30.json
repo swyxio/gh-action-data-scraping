@@ -174,5 +174,13 @@
     "username": "brownduck330",
     "password": "titan",
     "invokedAt": "2021-03-30T21:00:49.245Z"
+  },
+  {
+    "firstName": "Naël",
+    "lastName": "Dumas",
+    "email": "nael.dumas@example.com",
+    "username": "crazygorilla772",
+    "password": "jumper",
+    "invokedAt": "2021-03-30T22:00:42.774Z"
   }
 ]
