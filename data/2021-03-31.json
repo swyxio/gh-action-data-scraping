@@ -102,5 +102,13 @@
     "username": "happypeacock319",
     "password": "brazil",
     "invokedAt": "2021-03-31T12:00:41.066Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Elliott",
+    "email": "connor.elliott@example.com",
+    "username": "happyduck865",
+    "password": "frogger",
+    "invokedAt": "2021-03-31T13:07:34.017Z"
   }
 ]
