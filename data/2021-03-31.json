@@ -78,5 +78,13 @@
     "username": "lazycat880",
     "password": "shutup",
     "invokedAt": "2021-03-31T09:00:54.769Z"
+  },
+  {
+    "firstName": "Vicky",
+    "lastName": "Brown",
+    "email": "vicky.brown@example.com",
+    "username": "crazyfish106",
+    "password": "11112222",
+    "invokedAt": "2021-03-31T10:00:50.854Z"
   }
 ]
