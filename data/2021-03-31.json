@@ -126,5 +126,13 @@
     "username": "brownbutterfly697",
     "password": "italy",
     "invokedAt": "2021-03-31T15:00:37.412Z"
+  },
+  {
+    "firstName": "Hudson",
+    "lastName": "Claire",
+    "email": "hudson.claire@example.com",
+    "username": "yellowzebra885",
+    "password": "prowler",
+    "invokedAt": "2021-03-31T16:01:42.973Z"
   }
 ]
