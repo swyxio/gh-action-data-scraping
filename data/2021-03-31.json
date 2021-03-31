@@ -158,5 +158,13 @@
     "username": "whiteduck535",
     "password": "remingto",
     "invokedAt": "2021-03-31T19:04:51.362Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Nielsen",
+    "email": "clara.nielsen@example.com",
+    "username": "brownkoala576",
+    "password": "trident",
+    "invokedAt": "2021-03-31T20:00:42.021Z"
   }
 ]
