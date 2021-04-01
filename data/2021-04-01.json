@@ -110,5 +110,13 @@
     "username": "crazybutterfly130",
     "password": "bullfrog",
     "invokedAt": "2021-04-01T13:07:55.854Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Kasapoğlu",
+    "email": "gokhan.kasapoglu@example.com",
+    "username": "crazyostrich691",
+    "password": "odessa",
+    "invokedAt": "2021-04-01T14:00:45.767Z"
   }
 ]
