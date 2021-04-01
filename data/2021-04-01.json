@@ -102,5 +102,13 @@
     "username": "organicostrich403",
     "password": "paint",
     "invokedAt": "2021-04-01T12:00:48.353Z"
+  },
+  {
+    "firstName": "Enni",
+    "lastName": "Leinonen",
+    "email": "enni.leinonen@example.com",
+    "username": "crazybutterfly130",
+    "password": "bullfrog",
+    "invokedAt": "2021-04-01T13:07:55.854Z"
   }
 ]
