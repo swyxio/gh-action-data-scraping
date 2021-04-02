@@ -46,5 +46,13 @@
     "username": "brownduck143",
     "password": "naughty",
     "invokedAt": "2021-04-02T05:06:14.478Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Lefevre",
+    "email": "fernando.lefevre@example.com",
+    "username": "brownpeacock412",
+    "password": "cookie1",
+    "invokedAt": "2021-04-02T06:00:41.206Z"
   }
 ]
