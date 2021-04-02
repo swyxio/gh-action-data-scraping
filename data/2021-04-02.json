@@ -30,5 +30,13 @@
     "username": "silvermeercat176",
     "password": "micro",
     "invokedAt": "2021-04-02T03:07:12.120Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Jean-Baptiste",
+    "email": "emma.jean-baptiste@example.com",
+    "username": "happymouse249",
+    "password": "system",
+    "invokedAt": "2021-04-02T04:03:56.006Z"
   }
 ]
