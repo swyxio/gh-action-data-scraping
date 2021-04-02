@@ -118,5 +118,13 @@
     "username": "happykoala354",
     "password": "france",
     "invokedAt": "2021-04-02T14:00:53.572Z"
+  },
+  {
+    "firstName": "Inmaculada",
+    "lastName": "Morales",
+    "email": "inmaculada.morales@example.com",
+    "username": "orangekoala333",
+    "password": "kyle",
+    "invokedAt": "2021-04-02T15:00:46.275Z"
   }
 ]
