@@ -54,5 +54,13 @@
     "username": "brownpeacock412",
     "password": "cookie1",
     "invokedAt": "2021-04-02T06:00:41.206Z"
+  },
+  {
+    "firstName": "Cas",
+    "lastName": "Stevens",
+    "email": "cas.stevens@example.com",
+    "username": "tinywolf597",
+    "password": "bear",
+    "invokedAt": "2021-04-02T07:04:26.688Z"
   }
 ]
