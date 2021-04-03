@@ -78,5 +78,13 @@
     "username": "greenelephant649",
     "password": "fallout",
     "invokedAt": "2021-04-03T09:00:41.495Z"
+  },
+  {
+    "firstName": "Sammy",
+    "lastName": "Hawkins",
+    "email": "sammy.hawkins@example.com",
+    "username": "brownfish912",
+    "password": "series",
+    "invokedAt": "2021-04-03T10:00:38.554Z"
   }
 ]
