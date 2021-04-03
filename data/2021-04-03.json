@@ -182,5 +182,13 @@
     "username": "greenswan150",
     "password": "storys",
     "invokedAt": "2021-04-03T22:00:42.513Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Yıldırım",
+    "email": "gokhan.yildirim@example.com",
+    "username": "brownmeercat338",
+    "password": "native",
+    "invokedAt": "2021-04-03T23:01:25.221Z"
   }
 ]
