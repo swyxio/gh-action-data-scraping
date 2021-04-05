@@ -38,5 +38,13 @@
     "username": "angrypanda390",
     "password": "high",
     "invokedAt": "2021-04-05T04:02:09.624Z"
+  },
+  {
+    "firstName": "Lorenzo",
+    "lastName": "Calvo",
+    "email": "lorenzo.calvo@example.com",
+    "username": "smalldog134",
+    "password": "father",
+    "invokedAt": "2021-04-05T05:05:53.548Z"
   }
 ]
