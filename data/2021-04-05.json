@@ -86,5 +86,13 @@
     "username": "sadleopard973",
     "password": "chase1",
     "invokedAt": "2021-04-05T10:00:37.104Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Durak",
+    "email": "coskun.durak@example.com",
+    "username": "brownlion467",
+    "password": "mantle",
+    "invokedAt": "2021-04-05T11:00:38.002Z"
   }
 ]
