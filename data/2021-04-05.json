@@ -94,5 +94,13 @@
     "username": "brownlion467",
     "password": "mantle",
     "invokedAt": "2021-04-05T11:00:38.002Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Gümüşpala",
+    "email": "ege.gumuspala@example.com",
+    "username": "sadfish527",
+    "password": "pebbles",
+    "invokedAt": "2021-04-05T12:00:29.988Z"
   }
 ]
