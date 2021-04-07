@@ -182,5 +182,13 @@
     "username": "bluesnake188",
     "password": "1717",
     "invokedAt": "2021-04-07T22:00:32.380Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Schaffner",
+    "email": "lisa.schaffner@example.com",
+    "username": "yellowlion492",
+    "password": "sprout",
+    "invokedAt": "2021-04-07T23:02:09.117Z"
   }
 ]
