@@ -142,5 +142,13 @@
     "username": "bigmeercat896",
     "password": "1q2w3e",
     "invokedAt": "2021-04-08T17:18:40.813Z"
+  },
+  {
+    "firstName": "Nathaniel",
+    "lastName": "Patel",
+    "email": "nathaniel.patel@example.com",
+    "username": "bigbear538",
+    "password": "tbone",
+    "invokedAt": "2021-04-08T18:09:54.826Z"
   }
 ]
