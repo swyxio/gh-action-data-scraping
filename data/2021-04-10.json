@@ -38,5 +38,13 @@
     "username": "brownbear202",
     "password": "chewy",
     "invokedAt": "2021-04-10T04:02:02.333Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Møller",
+    "email": "carl.moller@example.com",
+    "username": "greentiger450",
+    "password": "mpegs",
+    "invokedAt": "2021-04-10T05:04:55.120Z"
   }
 ]
