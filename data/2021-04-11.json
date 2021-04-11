@@ -126,5 +126,13 @@
     "username": "angrybird306",
     "password": "camera",
     "invokedAt": "2021-04-11T16:01:51.924Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Sutton",
+    "email": "tristan.sutton@example.com",
+    "username": "brownfish818",
+    "password": "linkin",
+    "invokedAt": "2021-04-11T17:16:01.387Z"
   }
 ]
