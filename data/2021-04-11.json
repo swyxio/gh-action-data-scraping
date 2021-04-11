@@ -46,5 +46,13 @@
     "username": "yellowduck653",
     "password": "1998",
     "invokedAt": "2021-04-11T05:04:57.412Z"
+  },
+  {
+    "firstName": "Jesse",
+    "lastName": "Salonen",
+    "email": "jesse.salonen@example.com",
+    "username": "purplebear650",
+    "password": "musical",
+    "invokedAt": "2021-04-11T06:00:48.206Z"
   }
 ]
