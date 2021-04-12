@@ -94,5 +94,13 @@
     "username": "whiteostrich227",
     "password": "hermes",
     "invokedAt": "2021-04-12T11:00:41.290Z"
+  },
+  {
+    "firstName": "Enola",
+    "lastName": "Durand",
+    "email": "enola.durand@example.com",
+    "username": "tinykoala762",
+    "password": "thisisit",
+    "invokedAt": "2021-04-12T12:00:34.395Z"
   }
 ]
