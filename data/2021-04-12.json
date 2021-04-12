@@ -182,5 +182,13 @@
     "username": "purplefrog650",
     "password": "snowboard",
     "invokedAt": "2021-04-12T22:00:46.357Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Smith",
+    "email": "lucas.smith@example.com",
+    "username": "goldenpeacock831",
+    "password": "nylons",
+    "invokedAt": "2021-04-12T23:02:09.529Z"
   }
 ]
