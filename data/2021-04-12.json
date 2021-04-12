@@ -174,5 +174,13 @@
     "username": "bluemouse443",
     "password": "tomato",
     "invokedAt": "2021-04-12T21:00:39.398Z"
+  },
+  {
+    "firstName": "Franca",
+    "lastName": "da Cruz",
+    "email": "franca.dacruz@example.com",
+    "username": "purplefrog650",
+    "password": "snowboard",
+    "invokedAt": "2021-04-12T22:00:46.357Z"
   }
 ]
