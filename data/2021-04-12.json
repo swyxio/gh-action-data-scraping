@@ -110,5 +110,13 @@
     "username": "greenlion915",
     "password": "deerhunt",
     "invokedAt": "2021-04-12T13:08:52.969Z"
+  },
+  {
+    "firstName": "Lester",
+    "lastName": "Willis",
+    "email": "lester.willis@example.com",
+    "username": "crazycat869",
+    "password": "turbo",
+    "invokedAt": "2021-04-12T14:00:43.522Z"
   }
 ]
