@@ -118,5 +118,13 @@
     "username": "redduck921",
     "password": "slipknot",
     "invokedAt": "2021-04-13T14:00:40.414Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Evliyaoğlu",
+    "email": "kadir.evliyaoglu@example.com",
+    "username": "purpledog322",
+    "password": "south",
+    "invokedAt": "2021-04-13T15:00:46.531Z"
   }
 ]
