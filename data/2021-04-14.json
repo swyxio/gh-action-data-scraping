@@ -174,5 +174,13 @@
     "username": "yellowfrog521",
     "password": "hand",
     "invokedAt": "2021-04-14T21:00:43.800Z"
+  },
+  {
+    "firstName": "Rudy",
+    "lastName": "Numan",
+    "email": "rudy.numan@example.com",
+    "username": "whiteleopard721",
+    "password": "spawn",
+    "invokedAt": "2021-04-14T22:00:40.371Z"
   }
 ]
