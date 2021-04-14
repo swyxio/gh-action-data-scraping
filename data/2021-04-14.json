@@ -14,5 +14,13 @@
     "username": "purplefrog293",
     "password": "warcraft",
     "invokedAt": "2021-04-14T01:23:08.420Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Christiansen",
+    "email": "sander.christiansen@example.com",
+    "username": "heavyduck225",
+    "password": "googoo",
+    "invokedAt": "2021-04-14T02:17:23.963Z"
   }
 ]
