@@ -166,5 +166,13 @@
     "username": "orangerabbit799",
     "password": "redeye",
     "invokedAt": "2021-04-14T20:00:47.815Z"
+  },
+  {
+    "firstName": "Lærke",
+    "lastName": "Kristensen",
+    "email": "laerke.kristensen@example.com",
+    "username": "yellowfrog521",
+    "password": "hand",
+    "invokedAt": "2021-04-14T21:00:43.800Z"
   }
 ]
