@@ -174,5 +174,13 @@
     "username": "greencat485",
     "password": "flyer",
     "invokedAt": "2021-04-15T21:00:46.694Z"
+  },
+  {
+    "firstName": "Varun",
+    "lastName": "Carlier",
+    "email": "varun.carlier@example.com",
+    "username": "goldencat633",
+    "password": "xiang",
+    "invokedAt": "2021-04-15T22:00:33.312Z"
   }
 ]
