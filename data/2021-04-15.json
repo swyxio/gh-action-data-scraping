@@ -126,5 +126,13 @@
     "username": "organickoala400",
     "password": "iceberg",
     "invokedAt": "2021-04-15T15:00:42.521Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Møller",
+    "email": "alfred.moller@example.com",
+    "username": "crazyleopard446",
+    "password": "sleepy",
+    "invokedAt": "2021-04-15T16:02:16.851Z"
   }
 ]
