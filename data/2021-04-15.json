@@ -166,5 +166,13 @@
     "username": "redzebra680",
     "password": "special",
     "invokedAt": "2021-04-15T20:00:38.973Z"
+  },
+  {
+    "firstName": "Florence",
+    "lastName": "Walker",
+    "email": "florence.walker@example.com",
+    "username": "greencat485",
+    "password": "flyer",
+    "invokedAt": "2021-04-15T21:00:46.694Z"
   }
 ]
