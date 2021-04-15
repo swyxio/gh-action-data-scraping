@@ -118,5 +118,13 @@
     "username": "silverbutterfly526",
     "password": "bigdaddy",
     "invokedAt": "2021-04-15T14:00:47.412Z"
+  },
+  {
+    "firstName": "Floyd",
+    "lastName": "Mccoy",
+    "email": "floyd.mccoy@example.com",
+    "username": "organickoala400",
+    "password": "iceberg",
+    "invokedAt": "2021-04-15T15:00:42.521Z"
   }
 ]
