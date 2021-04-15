@@ -102,5 +102,13 @@
     "username": "bluebear948",
     "password": "mortal",
     "invokedAt": "2021-04-15T12:00:51.073Z"
+  },
+  {
+    "firstName": "Jean-Pierre",
+    "lastName": "Diks",
+    "email": "jean-pierre.diks@example.com",
+    "username": "lazycat361",
+    "password": "kodiak",
+    "invokedAt": "2021-04-15T13:06:41.118Z"
   }
 ]
