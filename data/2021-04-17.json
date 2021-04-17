@@ -94,5 +94,13 @@
     "username": "goldendog602",
     "password": "avalanch",
     "invokedAt": "2021-04-17T11:00:36.514Z"
+  },
+  {
+    "firstName": "Malthe",
+    "lastName": "Nielsen",
+    "email": "malthe.nielsen@example.com",
+    "username": "angrypanda432",
+    "password": "qwertz",
+    "invokedAt": "2021-04-17T12:00:43.768Z"
   }
 ]
