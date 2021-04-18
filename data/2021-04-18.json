@@ -78,5 +78,13 @@
     "username": "heavysnake857",
     "password": "trustno1",
     "invokedAt": "2021-04-18T09:00:39.286Z"
+  },
+  {
+    "firstName": "Heinz-Gerd",
+    "lastName": "Eisner",
+    "email": "heinz-gerd.eisner@example.com",
+    "username": "lazytiger419",
+    "password": "gaston",
+    "invokedAt": "2021-04-18T10:00:34.505Z"
   }
 ]
