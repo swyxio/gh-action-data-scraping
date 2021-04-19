@@ -166,5 +166,13 @@
     "username": "blackladybug324",
     "password": "weather",
     "invokedAt": "2021-04-19T20:00:40.271Z"
+  },
+  {
+    "firstName": "Eeli",
+    "lastName": "Latvala",
+    "email": "eeli.latvala@example.com",
+    "username": "heavyleopard811",
+    "password": "pepper",
+    "invokedAt": "2021-04-19T21:00:42.118Z"
   }
 ]
