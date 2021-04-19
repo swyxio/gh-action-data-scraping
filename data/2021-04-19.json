@@ -102,5 +102,13 @@
     "username": "sadbutterfly247",
     "password": "piano",
     "invokedAt": "2021-04-19T12:00:38.001Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Kopperud",
+    "email": "elias.kopperud@example.com",
+    "username": "lazyleopard121",
+    "password": "giants",
+    "invokedAt": "2021-04-19T13:07:19.890Z"
   }
 ]
