@@ -158,5 +158,13 @@
     "username": "goldenfish459",
     "password": "paradox",
     "invokedAt": "2021-04-20T19:05:52.747Z"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Cook",
+    "email": "kelly.cook@example.com",
+    "username": "brownzebra930",
+    "password": "furball",
+    "invokedAt": "2021-04-20T20:00:48.440Z"
   }
 ]
