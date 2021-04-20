@@ -110,5 +110,13 @@
     "username": "bigswan250",
     "password": "fishing",
     "invokedAt": "2021-04-20T13:07:42.337Z"
+  },
+  {
+    "firstName": "Peyton",
+    "lastName": "Lee",
+    "email": "peyton.lee@example.com",
+    "username": "beautifulelephant303",
+    "password": "reefer",
+    "invokedAt": "2021-04-20T14:00:53.570Z"
   }
 ]
