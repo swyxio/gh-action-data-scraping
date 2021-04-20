@@ -38,5 +38,13 @@
     "username": "lazycat415",
     "password": "trumpet",
     "invokedAt": "2021-04-20T04:02:02.284Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Keçeci",
+    "email": "gokhan.kececi@example.com",
+    "username": "purpleelephant638",
+    "password": "starfish",
+    "invokedAt": "2021-04-20T05:04:06.633Z"
   }
 ]
