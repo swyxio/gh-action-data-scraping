@@ -166,5 +166,13 @@
     "username": "brownzebra930",
     "password": "furball",
     "invokedAt": "2021-04-20T20:00:48.440Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Ramos",
+    "email": "ricardo.ramos@example.com",
+    "username": "heavybutterfly800",
+    "password": "ziggy",
+    "invokedAt": "2021-04-20T21:00:39.315Z"
   }
 ]
