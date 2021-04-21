@@ -142,5 +142,13 @@
     "username": "tinygorilla613",
     "password": "trustme",
     "invokedAt": "2021-04-21T19:05:56.960Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Mitchell",
+    "email": "susan.mitchell@example.com",
+    "username": "tinygorilla790",
+    "password": "stock",
+    "invokedAt": "2021-04-21T20:00:39.012Z"
   }
 ]
