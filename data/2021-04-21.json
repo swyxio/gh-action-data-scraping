@@ -94,5 +94,13 @@
     "username": "yellowsnake435",
     "password": "brains",
     "invokedAt": "2021-04-21T13:08:03.185Z"
+  },
+  {
+    "firstName": "Jessin",
+    "lastName": "Cheng",
+    "email": "jessin.cheng@example.com",
+    "username": "smallkoala912",
+    "password": "book",
+    "invokedAt": "2021-04-21T14:00:38.228Z"
   }
 ]
