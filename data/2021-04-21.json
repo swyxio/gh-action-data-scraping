@@ -102,5 +102,13 @@
     "username": "smallkoala912",
     "password": "book",
     "invokedAt": "2021-04-21T14:00:38.228Z"
+  },
+  {
+    "firstName": "Hans-Rainer",
+    "lastName": "Wesemann",
+    "email": "hans-rainer.wesemann@example.com",
+    "username": "whitesnake971",
+    "password": "cohiba",
+    "invokedAt": "2021-04-21T15:00:42.194Z"
   }
 ]
