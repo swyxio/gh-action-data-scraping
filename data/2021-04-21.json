@@ -134,5 +134,13 @@
     "username": "blackcat522",
     "password": "willard",
     "invokedAt": "2021-04-21T18:09:01.957Z"
+  },
+  {
+    "firstName": "Susanna",
+    "lastName": "Krause",
+    "email": "susanna.krause@example.com",
+    "username": "tinygorilla613",
+    "password": "trustme",
+    "invokedAt": "2021-04-21T19:05:56.960Z"
   }
 ]
