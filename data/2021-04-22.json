@@ -62,5 +62,13 @@
     "username": "happyfrog159",
     "password": "qwerty12",
     "invokedAt": "2021-04-22T07:04:51.206Z"
+  },
+  {
+    "firstName": "Brandy",
+    "lastName": "Licht",
+    "email": "brandy.licht@example.com",
+    "username": "blackmouse465",
+    "password": "whiteout",
+    "invokedAt": "2021-04-22T08:00:44.936Z"
   }
 ]
