@@ -142,5 +142,13 @@
     "username": "ticklishfrog196",
     "password": "pulsar",
     "invokedAt": "2021-04-22T17:18:11.179Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Long",
+    "email": "charlie.long@example.com",
+    "username": "biggorilla778",
+    "password": "punk",
+    "invokedAt": "2021-04-22T18:10:02.452Z"
   }
 ]
