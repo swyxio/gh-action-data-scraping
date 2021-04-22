@@ -110,5 +110,13 @@
     "username": "yellowmeercat126",
     "password": "clown",
     "invokedAt": "2021-04-22T13:09:04.216Z"
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "Gautier",
+    "email": "eduardo.gautier@example.com",
+    "username": "organiccat246",
+    "password": "ticket",
+    "invokedAt": "2021-04-22T14:00:38.196Z"
   }
 ]
