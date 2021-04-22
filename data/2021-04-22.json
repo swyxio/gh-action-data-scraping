@@ -70,5 +70,13 @@
     "username": "blackmouse465",
     "password": "whiteout",
     "invokedAt": "2021-04-22T08:00:44.936Z"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Hansen",
+    "email": "thea.hansen@example.com",
+    "username": "blueduck945",
+    "password": "military",
+    "invokedAt": "2021-04-22T09:01:15.698Z"
   }
 ]
