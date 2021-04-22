@@ -182,5 +182,13 @@
     "username": "smallzebra352",
     "password": "hockey",
     "invokedAt": "2021-04-22T22:00:45.759Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Dağdaş",
+    "email": "adem.dagdas@example.com",
+    "username": "redpanda628",
+    "password": "spank",
+    "invokedAt": "2021-04-22T23:01:07.809Z"
   }
 ]
