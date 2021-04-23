@@ -110,5 +110,13 @@
     "username": "purplegoose670",
     "password": "suicide",
     "invokedAt": "2021-04-23T13:08:20.461Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Madsen",
+    "email": "emily.madsen@example.com",
+    "username": "yellowgoose552",
+    "password": "guyver",
+    "invokedAt": "2021-04-23T14:00:37.963Z"
   }
 ]
