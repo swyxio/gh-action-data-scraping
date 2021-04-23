@@ -46,5 +46,13 @@
     "username": "redmeercat714",
     "password": "revolver",
     "invokedAt": "2021-04-23T05:05:02.209Z"
+  },
+  {
+    "firstName": "Murat",
+    "lastName": "Aclan",
+    "email": "murat.aclan@example.com",
+    "username": "lazyzebra932",
+    "password": "nope",
+    "invokedAt": "2021-04-23T06:00:49.229Z"
   }
 ]
