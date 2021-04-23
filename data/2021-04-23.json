@@ -182,5 +182,13 @@
     "username": "greensnake132",
     "password": "xanadu",
     "invokedAt": "2021-04-23T22:00:35.038Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Düşenkalkar",
+    "email": "vedat.dusenkalkar@example.com",
+    "username": "yellowostrich556",
+    "password": "booboo",
+    "invokedAt": "2021-04-23T23:02:01.847Z"
   }
 ]
