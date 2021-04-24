@@ -30,5 +30,13 @@
     "username": "bluegorilla771",
     "password": "senators",
     "invokedAt": "2021-04-24T03:05:40.366Z"
+  },
+  {
+    "firstName": "Hudson",
+    "lastName": "White",
+    "email": "hudson.white@example.com",
+    "username": "angrybear981",
+    "password": "captain1",
+    "invokedAt": "2021-04-24T04:01:56.651Z"
   }
 ]
