@@ -182,5 +182,13 @@
     "username": "whitecat961",
     "password": "caligula",
     "invokedAt": "2021-04-24T22:00:38.978Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Tokgöz",
+    "email": "efe.tokgoz@example.com",
+    "username": "brownleopard242",
+    "password": "hawk",
+    "invokedAt": "2021-04-24T23:01:03.818Z"
   }
 ]
