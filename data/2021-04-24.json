@@ -110,5 +110,13 @@
     "username": "tinydog182",
     "password": "veronica",
     "invokedAt": "2021-04-24T13:08:22.377Z"
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Torres",
+    "email": "adrian.torres@example.com",
+    "username": "bigmeercat209",
+    "password": "tophat",
+    "invokedAt": "2021-04-24T14:00:36.521Z"
   }
 ]
