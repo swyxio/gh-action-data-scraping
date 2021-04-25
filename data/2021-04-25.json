@@ -118,5 +118,13 @@
     "username": "orangeduck726",
     "password": "pack",
     "invokedAt": "2021-04-25T14:00:46.968Z"
+  },
+  {
+    "firstName": "Elliot",
+    "lastName": "Van Haren",
+    "email": "elliot.vanharen@example.com",
+    "username": "whiteduck989",
+    "password": "nuan",
+    "invokedAt": "2021-04-25T15:00:40.381Z"
   }
 ]
