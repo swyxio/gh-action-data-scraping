@@ -142,5 +142,13 @@
     "username": "saddog364",
     "password": "magnolia",
     "invokedAt": "2021-04-25T17:18:37.295Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Ertürk",
+    "email": "batur.erturk@example.com",
+    "username": "sadmeercat211",
+    "password": "asdfg",
+    "invokedAt": "2021-04-25T18:09:56.231Z"
   }
 ]
