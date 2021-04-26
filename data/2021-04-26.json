@@ -86,5 +86,13 @@
     "username": "tinygorilla900",
     "password": "nirvana",
     "invokedAt": "2021-04-26T10:00:40.403Z"
+  },
+  {
+    "firstName": "Hans-Wilhelm",
+    "lastName": "Schuchardt",
+    "email": "hans-wilhelm.schuchardt@example.com",
+    "username": "orangemeercat507",
+    "password": "goforit",
+    "invokedAt": "2021-04-26T11:00:38.146Z"
   }
 ]
