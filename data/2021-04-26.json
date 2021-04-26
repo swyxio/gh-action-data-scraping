@@ -118,5 +118,13 @@
     "username": "redfrog848",
     "password": "redd",
     "invokedAt": "2021-04-26T14:00:40.016Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Petersen",
+    "email": "marcus.petersen@example.com",
+    "username": "goldenpeacock256",
+    "password": "hookem",
+    "invokedAt": "2021-04-26T15:00:56.467Z"
   }
 ]
