@@ -94,5 +94,13 @@
     "username": "bigmeercat604",
     "password": "latin",
     "invokedAt": "2021-04-27T11:00:35.972Z"
+  },
+  {
+    "firstName": "Roope",
+    "lastName": "Eskola",
+    "email": "roope.eskola@example.com",
+    "username": "redsnake855",
+    "password": "blood",
+    "invokedAt": "2021-04-27T12:00:42.674Z"
   }
 ]
