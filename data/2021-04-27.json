@@ -102,5 +102,13 @@
     "username": "redsnake855",
     "password": "blood",
     "invokedAt": "2021-04-27T12:00:42.674Z"
+  },
+  {
+    "firstName": "Bella",
+    "lastName": "King",
+    "email": "bella.king@example.com",
+    "username": "blackpeacock581",
+    "password": "gateway2",
+    "invokedAt": "2021-04-27T13:08:23.518Z"
   }
 ]
