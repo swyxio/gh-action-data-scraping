@@ -118,5 +118,13 @@
     "username": "goldensnake690",
     "password": "tracker",
     "invokedAt": "2021-04-27T14:00:44.785Z"
+  },
+  {
+    "firstName": "Zara",
+    "lastName": "Wilson",
+    "email": "zara.wilson@example.com",
+    "username": "brownmouse197",
+    "password": "queenie",
+    "invokedAt": "2021-04-27T15:00:43.150Z"
   }
 ]
