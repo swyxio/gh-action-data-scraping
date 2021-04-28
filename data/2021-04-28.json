@@ -158,5 +158,13 @@
     "username": "purplesnake913",
     "password": "tickler",
     "invokedAt": "2021-04-28T19:06:28.544Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Barnaby",
+    "email": "louis.barnaby@example.com",
+    "username": "ticklishdog608",
+    "password": "myrtle",
+    "invokedAt": "2021-04-28T20:00:48.675Z"
   }
 ]
