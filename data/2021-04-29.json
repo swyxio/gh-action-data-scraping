@@ -22,5 +22,13 @@
     "username": "whitefrog777",
     "password": "snuffy",
     "invokedAt": "2021-04-29T02:20:03.203Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Koistinen",
+    "email": "toivo.koistinen@example.com",
+    "username": "lazyostrich355",
+    "password": "national",
+    "invokedAt": "2021-04-29T03:03:30.351Z"
   }
 ]
