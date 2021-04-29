@@ -78,5 +78,13 @@
     "username": "sadzebra882",
     "password": "cancel",
     "invokedAt": "2021-04-29T09:01:01.023Z"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Patel",
+    "email": "caleb.patel@example.com",
+    "username": "smallfish456",
+    "password": "roxanne",
+    "invokedAt": "2021-04-29T10:00:39.346Z"
   }
 ]
