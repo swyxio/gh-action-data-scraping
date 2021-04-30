@@ -78,5 +78,13 @@
     "username": "purpledog425",
     "password": "boeing",
     "invokedAt": "2021-04-30T09:00:50.105Z"
+  },
+  {
+    "firstName": "Nicoline",
+    "lastName": "Sørensen",
+    "email": "nicoline.sorensen@example.com",
+    "username": "goldenbird247",
+    "password": "eagle1",
+    "invokedAt": "2021-04-30T10:00:40.247Z"
   }
 ]
