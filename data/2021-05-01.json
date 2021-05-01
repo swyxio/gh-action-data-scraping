@@ -102,5 +102,13 @@
     "username": "sadmeercat606",
     "password": "macbeth",
     "invokedAt": "2021-05-01T12:00:43.067Z"
+  },
+  {
+    "firstName": "Maya",
+    "lastName": "Williams",
+    "email": "maya.williams@example.com",
+    "username": "brownfrog961",
+    "password": "objects",
+    "invokedAt": "2021-05-01T13:08:17.309Z"
   }
 ]
