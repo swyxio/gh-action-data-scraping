@@ -86,5 +86,13 @@
     "username": "blackelephant550",
     "password": "park",
     "invokedAt": "2021-05-01T10:00:44.387Z"
+  },
+  {
+    "firstName": "Jawad",
+    "lastName": "Prinsen",
+    "email": "jawad.prinsen@example.com",
+    "username": "goldenbear184",
+    "password": "babyface",
+    "invokedAt": "2021-05-01T11:00:33.038Z"
   }
 ]
