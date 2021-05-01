@@ -78,5 +78,13 @@
     "username": "whitetiger318",
     "password": "disney1",
     "invokedAt": "2021-05-01T09:00:37.451Z"
+  },
+  {
+    "firstName": "Célio",
+    "lastName": "Rocha",
+    "email": "celio.rocha@example.com",
+    "username": "blackelephant550",
+    "password": "park",
+    "invokedAt": "2021-05-01T10:00:44.387Z"
   }
 ]
