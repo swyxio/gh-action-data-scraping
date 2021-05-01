@@ -182,5 +182,13 @@
     "username": "whitewolf618",
     "password": "boyz",
     "invokedAt": "2021-05-01T22:00:42.200Z"
+  },
+  {
+    "firstName": "Vitali",
+    "lastName": "Wischnewski",
+    "email": "vitali.wischnewski@example.com",
+    "username": "angryswan599",
+    "password": "yoyoma",
+    "invokedAt": "2021-05-01T23:01:35.361Z"
   }
 ]
