@@ -158,5 +158,13 @@
     "username": "blackleopard187",
     "password": "chains",
     "invokedAt": "2021-05-03T19:04:36.273Z"
+  },
+  {
+    "firstName": "Veronica",
+    "lastName": "Jennings",
+    "email": "veronica.jennings@example.com",
+    "username": "happybird420",
+    "password": "guest",
+    "invokedAt": "2021-05-03T20:00:43.942Z"
   }
 ]
