@@ -22,5 +22,13 @@
     "username": "goldenfrog577",
     "password": "gateway",
     "invokedAt": "2021-05-03T02:23:22.322Z"
+  },
+  {
+    "firstName": "Dani",
+    "lastName": "Røhne",
+    "email": "dani.rohne@example.com",
+    "username": "whiterabbit314",
+    "password": "astros",
+    "invokedAt": "2021-05-03T03:07:07.070Z"
   }
 ]
