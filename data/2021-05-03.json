@@ -182,5 +182,13 @@
     "username": "happysnake599",
     "password": "bellaco",
     "invokedAt": "2021-05-03T22:01:12.218Z"
+  },
+  {
+    "firstName": "Fernão",
+    "lastName": "Jesus",
+    "email": "fernao.jesus@example.com",
+    "username": "bigzebra758",
+    "password": "valley",
+    "invokedAt": "2021-05-03T23:00:56.435Z"
   }
 ]
