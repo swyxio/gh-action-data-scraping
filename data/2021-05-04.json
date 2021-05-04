@@ -174,5 +174,13 @@
     "username": "lazypeacock328",
     "password": "plane",
     "invokedAt": "2021-05-04T21:00:32.974Z"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Addy",
+    "email": "nicolas.addy@example.com",
+    "username": "organicfish988",
+    "password": "veritas",
+    "invokedAt": "2021-05-04T22:00:36.220Z"
   }
 ]
