@@ -102,5 +102,13 @@
     "username": "angrytiger422",
     "password": "gspot",
     "invokedAt": "2021-05-04T12:01:00.401Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Laine",
+    "email": "leo.laine@example.com",
+    "username": "beautifulgoose901",
+    "password": "jeter2",
+    "invokedAt": "2021-05-04T13:11:35.303Z"
   }
 ]
