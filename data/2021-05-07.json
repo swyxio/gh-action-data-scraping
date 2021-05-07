@@ -38,5 +38,13 @@
     "username": "bigswan882",
     "password": "therock",
     "invokedAt": "2021-05-07T04:05:34.244Z"
+  },
+  {
+    "firstName": "Faith",
+    "lastName": "West",
+    "email": "faith.west@example.com",
+    "username": "crazyfish715",
+    "password": "1222",
+    "invokedAt": "2021-05-07T05:07:16.565Z"
   }
 ]
