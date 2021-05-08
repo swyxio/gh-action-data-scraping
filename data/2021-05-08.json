@@ -150,5 +150,13 @@
     "username": "ticklishfish618",
     "password": "jellybea",
     "invokedAt": "2021-05-08T18:07:27.264Z"
+  },
+  {
+    "firstName": "Salomé",
+    "lastName": "Brooijmans",
+    "email": "salome.brooijmans@example.com",
+    "username": "tinyfish192",
+    "password": "port",
+    "invokedAt": "2021-05-08T19:04:27.919Z"
   }
 ]
