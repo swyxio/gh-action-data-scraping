@@ -126,5 +126,13 @@
     "username": "sadbutterfly448",
     "password": "smeghead",
     "invokedAt": "2021-05-08T15:00:47.037Z"
+  },
+  {
+    "firstName": "Nathalie",
+    "lastName": "Hognestad",
+    "email": "nathalie.hognestad@example.com",
+    "username": "sadmeercat818",
+    "password": "8675309",
+    "invokedAt": "2021-05-08T16:03:36.150Z"
   }
 ]
