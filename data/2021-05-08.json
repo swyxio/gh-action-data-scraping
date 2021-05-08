@@ -94,5 +94,13 @@
     "username": "yellowtiger834",
     "password": "dupont",
     "invokedAt": "2021-05-08T11:01:00.559Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Thomsen",
+    "email": "marie.thomsen@example.com",
+    "username": "lazypeacock582",
+    "password": "circus",
+    "invokedAt": "2021-05-08T12:00:52.278Z"
   }
 ]
