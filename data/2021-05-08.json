@@ -158,5 +158,13 @@
     "username": "tinyfish192",
     "password": "port",
     "invokedAt": "2021-05-08T19:04:27.919Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Harris",
+    "email": "noah.harris@example.com",
+    "username": "heavykoala507",
+    "password": "stratus",
+    "invokedAt": "2021-05-08T20:00:41.507Z"
   }
 ]
