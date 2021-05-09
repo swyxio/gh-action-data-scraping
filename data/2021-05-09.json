@@ -54,5 +54,13 @@
     "username": "smalldog110",
     "password": "vodka",
     "invokedAt": "2021-05-09T06:00:56.257Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Christiansen",
+    "email": "valdemar.christiansen@example.com",
+    "username": "heavymeercat537",
+    "password": "windows1",
+    "invokedAt": "2021-05-09T07:04:43.338Z"
   }
 ]
