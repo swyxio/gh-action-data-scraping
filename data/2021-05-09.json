@@ -78,5 +78,13 @@
     "username": "whitepeacock949",
     "password": "incubus",
     "invokedAt": "2021-05-09T09:00:53.543Z"
+  },
+  {
+    "firstName": "Alisa",
+    "lastName": "Salmela",
+    "email": "alisa.salmela@example.com",
+    "username": "blackgoose755",
+    "password": "newyork",
+    "invokedAt": "2021-05-09T10:01:01.855Z"
   }
 ]
