@@ -182,5 +182,13 @@
     "username": "happybird997",
     "password": "closeup",
     "invokedAt": "2021-05-11T22:00:52.729Z"
+  },
+  {
+    "firstName": "Joanie",
+    "lastName": "Zandbergen",
+    "email": "joanie.zandbergen@example.com",
+    "username": "heavybutterfly734",
+    "password": "stinker",
+    "invokedAt": "2021-05-11T23:00:52.272Z"
   }
 ]
