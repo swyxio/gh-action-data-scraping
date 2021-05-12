@@ -94,5 +94,13 @@
     "username": "crazyduck683",
     "password": "sailboat",
     "invokedAt": "2021-05-12T11:00:39.389Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Wong",
+    "email": "oliver.wong@example.com",
+    "username": "ticklishbutterfly813",
+    "password": "lost",
+    "invokedAt": "2021-05-12T12:00:38.118Z"
   }
 ]
