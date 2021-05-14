@@ -46,5 +46,13 @@
     "username": "greenkoala812",
     "password": "cook",
     "invokedAt": "2021-05-14T05:06:11.673Z"
+  },
+  {
+    "firstName": "Isak",
+    "lastName": "Krogsæter",
+    "email": "isak.krogsaeter@example.com",
+    "username": "brownkoala723",
+    "password": "wookie",
+    "invokedAt": "2021-05-14T06:00:38.257Z"
   }
 ]
