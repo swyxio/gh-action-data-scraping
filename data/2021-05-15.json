@@ -126,5 +126,13 @@
     "username": "organicfrog540",
     "password": "seymour",
     "invokedAt": "2021-05-15T15:00:40.190Z"
+  },
+  {
+    "firstName": "Joachim",
+    "lastName": "Kjellevold",
+    "email": "joachim.kjellevold@example.com",
+    "username": "brownmouse398",
+    "password": "ultimate",
+    "invokedAt": "2021-05-15T16:04:41.801Z"
   }
 ]
