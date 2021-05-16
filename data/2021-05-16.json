@@ -94,5 +94,13 @@
     "username": "tinylion997",
     "password": "jaguar",
     "invokedAt": "2021-05-16T18:10:49.201Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Kristensen",
+    "email": "jeppe.kristensen@example.com",
+    "username": "bigtiger908",
+    "password": "painting",
+    "invokedAt": "2021-05-16T19:08:37.101Z"
   }
 ]
