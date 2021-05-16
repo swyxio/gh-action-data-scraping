@@ -102,5 +102,13 @@
     "username": "bigtiger908",
     "password": "painting",
     "invokedAt": "2021-05-16T19:08:37.101Z"
+  },
+  {
+    "firstName": "Allan",
+    "lastName": "Williams",
+    "email": "allan.williams@example.com",
+    "username": "greenrabbit796",
+    "password": "masterbaiting",
+    "invokedAt": "2021-05-16T20:00:39.013Z"
   }
 ]
