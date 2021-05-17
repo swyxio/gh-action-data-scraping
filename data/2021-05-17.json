@@ -118,5 +118,13 @@
     "username": "whitebird244",
     "password": "morpheus",
     "invokedAt": "2021-05-17T14:00:44.802Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Rasmussen",
+    "email": "lucas.rasmussen@example.com",
+    "username": "bluekoala874",
+    "password": "rocket",
+    "invokedAt": "2021-05-17T15:00:41.828Z"
   }
 ]
