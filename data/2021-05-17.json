@@ -126,5 +126,13 @@
     "username": "bluekoala874",
     "password": "rocket",
     "invokedAt": "2021-05-17T15:00:41.828Z"
+  },
+  {
+    "firstName": "Lewis",
+    "lastName": "Clarke",
+    "email": "lewis.clarke@example.com",
+    "username": "blackpeacock778",
+    "password": "worker",
+    "invokedAt": "2021-05-17T16:04:52.594Z"
   }
 ]
