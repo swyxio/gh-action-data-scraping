@@ -102,5 +102,13 @@
     "username": "redkoala171",
     "password": "paradigm",
     "invokedAt": "2021-05-18T20:00:47.555Z"
+  },
+  {
+    "firstName": "Matéo",
+    "lastName": "Roche",
+    "email": "mateo.roche@example.com",
+    "username": "purplemeercat411",
+    "password": "dagger",
+    "invokedAt": "2021-05-18T21:00:38.898Z"
   }
 ]
