@@ -2,6 +2,12 @@
 
 this repo shows how to use github actions to do automated data scraping, with storage in git itself! **free git storage and scheduled updates!!!**
 
+## 2021 Update
+
+You can read more in the [Blog Writeup](https://www.swyx.io/github-scraping/). 
+
+As of May 2021, [Flat Data scraping](https://octo.github.com/projects/flat-data) is officially supported by GitHub, check them out.
+
 ## Basic Idea
 
 - You set a cron triggered github action ([cron examples](https://crontab.guru/examples.html) - max frequency every 5 mins)
