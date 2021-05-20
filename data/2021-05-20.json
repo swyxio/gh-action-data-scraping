@@ -142,5 +142,13 @@
     "username": "heavywolf291",
     "password": "balls",
     "invokedAt": "2021-05-20T17:24:38.863Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Henderson",
+    "email": "jerry.henderson@example.com",
+    "username": "redbear974",
+    "password": "sports",
+    "invokedAt": "2021-05-20T18:12:06.722Z"
   }
 ]
