@@ -94,5 +94,13 @@
     "username": "beautifulmouse160",
     "password": "mexican",
     "invokedAt": "2021-05-20T11:01:03.404Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Morin",
+    "email": "alexis.morin@example.com",
+    "username": "ticklishfrog866",
+    "password": "kill",
+    "invokedAt": "2021-05-20T12:00:44.710Z"
   }
 ]
