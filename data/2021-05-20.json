@@ -182,5 +182,13 @@
     "username": "redgorilla210",
     "password": "racers",
     "invokedAt": "2021-05-20T22:00:34.667Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Cabrera",
+    "email": "marc.cabrera@example.com",
+    "username": "whitetiger651",
+    "password": "beavis",
+    "invokedAt": "2021-05-20T23:00:36.774Z"
   }
 ]
