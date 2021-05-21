@@ -182,5 +182,13 @@
     "username": "silverduck731",
     "password": "3000gt",
     "invokedAt": "2021-05-21T22:00:40.979Z"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Andre",
+    "email": "jade.andre@example.com",
+    "username": "brownmouse403",
+    "password": "aries",
+    "invokedAt": "2021-05-21T23:00:35.342Z"
   }
 ]
