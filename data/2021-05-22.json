@@ -182,5 +182,13 @@
     "username": "bigduck367",
     "password": "intrepid",
     "invokedAt": "2021-05-22T22:00:37.167Z"
+  },
+  {
+    "firstName": "Armin",
+    "lastName": "Thompson",
+    "email": "armin.thompson@example.com",
+    "username": "greenladybug943",
+    "password": "niners",
+    "invokedAt": "2021-05-22T23:00:36.186Z"
   }
 ]
