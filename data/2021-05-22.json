@@ -102,5 +102,13 @@
     "username": "lazypanda154",
     "password": "trace",
     "invokedAt": "2021-05-22T12:00:33.868Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Petersen",
+    "email": "nicklas.petersen@example.com",
+    "username": "greenduck792",
+    "password": "asdf1234",
+    "invokedAt": "2021-05-22T13:10:10.793Z"
   }
 ]
