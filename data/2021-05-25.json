@@ -38,5 +38,13 @@
     "username": "lazybear180",
     "password": "smoker",
     "invokedAt": "2021-05-25T04:12:34.877Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Miller",
+    "email": "diana.miller@example.com",
+    "username": "beautifulgoose430",
+    "password": "lesbean",
+    "invokedAt": "2021-05-25T05:15:12.367Z"
   }
 ]
