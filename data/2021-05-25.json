@@ -30,5 +30,13 @@
     "username": "sadcat363",
     "password": "seahawks",
     "invokedAt": "2021-05-25T03:18:14.088Z"
+  },
+  {
+    "firstName": "Timmothy",
+    "lastName": "Howell",
+    "email": "timmothy.howell@example.com",
+    "username": "lazybear180",
+    "password": "smoker",
+    "invokedAt": "2021-05-25T04:12:34.877Z"
   }
 ]
