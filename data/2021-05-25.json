@@ -182,5 +182,13 @@
     "username": "silverfrog383",
     "password": "blizzard",
     "invokedAt": "2021-05-25T22:01:44.034Z"
+  },
+  {
+    "firstName": "Vickie",
+    "lastName": "Walters",
+    "email": "vickie.walters@example.com",
+    "username": "bigelephant462",
+    "password": "bryan",
+    "invokedAt": "2021-05-25T23:03:25.374Z"
   }
 ]
