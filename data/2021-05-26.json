@@ -54,5 +54,13 @@
     "username": "heavymouse974",
     "password": "ultima",
     "invokedAt": "2021-05-26T06:12:39.687Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Porter",
+    "email": "dan.porter@example.com",
+    "username": "lazypeacock625",
+    "password": "password9",
+    "invokedAt": "2021-05-26T07:15:34.563Z"
   }
 ]
