@@ -142,5 +142,13 @@
     "username": "silverleopard217",
     "password": "champ1",
     "invokedAt": "2021-05-26T17:25:00.203Z"
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "Fagertun",
+    "email": "jimmy.fagertun@example.com",
+    "username": "happybutterfly107",
+    "password": "transam",
+    "invokedAt": "2021-05-26T18:26:37.962Z"
   }
 ]
