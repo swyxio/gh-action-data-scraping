@@ -110,5 +110,13 @@
     "username": "greenmouse164",
     "password": "crunch",
     "invokedAt": "2021-05-26T13:15:15.904Z"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Le Gall",
+    "email": "sophia.legall@example.com",
+    "username": "whitekoala470",
+    "password": "7894",
+    "invokedAt": "2021-05-26T14:12:00.182Z"
   }
 ]
