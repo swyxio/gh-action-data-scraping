@@ -86,5 +86,13 @@
     "username": "greengoose597",
     "password": "poetry",
     "invokedAt": "2021-05-26T10:08:49.077Z"
+  },
+  {
+    "firstName": "Lillian",
+    "lastName": "Burns",
+    "email": "lillian.burns@example.com",
+    "username": "beautifulduck772",
+    "password": "major",
+    "invokedAt": "2021-05-26T11:08:23.966Z"
   }
 ]
