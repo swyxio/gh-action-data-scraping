@@ -158,5 +158,13 @@
     "username": "blueladybug763",
     "password": "window",
     "invokedAt": "2021-05-27T19:20:12.166Z"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Bruheim",
+    "email": "steven.bruheim@example.com",
+    "username": "whitecat709",
+    "password": "spooge",
+    "invokedAt": "2021-05-27T20:08:22.858Z"
   }
 ]
