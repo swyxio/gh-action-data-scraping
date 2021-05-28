@@ -166,5 +166,13 @@
     "username": "brownlion279",
     "password": "porkchop",
     "invokedAt": "2021-05-28T20:19:37.720Z"
+  },
+  {
+    "firstName": "Moritz",
+    "lastName": "Meyer",
+    "email": "moritz.meyer@example.com",
+    "username": "purpleostrich225",
+    "password": "3131",
+    "invokedAt": "2021-05-28T21:08:17.598Z"
   }
 ]
