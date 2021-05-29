@@ -38,5 +38,13 @@
     "username": "tinypanda150",
     "password": "xxxxxxx",
     "invokedAt": "2021-05-29T04:54:41.994Z"
+  },
+  {
+    "firstName": "Etienne",
+    "lastName": "Côté",
+    "email": "etienne.cote@example.com",
+    "username": "goldenpanda517",
+    "password": "serenity",
+    "invokedAt": "2021-05-29T05:40:52.496Z"
   }
 ]
