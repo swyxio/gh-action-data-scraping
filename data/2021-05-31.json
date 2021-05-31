@@ -86,5 +86,13 @@
     "username": "crazygoose881",
     "password": "lang",
     "invokedAt": "2021-05-31T11:22:00.343Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Lucas",
+    "email": "paul.lucas@example.com",
+    "username": "redgorilla105",
+    "password": "illusion",
+    "invokedAt": "2021-05-31T12:13:59.289Z"
   }
 ]
