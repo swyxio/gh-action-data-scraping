@@ -118,5 +118,13 @@
     "username": "yellowrabbit920",
     "password": "startrek",
     "invokedAt": "2021-06-02T16:23:51.839Z"
+  },
+  {
+    "firstName": "Holly",
+    "lastName": "Taylor",
+    "email": "holly.taylor@example.com",
+    "username": "heavyelephant102",
+    "password": "lakers",
+    "invokedAt": "2021-06-02T17:30:34.368Z"
   }
 ]
