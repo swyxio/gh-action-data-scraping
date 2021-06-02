@@ -102,5 +102,13 @@
     "username": "crazybutterfly240",
     "password": "zerocool",
     "invokedAt": "2021-06-02T14:30:07.062Z"
+  },
+  {
+    "firstName": "Anaïs",
+    "lastName": "Martinez",
+    "email": "anais.martinez@example.com",
+    "username": "bluelion718",
+    "password": "builder",
+    "invokedAt": "2021-06-02T15:18:14.139Z"
   }
 ]
