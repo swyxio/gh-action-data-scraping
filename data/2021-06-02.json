@@ -110,5 +110,13 @@
     "username": "bluelion718",
     "password": "builder",
     "invokedAt": "2021-06-02T15:18:14.139Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Dufour",
+    "email": "ryan.dufour@example.com",
+    "username": "yellowrabbit920",
+    "password": "startrek",
+    "invokedAt": "2021-06-02T16:23:51.839Z"
   }
 ]
