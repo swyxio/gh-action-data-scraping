@@ -70,5 +70,13 @@
     "username": "smallpanda754",
     "password": "gateway1",
     "invokedAt": "2021-06-03T09:22:24.498Z"
+  },
+  {
+    "firstName": "Chad",
+    "lastName": "Myers",
+    "email": "chad.myers@example.com",
+    "username": "goldengorilla787",
+    "password": "spanker",
+    "invokedAt": "2021-06-03T10:18:00.655Z"
   }
 ]
