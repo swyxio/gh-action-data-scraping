@@ -166,5 +166,13 @@
     "username": "crazygorilla105",
     "password": "nine",
     "invokedAt": "2021-06-04T20:25:18.822Z"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Garrett",
+    "email": "jessica.garrett@example.com",
+    "username": "bluefrog705",
+    "password": "paragon",
+    "invokedAt": "2021-06-04T21:23:29.204Z"
   }
 ]
