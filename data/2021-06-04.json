@@ -174,5 +174,13 @@
     "username": "bluefrog705",
     "password": "paragon",
     "invokedAt": "2021-06-04T21:23:29.204Z"
+  },
+  {
+    "firstName": "Joan",
+    "lastName": "Roman",
+    "email": "joan.roman@example.com",
+    "username": "bigrabbit982",
+    "password": "becky",
+    "invokedAt": "2021-06-04T22:13:06.966Z"
   }
 ]
