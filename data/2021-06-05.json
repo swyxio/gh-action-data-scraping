@@ -110,5 +110,13 @@
     "username": "happygorilla754",
     "password": "master1",
     "invokedAt": "2021-06-05T13:22:36.600Z"
+  },
+  {
+    "firstName": "Torquato",
+    "lastName": "da Costa",
+    "email": "torquato.dacosta@example.com",
+    "username": "bigwolf144",
+    "password": "postman",
+    "invokedAt": "2021-06-05T14:17:01.449Z"
   }
 ]
