@@ -118,5 +118,13 @@
     "username": "bigwolf144",
     "password": "postman",
     "invokedAt": "2021-06-05T14:17:01.449Z"
+  },
+  {
+    "firstName": "Karin",
+    "lastName": "Glatz",
+    "email": "karin.glatz@example.com",
+    "username": "sadgoose313",
+    "password": "tripod",
+    "invokedAt": "2021-06-05T15:03:57.229Z"
   }
 ]
