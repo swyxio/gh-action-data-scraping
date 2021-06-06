@@ -62,5 +62,13 @@
     "username": "purplerabbit908",
     "password": "abc12345",
     "invokedAt": "2021-06-06T07:19:07.438Z"
+  },
+  {
+    "firstName": "Angèle",
+    "lastName": "Dubois",
+    "email": "angele.dubois@example.com",
+    "username": "greenmeercat610",
+    "password": "mdogg",
+    "invokedAt": "2021-06-06T08:16:19.677Z"
   }
 ]
