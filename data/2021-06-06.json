@@ -110,5 +110,13 @@
     "username": "yellowfrog251",
     "password": "axio",
     "invokedAt": "2021-06-06T13:22:46.017Z"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Rosenlund",
+    "email": "tim.rosenlund@example.com",
+    "username": "whitebutterfly890",
+    "password": "nation",
+    "invokedAt": "2021-06-06T14:18:31.519Z"
   }
 ]
