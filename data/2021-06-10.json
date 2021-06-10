@@ -126,5 +126,13 @@
     "username": "bigpeacock120",
     "password": "jaguar1",
     "invokedAt": "2021-06-10T15:00:42.636Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Olsen",
+    "email": "nanna.olsen@example.com",
+    "username": "browndog305",
+    "password": "vectra",
+    "invokedAt": "2021-06-10T16:09:37.221Z"
   }
 ]
