@@ -158,5 +158,13 @@
     "username": "whiteelephant212",
     "password": "groovy",
     "invokedAt": "2021-06-13T19:03:16.536Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Fleming",
+    "email": "bob.fleming@example.com",
+    "username": "tinybear510",
+    "password": "downtown",
+    "invokedAt": "2021-06-13T20:00:33.401Z"
   }
 ]
