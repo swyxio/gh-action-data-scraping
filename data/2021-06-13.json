@@ -126,5 +126,13 @@
     "username": "happycat971",
     "password": "enigma",
     "invokedAt": "2021-06-13T15:00:35.623Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Da Silva",
+    "email": "henry.dasilva@example.com",
+    "username": "silvercat422",
+    "password": "gringo",
+    "invokedAt": "2021-06-13T16:02:10.659Z"
   }
 ]
