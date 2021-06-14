@@ -94,5 +94,13 @@
     "username": "brownduck148",
     "password": "dynamite",
     "invokedAt": "2021-06-14T11:00:45.667Z"
+  },
+  {
+    "firstName": "Eren",
+    "lastName": "Abanuz",
+    "email": "eren.abanuz@example.com",
+    "username": "reddog767",
+    "password": "charge",
+    "invokedAt": "2021-06-14T12:00:36.276Z"
   }
 ]
