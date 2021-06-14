@@ -158,5 +158,13 @@
     "username": "purpledog746",
     "password": "musicman",
     "invokedAt": "2021-06-14T19:02:14.580Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Sørensen",
+    "email": "anton.sorensen@example.com",
+    "username": "ticklishwolf291",
+    "password": "semperfi",
+    "invokedAt": "2021-06-14T20:00:42.134Z"
   }
 ]
