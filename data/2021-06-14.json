@@ -86,5 +86,13 @@
     "username": "orangerabbit424",
     "password": "hollywood",
     "invokedAt": "2021-06-14T10:05:32.716Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Davies",
+    "email": "jeremy.davies@example.com",
+    "username": "brownduck148",
+    "password": "dynamite",
+    "invokedAt": "2021-06-14T11:00:45.667Z"
   }
 ]
