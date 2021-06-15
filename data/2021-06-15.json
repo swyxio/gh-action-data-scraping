@@ -70,5 +70,13 @@
     "username": "sadsnake661",
     "password": "fantasy",
     "invokedAt": "2021-06-15T08:00:48.528Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Akyürek",
+    "email": "coskun.akyurek@example.com",
+    "username": "heavylion197",
+    "password": "stylus",
+    "invokedAt": "2021-06-15T09:05:39.394Z"
   }
 ]
