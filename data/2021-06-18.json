@@ -78,5 +78,13 @@
     "username": "heavycat258",
     "password": "1958",
     "invokedAt": "2021-06-18T09:00:38.411Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Bohlmann",
+    "email": "louis.bohlmann@example.com",
+    "username": "blackgoose560",
+    "password": "mandingo",
+    "invokedAt": "2021-06-18T10:00:35.930Z"
   }
 ]
