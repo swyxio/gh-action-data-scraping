@@ -118,5 +118,13 @@
     "username": "biglion468",
     "password": "sanford",
     "invokedAt": "2021-06-19T14:00:40.883Z"
+  },
+  {
+    "firstName": "محمد",
+    "lastName": "صدر",
+    "email": "mhmd.sdr@example.com",
+    "username": "redrabbit370",
+    "password": "teacher",
+    "invokedAt": "2021-06-19T15:00:32.956Z"
   }
 ]
