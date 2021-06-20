@@ -62,5 +62,13 @@
     "username": "whitefrog550",
     "password": "alley",
     "invokedAt": "2021-06-20T07:03:32.383Z"
+  },
+  {
+    "firstName": "Wesley",
+    "lastName": "Rivera",
+    "email": "wesley.rivera@example.com",
+    "username": "yellowwolf407",
+    "password": "zippo",
+    "invokedAt": "2021-06-20T08:00:31.441Z"
   }
 ]
