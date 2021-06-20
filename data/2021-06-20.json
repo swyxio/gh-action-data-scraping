@@ -54,5 +54,13 @@
     "username": "whitebird947",
     "password": "fatcat",
     "invokedAt": "2021-06-20T06:00:39.788Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Raisanen",
+    "email": "julia.raisanen@example.com",
+    "username": "whitefrog550",
+    "password": "alley",
+    "invokedAt": "2021-06-20T07:03:32.383Z"
   }
 ]
