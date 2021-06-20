@@ -142,5 +142,13 @@
     "username": "bluegoose238",
     "password": "bengals",
     "invokedAt": "2021-06-20T17:09:58.402Z"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Dunn",
+    "email": "dwight.dunn@example.com",
+    "username": "heavypeacock619",
+    "password": "cougar",
+    "invokedAt": "2021-06-20T18:00:33.315Z"
   }
 ]
