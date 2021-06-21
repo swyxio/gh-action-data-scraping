@@ -174,5 +174,13 @@
     "username": "greentiger731",
     "password": "lancia",
     "invokedAt": "2021-06-21T21:00:39.039Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "May",
+    "email": "marcus.may@example.com",
+    "username": "goldencat802",
+    "password": "street",
+    "invokedAt": "2021-06-21T22:00:40.260Z"
   }
 ]
