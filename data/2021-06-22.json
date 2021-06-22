@@ -182,5 +182,13 @@
     "username": "bigfish563",
     "password": "labtec",
     "invokedAt": "2021-06-22T22:00:50.313Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Waisanen",
+    "email": "sara.waisanen@example.com",
+    "username": "beautifulpeacock875",
+    "password": "heyhey",
+    "invokedAt": "2021-06-22T23:00:53.648Z"
   }
 ]
