@@ -166,5 +166,13 @@
     "username": "bigsnake710",
     "password": "woofer",
     "invokedAt": "2021-06-23T20:00:39.361Z"
+  },
+  {
+    "firstName": "Louanne",
+    "lastName": "Fabre",
+    "email": "louanne.fabre@example.com",
+    "username": "smallsnake633",
+    "password": "username",
+    "invokedAt": "2021-06-23T21:00:53.111Z"
   }
 ]
