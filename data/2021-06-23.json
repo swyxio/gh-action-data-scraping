@@ -86,5 +86,13 @@
     "username": "bigwolf163",
     "password": "integra",
     "invokedAt": "2021-06-23T10:00:44.656Z"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Karaduman",
+    "email": "ayse.karaduman@example.com",
+    "username": "lazypanda488",
+    "password": "shepherd",
+    "invokedAt": "2021-06-23T11:00:41.354Z"
   }
 ]
