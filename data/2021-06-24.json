@@ -46,5 +46,13 @@
     "username": "crazyfish967",
     "password": "smoke",
     "invokedAt": "2021-06-24T05:00:36.378Z"
+  },
+  {
+    "firstName": "Stavros",
+    "lastName": "Kutscher",
+    "email": "stavros.kutscher@example.com",
+    "username": "crazyleopard480",
+    "password": "gandalf1",
+    "invokedAt": "2021-06-24T06:00:44.244Z"
   }
 ]
