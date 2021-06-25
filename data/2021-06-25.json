@@ -166,5 +166,13 @@
     "username": "goldentiger315",
     "password": "cavalier",
     "invokedAt": "2021-06-25T20:00:34.885Z"
+  },
+  {
+    "firstName": "Reinaldo",
+    "lastName": "Pereira",
+    "email": "reinaldo.pereira@example.com",
+    "username": "brownmeercat423",
+    "password": "beast1",
+    "invokedAt": "2021-06-25T21:00:41.125Z"
   }
 ]
