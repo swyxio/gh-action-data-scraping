@@ -150,5 +150,13 @@
     "username": "organicdog504",
     "password": "carlton",
     "invokedAt": "2021-06-25T18:00:41.436Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Morin",
+    "email": "louis.morin@example.com",
+    "username": "redpanda106",
+    "password": "spawn",
+    "invokedAt": "2021-06-25T19:00:42.985Z"
   }
 ]
