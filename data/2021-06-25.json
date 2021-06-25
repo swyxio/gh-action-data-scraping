@@ -14,5 +14,13 @@
     "username": "orangeduck173",
     "password": "spiderma",
     "invokedAt": "2021-06-25T01:23:06.890Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Herrero",
+    "email": "daniel.herrero@example.com",
+    "username": "orangefish637",
+    "password": "camaro",
+    "invokedAt": "2021-06-25T02:14:21.435Z"
   }
 ]
