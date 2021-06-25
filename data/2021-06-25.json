@@ -158,5 +158,13 @@
     "username": "redpanda106",
     "password": "spawn",
     "invokedAt": "2021-06-25T19:00:42.985Z"
+  },
+  {
+    "firstName": "Andrin",
+    "lastName": "Brun",
+    "email": "andrin.brun@example.com",
+    "username": "goldentiger315",
+    "password": "cavalier",
+    "invokedAt": "2021-06-25T20:00:34.885Z"
   }
 ]
