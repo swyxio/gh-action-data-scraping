@@ -182,5 +182,13 @@
     "username": "happycat593",
     "password": "dunbar",
     "invokedAt": "2021-06-26T22:00:38.417Z"
+  },
+  {
+    "firstName": "Maddison",
+    "lastName": "Newman",
+    "email": "maddison.newman@example.com",
+    "username": "brownzebra777",
+    "password": "wave",
+    "invokedAt": "2021-06-26T23:00:30.678Z"
   }
 ]
