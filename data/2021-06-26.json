@@ -158,5 +158,13 @@
     "username": "happyfrog711",
     "password": "motor",
     "invokedAt": "2021-06-26T19:00:33.387Z"
+  },
+  {
+    "firstName": "Finn",
+    "lastName": "Deschamps",
+    "email": "finn.deschamps@example.com",
+    "username": "brownpanda581",
+    "password": "shells",
+    "invokedAt": "2021-06-26T20:00:43.249Z"
   }
 ]
