@@ -70,5 +70,13 @@
     "username": "heavykoala308",
     "password": "herewego",
     "invokedAt": "2021-06-28T08:00:40.796Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Dumont",
+    "email": "paul.dumont@example.com",
+    "username": "bigbutterfly550",
+    "password": "holidays",
+    "invokedAt": "2021-06-28T09:05:45.377Z"
   }
 ]
