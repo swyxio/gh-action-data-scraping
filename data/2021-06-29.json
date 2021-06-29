@@ -102,5 +102,13 @@
     "username": "happyrabbit143",
     "password": "hopeful",
     "invokedAt": "2021-06-29T12:01:06.980Z"
+  },
+  {
+    "firstName": "Nelli",
+    "lastName": "Huhtala",
+    "email": "nelli.huhtala@example.com",
+    "username": "greenmeercat311",
+    "password": "vectra",
+    "invokedAt": "2021-06-29T13:10:43.884Z"
   }
 ]
