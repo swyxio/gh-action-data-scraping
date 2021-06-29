@@ -86,5 +86,13 @@
     "username": "yellowmouse561",
     "password": "lancer",
     "invokedAt": "2021-06-29T10:05:40.314Z"
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Hubert",
+    "email": "luna.hubert@example.com",
+    "username": "redmouse645",
+    "password": "masamune",
+    "invokedAt": "2021-06-29T11:00:42.786Z"
   }
 ]
