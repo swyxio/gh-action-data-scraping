@@ -174,5 +174,13 @@
     "username": "whitepeacock457",
     "password": "whales",
     "invokedAt": "2021-06-30T21:00:43.041Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Jensen",
+    "email": "emma.jensen@example.com",
+    "username": "organicsnake412",
+    "password": "topper",
+    "invokedAt": "2021-06-30T22:00:31.285Z"
   }
 ]
