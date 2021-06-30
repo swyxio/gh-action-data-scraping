@@ -158,5 +158,13 @@
     "username": "orangefish862",
     "password": "abbott",
     "invokedAt": "2021-06-30T19:00:38.815Z"
+  },
+  {
+    "firstName": "Koray",
+    "lastName": "Türkdoğan",
+    "email": "koray.turkdogan@example.com",
+    "username": "bluebear408",
+    "password": "0000",
+    "invokedAt": "2021-06-30T20:00:36.382Z"
   }
 ]
