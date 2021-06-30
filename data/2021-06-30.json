@@ -110,5 +110,13 @@
     "username": "heavytiger865",
     "password": "sniffing",
     "invokedAt": "2021-06-30T13:11:35.914Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Thomsen",
+    "email": "frederik.thomsen@example.com",
+    "username": "sadcat601",
+    "password": "bologna",
+    "invokedAt": "2021-06-30T14:05:36.638Z"
   }
 ]
