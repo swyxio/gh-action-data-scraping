@@ -142,5 +142,13 @@
     "username": "bluecat719",
     "password": "bank",
     "invokedAt": "2021-06-30T17:12:37.005Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Eliçin",
+    "email": "ulku.elicin@example.com",
+    "username": "organicduck647",
+    "password": "tabasco",
+    "invokedAt": "2021-06-30T18:05:44.482Z"
   }
 ]
