@@ -174,5 +174,13 @@
     "username": "greenbird499",
     "password": "skydive",
     "invokedAt": "2021-07-01T21:00:31.185Z"
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "Soto",
+    "email": "jackson.soto@example.com",
+    "username": "sadduck101",
+    "password": "supra",
+    "invokedAt": "2021-07-01T22:00:35.676Z"
   }
 ]
