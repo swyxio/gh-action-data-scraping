@@ -158,5 +158,13 @@
     "username": "greenrabbit335",
     "password": "boricua",
     "invokedAt": "2021-07-02T19:00:41.228Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Petersen",
+    "email": "albert.petersen@example.com",
+    "username": "sadfish906",
+    "password": "paul",
+    "invokedAt": "2021-07-02T20:00:33.365Z"
   }
 ]
