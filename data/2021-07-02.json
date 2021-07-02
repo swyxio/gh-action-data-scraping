@@ -182,5 +182,13 @@
     "username": "yellowduck390",
     "password": "report",
     "invokedAt": "2021-07-02T22:00:33.733Z"
+  },
+  {
+    "firstName": "Hans-Otto",
+    "lastName": "Schultz",
+    "email": "hans-otto.schultz@example.com",
+    "username": "redpanda892",
+    "password": "goblin",
+    "invokedAt": "2021-07-02T23:00:28.649Z"
   }
 ]
