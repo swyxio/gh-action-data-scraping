@@ -142,5 +142,13 @@
     "username": "beautifulsnake305",
     "password": "logger",
     "invokedAt": "2021-07-04T17:05:00.771Z"
+  },
+  {
+    "firstName": "Friedo",
+    "lastName": "Hauptmann",
+    "email": "friedo.hauptmann@example.com",
+    "username": "happygorilla258",
+    "password": "attila",
+    "invokedAt": "2021-07-04T18:00:54.223Z"
   }
 ]
