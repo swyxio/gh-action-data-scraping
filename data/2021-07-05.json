@@ -126,5 +126,13 @@
     "username": "crazybutterfly603",
     "password": "gene",
     "invokedAt": "2021-07-05T15:00:55.063Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Jenkins",
+    "email": "diana.jenkins@example.com",
+    "username": "whiteladybug318",
+    "password": "justme",
+    "invokedAt": "2021-07-05T16:00:33.791Z"
   }
 ]
