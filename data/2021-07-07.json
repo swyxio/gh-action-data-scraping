@@ -158,5 +158,13 @@
     "username": "angryswan178",
     "password": "thor",
     "invokedAt": "2021-07-07T19:00:35.162Z"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Sims",
+    "email": "jamie.sims@example.com",
+    "username": "heavyzebra609",
+    "password": "pyramid",
+    "invokedAt": "2021-07-07T20:00:55.985Z"
   }
 ]
