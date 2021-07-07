@@ -94,5 +94,13 @@
     "username": "greenduck110",
     "password": "bbbbbb1",
     "invokedAt": "2021-07-07T11:00:43.834Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Taşçı",
+    "email": "vedat.tasci@example.com",
+    "username": "bigostrich791",
+    "password": "referee",
+    "invokedAt": "2021-07-07T12:00:50.349Z"
   }
 ]
