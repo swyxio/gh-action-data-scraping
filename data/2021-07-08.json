@@ -62,5 +62,13 @@
     "username": "happypanda461",
     "password": "bigpimp",
     "invokedAt": "2021-07-08T07:00:32.679Z"
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Jackson",
+    "email": "andre.jackson@example.com",
+    "username": "whitebear164",
+    "password": "3030",
+    "invokedAt": "2021-07-08T08:00:42.722Z"
   }
 ]
