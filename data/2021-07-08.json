@@ -118,5 +118,13 @@
     "username": "greenostrich601",
     "password": "tbird",
     "invokedAt": "2021-07-08T14:01:37.818Z"
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Christiansen",
+    "email": "maja.christiansen@example.com",
+    "username": "blackleopard402",
+    "password": "anderson",
+    "invokedAt": "2021-07-08T15:06:11.112Z"
   }
 ]
