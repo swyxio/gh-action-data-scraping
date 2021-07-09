@@ -126,5 +126,13 @@
     "username": "happybear430",
     "password": "dogface",
     "invokedAt": "2021-07-09T15:02:44.163Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Larsen",
+    "email": "nikolaj.larsen@example.com",
+    "username": "heavygorilla394",
+    "password": "dank",
+    "invokedAt": "2021-07-09T16:00:35.112Z"
   }
 ]
