@@ -142,5 +142,13 @@
     "username": "smallwolf746",
     "password": "school",
     "invokedAt": "2021-07-09T17:06:41.448Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Sanchez",
+    "email": "alberto.sanchez@example.com",
+    "username": "beautifulwolf256",
+    "password": "skywalke",
+    "invokedAt": "2021-07-09T18:00:48.812Z"
   }
 ]
