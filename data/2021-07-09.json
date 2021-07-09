@@ -118,5 +118,13 @@
     "username": "purplesnake518",
     "password": "pitch",
     "invokedAt": "2021-07-09T14:02:02.443Z"
+  },
+  {
+    "firstName": "Zack",
+    "lastName": "Barrett",
+    "email": "zack.barrett@example.com",
+    "username": "happybear430",
+    "password": "dogface",
+    "invokedAt": "2021-07-09T15:02:44.163Z"
   }
 ]
