@@ -182,5 +182,13 @@
     "username": "organicbear210",
     "password": "fandango",
     "invokedAt": "2021-07-10T22:00:52.984Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Hill",
+    "email": "alberto.hill@example.com",
+    "username": "bigfish408",
+    "password": "eternal",
+    "invokedAt": "2021-07-10T23:00:41.268Z"
   }
 ]
