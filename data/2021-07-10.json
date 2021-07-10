@@ -22,5 +22,13 @@
     "username": "blueleopard524",
     "password": "piercing",
     "invokedAt": "2021-07-10T02:10:55.876Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Li",
+    "email": "hunter.li@example.com",
+    "username": "greenpeacock128",
+    "password": "flint",
+    "invokedAt": "2021-07-10T03:00:34.467Z"
   }
 ]
