@@ -142,5 +142,13 @@
     "username": "orangetiger627",
     "password": "eraser",
     "invokedAt": "2021-07-11T17:04:56.254Z"
+  },
+  {
+    "firstName": "Lewis",
+    "lastName": "Jackson",
+    "email": "lewis.jackson@example.com",
+    "username": "beautifuldog252",
+    "password": "roger1",
+    "invokedAt": "2021-07-11T18:00:49.254Z"
   }
 ]
