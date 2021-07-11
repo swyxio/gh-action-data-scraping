@@ -174,5 +174,13 @@
     "username": "beautifulpanda456",
     "password": "cthulhu",
     "invokedAt": "2021-07-11T21:00:50.765Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Friberg",
+    "email": "alfred.friberg@example.com",
+    "username": "beautifultiger266",
+    "password": "987456",
+    "invokedAt": "2021-07-11T22:00:54.073Z"
   }
 ]
