@@ -30,5 +30,13 @@
     "username": "crazymouse247",
     "password": "paranoid",
     "invokedAt": "2021-07-11T03:00:33.014Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Nielsen",
+    "email": "jeppe.nielsen@example.com",
+    "username": "happycat567",
+    "password": "steven1",
+    "invokedAt": "2021-07-11T04:00:43.166Z"
   }
 ]
