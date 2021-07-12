@@ -174,5 +174,13 @@
     "username": "angryrabbit158",
     "password": "manga",
     "invokedAt": "2021-07-12T21:00:49.468Z"
+  },
+  {
+    "firstName": "Becky",
+    "lastName": "Garrett",
+    "email": "becky.garrett@example.com",
+    "username": "blacktiger225",
+    "password": "condor",
+    "invokedAt": "2021-07-12T22:00:41.610Z"
   }
 ]
