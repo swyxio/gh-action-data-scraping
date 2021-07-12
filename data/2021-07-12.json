@@ -182,5 +182,13 @@
     "username": "blacktiger225",
     "password": "condor",
     "invokedAt": "2021-07-12T22:00:41.610Z"
+  },
+  {
+    "firstName": "Sasa",
+    "lastName": "Guillaume",
+    "email": "sasa.guillaume@example.com",
+    "username": "sadtiger693",
+    "password": "ambers",
+    "invokedAt": "2021-07-12T23:01:01.036Z"
   }
 ]
