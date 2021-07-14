@@ -86,5 +86,13 @@
     "username": "beautifulelephant344",
     "password": "watcher",
     "invokedAt": "2021-07-14T10:00:48.118Z"
+  },
+  {
+    "firstName": "Jason",
+    "lastName": "Wilson",
+    "email": "jason.wilson@example.com",
+    "username": "blackzebra656",
+    "password": "jumbo",
+    "invokedAt": "2021-07-14T11:00:32.636Z"
   }
 ]
