@@ -118,5 +118,13 @@
     "username": "silvergoose604",
     "password": "beaches",
     "invokedAt": "2021-07-14T14:00:41.829Z"
+  },
+  {
+    "firstName": "Bessie",
+    "lastName": "Burke",
+    "email": "bessie.burke@example.com",
+    "username": "beautifulcat164",
+    "password": "mykids",
+    "invokedAt": "2021-07-14T15:00:39.216Z"
   }
 ]
