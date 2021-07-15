@@ -94,5 +94,13 @@
     "username": "crazysnake447",
     "password": "library",
     "invokedAt": "2021-07-15T11:00:51.393Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Gagné",
+    "email": "clara.gagne@example.com",
+    "username": "whitewolf626",
+    "password": "india",
+    "invokedAt": "2021-07-15T12:00:54.741Z"
   }
 ]
