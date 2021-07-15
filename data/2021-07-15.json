@@ -166,5 +166,13 @@
     "username": "bigsnake462",
     "password": "logan",
     "invokedAt": "2021-07-15T20:00:57.868Z"
+  },
+  {
+    "firstName": "Rodney",
+    "lastName": "Clarke",
+    "email": "rodney.clarke@example.com",
+    "username": "blackwolf784",
+    "password": "herman",
+    "invokedAt": "2021-07-15T21:00:51.725Z"
   }
 ]
