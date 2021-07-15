@@ -182,5 +182,13 @@
     "username": "bluekoala459",
     "password": "freeway",
     "invokedAt": "2021-07-15T22:00:50.545Z"
+  },
+  {
+    "firstName": "Rina",
+    "lastName": "Roger",
+    "email": "rina.roger@example.com",
+    "username": "silverdog174",
+    "password": "devildog",
+    "invokedAt": "2021-07-15T23:00:43.871Z"
   }
 ]
