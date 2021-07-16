@@ -174,5 +174,13 @@
     "username": "yellowpeacock754",
     "password": "blazers",
     "invokedAt": "2021-07-16T21:00:41.543Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Ma",
+    "email": "philip.ma@example.com",
+    "username": "angrygorilla357",
+    "password": "phpbb",
+    "invokedAt": "2021-07-16T22:00:43.319Z"
   }
 ]
