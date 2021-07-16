@@ -86,5 +86,13 @@
     "username": "crazybutterfly468",
     "password": "venom",
     "invokedAt": "2021-07-16T10:00:57.824Z"
+  },
+  {
+    "firstName": "Loris",
+    "lastName": "Brun",
+    "email": "loris.brun@example.com",
+    "username": "sadswan212",
+    "password": "hand",
+    "invokedAt": "2021-07-16T11:00:29.808Z"
   }
 ]
