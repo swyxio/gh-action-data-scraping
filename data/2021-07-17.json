@@ -94,5 +94,13 @@
     "username": "organicwolf334",
     "password": "downtown",
     "invokedAt": "2021-07-17T11:00:36.429Z"
+  },
+  {
+    "firstName": "Taylor",
+    "lastName": "Gonzales",
+    "email": "taylor.gonzales@example.com",
+    "username": "blacktiger426",
+    "password": "spock",
+    "invokedAt": "2021-07-17T12:00:47.479Z"
   }
 ]
