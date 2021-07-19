@@ -182,5 +182,13 @@
     "username": "bigkoala940",
     "password": "yankees2",
     "invokedAt": "2021-07-19T22:00:35.745Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Niva",
+    "email": "anton.niva@example.com",
+    "username": "silverleopard194",
+    "password": "foobar",
+    "invokedAt": "2021-07-19T23:00:57.750Z"
   }
 ]
