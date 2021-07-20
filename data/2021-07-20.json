@@ -62,5 +62,13 @@
     "username": "happyleopard355",
     "password": "volcom",
     "invokedAt": "2021-07-20T07:00:40.763Z"
+  },
+  {
+    "firstName": "Sinéad",
+    "lastName": "Lenferink",
+    "email": "sinead.lenferink@example.com",
+    "username": "purplesnake106",
+    "password": "beaver",
+    "invokedAt": "2021-07-20T08:00:52.890Z"
   }
 ]
