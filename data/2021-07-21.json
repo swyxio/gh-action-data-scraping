@@ -182,5 +182,13 @@
     "username": "yellowcat332",
     "password": "monk",
     "invokedAt": "2021-07-21T22:00:37.775Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Akşit",
+    "email": "mustafa.aksit@example.com",
+    "username": "whitekoala774",
+    "password": "dipper",
+    "invokedAt": "2021-07-21T23:00:39.682Z"
   }
 ]
