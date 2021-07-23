@@ -70,5 +70,13 @@
     "username": "silverlion432",
     "password": "pharmacy",
     "invokedAt": "2021-07-23T08:01:07.501Z"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Menard",
+    "email": "nina.menard@example.com",
+    "username": "whitewolf903",
+    "password": "willow",
+    "invokedAt": "2021-07-23T09:00:42.643Z"
   }
 ]
