@@ -182,5 +182,13 @@
     "username": "silverkoala375",
     "password": "fortress",
     "invokedAt": "2021-07-24T22:00:33.600Z"
+  },
+  {
+    "firstName": "Elliot",
+    "lastName": "Roy",
+    "email": "elliot.roy@example.com",
+    "username": "angrybear596",
+    "password": "will",
+    "invokedAt": "2021-07-24T23:00:55.965Z"
   }
 ]
