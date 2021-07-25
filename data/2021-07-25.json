@@ -142,5 +142,13 @@
     "username": "orangeostrich675",
     "password": "almond",
     "invokedAt": "2021-07-25T17:05:03.835Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Smith",
+    "email": "thomas.smith@example.com",
+    "username": "orangebutterfly704",
+    "password": "shaved",
+    "invokedAt": "2021-07-25T18:00:54.787Z"
   }
 ]
