@@ -30,5 +30,13 @@
     "username": "blackfrog907",
     "password": "whiteout",
     "invokedAt": "2021-07-25T03:00:39.806Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Stevens",
+    "email": "sarah.stevens@example.com",
+    "username": "whiterabbit152",
+    "password": "coconut",
+    "invokedAt": "2021-07-25T04:00:38.658Z"
   }
 ]
