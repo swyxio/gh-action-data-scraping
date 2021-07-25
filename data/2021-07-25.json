@@ -158,5 +158,13 @@
     "username": "heavybear547",
     "password": "pulled",
     "invokedAt": "2021-07-25T19:00:31.922Z"
+  },
+  {
+    "firstName": "Silke",
+    "lastName": "Larsen",
+    "email": "silke.larsen@example.com",
+    "username": "orangeswan703",
+    "password": "qwertyuiop",
+    "invokedAt": "2021-07-25T20:01:07.296Z"
   }
 ]
