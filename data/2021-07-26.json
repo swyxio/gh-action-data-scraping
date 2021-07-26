@@ -182,5 +182,13 @@
     "username": "bigfish485",
     "password": "topdog",
     "invokedAt": "2021-07-26T22:00:54.672Z"
+  },
+  {
+    "firstName": "Luisa",
+    "lastName": "Gimenez",
+    "email": "luisa.gimenez@example.com",
+    "username": "orangebird387",
+    "password": "aaron1",
+    "invokedAt": "2021-07-26T23:00:39.084Z"
   }
 ]
