@@ -118,5 +118,13 @@
     "username": "ticklishkoala728",
     "password": "bowser",
     "invokedAt": "2021-07-27T14:00:43.991Z"
+  },
+  {
+    "firstName": "Johanne",
+    "lastName": "Larsen",
+    "email": "johanne.larsen@example.com",
+    "username": "bigfish766",
+    "password": "legs",
+    "invokedAt": "2021-07-27T15:00:41.527Z"
   }
 ]
