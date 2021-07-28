@@ -70,5 +70,13 @@
     "username": "yellowlion974",
     "password": "motion",
     "invokedAt": "2021-07-28T08:00:39.078Z"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Palmer",
+    "email": "chris.palmer@example.com",
+    "username": "beautifulleopard700",
+    "password": "01234567",
+    "invokedAt": "2021-07-28T09:00:39.103Z"
   }
 ]
