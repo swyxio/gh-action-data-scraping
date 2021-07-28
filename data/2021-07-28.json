@@ -134,5 +134,13 @@
     "username": "lazyrabbit208",
     "password": "asswipe",
     "invokedAt": "2021-07-28T17:07:02.281Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Walker",
+    "email": "marcus.walker@example.com",
+    "username": "heavypanda699",
+    "password": "unknown",
+    "invokedAt": "2021-07-28T18:00:48.452Z"
   }
 ]
