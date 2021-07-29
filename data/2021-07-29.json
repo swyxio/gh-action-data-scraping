@@ -86,5 +86,13 @@
     "username": "orangeleopard725",
     "password": "trucking",
     "invokedAt": "2021-07-29T10:00:40.327Z"
+  },
+  {
+    "firstName": "Guillermo",
+    "lastName": "Nieto",
+    "email": "guillermo.nieto@example.com",
+    "username": "greenduck568",
+    "password": "5656",
+    "invokedAt": "2021-07-29T11:00:32.472Z"
   }
 ]
