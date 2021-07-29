@@ -126,5 +126,13 @@
     "username": "bigwolf652",
     "password": "celtics",
     "invokedAt": "2021-07-29T15:05:48.077Z"
+  },
+  {
+    "firstName": "Lee",
+    "lastName": "Romero",
+    "email": "lee.romero@example.com",
+    "username": "silverzebra642",
+    "password": "123456789",
+    "invokedAt": "2021-07-29T16:05:34.107Z"
   }
 ]
