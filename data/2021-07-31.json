@@ -166,5 +166,13 @@
     "username": "silvertiger143",
     "password": "pervert",
     "invokedAt": "2021-07-31T20:00:49.305Z"
+  },
+  {
+    "firstName": "Hannah",
+    "lastName": "Smith",
+    "email": "hannah.smith@example.com",
+    "username": "blackrabbit195",
+    "password": "magician",
+    "invokedAt": "2021-07-31T21:00:37.363Z"
   }
 ]
