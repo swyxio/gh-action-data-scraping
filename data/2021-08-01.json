@@ -94,5 +94,13 @@
     "username": "bigwolf852",
     "password": "swallow",
     "invokedAt": "2021-08-01T11:00:37.361Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Petersen",
+    "email": "andrea.petersen@example.com",
+    "username": "bigswan687",
+    "password": "serenity",
+    "invokedAt": "2021-08-01T12:00:41.398Z"
   }
 ]
