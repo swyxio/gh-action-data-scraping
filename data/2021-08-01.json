@@ -54,5 +54,13 @@
     "username": "blackmeercat233",
     "password": "scuba",
     "invokedAt": "2021-08-01T06:00:49.271Z"
+  },
+  {
+    "firstName": "Curt",
+    "lastName": "Hinrichs",
+    "email": "curt.hinrichs@example.com",
+    "username": "crazyleopard531",
+    "password": "collin",
+    "invokedAt": "2021-08-01T07:00:35.746Z"
   }
 ]
