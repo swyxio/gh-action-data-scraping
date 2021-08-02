@@ -166,5 +166,13 @@
     "username": "blacksnake206",
     "password": "fast",
     "invokedAt": "2021-08-02T21:00:45.584Z"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Silva",
+    "email": "brandon.silva@example.com",
+    "username": "crazypeacock696",
+    "password": "sharky",
+    "invokedAt": "2021-08-02T22:00:31.578Z"
   }
 ]
