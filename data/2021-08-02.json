@@ -158,5 +158,13 @@
     "username": "bluepeacock634",
     "password": "apples",
     "invokedAt": "2021-08-02T20:00:54.232Z"
+  },
+  {
+    "firstName": "Karlo",
+    "lastName": "Lammerts van Bueren",
+    "email": "karlo.lammertsvanbueren@example.com",
+    "username": "blacksnake206",
+    "password": "fast",
+    "invokedAt": "2021-08-02T21:00:45.584Z"
   }
 ]
