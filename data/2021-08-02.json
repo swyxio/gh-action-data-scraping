@@ -62,5 +62,13 @@
     "username": "bluecat330",
     "password": "starfire",
     "invokedAt": "2021-08-02T08:00:55.625Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Wegener",
+    "email": "alexandre.wegener@example.com",
+    "username": "biggorilla212",
+    "password": "jelly",
+    "invokedAt": "2021-08-02T09:05:42.826Z"
   }
 ]
