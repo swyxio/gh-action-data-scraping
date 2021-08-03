@@ -174,5 +174,13 @@
     "username": "angryleopard468",
     "password": "gambit",
     "invokedAt": "2021-08-03T21:00:42.309Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Hunter",
+    "email": "ivan.hunter@example.com",
+    "username": "bigswan646",
+    "password": "1234",
+    "invokedAt": "2021-08-03T22:00:40.022Z"
   }
 ]
