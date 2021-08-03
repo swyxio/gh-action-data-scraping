@@ -126,5 +126,13 @@
     "username": "greenleopard981",
     "password": "warcraft",
     "invokedAt": "2021-08-03T15:04:22.975Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Brar",
+    "email": "julia.brar@example.com",
+    "username": "smalldog610",
+    "password": "charlie123",
+    "invokedAt": "2021-08-03T16:05:33.369Z"
   }
 ]
