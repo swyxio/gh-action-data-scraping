@@ -78,5 +78,13 @@
     "username": "happybear109",
     "password": "volleyba",
     "invokedAt": "2021-08-03T09:05:33.811Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Hall",
+    "email": "liam.hall@example.com",
+    "username": "orangeswan550",
+    "password": "point",
+    "invokedAt": "2021-08-03T10:06:38.091Z"
   }
 ]
