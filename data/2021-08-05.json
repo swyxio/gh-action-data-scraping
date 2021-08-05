@@ -86,5 +86,13 @@
     "username": "brownwolf257",
     "password": "protect",
     "invokedAt": "2021-08-05T10:02:38.642Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Montgomery",
+    "email": "lisa.montgomery@example.com",
+    "username": "sadzebra849",
+    "password": "comet",
+    "invokedAt": "2021-08-05T11:00:43.948Z"
   }
 ]
