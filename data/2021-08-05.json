@@ -94,5 +94,13 @@
     "username": "sadzebra849",
     "password": "comet",
     "invokedAt": "2021-08-05T11:00:43.948Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "West",
+    "email": "kate.west@example.com",
+    "username": "lazypanda801",
+    "password": "paris",
+    "invokedAt": "2021-08-05T12:00:47.954Z"
   }
 ]
