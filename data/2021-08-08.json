@@ -142,5 +142,13 @@
     "username": "whitefrog495",
     "password": "knock",
     "invokedAt": "2021-08-08T18:00:35.320Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Dixon",
+    "email": "bob.dixon@example.com",
+    "username": "bluelion643",
+    "password": "doodle",
+    "invokedAt": "2021-08-08T19:00:39.593Z"
   }
 ]
