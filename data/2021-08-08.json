@@ -150,5 +150,13 @@
     "username": "bluelion643",
     "password": "doodle",
     "invokedAt": "2021-08-08T19:00:39.593Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Nelson",
+    "email": "diana.nelson@example.com",
+    "username": "browndog831",
+    "password": "dynamo",
+    "invokedAt": "2021-08-08T20:00:49.923Z"
   }
 ]
