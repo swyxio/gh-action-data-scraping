@@ -158,5 +158,13 @@
     "username": "angrycat445",
     "password": "compass",
     "invokedAt": "2021-08-11T19:03:01.604Z"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Washington",
+    "email": "ian.washington@example.com",
+    "username": "ticklishbutterfly642",
+    "password": "rachael",
+    "invokedAt": "2021-08-11T20:05:37.241Z"
   }
 ]
