@@ -62,5 +62,13 @@
     "username": "lazypanda102",
     "password": "565656",
     "invokedAt": "2021-08-11T07:00:38.323Z"
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Osland",
+    "email": "alicia.osland@example.com",
+    "username": "whitefish826",
+    "password": "border",
+    "invokedAt": "2021-08-11T08:00:33.978Z"
   }
 ]
