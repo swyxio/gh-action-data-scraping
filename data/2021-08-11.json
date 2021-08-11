@@ -118,5 +118,13 @@
     "username": "browntiger210",
     "password": "whistler",
     "invokedAt": "2021-08-11T14:05:41.934Z"
+  },
+  {
+    "firstName": "Ada",
+    "lastName": "Almås",
+    "email": "ada.almas@example.com",
+    "username": "redmeercat201",
+    "password": "xfiles",
+    "invokedAt": "2021-08-11T15:05:38.436Z"
   }
 ]
