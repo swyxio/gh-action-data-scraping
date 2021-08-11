@@ -174,5 +174,13 @@
     "username": "sadmeercat497",
     "password": "puppet",
     "invokedAt": "2021-08-11T21:00:35.403Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Christiansen",
+    "email": "frederik.christiansen@example.com",
+    "username": "silverwolf349",
+    "password": "cricket",
+    "invokedAt": "2021-08-11T22:00:49.978Z"
   }
 ]
