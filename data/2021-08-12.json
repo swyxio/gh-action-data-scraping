@@ -118,5 +118,13 @@
     "username": "bluebear778",
     "password": "phone",
     "invokedAt": "2021-08-12T14:03:33.700Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Andersen",
+    "email": "andrea.andersen@example.com",
+    "username": "beautifulwolf500",
+    "password": "ricky",
+    "invokedAt": "2021-08-12T15:05:39.258Z"
   }
 ]
