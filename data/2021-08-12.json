@@ -134,5 +134,13 @@
     "username": "lazyzebra700",
     "password": "fishbone",
     "invokedAt": "2021-08-12T16:01:59.047Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Wood",
+    "email": "bernard.wood@example.com",
+    "username": "yellowgoose763",
+    "password": "mobile",
+    "invokedAt": "2021-08-12T17:05:14.291Z"
   }
 ]
