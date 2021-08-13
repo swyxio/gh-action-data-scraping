@@ -166,5 +166,13 @@
     "username": "blacklion207",
     "password": "goku",
     "invokedAt": "2021-08-13T20:01:09.532Z"
+  },
+  {
+    "firstName": "Carmelo",
+    "lastName": "Leon",
+    "email": "carmelo.leon@example.com",
+    "username": "beautifullion229",
+    "password": "someone",
+    "invokedAt": "2021-08-13T21:00:55.490Z"
   }
 ]
