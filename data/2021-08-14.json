@@ -54,5 +54,13 @@
     "username": "smallkoala365",
     "password": "camels",
     "invokedAt": "2021-08-14T06:01:00.466Z"
+  },
+  {
+    "firstName": "Eevi",
+    "lastName": "Laine",
+    "email": "eevi.laine@example.com",
+    "username": "purplegorilla404",
+    "password": "common",
+    "invokedAt": "2021-08-14T07:00:32.536Z"
   }
 ]
