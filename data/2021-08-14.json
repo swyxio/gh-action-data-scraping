@@ -166,5 +166,13 @@
     "username": "biggorilla260",
     "password": "memory",
     "invokedAt": "2021-08-14T20:00:53.979Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Ylitalo",
+    "email": "sara.ylitalo@example.com",
+    "username": "biggorilla760",
+    "password": "niceass",
+    "invokedAt": "2021-08-14T21:00:30.017Z"
   }
 ]
