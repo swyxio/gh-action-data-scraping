@@ -126,5 +126,13 @@
     "username": "redtiger260",
     "password": "bozo",
     "invokedAt": "2021-08-14T15:00:48.779Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Koivisto",
+    "email": "oskari.koivisto@example.com",
+    "username": "purplelion453",
+    "password": "china",
+    "invokedAt": "2021-08-14T16:00:36.751Z"
   }
 ]
