@@ -94,5 +94,13 @@
     "username": "organiccat743",
     "password": "semper",
     "invokedAt": "2021-08-14T11:00:47.429Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Pedersen",
+    "email": "marie.pedersen@example.com",
+    "username": "silverdog980",
+    "password": "muppet",
+    "invokedAt": "2021-08-14T12:00:38.498Z"
   }
 ]
