@@ -78,5 +78,13 @@
     "username": "sadmeercat389",
     "password": "perfect1",
     "invokedAt": "2021-08-15T09:00:55.240Z"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Turner",
+    "email": "antonio.turner@example.com",
+    "username": "lazycat358",
+    "password": "tyler1",
+    "invokedAt": "2021-08-15T10:00:34.980Z"
   }
 ]
