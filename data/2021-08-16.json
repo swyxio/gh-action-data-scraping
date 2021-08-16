@@ -38,5 +38,13 @@
     "username": "purplefish659",
     "password": "00000",
     "invokedAt": "2021-08-16T04:00:44.218Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Lopez",
+    "email": "jose.lopez@example.com",
+    "username": "ticklishgorilla671",
+    "password": "tribe",
+    "invokedAt": "2021-08-16T05:00:34.369Z"
   }
 ]
