@@ -182,5 +182,13 @@
     "username": "goldenduck790",
     "password": "fester",
     "invokedAt": "2021-08-16T22:00:34.268Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Sørensen",
+    "email": "albert.sorensen@example.com",
+    "username": "crazygoose179",
+    "password": "coventry",
+    "invokedAt": "2021-08-16T23:00:49.736Z"
   }
 ]
