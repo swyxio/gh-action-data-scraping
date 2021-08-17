@@ -54,5 +54,13 @@
     "username": "smallduck128",
     "password": "fishman",
     "invokedAt": "2021-08-17T06:00:38.785Z"
+  },
+  {
+    "firstName": "Rex",
+    "lastName": "Handgraaf",
+    "email": "rex.handgraaf@example.com",
+    "username": "sadostrich832",
+    "password": "reilly",
+    "invokedAt": "2021-08-17T07:00:34.378Z"
   }
 ]
