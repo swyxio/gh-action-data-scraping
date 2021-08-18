@@ -158,5 +158,13 @@
     "username": "whitekoala911",
     "password": "789789",
     "invokedAt": "2021-08-18T19:00:53.636Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Horton",
+    "email": "joel.horton@example.com",
+    "username": "silverdog404",
+    "password": "vertigo",
+    "invokedAt": "2021-08-18T20:02:46.123Z"
   }
 ]
