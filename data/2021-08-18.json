@@ -54,5 +54,13 @@
     "username": "redgorilla489",
     "password": "things",
     "invokedAt": "2021-08-18T06:00:44.808Z"
+  },
+  {
+    "firstName": "Ronny",
+    "lastName": "Görner",
+    "email": "ronny.gorner@example.com",
+    "username": "organicfrog821",
+    "password": "sundance",
+    "invokedAt": "2021-08-18T07:00:37.945Z"
   }
 ]
