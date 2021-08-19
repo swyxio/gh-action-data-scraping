@@ -158,5 +158,13 @@
     "username": "blackbird904",
     "password": "asdfghjkl",
     "invokedAt": "2021-08-19T19:00:43.862Z"
+  },
+  {
+    "firstName": "Anni",
+    "lastName": "Ojala",
+    "email": "anni.ojala@example.com",
+    "username": "blueleopard548",
+    "password": "womble",
+    "invokedAt": "2021-08-19T20:05:46.305Z"
   }
 ]
