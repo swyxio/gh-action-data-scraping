@@ -110,5 +110,13 @@
     "username": "lazyduck565",
     "password": "ping",
     "invokedAt": "2021-08-20T13:06:09.801Z"
+  },
+  {
+    "firstName": "Malthe",
+    "lastName": "Sørensen",
+    "email": "malthe.sorensen@example.com",
+    "username": "greengorilla833",
+    "password": "cassie",
+    "invokedAt": "2021-08-20T14:05:38.366Z"
   }
 ]
