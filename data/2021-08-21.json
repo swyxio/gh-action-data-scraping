@@ -78,5 +78,13 @@
     "username": "happyrabbit140",
     "password": "doberman",
     "invokedAt": "2021-08-21T09:00:29.278Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Mackay",
+    "email": "harper.mackay@example.com",
+    "username": "browndog418",
+    "password": "strike",
+    "invokedAt": "2021-08-21T10:00:46.547Z"
   }
 ]
