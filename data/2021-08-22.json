@@ -86,5 +86,13 @@
     "username": "whitelion198",
     "password": "volcano",
     "invokedAt": "2021-08-22T10:00:33.357Z"
+  },
+  {
+    "firstName": "Serenity",
+    "lastName": "Hoffman",
+    "email": "serenity.hoffman@example.com",
+    "username": "beautifullion826",
+    "password": "wibble",
+    "invokedAt": "2021-08-22T11:00:48.441Z"
   }
 ]
