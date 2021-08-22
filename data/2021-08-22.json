@@ -166,5 +166,13 @@
     "username": "greengoose622",
     "password": "yamaha",
     "invokedAt": "2021-08-22T20:01:01.856Z"
+  },
+  {
+    "firstName": "Serge",
+    "lastName": "Markus",
+    "email": "serge.markus@example.com",
+    "username": "silvergoose428",
+    "password": "sensei",
+    "invokedAt": "2021-08-22T21:00:48.673Z"
   }
 ]
