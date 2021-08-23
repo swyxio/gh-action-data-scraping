@@ -158,5 +158,13 @@
     "username": "beautifulfrog473",
     "password": "moondog",
     "invokedAt": "2021-08-23T19:05:40.480Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Dupont",
+    "email": "evan.dupont@example.com",
+    "username": "lazyostrich894",
+    "password": "nimitz",
+    "invokedAt": "2021-08-23T20:00:39.885Z"
   }
 ]
