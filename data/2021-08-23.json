@@ -54,5 +54,13 @@
     "username": "yellowfish296",
     "password": "quest",
     "invokedAt": "2021-08-23T06:00:54.516Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Cook",
+    "email": "terry.cook@example.com",
+    "username": "lazywolf822",
+    "password": "bigjohn",
+    "invokedAt": "2021-08-23T07:00:37.966Z"
   }
 ]
