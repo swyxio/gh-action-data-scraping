@@ -174,5 +174,13 @@
     "username": "goldenbutterfly675",
     "password": "clipper",
     "invokedAt": "2021-08-24T21:05:45.494Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Carlson",
+    "email": "alexander.carlson@example.com",
+    "username": "greenwolf147",
+    "password": "sharon",
+    "invokedAt": "2021-08-24T22:00:56.794Z"
   }
 ]
