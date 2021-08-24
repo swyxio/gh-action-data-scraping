@@ -102,5 +102,13 @@
     "username": "bigwolf783",
     "password": "goat",
     "invokedAt": "2021-08-24T12:07:43.583Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Giraud",
+    "email": "nathan.giraud@example.com",
+    "username": "heavywolf624",
+    "password": "trigger",
+    "invokedAt": "2021-08-24T13:05:16.125Z"
   }
 ]
