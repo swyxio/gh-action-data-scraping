@@ -134,5 +134,13 @@
     "username": "crazypeacock389",
     "password": "furball",
     "invokedAt": "2021-08-24T16:00:48.308Z"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Williams",
+    "email": "caleb.williams@example.com",
+    "username": "tinysnake324",
+    "password": "bulldog",
+    "invokedAt": "2021-08-24T17:10:46.425Z"
   }
 ]
