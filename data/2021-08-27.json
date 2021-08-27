@@ -158,5 +158,13 @@
     "username": "sadzebra438",
     "password": "force",
     "invokedAt": "2021-08-27T19:00:43.224Z"
+  },
+  {
+    "firstName": "Aurélien",
+    "lastName": "Gautier",
+    "email": "aurelien.gautier@example.com",
+    "username": "orangefrog602",
+    "password": "asdasd",
+    "invokedAt": "2021-08-27T20:00:30.316Z"
   }
 ]
