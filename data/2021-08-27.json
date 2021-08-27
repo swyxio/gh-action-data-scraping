@@ -94,5 +94,13 @@
     "username": "bluefish986",
     "password": "corsair",
     "invokedAt": "2021-08-27T11:00:43.557Z"
+  },
+  {
+    "firstName": "Tilde",
+    "lastName": "Larsen",
+    "email": "tilde.larsen@example.com",
+    "username": "heavygoose240",
+    "password": "lights",
+    "invokedAt": "2021-08-27T12:01:00.769Z"
   }
 ]
