@@ -158,5 +158,13 @@
     "username": "happybutterfly654",
     "password": "ajax",
     "invokedAt": "2021-08-28T19:00:33.655Z"
+  },
+  {
+    "firstName": "Jeanne",
+    "lastName": "Tremblay",
+    "email": "jeanne.tremblay@example.com",
+    "username": "silverpanda397",
+    "password": "marie",
+    "invokedAt": "2021-08-28T20:00:46.031Z"
   }
 ]
