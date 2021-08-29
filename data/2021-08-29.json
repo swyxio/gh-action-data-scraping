@@ -182,5 +182,13 @@
     "username": "heavybird442",
     "password": "141414",
     "invokedAt": "2021-08-29T22:00:43.536Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "da Conceição",
+    "email": "jose.daconceicao@example.com",
+    "username": "lazydog700",
+    "password": "hook",
+    "invokedAt": "2021-08-29T23:00:42.302Z"
   }
 ]
