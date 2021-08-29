@@ -158,5 +158,13 @@
     "username": "whiteleopard429",
     "password": "europe",
     "invokedAt": "2021-08-29T19:00:35.262Z"
+  },
+  {
+    "firstName": "Gail",
+    "lastName": "Barrett",
+    "email": "gail.barrett@example.com",
+    "username": "lazygoose291",
+    "password": "link",
+    "invokedAt": "2021-08-29T20:00:40.207Z"
   }
 ]
