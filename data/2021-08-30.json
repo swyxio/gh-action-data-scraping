@@ -126,5 +126,13 @@
     "username": "crazylion318",
     "password": "arsenal",
     "invokedAt": "2021-08-30T15:00:30.900Z"
+  },
+  {
+    "firstName": "Quin",
+    "lastName": "Lensen",
+    "email": "quin.lensen@example.com",
+    "username": "happymouse684",
+    "password": "drum",
+    "invokedAt": "2021-08-30T16:05:45.251Z"
   }
 ]
