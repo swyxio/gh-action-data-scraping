@@ -102,5 +102,13 @@
     "username": "greenswan138",
     "password": "showtime",
     "invokedAt": "2021-08-30T12:01:00.391Z"
+  },
+  {
+    "firstName": "Jannis",
+    "lastName": "Marschall",
+    "email": "jannis.marschall@example.com",
+    "username": "goldenbutterfly670",
+    "password": "snoopdog",
+    "invokedAt": "2021-08-30T13:09:51.277Z"
   }
 ]
