@@ -86,5 +86,13 @@
     "username": "yellowcat436",
     "password": "celebrity",
     "invokedAt": "2021-08-30T10:05:47.604Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Andersen",
+    "email": "storm.andersen@example.com",
+    "username": "heavyfrog241",
+    "password": "crazybab",
+    "invokedAt": "2021-08-30T11:00:37.540Z"
   }
 ]
