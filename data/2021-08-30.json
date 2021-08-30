@@ -54,5 +54,13 @@
     "username": "yellowtiger228",
     "password": "warriors",
     "invokedAt": "2021-08-30T06:00:51.566Z"
+  },
+  {
+    "firstName": "Mathis",
+    "lastName": "Misund",
+    "email": "mathis.misund@example.com",
+    "username": "crazyfrog800",
+    "password": "allen1",
+    "invokedAt": "2021-08-30T07:00:40.246Z"
   }
 ]
