@@ -78,5 +78,13 @@
     "username": "organictiger116",
     "password": "bernard",
     "invokedAt": "2021-08-30T09:05:46.441Z"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Herrera",
+    "email": "cathy.herrera@example.com",
+    "username": "yellowcat436",
+    "password": "celebrity",
+    "invokedAt": "2021-08-30T10:05:47.604Z"
   }
 ]
