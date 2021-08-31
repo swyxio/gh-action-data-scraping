@@ -102,5 +102,13 @@
     "username": "happyfrog636",
     "password": "airforce",
     "invokedAt": "2021-08-31T12:06:03.545Z"
+  },
+  {
+    "firstName": "Belen",
+    "lastName": "Cortes",
+    "email": "belen.cortes@example.com",
+    "username": "browncat410",
+    "password": "lost",
+    "invokedAt": "2021-08-31T13:11:23.589Z"
   }
 ]
