@@ -62,5 +62,13 @@
     "username": "goldenmeercat522",
     "password": "showtime",
     "invokedAt": "2021-09-01T07:00:35.003Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Værnes",
+    "email": "grace.vaernes@example.com",
+    "username": "crazywolf972",
+    "password": "zhui",
+    "invokedAt": "2021-09-01T08:05:58.134Z"
   }
 ]
