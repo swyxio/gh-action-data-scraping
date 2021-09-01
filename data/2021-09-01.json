@@ -158,5 +158,13 @@
     "username": "yellowgoose573",
     "password": "city",
     "invokedAt": "2021-09-01T19:05:49.670Z"
+  },
+  {
+    "firstName": "Lone",
+    "lastName": "Skagestad",
+    "email": "lone.skagestad@example.com",
+    "username": "goldenkoala489",
+    "password": "pa55word",
+    "invokedAt": "2021-09-01T20:00:48.839Z"
   }
 ]
