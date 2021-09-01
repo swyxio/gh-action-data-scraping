@@ -182,5 +182,13 @@
     "username": "silverwolf921",
     "password": "alpha",
     "invokedAt": "2021-09-01T22:00:54.688Z"
+  },
+  {
+    "firstName": "Isla",
+    "lastName": "Turner",
+    "email": "isla.turner@example.com",
+    "username": "bluewolf775",
+    "password": "stranger",
+    "invokedAt": "2021-09-01T23:01:28.126Z"
   }
 ]
