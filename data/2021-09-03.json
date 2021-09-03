@@ -94,5 +94,13 @@
     "username": "greensnake230",
     "password": "vikings",
     "invokedAt": "2021-09-03T11:00:34.445Z"
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "Miles",
+    "email": "alan.miles@example.com",
+    "username": "silverelephant276",
+    "password": "climax",
+    "invokedAt": "2021-09-03T12:00:59.387Z"
   }
 ]
