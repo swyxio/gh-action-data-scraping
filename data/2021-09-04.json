@@ -38,5 +38,13 @@
     "username": "brownfrog859",
     "password": "beagle",
     "invokedAt": "2021-09-04T04:00:44.532Z"
+  },
+  {
+    "firstName": "Amaury",
+    "lastName": "Colin",
+    "email": "amaury.colin@example.com",
+    "username": "bluebutterfly205",
+    "password": "altoids",
+    "invokedAt": "2021-09-04T05:00:31.626Z"
   }
 ]
