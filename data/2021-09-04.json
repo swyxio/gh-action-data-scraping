@@ -94,5 +94,13 @@
     "username": "whiterabbit188",
     "password": "amazing",
     "invokedAt": "2021-09-04T11:00:51.779Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Ahonen",
+    "email": "siiri.ahonen@example.com",
+    "username": "orangetiger842",
+    "password": "card",
+    "invokedAt": "2021-09-04T12:00:52.377Z"
   }
 ]
