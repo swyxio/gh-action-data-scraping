@@ -78,5 +78,13 @@
     "username": "brownbear779",
     "password": "concord",
     "invokedAt": "2021-09-05T09:00:36.532Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Cooper",
+    "email": "joel.cooper@example.com",
+    "username": "ticklishpeacock101",
+    "password": "123qwe",
+    "invokedAt": "2021-09-05T10:00:42.750Z"
   }
 ]
