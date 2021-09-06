@@ -78,5 +78,13 @@
     "username": "happydog419",
     "password": "vivid",
     "invokedAt": "2021-09-06T09:05:56.941Z"
+  },
+  {
+    "firstName": "Tilde",
+    "lastName": "Christensen",
+    "email": "tilde.christensen@example.com",
+    "username": "greenbear381",
+    "password": "rootbeer",
+    "invokedAt": "2021-09-06T10:05:40.184Z"
   }
 ]
