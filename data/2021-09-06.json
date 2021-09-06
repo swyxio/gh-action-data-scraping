@@ -110,5 +110,13 @@
     "username": "browngorilla381",
     "password": "wookie",
     "invokedAt": "2021-09-06T13:10:44.050Z"
+  },
+  {
+    "firstName": "Alisa",
+    "lastName": "Huhtala",
+    "email": "alisa.huhtala@example.com",
+    "username": "happygorilla529",
+    "password": "outkast",
+    "invokedAt": "2021-09-06T14:00:40.252Z"
   }
 ]
