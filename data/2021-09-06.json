@@ -142,5 +142,13 @@
     "username": "blackpeacock885",
     "password": "teacher",
     "invokedAt": "2021-09-06T17:05:41.043Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Guerin",
+    "email": "pablo.guerin@example.com",
+    "username": "yellowostrich814",
+    "password": "0000",
+    "invokedAt": "2021-09-06T18:00:43.035Z"
   }
 ]
