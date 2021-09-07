@@ -102,5 +102,13 @@
     "username": "blackgorilla248",
     "password": "treetop",
     "invokedAt": "2021-09-07T12:00:53.636Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Tütüncü",
+    "email": "vedat.tutuncu@example.com",
+    "username": "blackcat777",
+    "password": "samson",
+    "invokedAt": "2021-09-07T13:07:09.401Z"
   }
 ]
