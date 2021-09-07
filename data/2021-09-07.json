@@ -166,5 +166,13 @@
     "username": "heavylion359",
     "password": "redleg",
     "invokedAt": "2021-09-07T20:00:34.400Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Hannula",
+    "email": "lauri.hannula@example.com",
+    "username": "bluebutterfly652",
+    "password": "bigdawg",
+    "invokedAt": "2021-09-07T21:00:38.165Z"
   }
 ]
