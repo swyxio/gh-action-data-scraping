@@ -78,5 +78,13 @@
     "username": "angryzebra940",
     "password": "jester",
     "invokedAt": "2021-09-08T09:00:47.980Z"
+  },
+  {
+    "firstName": "Hipólito",
+    "lastName": "da Cunha",
+    "email": "hipolito.dacunha@example.com",
+    "username": "angrycat930",
+    "password": "thecure",
+    "invokedAt": "2021-09-08T10:00:49.856Z"
   }
 ]
