@@ -78,5 +78,13 @@
     "username": "orangeleopard445",
     "password": "adonis",
     "invokedAt": "2021-09-09T09:00:45.853Z"
+  },
+  {
+    "firstName": "Imre",
+    "lastName": "Sørgård",
+    "email": "imre.sorgard@example.com",
+    "username": "yellowbear886",
+    "password": "shang",
+    "invokedAt": "2021-09-09T10:00:54.431Z"
   }
 ]
