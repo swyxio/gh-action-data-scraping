@@ -126,5 +126,13 @@
     "username": "purplebutterfly884",
     "password": "guan",
     "invokedAt": "2021-09-09T15:00:53.796Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Gallego",
+    "email": "jose.gallego@example.com",
+    "username": "greenbird630",
+    "password": "beaches",
+    "invokedAt": "2021-09-09T16:00:49.395Z"
   }
 ]
