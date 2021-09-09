@@ -134,5 +134,13 @@
     "username": "greenbird630",
     "password": "beaches",
     "invokedAt": "2021-09-09T16:00:49.395Z"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Hiltunen",
+    "email": "olivia.hiltunen@example.com",
+    "username": "brownrabbit606",
+    "password": "chimera",
+    "invokedAt": "2021-09-09T17:05:16.726Z"
   }
 ]
