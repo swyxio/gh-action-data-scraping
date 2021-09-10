@@ -30,5 +30,13 @@
     "username": "happypeacock112",
     "password": "eskimo",
     "invokedAt": "2021-09-10T03:00:41.197Z"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Walters",
+    "email": "cathy.walters@example.com",
+    "username": "blackzebra641",
+    "password": "nolimit",
+    "invokedAt": "2021-09-10T04:00:35.031Z"
   }
 ]
