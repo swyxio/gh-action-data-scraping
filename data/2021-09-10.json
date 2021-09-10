@@ -22,5 +22,13 @@
     "username": "tinybird794",
     "password": "0420",
     "invokedAt": "2021-09-10T02:12:05.167Z"
+  },
+  {
+    "firstName": "Phil",
+    "lastName": "Reid",
+    "email": "phil.reid@example.com",
+    "username": "happypeacock112",
+    "password": "eskimo",
+    "invokedAt": "2021-09-10T03:00:41.197Z"
   }
 ]
