@@ -78,5 +78,13 @@
     "username": "redpeacock662",
     "password": "shuang",
     "invokedAt": "2021-09-11T09:00:59.928Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Fortin",
+    "email": "david.fortin@example.com",
+    "username": "bluepeacock857",
+    "password": "pierre",
+    "invokedAt": "2021-09-11T10:00:32.768Z"
   }
 ]
