@@ -54,5 +54,13 @@
     "username": "whiteelephant393",
     "password": "aquarius",
     "invokedAt": "2021-09-11T06:01:06.584Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Miller",
+    "email": "joe.miller@example.com",
+    "username": "lazyswan323",
+    "password": "theater",
+    "invokedAt": "2021-09-11T07:00:48.735Z"
   }
 ]
