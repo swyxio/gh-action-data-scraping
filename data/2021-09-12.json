@@ -54,5 +54,13 @@
     "username": "smallelephant941",
     "password": "oblivion",
     "invokedAt": "2021-09-12T06:00:57.971Z"
+  },
+  {
+    "firstName": "Enni",
+    "lastName": "Aalto",
+    "email": "enni.aalto@example.com",
+    "username": "goldenelephant202",
+    "password": "church",
+    "invokedAt": "2021-09-12T07:00:30.545Z"
   }
 ]
