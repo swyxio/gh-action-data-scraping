@@ -174,5 +174,13 @@
     "username": "brownsnake121",
     "password": "arsenal",
     "invokedAt": "2021-09-15T21:00:55.162Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Grebstad",
+    "email": "evan.grebstad@example.com",
+    "username": "lazyfish799",
+    "password": "arianna",
+    "invokedAt": "2021-09-15T22:00:54.018Z"
   }
 ]
