@@ -158,5 +158,13 @@
     "username": "purplefrog164",
     "password": "robot",
     "invokedAt": "2021-09-15T19:00:44.136Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Hansen",
+    "email": "storm.hansen@example.com",
+    "username": "ticklishlion234",
+    "password": "dynasty",
+    "invokedAt": "2021-09-15T20:00:57.556Z"
   }
 ]
