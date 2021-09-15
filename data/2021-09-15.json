@@ -150,5 +150,13 @@
     "username": "organiclion736",
     "password": "cccccc",
     "invokedAt": "2021-09-15T18:00:48.894Z"
+  },
+  {
+    "firstName": "Vincenzo",
+    "lastName": "Matthiesen",
+    "email": "vincenzo.matthiesen@example.com",
+    "username": "purplefrog164",
+    "password": "robot",
+    "invokedAt": "2021-09-15T19:00:44.136Z"
   }
 ]
