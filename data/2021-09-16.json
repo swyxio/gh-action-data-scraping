@@ -142,5 +142,13 @@
     "username": "blackdog284",
     "password": "salvador",
     "invokedAt": "2021-09-16T17:04:29.498Z"
+  },
+  {
+    "firstName": "Vladimir",
+    "lastName": "Hellmich",
+    "email": "vladimir.hellmich@example.com",
+    "username": "sadostrich245",
+    "password": "woodie",
+    "invokedAt": "2021-09-16T18:00:49.460Z"
   }
 ]
