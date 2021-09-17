@@ -182,5 +182,13 @@
     "username": "yellowelephant510",
     "password": "energy",
     "invokedAt": "2021-09-17T22:00:51.822Z"
+  },
+  {
+    "firstName": "Ross",
+    "lastName": "Montgomery",
+    "email": "ross.montgomery@example.com",
+    "username": "yellowcat703",
+    "password": "aikido",
+    "invokedAt": "2021-09-17T23:00:58.777Z"
   }
 ]
