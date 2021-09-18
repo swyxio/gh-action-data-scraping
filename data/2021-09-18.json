@@ -150,5 +150,13 @@
     "username": "organicsnake770",
     "password": "italian",
     "invokedAt": "2021-09-18T18:00:43.967Z"
+  },
+  {
+    "firstName": "Joan",
+    "lastName": "Walker",
+    "email": "joan.walker@example.com",
+    "username": "bigpanda167",
+    "password": "biology",
+    "invokedAt": "2021-09-18T19:00:42.333Z"
   }
 ]
