@@ -166,5 +166,13 @@
     "username": "bigladybug600",
     "password": "feather",
     "invokedAt": "2021-09-18T20:00:42.110Z"
+  },
+  {
+    "firstName": "Nurdan",
+    "lastName": "Sinanoğlu",
+    "email": "nurdan.sinanoglu@example.com",
+    "username": "blackrabbit805",
+    "password": "bruce1",
+    "invokedAt": "2021-09-18T21:00:41.232Z"
   }
 ]
