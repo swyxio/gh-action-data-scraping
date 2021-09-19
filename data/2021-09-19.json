@@ -94,5 +94,13 @@
     "username": "blackswan992",
     "password": "bigmac",
     "invokedAt": "2021-09-19T11:00:46.010Z"
+  },
+  {
+    "firstName": "Marietta",
+    "lastName": "Enders",
+    "email": "marietta.enders@example.com",
+    "username": "greenlion217",
+    "password": "nothing",
+    "invokedAt": "2021-09-19T12:01:02.534Z"
   }
 ]
