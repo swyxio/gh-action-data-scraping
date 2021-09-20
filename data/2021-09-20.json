@@ -158,5 +158,13 @@
     "username": "lazyfrog487",
     "password": "three",
     "invokedAt": "2021-09-20T19:00:46.252Z"
+  },
+  {
+    "firstName": "Annelene",
+    "lastName": "Held",
+    "email": "annelene.held@example.com",
+    "username": "blackswan222",
+    "password": "dagger",
+    "invokedAt": "2021-09-20T20:01:01.614Z"
   }
 ]
