@@ -166,5 +166,13 @@
     "username": "blackswan222",
     "password": "dagger",
     "invokedAt": "2021-09-20T20:01:01.614Z"
+  },
+  {
+    "firstName": "Tirill",
+    "lastName": "Marøy",
+    "email": "tirill.maroy@example.com",
+    "username": "goldenfish145",
+    "password": "getsome",
+    "invokedAt": "2021-09-20T21:00:44.385Z"
   }
 ]
