@@ -142,5 +142,13 @@
     "username": "brownmouse943",
     "password": "foolish",
     "invokedAt": "2021-09-20T17:02:25.901Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Körmükçü",
+    "email": "ahmet.kormukcu@example.com",
+    "username": "heavymouse737",
+    "password": "winner1",
+    "invokedAt": "2021-09-20T18:01:00.055Z"
   }
 ]
