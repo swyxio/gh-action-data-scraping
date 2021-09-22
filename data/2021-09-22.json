@@ -62,5 +62,13 @@
     "username": "purplegoose605",
     "password": "nevada",
     "invokedAt": "2021-09-22T07:00:43.715Z"
+  },
+  {
+    "firstName": "Isabelle",
+    "lastName": "Thomas",
+    "email": "isabelle.thomas@example.com",
+    "username": "redlion446",
+    "password": "birthday",
+    "invokedAt": "2021-09-22T08:00:53.174Z"
   }
 ]
