@@ -166,5 +166,13 @@
     "username": "bigmeercat446",
     "password": "helloo",
     "invokedAt": "2021-09-22T20:00:52.647Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Blanchard",
+    "email": "evan.blanchard@example.com",
+    "username": "crazyostrich292",
+    "password": "portugal",
+    "invokedAt": "2021-09-22T21:00:40.249Z"
   }
 ]
