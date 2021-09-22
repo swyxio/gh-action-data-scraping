@@ -126,5 +126,13 @@
     "username": "redbear407",
     "password": "lenny",
     "invokedAt": "2021-09-22T15:00:40.281Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Reyes",
+    "email": "jonathan.reyes@example.com",
+    "username": "redlion816",
+    "password": "strap",
+    "invokedAt": "2021-09-22T16:00:43.641Z"
   }
 ]
