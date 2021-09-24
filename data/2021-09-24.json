@@ -78,5 +78,13 @@
     "username": "whitewolf634",
     "password": "chip",
     "invokedAt": "2021-09-24T09:00:43.701Z"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Douglas",
+    "email": "matt.douglas@example.com",
+    "username": "greenfish664",
+    "password": "redfish",
+    "invokedAt": "2021-09-24T10:00:51.783Z"
   }
 ]
