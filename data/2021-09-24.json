@@ -102,5 +102,13 @@
     "username": "redfrog469",
     "password": "louis",
     "invokedAt": "2021-09-24T12:00:58.720Z"
+  },
+  {
+    "firstName": "Deodira",
+    "lastName": "Mendes",
+    "email": "deodira.mendes@example.com",
+    "username": "silverfrog153",
+    "password": "goalie",
+    "invokedAt": "2021-09-24T13:05:16.669Z"
   }
 ]
