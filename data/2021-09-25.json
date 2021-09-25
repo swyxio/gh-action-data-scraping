@@ -62,5 +62,13 @@
     "username": "silvergoose661",
     "password": "siobhan",
     "invokedAt": "2021-09-25T07:00:41.025Z"
+  },
+  {
+    "firstName": "Vito",
+    "lastName": "Lemoine",
+    "email": "vito.lemoine@example.com",
+    "username": "angryelephant743",
+    "password": "wrestler",
+    "invokedAt": "2021-09-25T08:00:35.699Z"
   }
 ]
