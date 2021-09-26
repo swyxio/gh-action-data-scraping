@@ -166,5 +166,13 @@
     "username": "orangeostrich306",
     "password": "virginia",
     "invokedAt": "2021-09-26T20:00:44.488Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Lavoie",
+    "email": "david.lavoie@example.com",
+    "username": "greenzebra653",
+    "password": "dominic",
+    "invokedAt": "2021-09-26T21:00:54.340Z"
   }
 ]
