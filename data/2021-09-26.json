@@ -126,5 +126,13 @@
     "username": "whitepeacock254",
     "password": "high",
     "invokedAt": "2021-09-26T15:01:09.123Z"
+  },
+  {
+    "firstName": "Artur",
+    "lastName": "Ruppert",
+    "email": "artur.ruppert@example.com",
+    "username": "yellowbutterfly218",
+    "password": "jenkins",
+    "invokedAt": "2021-09-26T16:00:43.020Z"
   }
 ]
