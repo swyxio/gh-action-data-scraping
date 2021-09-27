@@ -54,5 +54,13 @@
     "username": "greenostrich524",
     "password": "deftones",
     "invokedAt": "2021-09-27T06:01:11.694Z"
+  },
+  {
+    "firstName": "Eirik",
+    "lastName": "Frøyen",
+    "email": "eirik.froyen@example.com",
+    "username": "sadfrog463",
+    "password": "manfred",
+    "invokedAt": "2021-09-27T07:00:50.949Z"
   }
 ]
