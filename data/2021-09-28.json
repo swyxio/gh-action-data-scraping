@@ -158,5 +158,13 @@
     "username": "yellowsnake701",
     "password": "content",
     "invokedAt": "2021-09-28T19:00:45.798Z"
+  },
+  {
+    "firstName": "Bastien",
+    "lastName": "Van Gorp",
+    "email": "bastien.vangorp@example.com",
+    "username": "beautifulzebra494",
+    "password": "giraffe",
+    "invokedAt": "2021-09-28T20:00:48.032Z"
   }
 ]
