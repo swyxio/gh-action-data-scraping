@@ -78,5 +78,13 @@
     "username": "crazyduck831",
     "password": "sam123",
     "invokedAt": "2021-09-29T09:00:45.528Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Wuori",
+    "email": "siiri.wuori@example.com",
+    "username": "yellowduck927",
+    "password": "tribe",
+    "invokedAt": "2021-09-29T10:01:03.504Z"
   }
 ]
