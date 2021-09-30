@@ -150,5 +150,13 @@
     "username": "ticklishswan862",
     "password": "artist",
     "invokedAt": "2021-09-30T18:00:39.002Z"
+  },
+  {
+    "firstName": "Prince",
+    "lastName": "Van Boxtel",
+    "email": "prince.vanboxtel@example.com",
+    "username": "sadgorilla946",
+    "password": "gilligan",
+    "invokedAt": "2021-09-30T19:00:51.903Z"
   }
 ]
