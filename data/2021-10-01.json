@@ -86,5 +86,13 @@
     "username": "orangesnake518",
     "password": "buzzer",
     "invokedAt": "2021-10-01T10:00:36.722Z"
+  },
+  {
+    "firstName": "Sylke",
+    "lastName": "Dahlmann",
+    "email": "sylke.dahlmann@example.com",
+    "username": "greengoose533",
+    "password": "mondeo",
+    "invokedAt": "2021-10-01T11:00:43.675Z"
   }
 ]
