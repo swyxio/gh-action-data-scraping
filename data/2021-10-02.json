@@ -118,5 +118,13 @@
     "username": "sadmeercat435",
     "password": "valdepen",
     "invokedAt": "2021-10-02T14:00:44.741Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Christensen",
+    "email": "mikkel.christensen@example.com",
+    "username": "heavyswan975",
+    "password": "books",
+    "invokedAt": "2021-10-02T15:00:55.598Z"
   }
 ]
