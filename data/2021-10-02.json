@@ -158,5 +158,13 @@
     "username": "tinyduck349",
     "password": "sprinter",
     "invokedAt": "2021-10-02T19:00:38.439Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Sanz",
+    "email": "jonathan.sanz@example.com",
+    "username": "greenrabbit557",
+    "password": "access1",
+    "invokedAt": "2021-10-02T20:00:35.785Z"
   }
 ]
