@@ -62,5 +62,13 @@
     "username": "greenfish134",
     "password": "eastern",
     "invokedAt": "2021-10-03T07:00:38.107Z"
+  },
+  {
+    "firstName": "Niels",
+    "lastName": "Dupont",
+    "email": "niels.dupont@example.com",
+    "username": "sadbear470",
+    "password": "nugget",
+    "invokedAt": "2021-10-03T08:00:59.526Z"
   }
 ]
