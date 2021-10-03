@@ -110,5 +110,13 @@
     "username": "bluezebra472",
     "password": "sixpack",
     "invokedAt": "2021-10-03T13:04:10.925Z"
+  },
+  {
+    "firstName": "Mateo",
+    "lastName": "Habte",
+    "email": "mateo.habte@example.com",
+    "username": "angrykoala204",
+    "password": "formula1",
+    "invokedAt": "2021-10-03T14:00:41.506Z"
   }
 ]
