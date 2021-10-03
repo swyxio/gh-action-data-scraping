@@ -102,5 +102,13 @@
     "username": "tinypanda706",
     "password": "football",
     "invokedAt": "2021-10-03T12:00:38.508Z"
+  },
+  {
+    "firstName": "Dwayne",
+    "lastName": "Reynolds",
+    "email": "dwayne.reynolds@example.com",
+    "username": "bluezebra472",
+    "password": "sixpack",
+    "invokedAt": "2021-10-03T13:04:10.925Z"
   }
 ]
