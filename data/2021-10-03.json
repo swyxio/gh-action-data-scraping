@@ -126,5 +126,13 @@
     "username": "blackdog612",
     "password": "marjorie",
     "invokedAt": "2021-10-03T15:01:02.843Z"
+  },
+  {
+    "firstName": "Rotraut",
+    "lastName": "Steuer",
+    "email": "rotraut.steuer@example.com",
+    "username": "tinymouse766",
+    "password": "leng",
+    "invokedAt": "2021-10-03T16:00:48.552Z"
   }
 ]
