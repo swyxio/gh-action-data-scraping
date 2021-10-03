@@ -142,5 +142,13 @@
     "username": "angrybird191",
     "password": "goochi",
     "invokedAt": "2021-10-03T17:03:32.795Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Lowe",
+    "email": "adam.lowe@example.com",
+    "username": "happymouse763",
+    "password": "options",
+    "invokedAt": "2021-10-03T18:00:33.589Z"
   }
 ]
