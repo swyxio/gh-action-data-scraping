@@ -70,5 +70,13 @@
     "username": "angrydog267",
     "password": "heat",
     "invokedAt": "2021-10-04T08:01:07.257Z"
+  },
+  {
+    "firstName": "Matias",
+    "lastName": "Lampi",
+    "email": "matias.lampi@example.com",
+    "username": "beautifulwolf438",
+    "password": "rolling",
+    "invokedAt": "2021-10-04T09:00:35.987Z"
   }
 ]
