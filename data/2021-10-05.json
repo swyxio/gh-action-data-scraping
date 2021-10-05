@@ -118,5 +118,13 @@
     "username": "bigpanda838",
     "password": "skibum",
     "invokedAt": "2021-10-05T14:20:51.219Z"
+  },
+  {
+    "firstName": "Nicholas",
+    "lastName": "Larssen",
+    "email": "nicholas.larssen@example.com",
+    "username": "bluebear915",
+    "password": "rabbits",
+    "invokedAt": "2021-10-05T15:11:06.853Z"
   }
 ]
