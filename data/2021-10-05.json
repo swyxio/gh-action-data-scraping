@@ -142,5 +142,13 @@
     "username": "angrydog502",
     "password": "tripod",
     "invokedAt": "2021-10-05T17:05:02.215Z"
+  },
+  {
+    "firstName": "Belgin",
+    "lastName": "Van Meijl",
+    "email": "belgin.vanmeijl@example.com",
+    "username": "tinyfish457",
+    "password": "fulham",
+    "invokedAt": "2021-10-05T18:00:51.401Z"
   }
 ]
