@@ -158,5 +158,13 @@
     "username": "yellowpanda335",
     "password": "packers",
     "invokedAt": "2021-10-06T19:00:40.396Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Cabrera",
+    "email": "pablo.cabrera@example.com",
+    "username": "crazyladybug110",
+    "password": "postman",
+    "invokedAt": "2021-10-06T20:00:56.365Z"
   }
 ]
