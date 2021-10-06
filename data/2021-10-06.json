@@ -174,5 +174,13 @@
     "username": "orangepeacock651",
     "password": "indy",
     "invokedAt": "2021-10-06T21:00:50.027Z"
+  },
+  {
+    "firstName": "Evélio",
+    "lastName": "Sales",
+    "email": "evelio.sales@example.com",
+    "username": "crazygoose951",
+    "password": "toto",
+    "invokedAt": "2021-10-06T22:00:49.960Z"
   }
 ]
