@@ -102,5 +102,13 @@
     "username": "sadpanda631",
     "password": "magic32",
     "invokedAt": "2021-10-06T12:00:56.527Z"
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Laurent",
+    "email": "alicia.laurent@example.com",
+    "username": "biggoose786",
+    "password": "suckit",
+    "invokedAt": "2021-10-06T13:05:10.960Z"
   }
 ]
