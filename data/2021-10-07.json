@@ -182,5 +182,13 @@
     "username": "organicwolf500",
     "password": "bugger",
     "invokedAt": "2021-10-07T22:00:37.618Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Côté",
+    "email": "ethan.cote@example.com",
+    "username": "blackcat778",
+    "password": "thx1138",
+    "invokedAt": "2021-10-07T23:00:48.505Z"
   }
 ]
