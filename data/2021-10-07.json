@@ -174,5 +174,13 @@
     "username": "brownswan590",
     "password": "catalina",
     "invokedAt": "2021-10-07T21:00:57.566Z"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Day",
+    "email": "sean.day@example.com",
+    "username": "organicwolf500",
+    "password": "bugger",
+    "invokedAt": "2021-10-07T22:00:37.618Z"
   }
 ]
