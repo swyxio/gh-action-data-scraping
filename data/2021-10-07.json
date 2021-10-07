@@ -46,5 +46,13 @@
     "username": "sadpanda175",
     "password": "90210",
     "invokedAt": "2021-10-07T05:00:31.883Z"
+  },
+  {
+    "firstName": "Petar",
+    "lastName": "Perrin",
+    "email": "petar.perrin@example.com",
+    "username": "whitelion980",
+    "password": "unbelievable",
+    "invokedAt": "2021-10-07T06:00:42.017Z"
   }
 ]
