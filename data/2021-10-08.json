@@ -150,5 +150,13 @@
     "username": "beautifultiger348",
     "password": "playtime",
     "invokedAt": "2021-10-08T18:00:42.765Z"
+  },
+  {
+    "firstName": "Piotr",
+    "lastName": "Askeland",
+    "email": "piotr.askeland@example.com",
+    "username": "happysnake598",
+    "password": "dian",
+    "invokedAt": "2021-10-08T19:00:36.923Z"
   }
 ]
