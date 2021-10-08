@@ -102,5 +102,13 @@
     "username": "ticklishbutterfly432",
     "password": "films",
     "invokedAt": "2021-10-08T12:00:56.080Z"
+  },
+  {
+    "firstName": "Hans",
+    "lastName": "Lindseth",
+    "email": "hans.lindseth@example.com",
+    "username": "sadkoala168",
+    "password": "orange1",
+    "invokedAt": "2021-10-08T13:04:56.885Z"
   }
 ]
