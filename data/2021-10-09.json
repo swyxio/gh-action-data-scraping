@@ -134,5 +134,13 @@
     "username": "heavyzebra730",
     "password": "ollie",
     "invokedAt": "2021-10-09T16:00:48.987Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Koivisto",
+    "email": "viljami.koivisto@example.com",
+    "username": "sadostrich312",
+    "password": "handball",
+    "invokedAt": "2021-10-09T17:03:43.779Z"
   }
 ]
