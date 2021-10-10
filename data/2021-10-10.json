@@ -126,5 +126,13 @@
     "username": "smallduck372",
     "password": "warriors",
     "invokedAt": "2021-10-10T15:00:32.728Z"
+  },
+  {
+    "firstName": "Zaki",
+    "lastName": "De Nijs",
+    "email": "zaki.denijs@example.com",
+    "username": "whitelion148",
+    "password": "tundra",
+    "invokedAt": "2021-10-10T16:00:39.513Z"
   }
 ]
