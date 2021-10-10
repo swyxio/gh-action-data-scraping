@@ -86,5 +86,13 @@
     "username": "redkoala383",
     "password": "eastern",
     "invokedAt": "2021-10-10T10:00:41.470Z"
+  },
+  {
+    "firstName": "Elli",
+    "lastName": "Halonen",
+    "email": "elli.halonen@example.com",
+    "username": "orangesnake392",
+    "password": "johannes",
+    "invokedAt": "2021-10-10T11:00:33.230Z"
   }
 ]
