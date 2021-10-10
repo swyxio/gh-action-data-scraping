@@ -142,5 +142,13 @@
     "username": "whitepeacock300",
     "password": "bomb",
     "invokedAt": "2021-10-10T17:03:41.066Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Coleman",
+    "email": "noah.coleman@example.com",
+    "username": "tinybutterfly367",
+    "password": "denali",
+    "invokedAt": "2021-10-10T18:00:57.417Z"
   }
 ]
