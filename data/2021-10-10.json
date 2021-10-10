@@ -78,5 +78,13 @@
     "username": "sadmeercat888",
     "password": "cabernet",
     "invokedAt": "2021-10-10T09:00:49.418Z"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Morrison",
+    "email": "ben.morrison@example.com",
+    "username": "redkoala383",
+    "password": "eastern",
+    "invokedAt": "2021-10-10T10:00:41.470Z"
   }
 ]
