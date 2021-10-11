@@ -62,5 +62,13 @@
     "username": "angrygorilla813",
     "password": "airplane",
     "invokedAt": "2021-10-11T07:00:53.229Z"
+  },
+  {
+    "firstName": "Vegar",
+    "lastName": "Farah",
+    "email": "vegar.farah@example.com",
+    "username": "purplepanda299",
+    "password": "willy1",
+    "invokedAt": "2021-10-11T08:00:43.653Z"
   }
 ]
