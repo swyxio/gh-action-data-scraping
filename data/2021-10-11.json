@@ -38,5 +38,13 @@
     "username": "yellowcat109",
     "password": "toolbox",
     "invokedAt": "2021-10-11T04:00:47.975Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Diaz",
+    "email": "ricardo.diaz@example.com",
+    "username": "lazygoose448",
+    "password": "baker",
+    "invokedAt": "2021-10-11T05:00:30.668Z"
   }
 ]
