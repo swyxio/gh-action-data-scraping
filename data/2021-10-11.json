@@ -182,5 +182,13 @@
     "username": "ticklishlion845",
     "password": "chickens",
     "invokedAt": "2021-10-11T22:00:51.399Z"
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Hunter",
+    "email": "kim.hunter@example.com",
+    "username": "crazybear393",
+    "password": "dirtbike",
+    "invokedAt": "2021-10-11T23:00:40.246Z"
   }
 ]
