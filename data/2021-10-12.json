@@ -102,5 +102,13 @@
     "username": "greengorilla889",
     "password": "fullback",
     "invokedAt": "2021-10-12T12:00:54.539Z"
+  },
+  {
+    "firstName": "Paolo",
+    "lastName": "Petit",
+    "email": "paolo.petit@example.com",
+    "username": "goldenmeercat338",
+    "password": "maiden",
+    "invokedAt": "2021-10-12T13:05:10.393Z"
   }
 ]
