@@ -166,5 +166,13 @@
     "username": "blackostrich264",
     "password": "chains",
     "invokedAt": "2021-10-12T20:00:56.226Z"
+  },
+  {
+    "firstName": "Lawrence",
+    "lastName": "Riley",
+    "email": "lawrence.riley@example.com",
+    "username": "angryfish896",
+    "password": "daniela",
+    "invokedAt": "2021-10-12T21:00:55.915Z"
   }
 ]
