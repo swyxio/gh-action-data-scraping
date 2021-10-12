@@ -94,5 +94,13 @@
     "username": "happymouse260",
     "password": "rebel1",
     "invokedAt": "2021-10-12T11:00:43.661Z"
+  },
+  {
+    "firstName": "Gordon",
+    "lastName": "Teichert",
+    "email": "gordon.teichert@example.com",
+    "username": "greengorilla889",
+    "password": "fullback",
+    "invokedAt": "2021-10-12T12:00:54.539Z"
   }
 ]
