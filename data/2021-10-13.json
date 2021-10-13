@@ -78,5 +78,13 @@
     "username": "sadkoala709",
     "password": "runaway",
     "invokedAt": "2021-10-13T09:00:46.092Z"
+  },
+  {
+    "firstName": "Ernst",
+    "lastName": "Heidenreich",
+    "email": "ernst.heidenreich@example.com",
+    "username": "sadduck701",
+    "password": "race",
+    "invokedAt": "2021-10-13T10:00:35.641Z"
   }
 ]
