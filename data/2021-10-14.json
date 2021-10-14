@@ -78,5 +78,13 @@
     "username": "bigostrich409",
     "password": "doom",
     "invokedAt": "2021-10-14T09:00:38.479Z"
+  },
+  {
+    "firstName": "De Assis",
+    "lastName": "Nascimento",
+    "email": "deassis.nascimento@example.com",
+    "username": "angryrabbit727",
+    "password": "carver",
+    "invokedAt": "2021-10-14T10:00:37.179Z"
   }
 ]
