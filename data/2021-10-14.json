@@ -158,5 +158,13 @@
     "username": "orangebird201",
     "password": "sneakers",
     "invokedAt": "2021-10-14T19:00:37.031Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Nielsen",
+    "email": "frederik.nielsen@example.com",
+    "username": "blackostrich925",
+    "password": "jazz",
+    "invokedAt": "2021-10-14T20:00:48.178Z"
   }
 ]
