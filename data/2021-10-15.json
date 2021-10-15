@@ -158,5 +158,13 @@
     "username": "brownfrog804",
     "password": "comfort",
     "invokedAt": "2021-10-15T19:00:44.056Z"
+  },
+  {
+    "firstName": "Thorvald",
+    "lastName": "Hokstad",
+    "email": "thorvald.hokstad@example.com",
+    "username": "smallduck865",
+    "password": "gawker",
+    "invokedAt": "2021-10-15T20:01:02.094Z"
   }
 ]
