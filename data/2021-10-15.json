@@ -134,5 +134,13 @@
     "username": "greenlion257",
     "password": "beacon",
     "invokedAt": "2021-10-15T16:00:55.598Z"
+  },
+  {
+    "firstName": "Aynur",
+    "lastName": "Bartels",
+    "email": "aynur.bartels@example.com",
+    "username": "bigfish419",
+    "password": "diva",
+    "invokedAt": "2021-10-15T17:04:51.698Z"
   }
 ]
