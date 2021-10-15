@@ -174,5 +174,13 @@
     "username": "blackcat486",
     "password": "marathon",
     "invokedAt": "2021-10-15T21:00:43.585Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Sandalcı",
+    "email": "vildan.sandalci@example.com",
+    "username": "orangepanda614",
+    "password": "4121",
+    "invokedAt": "2021-10-15T22:00:41.035Z"
   }
 ]
