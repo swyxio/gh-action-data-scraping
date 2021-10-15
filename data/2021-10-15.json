@@ -166,5 +166,13 @@
     "username": "smallduck865",
     "password": "gawker",
     "invokedAt": "2021-10-15T20:01:02.094Z"
+  },
+  {
+    "firstName": "Milja",
+    "lastName": "Pulli",
+    "email": "milja.pulli@example.com",
+    "username": "blackcat486",
+    "password": "marathon",
+    "invokedAt": "2021-10-15T21:00:43.585Z"
   }
 ]
