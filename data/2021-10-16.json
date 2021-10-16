@@ -62,5 +62,13 @@
     "username": "bigduck532",
     "password": "orchid",
     "invokedAt": "2021-10-16T07:00:34.587Z"
+  },
+  {
+    "firstName": "Mirko",
+    "lastName": "Muller",
+    "email": "mirko.muller@example.com",
+    "username": "blackfrog540",
+    "password": "catfish",
+    "invokedAt": "2021-10-16T08:00:47.722Z"
   }
 ]
