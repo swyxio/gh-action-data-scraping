@@ -166,5 +166,13 @@
     "username": "whitemouse203",
     "password": "snowflak",
     "invokedAt": "2021-10-17T20:00:59.678Z"
+  },
+  {
+    "firstName": "Maïwenn",
+    "lastName": "Lemaire",
+    "email": "maiwenn.lemaire@example.com",
+    "username": "bigcat162",
+    "password": "lionking",
+    "invokedAt": "2021-10-17T21:00:40.436Z"
   }
 ]
