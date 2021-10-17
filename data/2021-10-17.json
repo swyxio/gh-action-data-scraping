@@ -126,5 +126,13 @@
     "username": "angrygoose370",
     "password": "sensei",
     "invokedAt": "2021-10-17T15:01:00.239Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Ahonen",
+    "email": "ella.ahonen@example.com",
+    "username": "orangefrog618",
+    "password": "fallout",
+    "invokedAt": "2021-10-17T16:00:47.173Z"
   }
 ]
