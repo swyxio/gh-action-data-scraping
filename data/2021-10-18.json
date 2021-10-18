@@ -150,5 +150,13 @@
     "username": "silverpanda469",
     "password": "always",
     "invokedAt": "2021-10-18T18:01:20.243Z"
+  },
+  {
+    "firstName": "Ahmad",
+    "lastName": "Dumas",
+    "email": "ahmad.dumas@example.com",
+    "username": "angryrabbit462",
+    "password": "krypton",
+    "invokedAt": "2021-10-18T19:00:38.243Z"
   }
 ]
