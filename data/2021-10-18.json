@@ -102,5 +102,13 @@
     "username": "greenpanda933",
     "password": "impreza",
     "invokedAt": "2021-10-18T12:00:41.756Z"
+  },
+  {
+    "firstName": "Corentin",
+    "lastName": "Arnaud",
+    "email": "corentin.arnaud@example.com",
+    "username": "tinyladybug810",
+    "password": "cookie1",
+    "invokedAt": "2021-10-18T13:09:54.533Z"
   }
 ]
