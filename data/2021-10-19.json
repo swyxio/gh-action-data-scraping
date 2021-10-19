@@ -46,5 +46,13 @@
     "username": "orangebear533",
     "password": "abc12345",
     "invokedAt": "2021-10-19T05:00:43.646Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Başoğlu",
+    "email": "ege.basoglu@example.com",
+    "username": "biggoose578",
+    "password": "access1",
+    "invokedAt": "2021-10-19T06:00:49.886Z"
   }
 ]
