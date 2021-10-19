@@ -174,5 +174,13 @@
     "username": "happyostrich378",
     "password": "deep",
     "invokedAt": "2021-10-19T21:00:39.494Z"
+  },
+  {
+    "firstName": "Marjorie",
+    "lastName": "Morris",
+    "email": "marjorie.morris@example.com",
+    "username": "yellowostrich704",
+    "password": "bermuda",
+    "invokedAt": "2021-10-19T22:00:45.240Z"
   }
 ]
