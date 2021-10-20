@@ -174,5 +174,13 @@
     "username": "yellowostrich782",
     "password": "beaner",
     "invokedAt": "2021-10-20T21:00:37.413Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Sørensen",
+    "email": "lea.sorensen@example.com",
+    "username": "silvermouse599",
+    "password": "caesar",
+    "invokedAt": "2021-10-20T22:00:46.072Z"
   }
 ]
