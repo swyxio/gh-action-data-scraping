@@ -94,5 +94,13 @@
     "username": "beautifuldog569",
     "password": "comedy",
     "invokedAt": "2021-10-21T11:01:03.114Z"
+  },
+  {
+    "firstName": "Meret",
+    "lastName": "Olivier",
+    "email": "meret.olivier@example.com",
+    "username": "greengorilla621",
+    "password": "children",
+    "invokedAt": "2021-10-21T12:01:06.671Z"
   }
 ]
