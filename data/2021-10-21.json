@@ -158,5 +158,13 @@
     "username": "whitezebra135",
     "password": "denmark",
     "invokedAt": "2021-10-21T19:00:36.978Z"
+  },
+  {
+    "firstName": "Amund",
+    "lastName": "Bartnes",
+    "email": "amund.bartnes@example.com",
+    "username": "silverbear883",
+    "password": "pippen",
+    "invokedAt": "2021-10-21T20:01:00.220Z"
   }
 ]
