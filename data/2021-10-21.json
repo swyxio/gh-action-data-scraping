@@ -166,5 +166,13 @@
     "username": "silverbear883",
     "password": "pippen",
     "invokedAt": "2021-10-21T20:01:00.220Z"
+  },
+  {
+    "firstName": "Mélody",
+    "lastName": "Roussel",
+    "email": "melody.roussel@example.com",
+    "username": "silvergoose409",
+    "password": "yankees2",
+    "invokedAt": "2021-10-21T21:01:01.479Z"
   }
 ]
