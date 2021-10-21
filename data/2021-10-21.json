@@ -126,5 +126,13 @@
     "username": "purpletiger481",
     "password": "amature",
     "invokedAt": "2021-10-21T15:06:07.980Z"
+  },
+  {
+    "firstName": "Lewis",
+    "lastName": "Wang",
+    "email": "lewis.wang@example.com",
+    "username": "redmouse119",
+    "password": "bowl",
+    "invokedAt": "2021-10-21T16:12:30.649Z"
   }
 ]
