@@ -46,5 +46,13 @@
     "username": "happysnake222",
     "password": "midnite",
     "invokedAt": "2021-10-21T05:00:48.858Z"
+  },
+  {
+    "firstName": "Clayton",
+    "lastName": "Dunn",
+    "email": "clayton.dunn@example.com",
+    "username": "organicduck780",
+    "password": "ripper",
+    "invokedAt": "2021-10-21T06:00:54.604Z"
   }
 ]
