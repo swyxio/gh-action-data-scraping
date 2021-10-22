@@ -102,5 +102,13 @@
     "username": "whitepeacock433",
     "password": "control",
     "invokedAt": "2021-10-22T12:00:43.655Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Öztürk",
+    "email": "afsar.ozturk@example.com",
+    "username": "heavykoala830",
+    "password": "finally",
+    "invokedAt": "2021-10-22T13:05:58.916Z"
   }
 ]
