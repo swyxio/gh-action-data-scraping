@@ -126,5 +126,13 @@
     "username": "lazydog650",
     "password": "russia",
     "invokedAt": "2021-10-22T15:05:49.836Z"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Harvey",
+    "email": "rachel.harvey@example.com",
+    "username": "heavyostrich831",
+    "password": "bacon",
+    "invokedAt": "2021-10-22T16:00:41.937Z"
   }
 ]
