@@ -86,5 +86,13 @@
     "username": "lazylion625",
     "password": "walleye",
     "invokedAt": "2021-10-22T10:00:42.547Z"
+  },
+  {
+    "firstName": "Raphael",
+    "lastName": "Christ",
+    "email": "raphael.christ@example.com",
+    "username": "whitesnake610",
+    "password": "lang",
+    "invokedAt": "2021-10-22T11:01:05.116Z"
   }
 ]
