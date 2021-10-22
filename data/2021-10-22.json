@@ -38,5 +38,13 @@
     "username": "heavypanda887",
     "password": "hungry",
     "invokedAt": "2021-10-22T04:00:44.605Z"
+  },
+  {
+    "firstName": "Koray",
+    "lastName": "Kıraç",
+    "email": "koray.kirac@example.com",
+    "username": "yellowelephant661",
+    "password": "light",
+    "invokedAt": "2021-10-22T05:00:37.307Z"
   }
 ]
