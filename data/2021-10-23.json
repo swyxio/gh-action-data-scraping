@@ -94,5 +94,13 @@
     "username": "happypanda243",
     "password": "tintin",
     "invokedAt": "2021-10-23T11:00:56.603Z"
+  },
+  {
+    "firstName": "Nihal",
+    "lastName": "Topçuoğlu",
+    "email": "nihal.topcuoglu@example.com",
+    "username": "beautifultiger533",
+    "password": "123457",
+    "invokedAt": "2021-10-23T12:00:39.699Z"
   }
 ]
