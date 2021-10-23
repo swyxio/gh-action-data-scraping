@@ -166,5 +166,13 @@
     "username": "bigduck856",
     "password": "kiwi",
     "invokedAt": "2021-10-23T20:00:47.523Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Parker",
+    "email": "evan.parker@example.com",
+    "username": "beautifuldog646",
+    "password": "maxine",
+    "invokedAt": "2021-10-23T21:00:53.393Z"
   }
 ]
