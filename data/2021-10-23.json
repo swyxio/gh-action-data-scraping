@@ -38,5 +38,13 @@
     "username": "angrybear892",
     "password": "festival",
     "invokedAt": "2021-10-23T04:00:56.465Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Mitchell",
+    "email": "felix.mitchell@example.com",
+    "username": "blackladybug330",
+    "password": "jonathan",
+    "invokedAt": "2021-10-23T05:00:32.900Z"
   }
 ]
