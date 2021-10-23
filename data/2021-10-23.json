@@ -22,5 +22,13 @@
     "username": "brownpeacock641",
     "password": "canada",
     "invokedAt": "2021-10-23T02:14:11.610Z"
+  },
+  {
+    "firstName": "Jeffrey",
+    "lastName": "Dean",
+    "email": "jeffrey.dean@example.com",
+    "username": "lazymeercat978",
+    "password": "waldo",
+    "invokedAt": "2021-10-23T03:00:36.508Z"
   }
 ]
