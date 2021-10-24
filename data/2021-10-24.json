@@ -30,5 +30,13 @@
     "username": "greenswan418",
     "password": "starwars",
     "invokedAt": "2021-10-24T03:00:37.928Z"
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Robinson",
+    "email": "molly.robinson@example.com",
+    "username": "purplegorilla546",
+    "password": "schalke",
+    "invokedAt": "2021-10-24T04:00:42.061Z"
   }
 ]
