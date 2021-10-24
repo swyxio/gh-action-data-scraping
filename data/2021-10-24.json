@@ -174,5 +174,13 @@
     "username": "sadtiger868",
     "password": "redhot",
     "invokedAt": "2021-10-24T21:00:44.776Z"
+  },
+  {
+    "firstName": "Pinja",
+    "lastName": "Hamalainen",
+    "email": "pinja.hamalainen@example.com",
+    "username": "brownfish839",
+    "password": "fandango",
+    "invokedAt": "2021-10-24T22:00:38.677Z"
   }
 ]
