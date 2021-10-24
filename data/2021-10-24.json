@@ -78,5 +78,13 @@
     "username": "browngoose172",
     "password": "splinter",
     "invokedAt": "2021-10-24T09:00:55.370Z"
+  },
+  {
+    "firstName": "Veera",
+    "lastName": "Koivisto",
+    "email": "veera.koivisto@example.com",
+    "username": "crazylion422",
+    "password": "chickens",
+    "invokedAt": "2021-10-24T10:00:56.372Z"
   }
 ]
