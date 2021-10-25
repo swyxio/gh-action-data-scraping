@@ -54,5 +54,13 @@
     "username": "sadostrich159",
     "password": "aliens",
     "invokedAt": "2021-10-25T06:01:05.692Z"
+  },
+  {
+    "firstName": "Vittorio",
+    "lastName": "Bausch",
+    "email": "vittorio.bausch@example.com",
+    "username": "goldenkoala502",
+    "password": "tardis",
+    "invokedAt": "2021-10-25T07:00:41.471Z"
   }
 ]
