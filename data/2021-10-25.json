@@ -46,5 +46,13 @@
     "username": "bigmeercat704",
     "password": "generic",
     "invokedAt": "2021-10-25T05:00:34.161Z"
+  },
+  {
+    "firstName": "Engelbert",
+    "lastName": "Dröge",
+    "email": "engelbert.droge@example.com",
+    "username": "sadostrich159",
+    "password": "aliens",
+    "invokedAt": "2021-10-25T06:01:05.692Z"
   }
 ]
