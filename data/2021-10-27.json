@@ -126,5 +126,13 @@
     "username": "blackcat570",
     "password": "cwoui",
     "invokedAt": "2021-10-27T15:05:45.030Z"
+  },
+  {
+    "firstName": "Annie",
+    "lastName": "Neal",
+    "email": "annie.neal@example.com",
+    "username": "orangesnake666",
+    "password": "mouth",
+    "invokedAt": "2021-10-27T16:06:00.862Z"
   }
 ]
