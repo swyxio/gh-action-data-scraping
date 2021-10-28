@@ -94,5 +94,13 @@
     "username": "smallsnake807",
     "password": "building",
     "invokedAt": "2021-10-28T11:01:01.664Z"
+  },
+  {
+    "firstName": "August",
+    "lastName": "Muller",
+    "email": "august.muller@example.com",
+    "username": "blackswan432",
+    "password": "hakr",
+    "invokedAt": "2021-10-28T12:01:01.339Z"
   }
 ]
