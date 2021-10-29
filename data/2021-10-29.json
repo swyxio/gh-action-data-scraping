@@ -126,5 +126,13 @@
     "username": "smallbutterfly331",
     "password": "records",
     "invokedAt": "2021-10-29T15:05:55.784Z"
+  },
+  {
+    "firstName": "Shawn",
+    "lastName": "Pearson",
+    "email": "shawn.pearson@example.com",
+    "username": "purpleostrich245",
+    "password": "baylor",
+    "invokedAt": "2021-10-29T16:00:51.851Z"
   }
 ]
