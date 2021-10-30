@@ -102,5 +102,13 @@
     "username": "beautifulsnake182",
     "password": "famous",
     "invokedAt": "2021-10-30T12:00:32.423Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Griffin",
+    "email": "juan.griffin@example.com",
+    "username": "bigbutterfly217",
+    "password": "vegitta",
+    "invokedAt": "2021-10-30T13:04:19.154Z"
   }
 ]
