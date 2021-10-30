@@ -94,5 +94,13 @@
     "username": "tinygorilla219",
     "password": "stocks",
     "invokedAt": "2021-10-30T11:00:33.809Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Jørgensen",
+    "email": "lucas.jorgensen@example.com",
+    "username": "beautifulsnake182",
+    "password": "famous",
+    "invokedAt": "2021-10-30T12:00:32.423Z"
   }
 ]
