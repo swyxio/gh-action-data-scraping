@@ -86,5 +86,13 @@
     "username": "orangepanda775",
     "password": "poipoi",
     "invokedAt": "2021-10-31T10:00:54.696Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Bjørgen",
+    "email": "jeppe.bjorgen@example.com",
+    "username": "bigkoala746",
+    "password": "priest",
+    "invokedAt": "2021-10-31T11:00:55.309Z"
   }
 ]
