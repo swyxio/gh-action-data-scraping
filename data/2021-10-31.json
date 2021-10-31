@@ -46,5 +46,13 @@
     "username": "bigswan500",
     "password": "softail",
     "invokedAt": "2021-10-31T05:00:37.334Z"
+  },
+  {
+    "firstName": "Eemil",
+    "lastName": "Hietala",
+    "email": "eemil.hietala@example.com",
+    "username": "sadkoala550",
+    "password": "trial",
+    "invokedAt": "2021-10-31T06:01:11.440Z"
   }
 ]
