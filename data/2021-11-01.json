@@ -158,5 +158,13 @@
     "username": "silverdog664",
     "password": "thumbs",
     "invokedAt": "2021-11-01T20:00:56.811Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Oraloğlu",
+    "email": "ceylan.oraloglu@example.com",
+    "username": "orangeostrich285",
+    "password": "sigmar",
+    "invokedAt": "2021-11-01T21:00:56.292Z"
   }
 ]
