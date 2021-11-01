@@ -166,5 +166,13 @@
     "username": "orangeostrich285",
     "password": "sigmar",
     "invokedAt": "2021-11-01T21:00:56.292Z"
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Li",
+    "email": "elizabeth.li@example.com",
+    "username": "ticklishgorilla272",
+    "password": "hunting",
+    "invokedAt": "2021-11-01T22:00:52.248Z"
   }
 ]
