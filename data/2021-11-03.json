@@ -134,5 +134,13 @@
     "username": "brownsnake538",
     "password": "chess",
     "invokedAt": "2021-11-03T16:05:38.436Z"
+  },
+  {
+    "firstName": "Julio",
+    "lastName": "Lowe",
+    "email": "julio.lowe@example.com",
+    "username": "blackmeercat957",
+    "password": "pirates",
+    "invokedAt": "2021-11-03T17:09:34.586Z"
   }
 ]
