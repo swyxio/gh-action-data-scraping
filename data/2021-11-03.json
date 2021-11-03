@@ -166,5 +166,13 @@
     "username": "smallcat180",
     "password": "jeepster",
     "invokedAt": "2021-11-03T20:00:42.045Z"
+  },
+  {
+    "firstName": "Kuzey",
+    "lastName": "Hakyemez",
+    "email": "kuzey.hakyemez@example.com",
+    "username": "crazyrabbit416",
+    "password": "compaq",
+    "invokedAt": "2021-11-03T21:00:57.071Z"
   }
 ]
