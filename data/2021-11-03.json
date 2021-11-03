@@ -126,5 +126,13 @@
     "username": "lazyleopard955",
     "password": "amature",
     "invokedAt": "2021-11-03T15:00:51.949Z"
+  },
+  {
+    "firstName": "Alison",
+    "lastName": "Duncan",
+    "email": "alison.duncan@example.com",
+    "username": "brownsnake538",
+    "password": "chess",
+    "invokedAt": "2021-11-03T16:05:38.436Z"
   }
 ]
