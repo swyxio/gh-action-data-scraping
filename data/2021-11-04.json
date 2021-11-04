@@ -158,5 +158,13 @@
     "username": "goldenlion460",
     "password": "dutchess",
     "invokedAt": "2021-11-04T20:00:48.382Z"
+  },
+  {
+    "firstName": "Leevi",
+    "lastName": "Tuominen",
+    "email": "leevi.tuominen@example.com",
+    "username": "smallgoose653",
+    "password": "fatcat",
+    "invokedAt": "2021-11-04T21:00:42.402Z"
   }
 ]
