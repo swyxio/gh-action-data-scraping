@@ -126,5 +126,13 @@
     "username": "orangewolf245",
     "password": "slayer",
     "invokedAt": "2021-11-04T15:05:40.173Z"
+  },
+  {
+    "firstName": "Randall",
+    "lastName": "Harris",
+    "email": "randall.harris@example.com",
+    "username": "blackbird454",
+    "password": "arizona",
+    "invokedAt": "2021-11-04T16:00:35.075Z"
   }
 ]
