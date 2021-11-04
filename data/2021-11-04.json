@@ -102,5 +102,13 @@
     "username": "orangewolf256",
     "password": "austria",
     "invokedAt": "2021-11-04T12:01:01.563Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Harcourt",
+    "email": "abigail.harcourt@example.com",
+    "username": "happyfrog555",
+    "password": "edwards",
+    "invokedAt": "2021-11-04T13:05:17.716Z"
   }
 ]
