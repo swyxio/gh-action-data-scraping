@@ -166,5 +166,13 @@
     "username": "smallgoose653",
     "password": "fatcat",
     "invokedAt": "2021-11-04T21:00:42.402Z"
+  },
+  {
+    "firstName": "Esma",
+    "lastName": "Akgül",
+    "email": "esma.akgul@example.com",
+    "username": "whiteduck756",
+    "password": "puck",
+    "invokedAt": "2021-11-04T22:00:56.772Z"
   }
 ]
