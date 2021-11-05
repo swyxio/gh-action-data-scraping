@@ -46,5 +46,13 @@
     "username": "bigfish823",
     "password": "napster",
     "invokedAt": "2021-11-05T05:00:33.565Z"
+  },
+  {
+    "firstName": "Kwinten",
+    "lastName": "Hendrikx",
+    "email": "kwinten.hendrikx@example.com",
+    "username": "yellowbear521",
+    "password": "gizmodo",
+    "invokedAt": "2021-11-05T06:00:58.776Z"
   }
 ]
