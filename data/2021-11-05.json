@@ -94,5 +94,13 @@
     "username": "bigzebra788",
     "password": "bowling",
     "invokedAt": "2021-11-05T11:00:45.693Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Brown",
+    "email": "lily.brown@example.com",
+    "username": "browngoose981",
+    "password": "strat",
+    "invokedAt": "2021-11-05T12:00:48.301Z"
   }
 ]
