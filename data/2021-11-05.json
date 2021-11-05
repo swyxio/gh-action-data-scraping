@@ -54,5 +54,13 @@
     "username": "yellowbear521",
     "password": "gizmodo",
     "invokedAt": "2021-11-05T06:00:58.776Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Christensen",
+    "email": "sara.christensen@example.com",
+    "username": "blackdog694",
+    "password": "eminem",
+    "invokedAt": "2021-11-05T07:00:40.197Z"
   }
 ]
