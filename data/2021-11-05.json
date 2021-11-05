@@ -102,5 +102,13 @@
     "username": "browngoose981",
     "password": "strat",
     "invokedAt": "2021-11-05T12:00:48.301Z"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Kelly",
+    "email": "tim.kelly@example.com",
+    "username": "crazyduck266",
+    "password": "choochoo",
+    "invokedAt": "2021-11-05T13:05:16.374Z"
   }
 ]
