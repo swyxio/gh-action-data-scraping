@@ -134,5 +134,13 @@
     "username": "sadbird596",
     "password": "rrpass1",
     "invokedAt": "2021-11-05T16:05:50.941Z"
+  },
+  {
+    "firstName": "Emmie",
+    "lastName": "Petit",
+    "email": "emmie.petit@example.com",
+    "username": "greencat428",
+    "password": "goldfing",
+    "invokedAt": "2021-11-05T17:05:00.646Z"
   }
 ]
