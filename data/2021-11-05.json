@@ -38,5 +38,13 @@
     "username": "happykoala490",
     "password": "1994",
     "invokedAt": "2021-11-05T04:00:40.920Z"
+  },
+  {
+    "firstName": "Iida",
+    "lastName": "Kantola",
+    "email": "iida.kantola@example.com",
+    "username": "bigfish823",
+    "password": "napster",
+    "invokedAt": "2021-11-05T05:00:33.565Z"
   }
 ]
