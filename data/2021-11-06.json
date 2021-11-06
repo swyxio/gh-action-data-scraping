@@ -54,5 +54,13 @@
     "username": "whitewolf634",
     "password": "helmet",
     "invokedAt": "2021-11-06T06:00:49.775Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Roy",
+    "email": "sarah.roy@example.com",
+    "username": "organickoala170",
+    "password": "sponge",
+    "invokedAt": "2021-11-06T07:00:32.359Z"
   }
 ]
