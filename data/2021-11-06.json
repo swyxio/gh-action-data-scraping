@@ -46,5 +46,13 @@
     "username": "bluegoose264",
     "password": "country",
     "invokedAt": "2021-11-06T05:00:39.959Z"
+  },
+  {
+    "firstName": "Jacques",
+    "lastName": "Dufour",
+    "email": "jacques.dufour@example.com",
+    "username": "whitewolf634",
+    "password": "helmet",
+    "invokedAt": "2021-11-06T06:00:49.775Z"
   }
 ]
