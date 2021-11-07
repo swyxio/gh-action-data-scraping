@@ -118,5 +118,13 @@
     "username": "heavybird388",
     "password": "beef",
     "invokedAt": "2021-11-07T14:00:52.719Z"
+  },
+  {
+    "firstName": "Tyrone",
+    "lastName": "Ford",
+    "email": "tyrone.ford@example.com",
+    "username": "blackgoose992",
+    "password": "retard",
+    "invokedAt": "2021-11-07T15:00:48.299Z"
   }
 ]
