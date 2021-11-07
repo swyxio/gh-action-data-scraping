@@ -166,5 +166,13 @@
     "username": "bluepanda655",
     "password": "1973",
     "invokedAt": "2021-11-07T20:00:59.686Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Barbosa",
+    "email": "eric.barbosa@example.com",
+    "username": "whitefish566",
+    "password": "boozer",
+    "invokedAt": "2021-11-07T21:00:41.625Z"
   }
 ]
