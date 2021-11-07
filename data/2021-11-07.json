@@ -126,5 +126,13 @@
     "username": "blackgoose992",
     "password": "retard",
     "invokedAt": "2021-11-07T15:00:48.299Z"
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Gallego",
+    "email": "julian.gallego@example.com",
+    "username": "redtiger726",
+    "password": "superfly",
+    "invokedAt": "2021-11-07T16:00:43.680Z"
   }
 ]
