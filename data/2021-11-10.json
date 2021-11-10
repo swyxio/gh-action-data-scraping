@@ -102,5 +102,13 @@
     "username": "goldenelephant398",
     "password": "mortgage",
     "invokedAt": "2021-11-10T12:00:52.027Z"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Salminen",
+    "email": "elsa.salminen@example.com",
+    "username": "reddog678",
+    "password": "magick",
+    "invokedAt": "2021-11-10T13:10:01.581Z"
   }
 ]
