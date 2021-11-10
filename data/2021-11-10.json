@@ -94,5 +94,13 @@
     "username": "blackbutterfly555",
     "password": "jackson1",
     "invokedAt": "2021-11-10T11:06:05.491Z"
+  },
+  {
+    "firstName": "Calvin",
+    "lastName": "Davis",
+    "email": "calvin.davis@example.com",
+    "username": "goldenelephant398",
+    "password": "mortgage",
+    "invokedAt": "2021-11-10T12:00:52.027Z"
   }
 ]
