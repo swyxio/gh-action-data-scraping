@@ -174,5 +174,13 @@
     "username": "bluepanda775",
     "password": "tasha",
     "invokedAt": "2021-11-10T21:00:54.411Z"
+  },
+  {
+    "firstName": "Garance",
+    "lastName": "Fernandez",
+    "email": "garance.fernandez@example.com",
+    "username": "goldenpanda409",
+    "password": "byteme",
+    "invokedAt": "2021-11-10T22:00:51.663Z"
   }
 ]
