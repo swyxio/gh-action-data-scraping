@@ -126,5 +126,13 @@
     "username": "tinybird195",
     "password": "danzig",
     "invokedAt": "2021-11-11T15:00:47.881Z"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "Rodriguez",
+    "email": "cassandra.rodriguez@example.com",
+    "username": "redostrich897",
+    "password": "gladiato",
+    "invokedAt": "2021-11-11T16:05:42.477Z"
   }
 ]
