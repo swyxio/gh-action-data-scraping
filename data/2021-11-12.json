@@ -118,5 +118,13 @@
     "username": "whiterabbit481",
     "password": "googoo",
     "invokedAt": "2021-11-12T14:00:56.155Z"
+  },
+  {
+    "firstName": "Afonso Henriques",
+    "lastName": "de Souza",
+    "email": "afonsohenriques.desouza@example.com",
+    "username": "blackpanda448",
+    "password": "909090",
+    "invokedAt": "2021-11-12T15:01:10.220Z"
   }
 ]
