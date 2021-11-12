@@ -46,5 +46,13 @@
     "username": "tinybutterfly745",
     "password": "jello",
     "invokedAt": "2021-11-12T05:00:46.976Z"
+  },
+  {
+    "firstName": "Kübra",
+    "lastName": "Koç",
+    "email": "kubra.koc@example.com",
+    "username": "happyrabbit209",
+    "password": "marshall",
+    "invokedAt": "2021-11-12T06:00:48.814Z"
   }
 ]
