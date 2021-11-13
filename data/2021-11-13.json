@@ -94,5 +94,13 @@
     "username": "goldenrabbit259",
     "password": "august",
     "invokedAt": "2021-11-13T11:00:32.683Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Aykaç",
+    "email": "batur.aykac@example.com",
+    "username": "goldenmouse368",
+    "password": "load",
+    "invokedAt": "2021-11-13T12:00:35.140Z"
   }
 ]
