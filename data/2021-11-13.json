@@ -166,5 +166,13 @@
     "username": "purpleduck687",
     "password": "arctic",
     "invokedAt": "2021-11-13T20:00:49.074Z"
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Kildal",
+    "email": "melvin.kildal@example.com",
+    "username": "blackduck247",
+    "password": "wheels",
+    "invokedAt": "2021-11-13T21:00:58.346Z"
   }
 ]
