@@ -38,5 +38,13 @@
     "username": "greencat973",
     "password": "bizkit",
     "invokedAt": "2021-11-13T04:00:41.886Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Dubois",
+    "email": "benjamin.dubois@example.com",
+    "username": "sadbutterfly118",
+    "password": "impact",
+    "invokedAt": "2021-11-13T05:00:35.378Z"
   }
 ]
