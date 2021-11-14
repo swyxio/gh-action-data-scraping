@@ -102,5 +102,13 @@
     "username": "whitecat171",
     "password": "allstar",
     "invokedAt": "2021-11-14T12:00:58.518Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Teixeira",
+    "email": "ricardo.teixeira@example.com",
+    "username": "smallcat401",
+    "password": "nothing",
+    "invokedAt": "2021-11-14T13:04:23.193Z"
   }
 ]
