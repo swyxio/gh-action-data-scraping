@@ -174,5 +174,13 @@
     "username": "greenswan797",
     "password": "europe",
     "invokedAt": "2021-11-14T21:00:51.220Z"
+  },
+  {
+    "firstName": "Asta",
+    "lastName": "Nielsen",
+    "email": "asta.nielsen@example.com",
+    "username": "purplegoose426",
+    "password": "tazz",
+    "invokedAt": "2021-11-14T22:00:52.525Z"
   }
 ]
