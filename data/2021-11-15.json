@@ -134,5 +134,13 @@
     "username": "greengorilla632",
     "password": "racecar",
     "invokedAt": "2021-11-15T16:06:01.959Z"
+  },
+  {
+    "firstName": "Arturo",
+    "lastName": "Lozano",
+    "email": "arturo.lozano@example.com",
+    "username": "goldenwolf552",
+    "password": "vixen",
+    "invokedAt": "2021-11-15T17:06:35.947Z"
   }
 ]
