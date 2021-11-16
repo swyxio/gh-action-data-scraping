@@ -166,5 +166,13 @@
     "username": "redgorilla170",
     "password": "smitty",
     "invokedAt": "2021-11-16T20:00:40.745Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Başoğlu",
+    "email": "adem.basoglu@example.com",
+    "username": "blacktiger290",
+    "password": "printer",
+    "invokedAt": "2021-11-16T21:01:05.528Z"
   }
 ]
