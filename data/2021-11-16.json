@@ -174,5 +174,13 @@
     "username": "blacktiger290",
     "password": "printer",
     "invokedAt": "2021-11-16T21:01:05.528Z"
+  },
+  {
+    "firstName": "Caroline",
+    "lastName": "Larsen",
+    "email": "caroline.larsen@example.com",
+    "username": "whitedog220",
+    "password": "bradford",
+    "invokedAt": "2021-11-16T22:01:02.680Z"
   }
 ]
