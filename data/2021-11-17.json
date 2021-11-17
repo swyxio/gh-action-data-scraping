@@ -70,5 +70,13 @@
     "username": "blueladybug109",
     "password": "eggplant",
     "invokedAt": "2021-11-17T08:00:42.394Z"
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Williamson",
+    "email": "richard.williamson@example.com",
+    "username": "sadrabbit143",
+    "password": "players",
+    "invokedAt": "2021-11-17T09:00:42.742Z"
   }
 ]
