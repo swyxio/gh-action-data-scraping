@@ -118,5 +118,13 @@
     "username": "happyfrog211",
     "password": "esquire",
     "invokedAt": "2021-11-19T14:00:50.267Z"
+  },
+  {
+    "firstName": "Elaine",
+    "lastName": "Olson",
+    "email": "elaine.olson@example.com",
+    "username": "tinyswan902",
+    "password": "wishbone",
+    "invokedAt": "2021-11-19T15:05:48.742Z"
   }
 ]
