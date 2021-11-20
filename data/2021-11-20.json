@@ -166,5 +166,13 @@
     "username": "happyfrog787",
     "password": "flounder",
     "invokedAt": "2021-11-20T20:00:41.061Z"
+  },
+  {
+    "firstName": "Juanita",
+    "lastName": "Mendoza",
+    "email": "juanita.mendoza@example.com",
+    "username": "happypanda204",
+    "password": "4242",
+    "invokedAt": "2021-11-20T21:00:49.965Z"
   }
 ]
