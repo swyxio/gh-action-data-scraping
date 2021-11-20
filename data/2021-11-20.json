@@ -158,5 +158,13 @@
     "username": "brownpeacock755",
     "password": "altima",
     "invokedAt": "2021-11-20T19:00:32.580Z"
+  },
+  {
+    "firstName": "Mille",
+    "lastName": "Rasmussen",
+    "email": "mille.rasmussen@example.com",
+    "username": "happyfrog787",
+    "password": "flounder",
+    "invokedAt": "2021-11-20T20:00:41.061Z"
   }
 ]
