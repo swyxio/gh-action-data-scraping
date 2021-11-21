@@ -94,5 +94,13 @@
     "username": "crazygorilla512",
     "password": "wordup",
     "invokedAt": "2021-11-21T11:00:46.791Z"
+  },
+  {
+    "firstName": "Jordi",
+    "lastName": "Carmona",
+    "email": "jordi.carmona@example.com",
+    "username": "smalllion754",
+    "password": "jasmine1",
+    "invokedAt": "2021-11-21T12:01:03.441Z"
   }
 ]
