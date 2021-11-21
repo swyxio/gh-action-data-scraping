@@ -54,5 +54,13 @@
     "username": "happylion335",
     "password": "gretzky",
     "invokedAt": "2021-11-21T06:00:48.963Z"
+  },
+  {
+    "firstName": "Arron",
+    "lastName": "Cruz",
+    "email": "arron.cruz@example.com",
+    "username": "happysnake378",
+    "password": "alex",
+    "invokedAt": "2021-11-21T07:00:42.818Z"
   }
 ]
