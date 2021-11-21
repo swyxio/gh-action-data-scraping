@@ -46,5 +46,13 @@
     "username": "beautifulelephant957",
     "password": "evil",
     "invokedAt": "2021-11-21T05:00:44.994Z"
+  },
+  {
+    "firstName": "Darrell",
+    "lastName": "Bryant",
+    "email": "darrell.bryant@example.com",
+    "username": "happylion335",
+    "password": "gretzky",
+    "invokedAt": "2021-11-21T06:00:48.963Z"
   }
 ]
