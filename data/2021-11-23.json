@@ -158,5 +158,13 @@
     "username": "lazyleopard196",
     "password": "travel",
     "invokedAt": "2021-11-23T19:00:37.657Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Marshall",
+    "email": "claude.marshall@example.com",
+    "username": "happymeercat592",
+    "password": "titty",
+    "invokedAt": "2021-11-23T20:01:08.793Z"
   }
 ]
