@@ -110,5 +110,13 @@
     "username": "bluecat199",
     "password": "invis",
     "invokedAt": "2021-11-23T13:05:23.824Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Karaer",
+    "email": "ulku.karaer@example.com",
+    "username": "redbird199",
+    "password": "meme",
+    "invokedAt": "2021-11-23T14:00:48.696Z"
   }
 ]
