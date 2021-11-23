@@ -182,5 +182,13 @@
     "username": "ticklishlion328",
     "password": "camelot",
     "invokedAt": "2021-11-23T22:00:40.044Z"
+  },
+  {
+    "firstName": "Ante",
+    "lastName": "Schlecht",
+    "email": "ante.schlecht@example.com",
+    "username": "smallbird911",
+    "password": "kilroy",
+    "invokedAt": "2021-11-23T23:00:47.325Z"
   }
 ]
