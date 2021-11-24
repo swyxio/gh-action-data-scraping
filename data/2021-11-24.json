@@ -30,5 +30,13 @@
     "username": "whitebear969",
     "password": "5252",
     "invokedAt": "2021-11-24T03:01:09.044Z"
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Remøy",
+    "email": "elise.remoy@example.com",
+    "username": "smallbear350",
+    "password": "admiral",
+    "invokedAt": "2021-11-24T04:00:40.587Z"
   }
 ]
