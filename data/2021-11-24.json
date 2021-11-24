@@ -38,5 +38,13 @@
     "username": "smallbear350",
     "password": "admiral",
     "invokedAt": "2021-11-24T04:00:40.587Z"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Schaub",
+    "email": "claire.schaub@example.com",
+    "username": "bigwolf833",
+    "password": "models",
+    "invokedAt": "2021-11-24T05:00:39.458Z"
   }
 ]
