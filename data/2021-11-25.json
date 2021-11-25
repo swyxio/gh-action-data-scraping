@@ -86,5 +86,13 @@
     "username": "silverduck575",
     "password": "figure",
     "invokedAt": "2021-11-25T10:00:43.681Z"
+  },
+  {
+    "firstName": "Hélder",
+    "lastName": "Silveira",
+    "email": "helder.silveira@example.com",
+    "username": "bigtiger341",
+    "password": "rubble",
+    "invokedAt": "2021-11-25T11:03:34.455Z"
   }
 ]
