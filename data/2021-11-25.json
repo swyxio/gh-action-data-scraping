@@ -94,5 +94,13 @@
     "username": "bigtiger341",
     "password": "rubble",
     "invokedAt": "2021-11-25T11:03:34.455Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Jensen",
+    "email": "max.jensen@example.com",
+    "username": "ticklishdog173",
+    "password": "alone",
+    "invokedAt": "2021-11-25T12:00:40.668Z"
   }
 ]
