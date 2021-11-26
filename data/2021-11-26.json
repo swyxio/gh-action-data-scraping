@@ -86,5 +86,13 @@
     "username": "bluefrog243",
     "password": "chrono",
     "invokedAt": "2021-11-26T10:01:04.416Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Wirtanen",
+    "email": "emil.wirtanen@example.com",
+    "username": "redostrich510",
+    "password": "labtec",
+    "invokedAt": "2021-11-26T11:00:46.546Z"
   }
 ]
