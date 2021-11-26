@@ -78,5 +78,13 @@
     "username": "orangedog269",
     "password": "dingdong",
     "invokedAt": "2021-11-26T09:00:35.426Z"
+  },
+  {
+    "firstName": "Estéban",
+    "lastName": "Petit",
+    "email": "esteban.petit@example.com",
+    "username": "bluefrog243",
+    "password": "chrono",
+    "invokedAt": "2021-11-26T10:01:04.416Z"
   }
 ]
