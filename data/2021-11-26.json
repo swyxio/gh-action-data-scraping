@@ -30,5 +30,13 @@
     "username": "whitetiger459",
     "password": "bigblue",
     "invokedAt": "2021-11-26T03:00:57.614Z"
+  },
+  {
+    "firstName": "Damasceno",
+    "lastName": "Farias",
+    "email": "damasceno.farias@example.com",
+    "username": "bluefrog625",
+    "password": "spice",
+    "invokedAt": "2021-11-26T04:00:39.472Z"
   }
 ]
