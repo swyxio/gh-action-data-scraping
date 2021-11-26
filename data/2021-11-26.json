@@ -62,5 +62,13 @@
     "username": "happydog714",
     "password": "east",
     "invokedAt": "2021-11-26T07:00:38.513Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Dubois",
+    "email": "susan.dubois@example.com",
+    "username": "whiteduck630",
+    "password": "cutlass",
+    "invokedAt": "2021-11-26T08:00:39.510Z"
   }
 ]
