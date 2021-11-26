@@ -150,5 +150,13 @@
     "username": "whiteswan541",
     "password": "quest",
     "invokedAt": "2021-11-26T18:00:32.749Z"
+  },
+  {
+    "firstName": "Julius",
+    "lastName": "Huseby",
+    "email": "julius.huseby@example.com",
+    "username": "tinydog319",
+    "password": "mary",
+    "invokedAt": "2021-11-26T19:00:45.552Z"
   }
 ]
