@@ -158,5 +158,13 @@
     "username": "sadpanda814",
     "password": "twinkie",
     "invokedAt": "2021-11-27T19:00:44.057Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Anderson",
+    "email": "jose.anderson@example.com",
+    "username": "sadsnake805",
+    "password": "django",
+    "invokedAt": "2021-11-27T20:00:41.010Z"
   }
 ]
