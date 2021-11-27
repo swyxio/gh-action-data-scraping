@@ -30,5 +30,13 @@
     "username": "silvergoose593",
     "password": "bruiser",
     "invokedAt": "2021-11-27T03:00:36.931Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Arslanoğlu",
+    "email": "ege.arslanoglu@example.com",
+    "username": "silverduck256",
+    "password": "sinclair",
+    "invokedAt": "2021-11-27T04:00:38.807Z"
   }
 ]
