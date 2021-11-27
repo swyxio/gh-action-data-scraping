@@ -94,5 +94,13 @@
     "username": "tinydog646",
     "password": "turnip",
     "invokedAt": "2021-11-27T11:00:33.014Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Unhjem",
+    "email": "nicklas.unhjem@example.com",
+    "username": "purpleladybug220",
+    "password": "albert",
+    "invokedAt": "2021-11-27T12:00:51.163Z"
   }
 ]
