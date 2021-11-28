@@ -110,5 +110,13 @@
     "username": "smallgoose217",
     "password": "fubar",
     "invokedAt": "2021-11-28T15:01:03.396Z"
+  },
+  {
+    "firstName": "Karl-Heinz",
+    "lastName": "Böttner",
+    "email": "karl-heinz.bottner@example.com",
+    "username": "orangecat407",
+    "password": "24682468",
+    "invokedAt": "2021-11-28T16:00:43.738Z"
   }
 ]
