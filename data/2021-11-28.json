@@ -30,5 +30,13 @@
     "username": "lazyswan109",
     "password": "womble",
     "invokedAt": "2021-11-28T05:00:35.034Z"
+  },
+  {
+    "firstName": "Arn",
+    "lastName": "Grøtan",
+    "email": "arn.grotan@example.com",
+    "username": "blackmeercat833",
+    "password": "simple1",
+    "invokedAt": "2021-11-28T06:01:12.866Z"
   }
 ]
