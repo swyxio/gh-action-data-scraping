@@ -166,5 +166,13 @@
     "username": "bigsnake371",
     "password": "pictuers",
     "invokedAt": "2021-11-28T22:00:53.972Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Christensen",
+    "email": "adam.christensen@example.com",
+    "username": "beautifulzebra804",
+    "password": "wanderer",
+    "invokedAt": "2021-11-28T23:01:04.679Z"
   }
 ]
