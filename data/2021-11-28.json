@@ -118,5 +118,13 @@
     "username": "orangecat407",
     "password": "24682468",
     "invokedAt": "2021-11-28T16:00:43.738Z"
+  },
+  {
+    "firstName": "Amna",
+    "lastName": "Skarshaug",
+    "email": "amna.skarshaug@example.com",
+    "username": "orangeleopard403",
+    "password": "backdoor",
+    "invokedAt": "2021-11-28T17:04:36.284Z"
   }
 ]
