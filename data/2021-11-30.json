@@ -38,5 +38,13 @@
     "username": "angrycat149",
     "password": "double",
     "invokedAt": "2021-11-30T04:00:52.165Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "Giraud",
+    "email": "valentin.giraud@example.com",
+    "username": "brownmeercat569",
+    "password": "gizmodo",
+    "invokedAt": "2021-11-30T05:00:43.338Z"
   }
 ]
