@@ -174,5 +174,13 @@
     "username": "crazyostrich967",
     "password": "tacoma",
     "invokedAt": "2021-11-30T21:00:51.089Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Laursen",
+    "email": "mathilde.laursen@example.com",
+    "username": "happyfrog320",
+    "password": "dima",
+    "invokedAt": "2021-11-30T22:00:39.787Z"
   }
 ]
