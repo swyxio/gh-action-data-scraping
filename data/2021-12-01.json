@@ -54,5 +54,13 @@
     "username": "yellowcat585",
     "password": "augustus",
     "invokedAt": "2021-12-01T06:00:43.056Z"
+  },
+  {
+    "firstName": "Konsta",
+    "lastName": "Leinonen",
+    "email": "konsta.leinonen@example.com",
+    "username": "blueostrich340",
+    "password": "nintendo",
+    "invokedAt": "2021-12-01T07:00:34.854Z"
   }
 ]
