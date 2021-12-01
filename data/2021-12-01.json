@@ -174,5 +174,13 @@
     "username": "purplepanda132",
     "password": "streaming",
     "invokedAt": "2021-12-01T21:00:56.572Z"
+  },
+  {
+    "firstName": "Adriano",
+    "lastName": "Roux",
+    "email": "adriano.roux@example.com",
+    "username": "redcat781",
+    "password": "esquire",
+    "invokedAt": "2021-12-01T22:00:52.937Z"
   }
 ]
