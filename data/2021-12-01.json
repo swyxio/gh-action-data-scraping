@@ -126,5 +126,13 @@
     "username": "sadostrich620",
     "password": "ultra",
     "invokedAt": "2021-12-01T15:00:42.201Z"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Moulin",
+    "email": "nicolas.moulin@example.com",
+    "username": "happypeacock762",
+    "password": "ranch",
+    "invokedAt": "2021-12-01T16:06:35.110Z"
   }
 ]
