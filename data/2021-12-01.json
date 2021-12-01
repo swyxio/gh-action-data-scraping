@@ -22,5 +22,13 @@
     "username": "happytiger699",
     "password": "delight",
     "invokedAt": "2021-12-01T02:14:35.853Z"
+  },
+  {
+    "firstName": "Solène",
+    "lastName": "Barbier",
+    "email": "solene.barbier@example.com",
+    "username": "orangepanda263",
+    "password": "butler",
+    "invokedAt": "2021-12-01T03:00:48.440Z"
   }
 ]
