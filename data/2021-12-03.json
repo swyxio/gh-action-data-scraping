@@ -86,5 +86,13 @@
     "username": "lazyleopard482",
     "password": "1717",
     "invokedAt": "2021-12-03T10:00:56.960Z"
+  },
+  {
+    "firstName": "Lene",
+    "lastName": "Ugelstad",
+    "email": "lene.ugelstad@example.com",
+    "username": "brownleopard736",
+    "password": "peekaboo",
+    "invokedAt": "2021-12-03T11:00:46.213Z"
   }
 ]
