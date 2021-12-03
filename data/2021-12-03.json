@@ -126,5 +126,13 @@
     "username": "silvercat240",
     "password": "huskers",
     "invokedAt": "2021-12-03T17:05:41.099Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Çetin",
+    "email": "ulku.cetin@example.com",
+    "username": "bluetiger718",
+    "password": "erica",
+    "invokedAt": "2021-12-03T18:00:47.853Z"
   }
 ]
