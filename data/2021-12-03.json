@@ -158,5 +158,13 @@
     "username": "purpledog542",
     "password": "golden1",
     "invokedAt": "2021-12-03T21:00:36.186Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Yılmazer",
+    "email": "deniz.yilmazer@example.com",
+    "username": "lazylion801",
+    "password": "mooney",
+    "invokedAt": "2021-12-03T22:00:46.495Z"
   }
 ]
