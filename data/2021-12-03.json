@@ -94,5 +94,13 @@
     "username": "brownleopard736",
     "password": "peekaboo",
     "invokedAt": "2021-12-03T11:00:46.213Z"
+  },
+  {
+    "firstName": "Jean-Claude",
+    "lastName": "Garcia",
+    "email": "jean-claude.garcia@example.com",
+    "username": "smallbird678",
+    "password": "maximus",
+    "invokedAt": "2021-12-03T12:00:49.499Z"
   }
 ]
