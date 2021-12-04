@@ -86,5 +86,13 @@
     "username": "silverkoala901",
     "password": "alberto",
     "invokedAt": "2021-12-04T10:00:34.796Z"
+  },
+  {
+    "firstName": "Woldemar",
+    "lastName": "Burkart",
+    "email": "woldemar.burkart@example.com",
+    "username": "tinywolf975",
+    "password": "wrestling",
+    "invokedAt": "2021-12-04T11:00:34.502Z"
   }
 ]
