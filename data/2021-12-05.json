@@ -142,5 +142,13 @@
     "username": "blackpanda297",
     "password": "research",
     "invokedAt": "2021-12-05T17:05:03.480Z"
+  },
+  {
+    "firstName": "Elóides",
+    "lastName": "Martins",
+    "email": "eloides.martins@example.com",
+    "username": "greenkoala594",
+    "password": "random",
+    "invokedAt": "2021-12-05T18:00:44.584Z"
   }
 ]
