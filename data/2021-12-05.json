@@ -134,5 +134,13 @@
     "username": "heavybird381",
     "password": "cosmic",
     "invokedAt": "2021-12-05T16:00:36.069Z"
+  },
+  {
+    "firstName": "Piper",
+    "lastName": "Smith",
+    "email": "piper.smith@example.com",
+    "username": "blackpanda297",
+    "password": "research",
+    "invokedAt": "2021-12-05T17:05:03.480Z"
   }
 ]
