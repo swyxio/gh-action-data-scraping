@@ -54,5 +54,13 @@
     "username": "tinylion148",
     "password": "augustus",
     "invokedAt": "2021-12-07T06:00:46.422Z"
+  },
+  {
+    "firstName": "Jaime",
+    "lastName": "Santiago",
+    "email": "jaime.santiago@example.com",
+    "username": "redlion344",
+    "password": "truth",
+    "invokedAt": "2021-12-07T07:00:48.066Z"
   }
 ]
