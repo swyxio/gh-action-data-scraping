@@ -174,5 +174,13 @@
     "username": "yellowbird454",
     "password": "deskjet",
     "invokedAt": "2021-12-08T21:00:37.775Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Rubio",
+    "email": "anna.rubio@example.com",
+    "username": "happybird865",
+    "password": "susan",
+    "invokedAt": "2021-12-08T22:00:43.680Z"
   }
 ]
