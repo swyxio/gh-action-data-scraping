@@ -46,5 +46,13 @@
     "username": "brownmouse650",
     "password": "icehouse",
     "invokedAt": "2021-12-09T05:01:29.822Z"
+  },
+  {
+    "firstName": "Harun",
+    "lastName": "Fylling",
+    "email": "harun.fylling@example.com",
+    "username": "tinyfish337",
+    "password": "lucas",
+    "invokedAt": "2021-12-09T06:00:40.463Z"
   }
 ]
