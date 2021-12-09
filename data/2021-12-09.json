@@ -38,5 +38,13 @@
     "username": "bluetiger697",
     "password": "yahoo",
     "invokedAt": "2021-12-09T04:00:43.570Z"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Fabre",
+    "email": "mia.fabre@example.com",
+    "username": "brownmouse650",
+    "password": "icehouse",
+    "invokedAt": "2021-12-09T05:01:29.822Z"
   }
 ]
