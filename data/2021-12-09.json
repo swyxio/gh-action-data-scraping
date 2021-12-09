@@ -94,5 +94,13 @@
     "username": "yellowkoala960",
     "password": "gemini",
     "invokedAt": "2021-12-09T11:00:43.467Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Castro",
+    "email": "mary.castro@example.com",
+    "username": "whiteswan949",
+    "password": "time",
+    "invokedAt": "2021-12-09T12:00:48.720Z"
   }
 ]
