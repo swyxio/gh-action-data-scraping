@@ -94,5 +94,13 @@
     "username": "blackkoala940",
     "password": "sniper",
     "invokedAt": "2021-12-10T11:00:56.327Z"
+  },
+  {
+    "firstName": "Domenica",
+    "lastName": "Moerkens",
+    "email": "domenica.moerkens@example.com",
+    "username": "redelephant766",
+    "password": "nascar",
+    "invokedAt": "2021-12-10T12:00:32.204Z"
   }
 ]
