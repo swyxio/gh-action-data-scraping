@@ -102,5 +102,13 @@
     "username": "tinymeercat906",
     "password": "1616",
     "invokedAt": "2021-12-11T12:00:58.575Z"
+  },
+  {
+    "firstName": "Lysanne",
+    "lastName": "Van der Voorden",
+    "email": "lysanne.vandervoorden@example.com",
+    "username": "orangedog323",
+    "password": "zachary",
+    "invokedAt": "2021-12-11T13:04:52.699Z"
   }
 ]
