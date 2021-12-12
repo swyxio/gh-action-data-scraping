@@ -22,5 +22,13 @@
     "username": "brownmouse325",
     "password": "zhao",
     "invokedAt": "2021-12-12T02:14:14.166Z"
+  },
+  {
+    "firstName": "Veronica",
+    "lastName": "Gomez",
+    "email": "veronica.gomez@example.com",
+    "username": "happycat365",
+    "password": "speakers",
+    "invokedAt": "2021-12-12T03:00:36.662Z"
   }
 ]
