@@ -70,5 +70,13 @@
     "username": "bigbutterfly488",
     "password": "trebor",
     "invokedAt": "2021-12-12T08:00:44.262Z"
+  },
+  {
+    "firstName": "Çetin",
+    "lastName": "Koçoğlu",
+    "email": "cetin.kocoglu@example.com",
+    "username": "sadpanda959",
+    "password": "maximum",
+    "invokedAt": "2021-12-12T09:00:48.232Z"
   }
 ]
