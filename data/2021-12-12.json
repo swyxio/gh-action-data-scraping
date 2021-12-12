@@ -78,5 +78,13 @@
     "username": "sadpanda959",
     "password": "maximum",
     "invokedAt": "2021-12-12T09:00:48.232Z"
+  },
+  {
+    "firstName": "Noël",
+    "lastName": "Carpentier",
+    "email": "noel.carpentier@example.com",
+    "username": "ticklishkoala689",
+    "password": "200000",
+    "invokedAt": "2021-12-12T10:00:59.425Z"
   }
 ]
