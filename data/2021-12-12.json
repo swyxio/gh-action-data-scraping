@@ -182,5 +182,13 @@
     "username": "redmeercat863",
     "password": "allen1",
     "invokedAt": "2021-12-12T22:00:36.144Z"
+  },
+  {
+    "firstName": "Sami",
+    "lastName": "Johansen",
+    "email": "sami.johansen@example.com",
+    "username": "lazylion403",
+    "password": "phillies",
+    "invokedAt": "2021-12-12T23:00:37.267Z"
   }
 ]
