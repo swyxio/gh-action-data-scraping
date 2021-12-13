@@ -78,5 +78,13 @@
     "username": "smalllion242",
     "password": "derf",
     "invokedAt": "2021-12-13T09:00:45.868Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Hudson",
+    "email": "robin.hudson@example.com",
+    "username": "organicelephant364",
+    "password": "clock",
+    "invokedAt": "2021-12-13T10:00:38.323Z"
   }
 ]
