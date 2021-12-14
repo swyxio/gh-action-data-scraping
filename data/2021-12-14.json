@@ -38,5 +38,13 @@
     "username": "tinytiger987",
     "password": "uptown",
     "invokedAt": "2021-12-14T04:00:45.714Z"
+  },
+  {
+    "firstName": "Marzena",
+    "lastName": "Reiche",
+    "email": "marzena.reiche@example.com",
+    "username": "orangecat989",
+    "password": "222222",
+    "invokedAt": "2021-12-14T05:01:07.093Z"
   }
 ]
