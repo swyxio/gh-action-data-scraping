@@ -126,5 +126,13 @@
     "username": "brownpanda738",
     "password": "calgary",
     "invokedAt": "2021-12-14T15:00:41.616Z"
+  },
+  {
+    "firstName": "Øyvind",
+    "lastName": "Borgan",
+    "email": "oyvind.borgan@example.com",
+    "username": "whiteladybug195",
+    "password": "antonia",
+    "invokedAt": "2021-12-14T16:00:40.569Z"
   }
 ]
