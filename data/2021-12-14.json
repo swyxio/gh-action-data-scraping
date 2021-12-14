@@ -158,5 +158,13 @@
     "username": "happyduck454",
     "password": "sigma",
     "invokedAt": "2021-12-14T19:00:40.617Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Joly",
+    "email": "elias.joly@example.com",
+    "username": "yellowtiger784",
+    "password": "breaker",
+    "invokedAt": "2021-12-14T20:00:48.755Z"
   }
 ]
