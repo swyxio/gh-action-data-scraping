@@ -94,5 +94,13 @@
     "username": "orangecat304",
     "password": "fender",
     "invokedAt": "2021-12-16T11:00:55.725Z"
+  },
+  {
+    "firstName": "Melike",
+    "lastName": "Demirbaş",
+    "email": "melike.demirbas@example.com",
+    "username": "blackmeercat110",
+    "password": "ringo",
+    "invokedAt": "2021-12-16T12:00:54.677Z"
   }
 ]
