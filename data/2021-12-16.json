@@ -118,5 +118,13 @@
     "username": "brownbird509",
     "password": "notredam",
     "invokedAt": "2021-12-16T14:00:37.624Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Eskola",
+    "email": "julia.eskola@example.com",
+    "username": "blackladybug429",
+    "password": "alabama",
+    "invokedAt": "2021-12-16T15:01:11.933Z"
   }
 ]
