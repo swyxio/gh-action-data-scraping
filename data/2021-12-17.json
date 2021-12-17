@@ -70,5 +70,13 @@
     "username": "heavywolf400",
     "password": "rang",
     "invokedAt": "2021-12-17T08:01:01.004Z"
+  },
+  {
+    "firstName": "Troy",
+    "lastName": "Gomez",
+    "email": "troy.gomez@example.com",
+    "username": "brownladybug544",
+    "password": "caveman",
+    "invokedAt": "2021-12-17T09:00:44.771Z"
   }
 ]
