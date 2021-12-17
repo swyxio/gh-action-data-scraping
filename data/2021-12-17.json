@@ -182,5 +182,13 @@
     "username": "lazyostrich336",
     "password": "trains",
     "invokedAt": "2021-12-17T22:00:36.675Z"
+  },
+  {
+    "firstName": "Karim",
+    "lastName": "Olivier",
+    "email": "karim.olivier@example.com",
+    "username": "angryzebra758",
+    "password": "celeron",
+    "invokedAt": "2021-12-17T23:00:35.840Z"
   }
 ]
