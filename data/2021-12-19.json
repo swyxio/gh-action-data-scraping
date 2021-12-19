@@ -110,5 +110,13 @@
     "username": "orangecat534",
     "password": "retire",
     "invokedAt": "2021-12-19T13:05:31.609Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Byrd",
+    "email": "marie.byrd@example.com",
+    "username": "silverbear258",
+    "password": "sharks",
+    "invokedAt": "2021-12-19T14:00:45.601Z"
   }
 ]
