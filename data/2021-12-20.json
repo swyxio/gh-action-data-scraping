@@ -118,5 +118,13 @@
     "username": "redsnake369",
     "password": "scandinavian",
     "invokedAt": "2021-12-20T14:00:50.366Z"
+  },
+  {
+    "firstName": "Steffen",
+    "lastName": "Bjørkli",
+    "email": "steffen.bjorkli@example.com",
+    "username": "bigfish258",
+    "password": "nude",
+    "invokedAt": "2021-12-20T15:00:40.729Z"
   }
 ]
