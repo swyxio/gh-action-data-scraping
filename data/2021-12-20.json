@@ -102,5 +102,13 @@
     "username": "lazyswan261",
     "password": "admin",
     "invokedAt": "2021-12-20T12:00:39.429Z"
+  },
+  {
+    "firstName": "Necati",
+    "lastName": "Koçoğlu",
+    "email": "necati.kocoglu@example.com",
+    "username": "sadpeacock379",
+    "password": "xyzzy",
+    "invokedAt": "2021-12-20T13:06:48.009Z"
   }
 ]
