@@ -142,5 +142,13 @@
     "username": "purplegorilla381",
     "password": "alex",
     "invokedAt": "2021-12-20T17:07:23.734Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Miles",
+    "email": "connor.miles@example.com",
+    "username": "browngorilla536",
+    "password": "derf",
+    "invokedAt": "2021-12-20T18:00:36.994Z"
   }
 ]
