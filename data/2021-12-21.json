@@ -150,5 +150,13 @@
     "username": "bigrabbit460",
     "password": "angus",
     "invokedAt": "2021-12-21T18:00:40.875Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Kutlay",
+    "email": "deniz.kutlay@example.com",
+    "username": "whitebear416",
+    "password": "gamecube",
+    "invokedAt": "2021-12-21T19:00:35.024Z"
   }
 ]
