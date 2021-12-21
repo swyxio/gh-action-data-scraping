@@ -78,5 +78,13 @@
     "username": "tinyleopard786",
     "password": "speed",
     "invokedAt": "2021-12-21T09:00:42.051Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Nielsen",
+    "email": "emily.nielsen@example.com",
+    "username": "goldenbird647",
+    "password": "kristy",
+    "invokedAt": "2021-12-21T10:01:03.417Z"
   }
 ]
