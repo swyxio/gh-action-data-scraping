@@ -158,5 +158,13 @@
     "username": "whitebear416",
     "password": "gamecube",
     "invokedAt": "2021-12-21T19:00:35.024Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Lee",
+    "email": "charles.lee@example.com",
+    "username": "redelephant342",
+    "password": "jerome",
+    "invokedAt": "2021-12-21T20:00:42.641Z"
   }
 ]
