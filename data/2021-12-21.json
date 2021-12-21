@@ -182,5 +182,13 @@
     "username": "angrypanda158",
     "password": "circus",
     "invokedAt": "2021-12-21T22:01:01.184Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Moore",
+    "email": "zachary.moore@example.com",
+    "username": "beautifulcat960",
+    "password": "freak",
+    "invokedAt": "2021-12-21T23:00:57.281Z"
   }
 ]
