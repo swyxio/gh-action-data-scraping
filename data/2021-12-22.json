@@ -166,5 +166,13 @@
     "username": "lazyfrog404",
     "password": "chuckles",
     "invokedAt": "2021-12-22T20:01:01.474Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Chapman",
+    "email": "eric.chapman@example.com",
+    "username": "purplegoose174",
+    "password": "kurt",
+    "invokedAt": "2021-12-22T21:00:52.002Z"
   }
 ]
