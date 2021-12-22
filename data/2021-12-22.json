@@ -142,5 +142,13 @@
     "username": "crazyduck770",
     "password": "tuna",
     "invokedAt": "2021-12-22T17:06:44.953Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Miller",
+    "email": "brian.miller@example.com",
+    "username": "angrywolf678",
+    "password": "elite",
+    "invokedAt": "2021-12-22T18:00:39.701Z"
   }
 ]
