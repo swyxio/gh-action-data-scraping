@@ -158,5 +158,13 @@
     "username": "bluebutterfly174",
     "password": "apple1",
     "invokedAt": "2021-12-22T19:00:40.317Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Evliyaoğlu",
+    "email": "esat.evliyaoglu@example.com",
+    "username": "lazyfrog404",
+    "password": "chuckles",
+    "invokedAt": "2021-12-22T20:01:01.474Z"
   }
 ]
