@@ -134,5 +134,13 @@
     "username": "whitebear878",
     "password": "dancing",
     "invokedAt": "2021-12-22T16:00:39.772Z"
+  },
+  {
+    "firstName": "Benoît",
+    "lastName": "Fokke",
+    "email": "benoit.fokke@example.com",
+    "username": "crazyduck770",
+    "password": "tuna",
+    "invokedAt": "2021-12-22T17:06:44.953Z"
   }
 ]
