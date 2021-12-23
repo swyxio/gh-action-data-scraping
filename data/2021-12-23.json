@@ -182,5 +182,13 @@
     "username": "yellowostrich290",
     "password": "guardian",
     "invokedAt": "2021-12-23T22:00:50.852Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Côté",
+    "email": "simon.cote@example.com",
+    "username": "smallostrich208",
+    "password": "womans",
+    "invokedAt": "2021-12-23T23:00:46.082Z"
   }
 ]
