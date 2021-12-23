@@ -78,5 +78,13 @@
     "username": "organiczebra464",
     "password": "universe",
     "invokedAt": "2021-12-23T09:00:48.387Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Hansen",
+    "email": "oscar.hansen@example.com",
+    "username": "happypanda385",
+    "password": "lollipop",
+    "invokedAt": "2021-12-23T10:00:53.014Z"
   }
 ]
