@@ -70,5 +70,13 @@
     "username": "heavysnake472",
     "password": "justme",
     "invokedAt": "2021-12-24T08:00:47.435Z"
+  },
+  {
+    "firstName": "Sverre",
+    "lastName": "Hansson",
+    "email": "sverre.hansson@example.com",
+    "username": "lazypanda760",
+    "password": "daddy1",
+    "invokedAt": "2021-12-24T09:00:40.761Z"
   }
 ]
