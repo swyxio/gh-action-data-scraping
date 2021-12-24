@@ -126,5 +126,13 @@
     "username": "bigbutterfly371",
     "password": "liverpoo",
     "invokedAt": "2021-12-24T15:00:38.247Z"
+  },
+  {
+    "firstName": "Michelle",
+    "lastName": "Chambers",
+    "email": "michelle.chambers@example.com",
+    "username": "happybear406",
+    "password": "aikman",
+    "invokedAt": "2021-12-24T16:00:37.144Z"
   }
 ]
