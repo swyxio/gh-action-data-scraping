@@ -182,5 +182,13 @@
     "username": "bluesnake857",
     "password": "comics",
     "invokedAt": "2021-12-24T22:00:47.036Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Hoffman",
+    "email": "paul.hoffman@example.com",
+    "username": "greenostrich389",
+    "password": "hooters",
+    "invokedAt": "2021-12-24T23:00:43.901Z"
   }
 ]
