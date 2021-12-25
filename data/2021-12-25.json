@@ -78,5 +78,13 @@
     "username": "ticklishkoala198",
     "password": "beacon",
     "invokedAt": "2021-12-25T09:00:38.661Z"
+  },
+  {
+    "firstName": "Rudi",
+    "lastName": "Wiese",
+    "email": "rudi.wiese@example.com",
+    "username": "bigdog521",
+    "password": "sinner",
+    "invokedAt": "2021-12-25T10:00:49.898Z"
   }
 ]
