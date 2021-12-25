@@ -182,5 +182,13 @@
     "username": "crazyfish369",
     "password": "champs",
     "invokedAt": "2021-12-25T22:00:48.134Z"
+  },
+  {
+    "firstName": "Jen",
+    "lastName": "Griffin",
+    "email": "jen.griffin@example.com",
+    "username": "happyladybug908",
+    "password": "1414",
+    "invokedAt": "2021-12-25T23:00:42.780Z"
   }
 ]
