@@ -126,5 +126,13 @@
     "username": "yellowsnake394",
     "password": "citadel",
     "invokedAt": "2021-12-26T15:00:51.304Z"
+  },
+  {
+    "firstName": "Alberte",
+    "lastName": "Nielsen",
+    "email": "alberte.nielsen@example.com",
+    "username": "redladybug115",
+    "password": "zachary",
+    "invokedAt": "2021-12-26T16:00:36.085Z"
   }
 ]
