@@ -38,5 +38,13 @@
     "username": "yellowdog215",
     "password": "bowser",
     "invokedAt": "2021-12-27T04:00:44.786Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Saez",
+    "email": "santiago.saez@example.com",
+    "username": "ticklishsnake115",
+    "password": "camera",
+    "invokedAt": "2021-12-27T05:02:13.673Z"
   }
 ]
