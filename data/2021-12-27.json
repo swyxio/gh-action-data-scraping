@@ -118,5 +118,13 @@
     "username": "sadcat550",
     "password": "paradigm",
     "invokedAt": "2021-12-27T14:05:42.826Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Moreau",
+    "email": "william.moreau@example.com",
+    "username": "purplemouse420",
+    "password": "cleaner",
+    "invokedAt": "2021-12-27T16:00:41.615Z"
   }
 ]
