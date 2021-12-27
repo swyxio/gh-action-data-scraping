@@ -110,5 +110,13 @@
     "username": "bigtiger456",
     "password": "marc",
     "invokedAt": "2021-12-27T13:10:32.860Z"
+  },
+  {
+    "firstName": "Hans-Adolf",
+    "lastName": "Goldmann",
+    "email": "hans-adolf.goldmann@example.com",
+    "username": "sadcat550",
+    "password": "paradigm",
+    "invokedAt": "2021-12-27T14:05:42.826Z"
   }
 ]
