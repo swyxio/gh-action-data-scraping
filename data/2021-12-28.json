@@ -78,5 +78,13 @@
     "username": "silvertiger166",
     "password": "hotmail1",
     "invokedAt": "2021-12-28T09:00:36.384Z"
+  },
+  {
+    "firstName": "Vicente",
+    "lastName": "Pascual",
+    "email": "vicente.pascual@example.com",
+    "username": "crazypanda811",
+    "password": "coors",
+    "invokedAt": "2021-12-28T10:00:49.100Z"
   }
 ]
