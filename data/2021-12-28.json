@@ -158,5 +158,13 @@
     "username": "happyleopard182",
     "password": "soulmate",
     "invokedAt": "2021-12-28T19:00:35.775Z"
+  },
+  {
+    "firstName": "Nolan",
+    "lastName": "Gerard",
+    "email": "nolan.gerard@example.com",
+    "username": "silverfrog790",
+    "password": "redone",
+    "invokedAt": "2021-12-28T20:01:03.636Z"
   }
 ]
