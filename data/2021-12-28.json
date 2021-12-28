@@ -150,5 +150,13 @@
     "username": "heavydog130",
     "password": "nymets",
     "invokedAt": "2021-12-28T18:00:38.851Z"
+  },
+  {
+    "firstName": "Eli",
+    "lastName": "Shelton",
+    "email": "eli.shelton@example.com",
+    "username": "happyleopard182",
+    "password": "soulmate",
+    "invokedAt": "2021-12-28T19:00:35.775Z"
   }
 ]
