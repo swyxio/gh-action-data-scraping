@@ -78,5 +78,13 @@
     "username": "crazyzebra310",
     "password": "swinging",
     "invokedAt": "2021-12-29T09:00:40.450Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Moulin",
+    "email": "ivan.moulin@example.com",
+    "username": "biggorilla210",
+    "password": "midori",
+    "invokedAt": "2021-12-29T10:00:56.274Z"
   }
 ]
