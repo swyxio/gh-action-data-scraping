@@ -142,5 +142,13 @@
     "username": "goldenbutterfly144",
     "password": "boat",
     "invokedAt": "2021-12-30T17:06:36.833Z"
+  },
+  {
+    "firstName": "Rosario",
+    "lastName": "Guerrero",
+    "email": "rosario.guerrero@example.com",
+    "username": "lazyduck229",
+    "password": "around",
+    "invokedAt": "2021-12-30T18:00:36.117Z"
   }
 ]
