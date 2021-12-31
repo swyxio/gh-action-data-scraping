@@ -142,5 +142,13 @@
     "username": "orangeladybug746",
     "password": "conover",
     "invokedAt": "2021-12-31T17:06:12.376Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Chan",
+    "email": "vincent.chan@example.com",
+    "username": "crazycat528",
+    "password": "pa55w0rd",
+    "invokedAt": "2021-12-31T18:00:35.249Z"
   }
 ]
