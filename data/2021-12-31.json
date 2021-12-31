@@ -70,5 +70,13 @@
     "username": "yellowcat381",
     "password": "kungfu",
     "invokedAt": "2021-12-31T08:00:50.601Z"
+  },
+  {
+    "firstName": "Hubert",
+    "lastName": "Morgenstern",
+    "email": "hubert.morgenstern@example.com",
+    "username": "heavyfish850",
+    "password": "stellar",
+    "invokedAt": "2021-12-31T09:00:40.073Z"
   }
 ]
