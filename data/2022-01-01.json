@@ -182,5 +182,13 @@
     "username": "angryleopard352",
     "password": "link",
     "invokedAt": "2022-01-01T22:00:37.717Z"
+  },
+  {
+    "firstName": "Kathy",
+    "lastName": "Richards",
+    "email": "kathy.richards@example.com",
+    "username": "organicleopard803",
+    "password": "jammer",
+    "invokedAt": "2022-01-01T23:01:03.831Z"
   }
 ]
