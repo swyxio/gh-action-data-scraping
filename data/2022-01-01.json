@@ -102,5 +102,13 @@
     "username": "lazyladybug274",
     "password": "yoda",
     "invokedAt": "2022-01-01T12:01:04.496Z"
+  },
+  {
+    "firstName": "Viënne",
+    "lastName": "Siemonsma",
+    "email": "vienne.siemonsma@example.com",
+    "username": "lazybear218",
+    "password": "block",
+    "invokedAt": "2022-01-01T13:05:40.694Z"
   }
 ]
