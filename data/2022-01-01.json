@@ -86,5 +86,13 @@
     "username": "silverfrog503",
     "password": "123123",
     "invokedAt": "2022-01-01T10:05:41.535Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Krings",
+    "email": "martha.krings@example.com",
+    "username": "tinyladybug549",
+    "password": "active",
+    "invokedAt": "2022-01-01T11:00:35.682Z"
   }
 ]
