@@ -142,5 +142,13 @@
     "username": "greenwolf200",
     "password": "18436572",
     "invokedAt": "2022-01-02T17:05:57.199Z"
+  },
+  {
+    "firstName": "Gaspard",
+    "lastName": "Vidal",
+    "email": "gaspard.vidal@example.com",
+    "username": "orangekoala104",
+    "password": "model",
+    "invokedAt": "2022-01-02T18:00:46.912Z"
   }
 ]
