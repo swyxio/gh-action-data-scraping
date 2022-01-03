@@ -174,5 +174,13 @@
     "username": "beautifulkoala954",
     "password": "concorde",
     "invokedAt": "2022-01-03T21:00:38.267Z"
+  },
+  {
+    "firstName": "August",
+    "lastName": "Petersen",
+    "email": "august.petersen@example.com",
+    "username": "smallgorilla539",
+    "password": "score",
+    "invokedAt": "2022-01-03T22:00:50.709Z"
   }
 ]
