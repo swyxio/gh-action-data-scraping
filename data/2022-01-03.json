@@ -182,5 +182,13 @@
     "username": "smallgorilla539",
     "password": "score",
     "invokedAt": "2022-01-03T22:00:50.709Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Claire",
+    "email": "maxime.claire@example.com",
+    "username": "tinyleopard865",
+    "password": "goldfish",
+    "invokedAt": "2022-01-03T23:00:43.062Z"
   }
 ]
