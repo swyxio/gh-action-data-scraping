@@ -46,5 +46,13 @@
     "username": "sadmouse412",
     "password": "toocool",
     "invokedAt": "2022-01-04T05:02:12.848Z"
+  },
+  {
+    "firstName": "Joey",
+    "lastName": "Van Arendonk",
+    "email": "joey.vanarendonk@example.com",
+    "username": "angryfrog318",
+    "password": "sparkle",
+    "invokedAt": "2022-01-04T06:00:45.259Z"
   }
 ]
