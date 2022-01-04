@@ -70,5 +70,13 @@
     "username": "sadcat191",
     "password": "ladies",
     "invokedAt": "2022-01-04T08:00:45.699Z"
+  },
+  {
+    "firstName": "Vernon",
+    "lastName": "Howard",
+    "email": "vernon.howard@example.com",
+    "username": "redbear191",
+    "password": "glotest",
+    "invokedAt": "2022-01-04T09:00:38.632Z"
   }
 ]
