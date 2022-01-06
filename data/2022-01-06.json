@@ -22,5 +22,13 @@
     "username": "biglion321",
     "password": "nextel",
     "invokedAt": "2022-01-06T02:20:07.735Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Jørgensen",
+    "email": "rosa.jorgensen@example.com",
+    "username": "redrabbit582",
+    "password": "1999",
+    "invokedAt": "2022-01-06T03:03:31.082Z"
   }
 ]
