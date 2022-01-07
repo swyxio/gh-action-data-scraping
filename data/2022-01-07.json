@@ -54,5 +54,13 @@
     "username": "tinymouse223",
     "password": "sigmar",
     "invokedAt": "2022-01-07T06:00:45.829Z"
+  },
+  {
+    "firstName": "Jan",
+    "lastName": "Blanc",
+    "email": "jan.blanc@example.com",
+    "username": "yellowbear490",
+    "password": "armstron",
+    "invokedAt": "2022-01-07T07:00:46.251Z"
   }
 ]
