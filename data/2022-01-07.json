@@ -38,5 +38,13 @@
     "username": "yellowostrich400",
     "password": "michigan",
     "invokedAt": "2022-01-07T04:00:42.719Z"
+  },
+  {
+    "firstName": "Hajo",
+    "lastName": "Klasen",
+    "email": "hajo.klasen@example.com",
+    "username": "brownfish743",
+    "password": "pokemon",
+    "invokedAt": "2022-01-07T05:02:19.207Z"
   }
 ]
