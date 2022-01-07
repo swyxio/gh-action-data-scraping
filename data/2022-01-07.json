@@ -94,5 +94,13 @@
     "username": "ticklishrabbit620",
     "password": "base",
     "invokedAt": "2022-01-07T11:00:35.308Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "De Oude",
+    "email": "nikolaj.deoude@example.com",
+    "username": "silvermeercat298",
+    "password": "phil",
+    "invokedAt": "2022-01-07T12:01:02.039Z"
   }
 ]
