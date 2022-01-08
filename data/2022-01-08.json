@@ -174,5 +174,13 @@
     "username": "happypeacock632",
     "password": "experienced",
     "invokedAt": "2022-01-08T21:00:45.669Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "King",
+    "email": "kate.king@example.com",
+    "username": "ticklishbutterfly601",
+    "password": "foreplay",
+    "invokedAt": "2022-01-08T22:02:28.279Z"
   }
 ]
