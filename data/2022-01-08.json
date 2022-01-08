@@ -158,5 +158,13 @@
     "username": "redswan443",
     "password": "israel",
     "invokedAt": "2022-01-08T19:00:39.570Z"
+  },
+  {
+    "firstName": "Nurdan",
+    "lastName": "Paksüt",
+    "email": "nurdan.paksut@example.com",
+    "username": "sadswan888",
+    "password": "caravan",
+    "invokedAt": "2022-01-08T20:00:41.754Z"
   }
 ]
