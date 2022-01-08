@@ -38,5 +38,13 @@
     "username": "heavybutterfly618",
     "password": "hawaii",
     "invokedAt": "2022-01-08T04:00:37.109Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Saksa",
+    "email": "vaino.saksa@example.com",
+    "username": "bluezebra807",
+    "password": "husband",
+    "invokedAt": "2022-01-08T05:02:23.885Z"
   }
 ]
