@@ -86,5 +86,13 @@
     "username": "silvertiger261",
     "password": "amateurs",
     "invokedAt": "2022-01-10T10:00:46.092Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Christiansen",
+    "email": "alfred.christiansen@example.com",
+    "username": "sadlion438",
+    "password": "salsero",
+    "invokedAt": "2022-01-10T11:00:43.639Z"
   }
 ]
