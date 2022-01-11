@@ -102,5 +102,13 @@
     "username": "organicwolf399",
     "password": "starwars",
     "invokedAt": "2022-01-11T12:00:40.779Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Kuzucu",
+    "email": "ulku.kuzucu@example.com",
+    "username": "sadpeacock314",
+    "password": "denmark",
+    "invokedAt": "2022-01-11T13:06:27.780Z"
   }
 ]
