@@ -142,5 +142,13 @@
     "username": "bluerabbit621",
     "password": "yankees2",
     "invokedAt": "2022-01-11T17:12:03.649Z"
+  },
+  {
+    "firstName": "Myrtle",
+    "lastName": "Freeman",
+    "email": "myrtle.freeman@example.com",
+    "username": "sadsnake801",
+    "password": "mustangs",
+    "invokedAt": "2022-01-11T18:00:41.326Z"
   }
 ]
