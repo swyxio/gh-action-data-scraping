@@ -166,5 +166,13 @@
     "username": "blackpanda942",
     "password": "tazmania",
     "invokedAt": "2022-01-11T20:00:53.027Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Stephens",
+    "email": "justin.stephens@example.com",
+    "username": "orangebutterfly776",
+    "password": "samurai",
+    "invokedAt": "2022-01-11T21:00:54.248Z"
   }
 ]
