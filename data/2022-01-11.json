@@ -158,5 +158,13 @@
     "username": "happyostrich219",
     "password": "picturs",
     "invokedAt": "2022-01-11T19:00:44.608Z"
+  },
+  {
+    "firstName": "Eleanor",
+    "lastName": "Pierce",
+    "email": "eleanor.pierce@example.com",
+    "username": "blackpanda942",
+    "password": "tazmania",
+    "invokedAt": "2022-01-11T20:00:53.027Z"
   }
 ]
