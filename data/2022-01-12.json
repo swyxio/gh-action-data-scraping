@@ -70,5 +70,13 @@
     "username": "angryfish117",
     "password": "jsbach",
     "invokedAt": "2022-01-12T09:00:43.284Z"
+  },
+  {
+    "firstName": "Alexa",
+    "lastName": "Freeman",
+    "email": "alexa.freeman@example.com",
+    "username": "brownwolf528",
+    "password": "getmoney",
+    "invokedAt": "2022-01-12T10:00:44.150Z"
   }
 ]
