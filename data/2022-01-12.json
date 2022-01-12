@@ -22,5 +22,13 @@
     "username": "smallcat186",
     "password": "news",
     "invokedAt": "2022-01-12T03:02:26.367Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Boes",
+    "email": "miro.boes@example.com",
+    "username": "blackpanda738",
+    "password": "business",
+    "invokedAt": "2022-01-12T04:00:48.480Z"
   }
 ]
