@@ -70,5 +70,13 @@
     "username": "angrybird657",
     "password": "dogface",
     "invokedAt": "2022-01-14T08:00:57.050Z"
+  },
+  {
+    "firstName": "Benito",
+    "lastName": "Garrido",
+    "email": "benito.garrido@example.com",
+    "username": "whitetiger314",
+    "password": "757575",
+    "invokedAt": "2022-01-14T09:00:33.093Z"
   }
 ]
