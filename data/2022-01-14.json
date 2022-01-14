@@ -54,5 +54,13 @@
     "username": "greenmeercat598",
     "password": "talbot",
     "invokedAt": "2022-01-14T06:00:49.626Z"
+  },
+  {
+    "firstName": "Johanne",
+    "lastName": "Christiansen",
+    "email": "johanne.christiansen@example.com",
+    "username": "sadcat921",
+    "password": "rooney",
+    "invokedAt": "2022-01-14T07:00:37.870Z"
   }
 ]
