@@ -70,5 +70,13 @@
     "username": "bluedog901",
     "password": "1027",
     "invokedAt": "2022-01-15T08:00:51.624Z"
+  },
+  {
+    "firstName": "Hans-Detlef",
+    "lastName": "Berberich",
+    "email": "hans-detlef.berberich@example.com",
+    "username": "greendog464",
+    "password": "amateur",
+    "invokedAt": "2022-01-15T09:00:39.180Z"
   }
 ]
