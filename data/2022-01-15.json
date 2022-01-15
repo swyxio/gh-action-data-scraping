@@ -182,5 +182,13 @@
     "username": "yellowmouse302",
     "password": "mikey1",
     "invokedAt": "2022-01-15T22:00:42.219Z"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Lee",
+    "email": "roy.lee@example.com",
+    "username": "beautifultiger361",
+    "password": "gawker",
+    "invokedAt": "2022-01-15T23:00:37.654Z"
   }
 ]
