@@ -110,5 +110,13 @@
     "username": "bigrabbit404",
     "password": "french",
     "invokedAt": "2022-01-15T13:06:07.577Z"
+  },
+  {
+    "firstName": "Beth",
+    "lastName": "Davis",
+    "email": "beth.davis@example.com",
+    "username": "smallpeacock866",
+    "password": "jaguar",
+    "invokedAt": "2022-01-15T14:00:49.044Z"
   }
 ]
