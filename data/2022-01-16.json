@@ -174,5 +174,13 @@
     "username": "happytiger391",
     "password": "yoyoyo",
     "invokedAt": "2022-01-16T21:00:37.821Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Chow",
+    "email": "leo.chow@example.com",
+    "username": "blackdog964",
+    "password": "hyperion",
+    "invokedAt": "2022-01-16T22:01:01.353Z"
   }
 ]
