@@ -126,5 +126,13 @@
     "username": "yellowduck619",
     "password": "deerhunt",
     "invokedAt": "2022-01-16T15:00:48.923Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Candan",
+    "email": "babur.candan@example.com",
+    "username": "heavytiger142",
+    "password": "enter",
+    "invokedAt": "2022-01-16T16:00:35.713Z"
   }
 ]
