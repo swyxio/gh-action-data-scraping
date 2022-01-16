@@ -158,5 +158,13 @@
     "username": "happymeercat597",
     "password": "encore",
     "invokedAt": "2022-01-16T19:00:42.029Z"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Cruz",
+    "email": "larry.cruz@example.com",
+    "username": "bluebutterfly729",
+    "password": "dogfood",
+    "invokedAt": "2022-01-16T20:00:56.025Z"
   }
 ]
