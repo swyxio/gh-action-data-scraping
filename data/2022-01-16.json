@@ -182,5 +182,13 @@
     "username": "blackdog964",
     "password": "hyperion",
     "invokedAt": "2022-01-16T22:01:01.353Z"
+  },
+  {
+    "firstName": "Lloyd",
+    "lastName": "White",
+    "email": "lloyd.white@example.com",
+    "username": "orangepeacock384",
+    "password": "genesis",
+    "invokedAt": "2022-01-16T23:00:40.662Z"
   }
 ]
