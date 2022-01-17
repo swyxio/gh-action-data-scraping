@@ -182,5 +182,13 @@
     "username": "blackrabbit784",
     "password": "science",
     "invokedAt": "2022-01-17T22:00:48.785Z"
+  },
+  {
+    "firstName": "Vilma",
+    "lastName": "Karvonen",
+    "email": "vilma.karvonen@example.com",
+    "username": "whitekoala233",
+    "password": "kipper",
+    "invokedAt": "2022-01-17T23:00:36.980Z"
   }
 ]
