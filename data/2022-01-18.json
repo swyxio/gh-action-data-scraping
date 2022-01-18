@@ -174,5 +174,13 @@
     "username": "goldenladybug188",
     "password": "waterloo",
     "invokedAt": "2022-01-18T21:00:42.910Z"
+  },
+  {
+    "firstName": "Özsu",
+    "lastName": "Balcı",
+    "email": "ozsu.balci@example.com",
+    "username": "smallcat451",
+    "password": "anakin",
+    "invokedAt": "2022-01-18T22:06:58.922Z"
   }
 ]
