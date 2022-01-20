@@ -102,5 +102,13 @@
     "username": "silverfish705",
     "password": "bucket",
     "invokedAt": "2022-01-20T12:00:39.700Z"
+  },
+  {
+    "firstName": "Valerie",
+    "lastName": "Kim",
+    "email": "valerie.kim@example.com",
+    "username": "greentiger889",
+    "password": "free",
+    "invokedAt": "2022-01-20T13:04:01.289Z"
   }
 ]
