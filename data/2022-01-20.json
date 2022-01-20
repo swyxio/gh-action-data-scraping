@@ -94,5 +94,13 @@
     "username": "blackfish317",
     "password": "hansolo",
     "invokedAt": "2022-01-20T11:03:52.849Z"
+  },
+  {
+    "firstName": "Irina",
+    "lastName": "Barros",
+    "email": "irina.barros@example.com",
+    "username": "silverfish705",
+    "password": "bucket",
+    "invokedAt": "2022-01-20T12:00:39.700Z"
   }
 ]
