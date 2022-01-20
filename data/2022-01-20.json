@@ -166,5 +166,13 @@
     "username": "angrydog433",
     "password": "snowboard",
     "invokedAt": "2022-01-20T21:00:40.082Z"
+  },
+  {
+    "firstName": "Phoebe",
+    "lastName": "Galema",
+    "email": "phoebe.galema@example.com",
+    "username": "crazygoose399",
+    "password": "kelsey",
+    "invokedAt": "2022-01-20T22:00:55.244Z"
   }
 ]
