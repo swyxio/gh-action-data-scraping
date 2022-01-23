@@ -70,5 +70,13 @@
     "username": "lazybear879",
     "password": "china",
     "invokedAt": "2022-01-23T08:00:43.509Z"
+  },
+  {
+    "firstName": "Morris",
+    "lastName": "Dixon",
+    "email": "morris.dixon@example.com",
+    "username": "organicduck548",
+    "password": "money",
+    "invokedAt": "2022-01-23T09:00:45.668Z"
   }
 ]
