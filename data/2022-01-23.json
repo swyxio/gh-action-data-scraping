@@ -46,5 +46,13 @@
     "username": "goldenpeacock592",
     "password": "club",
     "invokedAt": "2022-01-23T05:00:40.118Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Butler",
+    "email": "charles.butler@example.com",
+    "username": "orangebutterfly232",
+    "password": "doubled",
+    "invokedAt": "2022-01-23T06:00:55.837Z"
   }
 ]
