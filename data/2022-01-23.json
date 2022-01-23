@@ -54,5 +54,13 @@
     "username": "orangebutterfly232",
     "password": "doubled",
     "invokedAt": "2022-01-23T06:00:55.837Z"
+  },
+  {
+    "firstName": "Ratna",
+    "lastName": "Van den Nieuwenhof",
+    "email": "ratna.vandennieuwenhof@example.com",
+    "username": "bigzebra971",
+    "password": "basket",
+    "invokedAt": "2022-01-23T07:00:36.701Z"
   }
 ]
