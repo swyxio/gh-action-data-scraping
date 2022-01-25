@@ -94,5 +94,13 @@
     "username": "whitebird371",
     "password": "forum",
     "invokedAt": "2022-01-25T11:00:35.760Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Macrae",
+    "email": "anna.macrae@example.com",
+    "username": "sadladybug868",
+    "password": "012345",
+    "invokedAt": "2022-01-25T12:00:55.317Z"
   }
 ]
