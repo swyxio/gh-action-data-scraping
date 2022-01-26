@@ -150,5 +150,13 @@
     "username": "lazypanda231",
     "password": "felicia",
     "invokedAt": "2022-01-26T18:00:42.895Z"
+  },
+  {
+    "firstName": "درسا",
+    "lastName": "صدر",
+    "email": "drs.sdr@example.com",
+    "username": "redpanda889",
+    "password": "buckeye",
+    "invokedAt": "2022-01-26T19:00:54.025Z"
   }
 ]
