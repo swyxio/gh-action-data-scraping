@@ -94,5 +94,13 @@
     "username": "saddog902",
     "password": "indiana",
     "invokedAt": "2022-01-26T11:01:00.974Z"
+  },
+  {
+    "firstName": "Frederikke",
+    "lastName": "Kristensen",
+    "email": "frederikke.kristensen@example.com",
+    "username": "blackleopard553",
+    "password": "hollywood",
+    "invokedAt": "2022-01-26T12:00:45.863Z"
   }
 ]
