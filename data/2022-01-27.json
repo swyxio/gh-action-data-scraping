@@ -142,5 +142,13 @@
     "username": "brownwolf224",
     "password": "conover",
     "invokedAt": "2022-01-27T17:08:46.171Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Thomas",
+    "email": "lucas.thomas@example.com",
+    "username": "angryfish690",
+    "password": "scout",
+    "invokedAt": "2022-01-27T18:00:55.835Z"
   }
 ]
