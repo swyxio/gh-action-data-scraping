@@ -158,5 +158,13 @@
     "username": "orangegorilla110",
     "password": "shirley",
     "invokedAt": "2022-01-27T19:00:54.138Z"
+  },
+  {
+    "firstName": "Lucie",
+    "lastName": "Duval",
+    "email": "lucie.duval@example.com",
+    "username": "smallrabbit704",
+    "password": "hookem",
+    "invokedAt": "2022-01-27T20:00:47.615Z"
   }
 ]
