@@ -62,5 +62,13 @@
     "username": "sadkoala520",
     "password": "ring",
     "invokedAt": "2022-01-27T07:00:39.204Z"
+  },
+  {
+    "firstName": "Jochem",
+    "lastName": "Neufeld",
+    "email": "jochem.neufeld@example.com",
+    "username": "blacktiger903",
+    "password": "reflex",
+    "invokedAt": "2022-01-27T08:00:58.471Z"
   }
 ]
