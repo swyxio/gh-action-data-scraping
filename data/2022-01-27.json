@@ -22,5 +22,13 @@
     "username": "redfish434",
     "password": "remingto",
     "invokedAt": "2022-01-27T02:11:27.333Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Guillaume",
+    "email": "liam.guillaume@example.com",
+    "username": "yellowswan497",
+    "password": "playmate",
+    "invokedAt": "2022-01-27T03:00:39.003Z"
   }
 ]
