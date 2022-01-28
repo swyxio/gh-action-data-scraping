@@ -118,5 +118,13 @@
     "username": "bluepanda565",
     "password": "airport",
     "invokedAt": "2022-01-28T14:00:37.567Z"
+  },
+  {
+    "firstName": "Natascha",
+    "lastName": "Nguyen",
+    "email": "natascha.nguyen@example.com",
+    "username": "greenwolf960",
+    "password": "alberto",
+    "invokedAt": "2022-01-28T15:00:48.340Z"
   }
 ]
