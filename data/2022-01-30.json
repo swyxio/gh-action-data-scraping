@@ -86,5 +86,13 @@
     "username": "biglion549",
     "password": "joshua1",
     "invokedAt": "2022-01-30T10:00:39.469Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Kulaksızoğlu",
+    "email": "afsar.kulaksizoglu@example.com",
+    "username": "greenswan187",
+    "password": "racecar",
+    "invokedAt": "2022-01-30T11:00:35.647Z"
   }
 ]
