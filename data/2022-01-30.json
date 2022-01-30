@@ -94,5 +94,13 @@
     "username": "greenswan187",
     "password": "racecar",
     "invokedAt": "2022-01-30T11:00:35.647Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Meyer",
+    "email": "marc.meyer@example.com",
+    "username": "organicbear476",
+    "password": "javelin",
+    "invokedAt": "2022-01-30T12:00:37.800Z"
   }
 ]
