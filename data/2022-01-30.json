@@ -102,5 +102,13 @@
     "username": "organicbear476",
     "password": "javelin",
     "invokedAt": "2022-01-30T12:00:37.800Z"
+  },
+  {
+    "firstName": "Everett",
+    "lastName": "Wagner",
+    "email": "everett.wagner@example.com",
+    "username": "ticklishbear875",
+    "password": "true",
+    "invokedAt": "2022-01-30T13:02:29.778Z"
   }
 ]
