@@ -134,5 +134,13 @@
     "username": "tinybird870",
     "password": "daylight",
     "invokedAt": "2022-01-31T16:05:36.568Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Keçeci",
+    "email": "coskun.kececi@example.com",
+    "username": "angryrabbit329",
+    "password": "secret1",
+    "invokedAt": "2022-01-31T17:05:36.150Z"
   }
 ]
