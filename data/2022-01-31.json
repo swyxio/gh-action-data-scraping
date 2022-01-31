@@ -102,5 +102,13 @@
     "username": "organickoala753",
     "password": "pertinant",
     "invokedAt": "2022-01-31T12:00:41.944Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Williams",
+    "email": "charlie.williams@example.com",
+    "username": "happymouse944",
+    "password": "travis",
+    "invokedAt": "2022-01-31T13:08:37.999Z"
   }
 ]
