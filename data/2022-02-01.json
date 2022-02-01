@@ -54,5 +54,13 @@
     "username": "ticklishmeercat510",
     "password": "darwin",
     "invokedAt": "2022-02-01T06:00:44.467Z"
+  },
+  {
+    "firstName": "Lillian",
+    "lastName": "Jones",
+    "email": "lillian.jones@example.com",
+    "username": "silverelephant862",
+    "password": "penguins",
+    "invokedAt": "2022-02-01T07:00:42.995Z"
   }
 ]
