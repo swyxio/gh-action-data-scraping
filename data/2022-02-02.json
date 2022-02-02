@@ -54,5 +54,13 @@
     "username": "ticklishostrich815",
     "password": "enterprise",
     "invokedAt": "2022-02-02T06:00:47.325Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "White",
+    "email": "rose.white@example.com",
+    "username": "purplebutterfly897",
+    "password": "nintendo",
+    "invokedAt": "2022-02-02T07:00:38.181Z"
   }
 ]
