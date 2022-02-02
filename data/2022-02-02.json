@@ -142,5 +142,13 @@
     "username": "heavyostrich898",
     "password": "cyclones",
     "invokedAt": "2022-02-02T17:07:43.924Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Sørensen",
+    "email": "ella.sorensen@example.com",
+    "username": "smallkoala898",
+    "password": "australi",
+    "invokedAt": "2022-02-02T18:00:37.477Z"
   }
 ]
