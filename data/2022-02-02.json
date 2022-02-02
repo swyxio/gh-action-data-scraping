@@ -118,5 +118,13 @@
     "username": "brownsnake585",
     "password": "pippin",
     "invokedAt": "2022-02-02T14:05:35.702Z"
+  },
+  {
+    "firstName": "Vishnu",
+    "lastName": "Van de Schoot",
+    "email": "vishnu.vandeschoot@example.com",
+    "username": "happybird237",
+    "password": "scotland",
+    "invokedAt": "2022-02-02T15:05:50.829Z"
   }
 ]
