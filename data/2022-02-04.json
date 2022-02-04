@@ -94,5 +94,13 @@
     "username": "greentiger252",
     "password": "dusty",
     "invokedAt": "2022-02-04T11:00:36.858Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Gümüşpala",
+    "email": "babur.gumuspala@example.com",
+    "username": "redfrog590",
+    "password": "jammin",
+    "invokedAt": "2022-02-04T12:00:50.574Z"
   }
 ]
