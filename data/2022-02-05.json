@@ -150,5 +150,13 @@
     "username": "goldengorilla404",
     "password": "eternity",
     "invokedAt": "2022-02-05T18:00:42.533Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Li",
+    "email": "lily.li@example.com",
+    "username": "redfish248",
+    "password": "nymets",
+    "invokedAt": "2022-02-05T19:00:30.838Z"
   }
 ]
