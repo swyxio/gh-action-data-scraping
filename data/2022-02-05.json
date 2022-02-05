@@ -158,5 +158,13 @@
     "username": "redfish248",
     "password": "nymets",
     "invokedAt": "2022-02-05T19:00:30.838Z"
+  },
+  {
+    "firstName": "Kirk",
+    "lastName": "Patterson",
+    "email": "kirk.patterson@example.com",
+    "username": "happyleopard974",
+    "password": "porkchop",
+    "invokedAt": "2022-02-05T20:00:54.682Z"
   }
 ]
