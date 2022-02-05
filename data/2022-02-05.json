@@ -94,5 +94,13 @@
     "username": "smallmouse923",
     "password": "objects",
     "invokedAt": "2022-02-05T11:00:56.619Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Madsen",
+    "email": "jacob.madsen@example.com",
+    "username": "goldentiger900",
+    "password": "anubis",
+    "invokedAt": "2022-02-05T12:00:37.261Z"
   }
 ]
