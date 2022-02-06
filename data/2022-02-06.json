@@ -46,5 +46,13 @@
     "username": "blueleopard666",
     "password": "feather",
     "invokedAt": "2022-02-06T05:01:05.124Z"
+  },
+  {
+    "firstName": "Nita",
+    "lastName": "Van Bezooijen",
+    "email": "nita.vanbezooijen@example.com",
+    "username": "greenleopard213",
+    "password": "away",
+    "invokedAt": "2022-02-06T06:00:43.701Z"
   }
 ]
