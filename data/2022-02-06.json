@@ -62,5 +62,13 @@
     "username": "organicpanda151",
     "password": "somerset",
     "invokedAt": "2022-02-06T07:00:37.847Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Roche",
+    "email": "andy.roche@example.com",
+    "username": "smallpanda811",
+    "password": "iforgot",
+    "invokedAt": "2022-02-06T08:00:37.971Z"
   }
 ]
