@@ -150,5 +150,13 @@
     "username": "silvermeercat277",
     "password": "pa55word",
     "invokedAt": "2022-02-06T18:00:40.756Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Petersen",
+    "email": "oliver.petersen@example.com",
+    "username": "bigmeercat569",
+    "password": "bone",
+    "invokedAt": "2022-02-06T19:00:35.196Z"
   }
 ]
