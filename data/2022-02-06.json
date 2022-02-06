@@ -94,5 +94,13 @@
     "username": "heavysnake213",
     "password": "polo",
     "invokedAt": "2022-02-06T11:02:00.166Z"
+  },
+  {
+    "firstName": "Kerttu",
+    "lastName": "Kurtti",
+    "email": "kerttu.kurtti@example.com",
+    "username": "smallfrog136",
+    "password": "dealer",
+    "invokedAt": "2022-02-06T12:00:43.132Z"
   }
 ]
