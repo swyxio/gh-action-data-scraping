@@ -126,5 +126,13 @@
     "username": "redfrog406",
     "password": "sputnik",
     "invokedAt": "2022-02-07T15:06:03.094Z"
+  },
+  {
+    "firstName": "Beverley",
+    "lastName": "Lewis",
+    "email": "beverley.lewis@example.com",
+    "username": "lazytiger279",
+    "password": "slim",
+    "invokedAt": "2022-02-07T16:00:42.586Z"
   }
 ]
