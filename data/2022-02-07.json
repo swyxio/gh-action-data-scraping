@@ -118,5 +118,13 @@
     "username": "bigwolf340",
     "password": "motley",
     "invokedAt": "2022-02-07T14:00:55.611Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Pilskog",
+    "email": "sarah.pilskog@example.com",
+    "username": "redfrog406",
+    "password": "sputnik",
+    "invokedAt": "2022-02-07T15:06:03.094Z"
   }
 ]
