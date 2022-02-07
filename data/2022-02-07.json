@@ -6,5 +6,13 @@
     "username": "blueswan698",
     "password": "jump",
     "invokedAt": "2022-02-07T00:00:49.528Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Barbarosoğlu",
+    "email": "babur.barbarosoglu@example.com",
+    "username": "reddog394",
+    "password": "racing",
+    "invokedAt": "2022-02-07T01:22:24.276Z"
   }
 ]
