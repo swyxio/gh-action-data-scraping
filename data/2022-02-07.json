@@ -94,5 +94,13 @@
     "username": "lazyswan343",
     "password": "1a2b3c",
     "invokedAt": "2022-02-07T11:04:19.813Z"
+  },
+  {
+    "firstName": "Craig",
+    "lastName": "Moore",
+    "email": "craig.moore@example.com",
+    "username": "smallfish808",
+    "password": "getting",
+    "invokedAt": "2022-02-07T12:00:44.878Z"
   }
 ]
