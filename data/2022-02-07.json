@@ -158,5 +158,13 @@
     "username": "biggorilla256",
     "password": "dewalt",
     "invokedAt": "2022-02-07T19:05:46.444Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Paksüt",
+    "email": "adem.paksut@example.com",
+    "username": "greenmeercat421",
+    "password": "animal",
+    "invokedAt": "2022-02-07T20:00:48.833Z"
   }
 ]
