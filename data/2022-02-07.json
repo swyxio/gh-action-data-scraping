@@ -166,5 +166,13 @@
     "username": "greenmeercat421",
     "password": "animal",
     "invokedAt": "2022-02-07T20:00:48.833Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Sørensen",
+    "email": "carl.sorensen@example.com",
+    "username": "orangefish146",
+    "password": "twist",
+    "invokedAt": "2022-02-07T21:00:43.595Z"
   }
 ]
