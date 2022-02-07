@@ -46,5 +46,13 @@
     "username": "lazypanda357",
     "password": "marino",
     "invokedAt": "2022-02-07T05:00:36.942Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "Blanc",
+    "email": "valentin.blanc@example.com",
+    "username": "organiccat200",
+    "password": "cancer",
+    "invokedAt": "2022-02-07T06:00:58.503Z"
   }
 ]
