@@ -166,5 +166,13 @@
     "username": "tinyzebra328",
     "password": "delta1",
     "invokedAt": "2022-02-08T20:00:45.180Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Fields",
+    "email": "terry.fields@example.com",
+    "username": "greenmouse950",
+    "password": "duncan",
+    "invokedAt": "2022-02-08T21:05:45.352Z"
   }
 ]
