@@ -62,5 +62,13 @@
     "username": "saddog862",
     "password": "nirvana",
     "invokedAt": "2022-02-10T07:00:37.738Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Ozansoy",
+    "email": "ulku.ozansoy@example.com",
+    "username": "yellowkoala676",
+    "password": "eric",
+    "invokedAt": "2022-02-10T08:00:46.594Z"
   }
 ]
