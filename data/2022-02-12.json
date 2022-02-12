@@ -46,5 +46,13 @@
     "username": "brownzebra895",
     "password": "smiths",
     "invokedAt": "2022-02-12T05:00:34.872Z"
+  },
+  {
+    "firstName": "Cloé",
+    "lastName": "Aragão",
+    "email": "cloe.aragao@example.com",
+    "username": "silverzebra507",
+    "password": "just4me",
+    "invokedAt": "2022-02-12T06:00:32.100Z"
   }
 ]
