@@ -118,5 +118,13 @@
     "username": "sadwolf610",
     "password": "talbot",
     "invokedAt": "2022-02-13T14:00:47.875Z"
+  },
+  {
+    "firstName": "Heiko",
+    "lastName": "Koppens",
+    "email": "heiko.koppens@example.com",
+    "username": "beautifulpeacock137",
+    "password": "pass123",
+    "invokedAt": "2022-02-13T15:00:41.266Z"
   }
 ]
