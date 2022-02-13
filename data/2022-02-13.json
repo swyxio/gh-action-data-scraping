@@ -110,5 +110,13 @@
     "username": "crazyswan195",
     "password": "engine",
     "invokedAt": "2022-02-13T13:02:21.458Z"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Smith",
+    "email": "amelia.smith@example.com",
+    "username": "sadwolf610",
+    "password": "talbot",
+    "invokedAt": "2022-02-13T14:00:47.875Z"
   }
 ]
