@@ -62,5 +62,13 @@
     "username": "blackpeacock988",
     "password": "italia",
     "invokedAt": "2022-02-13T07:00:35.104Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Lo",
+    "email": "sophie.lo@example.com",
+    "username": "blackgoose454",
+    "password": "sanity72",
+    "invokedAt": "2022-02-13T08:00:41.319Z"
   }
 ]
