@@ -166,5 +166,13 @@
     "username": "silverfrog127",
     "password": "soft",
     "invokedAt": "2022-02-14T20:00:38.739Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Christiansen",
+    "email": "mikkel.christiansen@example.com",
+    "username": "purpleduck231",
+    "password": "keywest",
+    "invokedAt": "2022-02-14T21:00:41.057Z"
   }
 ]
