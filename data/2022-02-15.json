@@ -126,5 +126,13 @@
     "username": "greenpanda212",
     "password": "bing",
     "invokedAt": "2022-02-15T17:05:59.663Z"
+  },
+  {
+    "firstName": "Michaela",
+    "lastName": "Bastiaanssen",
+    "email": "michaela.bastiaanssen@example.com",
+    "username": "bigbear658",
+    "password": "airforce",
+    "invokedAt": "2022-02-15T18:00:47.250Z"
   }
 ]
