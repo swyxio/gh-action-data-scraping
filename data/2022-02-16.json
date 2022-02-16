@@ -126,5 +126,13 @@
     "username": "bigpanda136",
     "password": "templar",
     "invokedAt": "2022-02-16T15:05:45.306Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Johansen",
+    "email": "jonas.johansen@example.com",
+    "username": "heavymouse344",
+    "password": "spyder",
+    "invokedAt": "2022-02-16T16:01:46.658Z"
   }
 ]
