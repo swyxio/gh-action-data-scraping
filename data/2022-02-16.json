@@ -102,5 +102,13 @@
     "username": "blackdog290",
     "password": "labia",
     "invokedAt": "2022-02-16T12:00:51.983Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Mason",
+    "email": "bill.mason@example.com",
+    "username": "happyfrog976",
+    "password": "village",
+    "invokedAt": "2022-02-16T13:03:09.555Z"
   }
 ]
