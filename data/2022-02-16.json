@@ -118,5 +118,13 @@
     "username": "crazyduck145",
     "password": "titanium",
     "invokedAt": "2022-02-16T14:08:00.605Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Wiitala",
+    "email": "lauri.wiitala@example.com",
+    "username": "bigpanda136",
+    "password": "templar",
+    "invokedAt": "2022-02-16T15:05:45.306Z"
   }
 ]
