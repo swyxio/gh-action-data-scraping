@@ -38,5 +38,13 @@
     "username": "beautifullion466",
     "password": "secret",
     "invokedAt": "2022-02-17T04:00:39.764Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Denis",
+    "email": "martin.denis@example.com",
+    "username": "whiterabbit680",
+    "password": "fantasy",
+    "invokedAt": "2022-02-17T05:00:35.546Z"
   }
 ]
