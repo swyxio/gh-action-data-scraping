@@ -30,5 +30,13 @@
     "username": "redtiger310",
     "password": "telefon",
     "invokedAt": "2022-02-17T03:00:57.378Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Roman",
+    "email": "julia.roman@example.com",
+    "username": "beautifullion466",
+    "password": "secret",
+    "invokedAt": "2022-02-17T04:00:39.764Z"
   }
 ]
