@@ -150,5 +150,13 @@
     "username": "beautifuldog712",
     "password": "cameltoe",
     "invokedAt": "2022-02-18T18:00:49.124Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Christiansen",
+    "email": "mikkel.christiansen@example.com",
+    "username": "silverbird943",
+    "password": "matrix",
+    "invokedAt": "2022-02-18T19:00:37.140Z"
   }
 ]
