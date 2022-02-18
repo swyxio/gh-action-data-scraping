@@ -62,5 +62,13 @@
     "username": "crazyzebra888",
     "password": "jezebel",
     "invokedAt": "2022-02-18T07:00:41.546Z"
+  },
+  {
+    "firstName": "Sjouke",
+    "lastName": "Lootsma",
+    "email": "sjouke.lootsma@example.com",
+    "username": "brownelephant387",
+    "password": "vegeta",
+    "invokedAt": "2022-02-18T08:00:48.872Z"
   }
 ]
