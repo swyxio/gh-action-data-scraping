@@ -38,5 +38,13 @@
     "username": "organiczebra861",
     "password": "village",
     "invokedAt": "2022-02-19T04:00:36.425Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Anderson",
+    "email": "lucas.anderson@example.com",
+    "username": "redswan322",
+    "password": "gunther",
+    "invokedAt": "2022-02-19T05:00:32.131Z"
   }
 ]
