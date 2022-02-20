@@ -22,5 +22,13 @@
     "username": "beautifuldog227",
     "password": "redbone",
     "invokedAt": "2022-02-20T02:13:32.246Z"
+  },
+  {
+    "firstName": "Minttu",
+    "lastName": "Tolonen",
+    "email": "minttu.tolonen@example.com",
+    "username": "redgoose405",
+    "password": "common",
+    "invokedAt": "2022-02-20T03:00:38.217Z"
   }
 ]
