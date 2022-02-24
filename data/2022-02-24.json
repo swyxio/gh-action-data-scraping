@@ -174,5 +174,13 @@
     "username": "angrybird461",
     "password": "hammers",
     "invokedAt": "2022-02-24T21:00:39.939Z"
+  },
+  {
+    "firstName": "Timo",
+    "lastName": "Schneider",
+    "email": "timo.schneider@example.com",
+    "username": "silverladybug596",
+    "password": "artist",
+    "invokedAt": "2022-02-24T22:01:01.516Z"
   }
 ]
