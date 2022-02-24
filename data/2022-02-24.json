@@ -182,5 +182,13 @@
     "username": "silverladybug596",
     "password": "artist",
     "invokedAt": "2022-02-24T22:01:01.516Z"
+  },
+  {
+    "firstName": "Domingo",
+    "lastName": "Saez",
+    "email": "domingo.saez@example.com",
+    "username": "sadelephant666",
+    "password": "broncos",
+    "invokedAt": "2022-02-24T23:00:55.466Z"
   }
 ]
