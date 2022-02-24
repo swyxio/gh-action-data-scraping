@@ -158,5 +158,13 @@
     "username": "bluefish875",
     "password": "enter1",
     "invokedAt": "2022-02-24T19:00:36.450Z"
+  },
+  {
+    "firstName": "Kaïs",
+    "lastName": "Vidal",
+    "email": "kais.vidal@example.com",
+    "username": "bigmeercat784",
+    "password": "sluggo",
+    "invokedAt": "2022-02-24T20:00:55.609Z"
   }
 ]
