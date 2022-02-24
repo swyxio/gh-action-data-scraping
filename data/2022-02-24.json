@@ -102,5 +102,13 @@
     "username": "bigkoala498",
     "password": "hiking",
     "invokedAt": "2022-02-24T12:00:46.358Z"
+  },
+  {
+    "firstName": "Eléa",
+    "lastName": "Legrand",
+    "email": "elea.legrand@example.com",
+    "username": "goldentiger271",
+    "password": "icu812",
+    "invokedAt": "2022-02-24T13:04:23.767Z"
   }
 ]
