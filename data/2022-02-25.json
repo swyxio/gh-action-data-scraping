@@ -166,5 +166,13 @@
     "username": "sadfish250",
     "password": "meadow",
     "invokedAt": "2022-02-25T20:00:36.178Z"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Simmons",
+    "email": "nina.simmons@example.com",
+    "username": "purpleladybug142",
+    "password": "shui",
+    "invokedAt": "2022-02-25T21:00:41.369Z"
   }
 ]
