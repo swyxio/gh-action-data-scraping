@@ -94,5 +94,13 @@
     "username": "whitetiger277",
     "password": "redrum",
     "invokedAt": "2022-02-27T11:00:31.726Z"
+  },
+  {
+    "firstName": "Eden",
+    "lastName": "Martin",
+    "email": "eden.martin@example.com",
+    "username": "whitefrog559",
+    "password": "bond007",
+    "invokedAt": "2022-02-27T12:00:58.459Z"
   }
 ]
