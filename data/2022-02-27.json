@@ -30,5 +30,13 @@
     "username": "goldenmouse179",
     "password": "pokemon",
     "invokedAt": "2022-02-27T03:06:48.730Z"
+  },
+  {
+    "firstName": "Hans-Martin",
+    "lastName": "Bräuer",
+    "email": "hans-martin.brauer@example.com",
+    "username": "angrylion816",
+    "password": "earl",
+    "invokedAt": "2022-02-27T04:00:50.625Z"
   }
 ]
