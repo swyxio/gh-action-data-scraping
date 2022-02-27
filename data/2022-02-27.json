@@ -166,5 +166,13 @@
     "username": "heavyladybug361",
     "password": "blue32",
     "invokedAt": "2022-02-27T20:00:44.978Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "White",
+    "email": "sarah.white@example.com",
+    "username": "heavyladybug555",
+    "password": "1111",
+    "invokedAt": "2022-02-27T21:00:43.967Z"
   }
 ]
