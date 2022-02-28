@@ -158,5 +158,13 @@
     "username": "beautifulpeacock488",
     "password": "killian",
     "invokedAt": "2022-02-28T19:00:44.397Z"
+  },
+  {
+    "firstName": "Bryan",
+    "lastName": "Miller",
+    "email": "bryan.miller@example.com",
+    "username": "sadfish470",
+    "password": "gonzalez",
+    "invokedAt": "2022-02-28T20:00:54.842Z"
   }
 ]
