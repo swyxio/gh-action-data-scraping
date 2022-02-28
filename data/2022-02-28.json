@@ -142,5 +142,13 @@
     "username": "greenpanda182",
     "password": "arkansas",
     "invokedAt": "2022-02-28T17:03:05.576Z"
+  },
+  {
+    "firstName": "Zdenka",
+    "lastName": "Schütz",
+    "email": "zdenka.schutz@example.com",
+    "username": "purplefrog172",
+    "password": "creative",
+    "invokedAt": "2022-02-28T18:00:42.579Z"
   }
 ]
