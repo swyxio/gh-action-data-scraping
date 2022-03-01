@@ -118,5 +118,13 @@
     "username": "heavyrabbit782",
     "password": "paulie",
     "invokedAt": "2022-03-01T14:06:06.266Z"
+  },
+  {
+    "firstName": "Marie-Claire",
+    "lastName": "Picard",
+    "email": "marie-claire.picard@example.com",
+    "username": "heavycat456",
+    "password": "rebel",
+    "invokedAt": "2022-03-01T15:07:08.242Z"
   }
 ]
