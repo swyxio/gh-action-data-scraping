@@ -78,5 +78,13 @@
     "username": "sadmeercat346",
     "password": "alberta",
     "invokedAt": "2022-03-02T09:00:40.674Z"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "West",
+    "email": "jamie.west@example.com",
+    "username": "yellowswan232",
+    "password": "tootsie",
+    "invokedAt": "2022-03-02T10:02:45.668Z"
   }
 ]
