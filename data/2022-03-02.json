@@ -94,5 +94,13 @@
     "username": "smallswan696",
     "password": "cars",
     "invokedAt": "2022-03-02T11:00:52.517Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Huhtala",
+    "email": "samuel.huhtala@example.com",
+    "username": "purplebird337",
+    "password": "escort",
+    "invokedAt": "2022-03-02T12:00:39.310Z"
   }
 ]
