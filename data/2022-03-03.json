@@ -38,5 +38,13 @@
     "username": "ticklishzebra310",
     "password": "dizzy",
     "invokedAt": "2022-03-03T04:00:33.604Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Andersen",
+    "email": "gustav.andersen@example.com",
+    "username": "sadcat596",
+    "password": "perfect",
+    "invokedAt": "2022-03-03T05:00:33.681Z"
   }
 ]
