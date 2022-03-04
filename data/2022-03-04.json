@@ -182,5 +182,13 @@
     "username": "purplepeacock456",
     "password": "carrera",
     "invokedAt": "2022-03-04T22:00:41.297Z"
+  },
+  {
+    "firstName": "Carter",
+    "lastName": "Jones",
+    "email": "carter.jones@example.com",
+    "username": "angryzebra945",
+    "password": "frontier",
+    "invokedAt": "2022-03-04T23:00:49.680Z"
   }
 ]
