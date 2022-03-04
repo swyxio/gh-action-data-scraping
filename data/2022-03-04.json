@@ -46,5 +46,13 @@
     "username": "purplekoala285",
     "password": "stayout",
     "invokedAt": "2022-03-04T05:00:43.724Z"
+  },
+  {
+    "firstName": "Hilletje",
+    "lastName": "Kropman",
+    "email": "hilletje.kropman@example.com",
+    "username": "greenbutterfly113",
+    "password": "tomtom",
+    "invokedAt": "2022-03-04T06:00:57.106Z"
   }
 ]
