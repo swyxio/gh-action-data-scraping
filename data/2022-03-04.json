@@ -118,5 +118,13 @@
     "username": "browncat290",
     "password": "mazda",
     "invokedAt": "2022-03-04T14:02:22.732Z"
+  },
+  {
+    "firstName": "Lene",
+    "lastName": "Schellenberg",
+    "email": "lene.schellenberg@example.com",
+    "username": "happyelephant117",
+    "password": "biology",
+    "invokedAt": "2022-03-04T15:05:40.671Z"
   }
 ]
