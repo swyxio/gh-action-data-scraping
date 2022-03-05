@@ -126,5 +126,13 @@
     "username": "goldenfish817",
     "password": "gidget",
     "invokedAt": "2022-03-05T15:00:42.322Z"
+  },
+  {
+    "firstName": "Belchior",
+    "lastName": "Oliveira",
+    "email": "belchior.oliveira@example.com",
+    "username": "bluemouse888",
+    "password": "santiago",
+    "invokedAt": "2022-03-05T16:00:31.112Z"
   }
 ]
