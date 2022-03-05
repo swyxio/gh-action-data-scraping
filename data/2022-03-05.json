@@ -142,5 +142,13 @@
     "username": "whitebutterfly273",
     "password": "vampires",
     "invokedAt": "2022-03-05T17:01:29.817Z"
+  },
+  {
+    "firstName": "امیر",
+    "lastName": "حیدری",
+    "email": "myr.hydry@example.com",
+    "username": "bigladybug432",
+    "password": "1234abcd",
+    "invokedAt": "2022-03-05T18:00:43.078Z"
   }
 ]
