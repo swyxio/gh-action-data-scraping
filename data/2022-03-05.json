@@ -118,5 +118,13 @@
     "username": "happysnake797",
     "password": "geneva",
     "invokedAt": "2022-03-05T14:00:34.309Z"
+  },
+  {
+    "firstName": "Gilda",
+    "lastName": "Rezende",
+    "email": "gilda.rezende@example.com",
+    "username": "goldenfish817",
+    "password": "gidget",
+    "invokedAt": "2022-03-05T15:00:42.322Z"
   }
 ]
