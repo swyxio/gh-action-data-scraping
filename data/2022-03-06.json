@@ -134,5 +134,13 @@
     "username": "whitetiger687",
     "password": "riddle",
     "invokedAt": "2022-03-06T16:00:36.666Z"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Edwards",
+    "email": "steven.edwards@example.com",
+    "username": "crazyswan499",
+    "password": "ballin",
+    "invokedAt": "2022-03-06T17:01:35.843Z"
   }
 ]
