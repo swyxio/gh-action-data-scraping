@@ -126,5 +126,13 @@
     "username": "goldenmouse661",
     "password": "friday",
     "invokedAt": "2022-03-06T15:00:49.852Z"
+  },
+  {
+    "firstName": "Ines",
+    "lastName": "Fuentes",
+    "email": "ines.fuentes@example.com",
+    "username": "whitetiger687",
+    "password": "riddle",
+    "invokedAt": "2022-03-06T16:00:36.666Z"
   }
 ]
