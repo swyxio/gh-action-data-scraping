@@ -46,5 +46,13 @@
     "username": "whiteostrich352",
     "password": "close-up",
     "invokedAt": "2022-03-06T05:00:39.990Z"
+  },
+  {
+    "firstName": "Grégoire",
+    "lastName": "Lecomte",
+    "email": "gregoire.lecomte@example.com",
+    "username": "blackbear761",
+    "password": "emmitt",
+    "invokedAt": "2022-03-06T06:00:37.636Z"
   }
 ]
