@@ -158,5 +158,13 @@
     "username": "greenwolf969",
     "password": "anfield",
     "invokedAt": "2022-03-07T19:00:57.374Z"
+  },
+  {
+    "firstName": "Venla",
+    "lastName": "Heinonen",
+    "email": "venla.heinonen@example.com",
+    "username": "lazycat140",
+    "password": "battle",
+    "invokedAt": "2022-03-07T20:01:48.428Z"
   }
 ]
