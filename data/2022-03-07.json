@@ -166,5 +166,13 @@
     "username": "lazycat140",
     "password": "battle",
     "invokedAt": "2022-03-07T20:01:48.428Z"
+  },
+  {
+    "firstName": "Morgane",
+    "lastName": "Dupont",
+    "email": "morgane.dupont@example.com",
+    "username": "beautifulbird623",
+    "password": "fruity",
+    "invokedAt": "2022-03-07T21:01:00.075Z"
   }
 ]
