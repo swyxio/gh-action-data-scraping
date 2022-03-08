@@ -102,5 +102,13 @@
     "username": "purplepanda367",
     "password": "spectrum",
     "invokedAt": "2022-03-08T12:00:34.009Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Robinson",
+    "email": "marcus.robinson@example.com",
+    "username": "purplegoose958",
+    "password": "shadows",
+    "invokedAt": "2022-03-08T13:05:20.273Z"
   }
 ]
