@@ -86,5 +86,13 @@
     "username": "organicduck435",
     "password": "summit",
     "invokedAt": "2022-03-08T10:00:49.829Z"
+  },
+  {
+    "firstName": "Mikael",
+    "lastName": "Kivela",
+    "email": "mikael.kivela@example.com",
+    "username": "sadbird265",
+    "password": "grateful",
+    "invokedAt": "2022-03-08T11:01:47.715Z"
   }
 ]
