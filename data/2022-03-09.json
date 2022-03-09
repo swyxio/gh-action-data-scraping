@@ -46,5 +46,13 @@
     "username": "lazygoose491",
     "password": "lock",
     "invokedAt": "2022-03-09T05:00:36.615Z"
+  },
+  {
+    "firstName": "Nino",
+    "lastName": "Fleury",
+    "email": "nino.fleury@example.com",
+    "username": "beautifulgorilla446",
+    "password": "chocolate",
+    "invokedAt": "2022-03-09T06:00:48.022Z"
   }
 ]
