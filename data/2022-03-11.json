@@ -118,5 +118,13 @@
     "username": "brownelephant850",
     "password": "hunt",
     "invokedAt": "2022-03-11T14:00:50.227Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "David",
+    "email": "lily.david@example.com",
+    "username": "silverwolf156",
+    "password": "helium",
+    "invokedAt": "2022-03-11T15:05:50.621Z"
   }
 ]
