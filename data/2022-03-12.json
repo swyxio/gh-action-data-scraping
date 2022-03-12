@@ -118,5 +118,13 @@
     "username": "bigtiger630",
     "password": "prozac",
     "invokedAt": "2022-03-12T14:00:38.763Z"
+  },
+  {
+    "firstName": "Hannchen",
+    "lastName": "Steffen",
+    "email": "hannchen.steffen@example.com",
+    "username": "angrygorilla986",
+    "password": "megaman",
+    "invokedAt": "2022-03-12T15:00:49.468Z"
   }
 ]
