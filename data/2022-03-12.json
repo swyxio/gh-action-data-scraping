@@ -102,5 +102,13 @@
     "username": "silvergoose303",
     "password": "option",
     "invokedAt": "2022-03-12T12:00:40.211Z"
+  },
+  {
+    "firstName": "Kathinka",
+    "lastName": "Daalman",
+    "email": "kathinka.daalman@example.com",
+    "username": "heavybutterfly903",
+    "password": "proxy",
+    "invokedAt": "2022-03-12T13:03:46.162Z"
   }
 ]
