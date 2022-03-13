@@ -118,5 +118,13 @@
     "username": "crazybird342",
     "password": "driver",
     "invokedAt": "2022-03-13T14:00:54.292Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Giraud",
+    "email": "isaac.giraud@example.com",
+    "username": "angryladybug140",
+    "password": "puppydog",
+    "invokedAt": "2022-03-13T15:00:59.678Z"
   }
 ]
