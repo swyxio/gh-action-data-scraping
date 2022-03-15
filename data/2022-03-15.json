@@ -54,5 +54,13 @@
     "username": "goldenduck313",
     "password": "kansas",
     "invokedAt": "2022-03-15T06:00:38.258Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Madsen",
+    "email": "marcus.madsen@example.com",
+    "username": "yellowdog267",
+    "password": "dino",
+    "invokedAt": "2022-03-15T07:00:39.076Z"
   }
 ]
