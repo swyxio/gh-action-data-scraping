@@ -94,5 +94,13 @@
     "username": "bigdog916",
     "password": "drive",
     "invokedAt": "2022-03-15T11:00:50.520Z"
+  },
+  {
+    "firstName": "Darrell",
+    "lastName": "Snyder",
+    "email": "darrell.snyder@example.com",
+    "username": "ticklishgoose959",
+    "password": "hotmail1",
+    "invokedAt": "2022-03-15T12:00:57.407Z"
   }
 ]
