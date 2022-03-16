@@ -94,5 +94,13 @@
     "username": "angrygoose192",
     "password": "diane",
     "invokedAt": "2022-03-16T11:00:57.163Z"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Lévesque",
+    "email": "olivia.levesque@example.com",
+    "username": "bigkoala433",
+    "password": "state",
+    "invokedAt": "2022-03-16T12:00:34.351Z"
   }
 ]
