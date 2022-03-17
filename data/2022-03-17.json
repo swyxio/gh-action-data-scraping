@@ -174,5 +174,13 @@
     "username": "tinyfish107",
     "password": "tomcat",
     "invokedAt": "2022-03-17T22:00:36.528Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Jean-Baptiste",
+    "email": "philip.jean-baptiste@example.com",
+    "username": "angrycat828",
+    "password": "hotrats",
+    "invokedAt": "2022-03-17T23:01:51.202Z"
   }
 ]
