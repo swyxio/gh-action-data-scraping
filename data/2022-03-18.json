@@ -166,5 +166,13 @@
     "username": "goldenfrog425",
     "password": "zipper",
     "invokedAt": "2022-03-18T20:00:47.681Z"
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Melheim",
+    "email": "richard.melheim@example.com",
+    "username": "angryzebra288",
+    "password": "kimber",
+    "invokedAt": "2022-03-18T21:00:39.583Z"
   }
 ]
