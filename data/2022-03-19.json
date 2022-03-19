@@ -54,5 +54,13 @@
     "username": "blacktiger855",
     "password": "dalton",
     "invokedAt": "2022-03-19T06:00:31.656Z"
+  },
+  {
+    "firstName": "Titouan",
+    "lastName": "Perez",
+    "email": "titouan.perez@example.com",
+    "username": "tinylion679",
+    "password": "tundra",
+    "invokedAt": "2022-03-19T07:00:31.828Z"
   }
 ]
