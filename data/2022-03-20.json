@@ -134,5 +134,13 @@
     "username": "greenfrog978",
     "password": "retire",
     "invokedAt": "2022-03-20T16:00:38.993Z"
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Adam",
+    "email": "victoria.adam@example.com",
+    "username": "lazymeercat234",
+    "password": "airforce",
+    "invokedAt": "2022-03-20T17:01:42.513Z"
   }
 ]
