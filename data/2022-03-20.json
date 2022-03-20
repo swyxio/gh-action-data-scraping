@@ -142,5 +142,13 @@
     "username": "lazymeercat234",
     "password": "airforce",
     "invokedAt": "2022-03-20T17:01:42.513Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Valli",
+    "email": "rasmus.valli@example.com",
+    "username": "smallleopard720",
+    "password": "roller",
+    "invokedAt": "2022-03-20T18:00:56.836Z"
   }
 ]
