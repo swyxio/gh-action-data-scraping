@@ -142,5 +142,13 @@
     "username": "whitelion885",
     "password": "winner",
     "invokedAt": "2022-03-21T17:03:20.075Z"
+  },
+  {
+    "firstName": "Gordon",
+    "lastName": "Hale",
+    "email": "gordon.hale@example.com",
+    "username": "blackswan898",
+    "password": "racers",
+    "invokedAt": "2022-03-21T18:01:03.547Z"
   }
 ]
