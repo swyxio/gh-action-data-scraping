@@ -46,5 +46,13 @@
     "username": "greenduck454",
     "password": "pippo",
     "invokedAt": "2022-03-21T05:00:45.014Z"
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Kumcuoğlu",
+    "email": "onur.kumcuoglu@example.com",
+    "username": "organicbutterfly303",
+    "password": "kirk",
+    "invokedAt": "2022-03-21T06:00:51.353Z"
   }
 ]
