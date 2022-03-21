@@ -118,5 +118,13 @@
     "username": "bluerabbit435",
     "password": "sheba",
     "invokedAt": "2022-03-21T14:05:35.235Z"
+  },
+  {
+    "firstName": "Soren",
+    "lastName": "Guillaume",
+    "email": "soren.guillaume@example.com",
+    "username": "tinyrabbit840",
+    "password": "meridian",
+    "invokedAt": "2022-03-21T15:03:14.490Z"
   }
 ]
