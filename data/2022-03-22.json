@@ -94,5 +94,13 @@
     "username": "beautifulbear439",
     "password": "spooge",
     "invokedAt": "2022-03-22T11:00:47.671Z"
+  },
+  {
+    "firstName": "Willie",
+    "lastName": "Van Hooren",
+    "email": "willie.vanhooren@example.com",
+    "username": "goldenpanda420",
+    "password": "pikachu",
+    "invokedAt": "2022-03-22T12:00:59.053Z"
   }
 ]
