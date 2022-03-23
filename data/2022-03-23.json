@@ -126,5 +126,13 @@
     "username": "saddog551",
     "password": "spikes",
     "invokedAt": "2022-03-23T15:00:48.949Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Lee",
+    "email": "bill.lee@example.com",
+    "username": "organicfish309",
+    "password": "bitter",
+    "invokedAt": "2022-03-23T16:01:04.184Z"
   }
 ]
