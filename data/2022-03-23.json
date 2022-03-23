@@ -134,5 +134,13 @@
     "username": "organicfish309",
     "password": "bitter",
     "invokedAt": "2022-03-23T16:01:04.184Z"
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Hansen",
+    "email": "kim.hansen@example.com",
+    "username": "whiteleopard628",
+    "password": "elite",
+    "invokedAt": "2022-03-23T17:02:43.546Z"
   }
 ]
