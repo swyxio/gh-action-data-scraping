@@ -118,5 +118,13 @@
     "username": "goldenostrich434",
     "password": "buckshot",
     "invokedAt": "2022-03-23T14:02:34.450Z"
+  },
+  {
+    "firstName": "Amparo",
+    "lastName": "Blanco",
+    "email": "amparo.blanco@example.com",
+    "username": "saddog551",
+    "password": "spikes",
+    "invokedAt": "2022-03-23T15:00:48.949Z"
   }
 ]
