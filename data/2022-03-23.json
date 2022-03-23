@@ -150,5 +150,13 @@
     "username": "bigtiger448",
     "password": "racers",
     "invokedAt": "2022-03-23T18:05:59.814Z"
+  },
+  {
+    "firstName": "Tiziano",
+    "lastName": "Perrin",
+    "email": "tiziano.perrin@example.com",
+    "username": "saddog706",
+    "password": "xyz123",
+    "invokedAt": "2022-03-23T19:06:03.483Z"
   }
 ]
