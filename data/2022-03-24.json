@@ -54,5 +54,13 @@
     "username": "browngoose594",
     "password": "reality",
     "invokedAt": "2022-03-24T06:00:37.132Z"
+  },
+  {
+    "firstName": "Luukas",
+    "lastName": "Kuusisto",
+    "email": "luukas.kuusisto@example.com",
+    "username": "smallsnake745",
+    "password": "iomega",
+    "invokedAt": "2022-03-24T07:00:46.897Z"
   }
 ]
