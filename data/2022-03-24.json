@@ -158,5 +158,13 @@
     "username": "heavygoose947",
     "password": "alucard",
     "invokedAt": "2022-03-24T19:00:39.004Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Gill",
+    "email": "liam.gill@example.com",
+    "username": "crazypanda425",
+    "password": "chevrole",
+    "invokedAt": "2022-03-24T20:00:52.557Z"
   }
 ]
