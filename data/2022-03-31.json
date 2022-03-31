@@ -102,5 +102,13 @@
     "username": "bigmeercat580",
     "password": "neptune",
     "invokedAt": "2022-03-31T12:02:36.905Z"
+  },
+  {
+    "firstName": "Cícero",
+    "lastName": "Lima",
+    "email": "cicero.lima@example.com",
+    "username": "sadpanda123",
+    "password": "williams",
+    "invokedAt": "2022-03-31T13:13:02.948Z"
   }
 ]
