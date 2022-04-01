@@ -54,5 +54,13 @@
     "username": "organicladybug327",
     "password": "ramsey",
     "invokedAt": "2022-04-01T06:00:44.224Z"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Skjerdal",
+    "email": "antonio.skjerdal@example.com",
+    "username": "bigbird426",
+    "password": "pipeline",
+    "invokedAt": "2022-04-01T07:00:41.498Z"
   }
 ]
