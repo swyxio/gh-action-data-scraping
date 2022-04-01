@@ -70,5 +70,13 @@
     "username": "goldenbird839",
     "password": "trace",
     "invokedAt": "2022-04-01T08:00:36.548Z"
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Caldwell",
+    "email": "ted.caldwell@example.com",
+    "username": "greenleopard579",
+    "password": "1master",
+    "invokedAt": "2022-04-01T09:05:42.291Z"
   }
 ]
