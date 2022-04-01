@@ -158,5 +158,13 @@
     "username": "heavysnake114",
     "password": "brodie",
     "invokedAt": "2022-04-01T19:00:40.314Z"
+  },
+  {
+    "firstName": "Emilia",
+    "lastName": "Ebert",
+    "email": "emilia.ebert@example.com",
+    "username": "bigleopard382",
+    "password": "access",
+    "invokedAt": "2022-04-01T20:00:54.199Z"
   }
 ]
