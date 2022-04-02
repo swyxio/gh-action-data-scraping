@@ -102,5 +102,13 @@
     "username": "bigelephant615",
     "password": "lightning",
     "invokedAt": "2022-04-02T12:00:51.166Z"
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "Green",
+    "email": "jackson.green@example.com",
+    "username": "silverbutterfly374",
+    "password": "houston1",
+    "invokedAt": "2022-04-02T13:04:34.800Z"
   }
 ]
