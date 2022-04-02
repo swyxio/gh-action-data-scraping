@@ -54,5 +54,13 @@
     "username": "smallwolf136",
     "password": "bowling",
     "invokedAt": "2022-04-02T06:00:45.443Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Miller",
+    "email": "hunter.miller@example.com",
+    "username": "ticklishlion479",
+    "password": "secrets",
+    "invokedAt": "2022-04-02T07:00:34.810Z"
   }
 ]
