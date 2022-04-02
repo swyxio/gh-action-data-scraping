@@ -158,5 +158,13 @@
     "username": "crazyduck256",
     "password": "ragnarok",
     "invokedAt": "2022-04-02T19:00:36.749Z"
+  },
+  {
+    "firstName": "Eliza",
+    "lastName": "Stien",
+    "email": "eliza.stien@example.com",
+    "username": "lazycat602",
+    "password": "chat",
+    "invokedAt": "2022-04-02T20:00:45.899Z"
   }
 ]
