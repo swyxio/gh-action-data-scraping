@@ -110,5 +110,13 @@
     "username": "angrydog492",
     "password": "goforit",
     "invokedAt": "2022-04-03T13:04:50.088Z"
+  },
+  {
+    "firstName": "Liv",
+    "lastName": "Vincent",
+    "email": "liv.vincent@example.com",
+    "username": "happyswan573",
+    "password": "brett",
+    "invokedAt": "2022-04-03T14:00:33.105Z"
   }
 ]
