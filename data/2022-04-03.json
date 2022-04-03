@@ -166,5 +166,13 @@
     "username": "yellowtiger556",
     "password": "tango",
     "invokedAt": "2022-04-03T20:00:39.802Z"
+  },
+  {
+    "firstName": "Eino",
+    "lastName": "Toro",
+    "email": "eino.toro@example.com",
+    "username": "heavywolf909",
+    "password": "clock",
+    "invokedAt": "2022-04-03T21:00:32.665Z"
   }
 ]
