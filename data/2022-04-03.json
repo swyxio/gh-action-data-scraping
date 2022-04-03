@@ -142,5 +142,13 @@
     "username": "beautifulduck588",
     "password": "pounding",
     "invokedAt": "2022-04-03T17:02:06.742Z"
+  },
+  {
+    "firstName": "Heinz-Dieter",
+    "lastName": "Knaus",
+    "email": "heinz-dieter.knaus@example.com",
+    "username": "yellowfish257",
+    "password": "changeme",
+    "invokedAt": "2022-04-03T18:00:37.212Z"
   }
 ]
