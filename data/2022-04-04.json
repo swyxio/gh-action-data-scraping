@@ -78,5 +78,13 @@
     "username": "bigrabbit264",
     "password": "airbus",
     "invokedAt": "2022-04-04T09:06:31.822Z"
+  },
+  {
+    "firstName": "Marlon",
+    "lastName": "Moerkens",
+    "email": "marlon.moerkens@example.com",
+    "username": "bluebear545",
+    "password": "surfer1",
+    "invokedAt": "2022-04-04T10:01:05.214Z"
   }
 ]
