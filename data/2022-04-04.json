@@ -6,5 +6,13 @@
     "username": "blackgorilla280",
     "password": "because",
     "invokedAt": "2022-04-04T00:01:02.638Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "Adam",
+    "email": "antoine.adam@example.com",
+    "username": "goldenbutterfly652",
+    "password": "fatman",
+    "invokedAt": "2022-04-04T01:29:27.949Z"
   }
 ]
