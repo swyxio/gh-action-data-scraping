@@ -134,5 +134,13 @@
     "username": "redladybug308",
     "password": "metro",
     "invokedAt": "2022-04-06T18:00:46.669Z"
+  },
+  {
+    "firstName": "Perry",
+    "lastName": "Clarke",
+    "email": "perry.clarke@example.com",
+    "username": "orangeduck151",
+    "password": "gagged",
+    "invokedAt": "2022-04-06T19:00:40.649Z"
   }
 ]
