@@ -150,5 +150,13 @@
     "username": "saddog185",
     "password": "paragon",
     "invokedAt": "2022-04-07T18:00:41.124Z"
+  },
+  {
+    "firstName": "Maurice",
+    "lastName": "Riviere",
+    "email": "maurice.riviere@example.com",
+    "username": "goldenmouse821",
+    "password": "gone",
+    "invokedAt": "2022-04-07T19:00:58.583Z"
   }
 ]
