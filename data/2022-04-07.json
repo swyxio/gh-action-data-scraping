@@ -134,5 +134,13 @@
     "username": "blueostrich777",
     "password": "spam",
     "invokedAt": "2022-04-07T16:01:08.035Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Gauthier",
+    "email": "arnaud.gauthier@example.com",
+    "username": "heavywolf643",
+    "password": "line",
+    "invokedAt": "2022-04-07T17:07:50.938Z"
   }
 ]
