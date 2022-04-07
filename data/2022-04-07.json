@@ -142,5 +142,13 @@
     "username": "heavywolf643",
     "password": "line",
     "invokedAt": "2022-04-07T17:07:50.938Z"
+  },
+  {
+    "firstName": "Silvan",
+    "lastName": "Vidal",
+    "email": "silvan.vidal@example.com",
+    "username": "saddog185",
+    "password": "paragon",
+    "invokedAt": "2022-04-07T18:00:41.124Z"
   }
 ]
