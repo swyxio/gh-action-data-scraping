@@ -126,5 +126,13 @@
     "username": "organicsnake148",
     "password": "down",
     "invokedAt": "2022-04-07T15:02:54.717Z"
+  },
+  {
+    "firstName": "Svetlana",
+    "lastName": "Palm",
+    "email": "svetlana.palm@example.com",
+    "username": "blueostrich777",
+    "password": "spam",
+    "invokedAt": "2022-04-07T16:01:08.035Z"
   }
 ]
