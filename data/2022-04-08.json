@@ -70,5 +70,13 @@
     "username": "yellowbutterfly193",
     "password": "maryland",
     "invokedAt": "2022-04-08T08:00:42.945Z"
+  },
+  {
+    "firstName": "Irá",
+    "lastName": "Mendes",
+    "email": "ira.mendes@example.com",
+    "username": "orangedog119",
+    "password": "allen",
+    "invokedAt": "2022-04-08T09:03:38.193Z"
   }
 ]
