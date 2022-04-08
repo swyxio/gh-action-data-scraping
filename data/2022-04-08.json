@@ -94,5 +94,13 @@
     "username": "brownleopard461",
     "password": "roberts",
     "invokedAt": "2022-04-08T11:00:45.523Z"
+  },
+  {
+    "firstName": "Özsu",
+    "lastName": "Koçoğlu",
+    "email": "ozsu.kocoglu@example.com",
+    "username": "angryladybug511",
+    "password": "bunker",
+    "invokedAt": "2022-04-08T12:00:54.772Z"
   }
 ]
