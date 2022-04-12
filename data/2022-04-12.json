@@ -182,5 +182,13 @@
     "username": "crazykoala870",
     "password": "southpark",
     "invokedAt": "2022-04-12T22:00:47.775Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Bouchard",
+    "email": "xavier.bouchard@example.com",
+    "username": "orangepanda130",
+    "password": "suckme",
+    "invokedAt": "2022-04-12T23:00:50.212Z"
   }
 ]
