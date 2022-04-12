@@ -126,5 +126,13 @@
     "username": "heavybutterfly918",
     "password": "cygnus",
     "invokedAt": "2022-04-12T15:00:49.446Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Hering",
+    "email": "roger.hering@example.com",
+    "username": "sadwolf277",
+    "password": "webmaste",
+    "invokedAt": "2022-04-12T16:02:39.913Z"
   }
 ]
