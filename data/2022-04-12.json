@@ -102,5 +102,13 @@
     "username": "silverpeacock862",
     "password": "zipper",
     "invokedAt": "2022-04-12T12:00:48.565Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Holt",
+    "email": "arthur.holt@example.com",
+    "username": "whitebird280",
+    "password": "polaris",
+    "invokedAt": "2022-04-12T13:12:44.919Z"
   }
 ]
