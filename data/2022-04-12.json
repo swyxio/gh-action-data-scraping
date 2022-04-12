@@ -94,5 +94,13 @@
     "username": "lazyelephant304",
     "password": "gramma",
     "invokedAt": "2022-04-12T11:05:45.214Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Brown",
+    "email": "nathan.brown@example.com",
+    "username": "silverpeacock862",
+    "password": "zipper",
+    "invokedAt": "2022-04-12T12:00:48.565Z"
   }
 ]
