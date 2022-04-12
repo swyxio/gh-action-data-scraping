@@ -166,5 +166,13 @@
     "username": "purpledog395",
     "password": "deeper",
     "invokedAt": "2022-04-12T20:00:48.642Z"
+  },
+  {
+    "firstName": "Jean-Daniel",
+    "lastName": "Durand",
+    "email": "jean-daniel.durand@example.com",
+    "username": "angryelephant272",
+    "password": "edward",
+    "invokedAt": "2022-04-12T21:00:39.842Z"
   }
 ]
