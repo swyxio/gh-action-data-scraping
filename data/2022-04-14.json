@@ -142,5 +142,13 @@
     "username": "orangefish752",
     "password": "drizzt",
     "invokedAt": "2022-04-14T17:04:27.775Z"
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Roussel",
+    "email": "luna.roussel@example.com",
+    "username": "goldenpeacock368",
+    "password": "toronto",
+    "invokedAt": "2022-04-14T18:00:44.627Z"
   }
 ]
