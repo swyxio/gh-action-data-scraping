@@ -30,5 +30,13 @@
     "username": "organicmouse251",
     "password": "opus",
     "invokedAt": "2022-04-14T03:17:22.462Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Gauthier",
+    "email": "arnaud.gauthier@example.com",
+    "username": "silverkoala176",
+    "password": "terminal",
+    "invokedAt": "2022-04-14T04:00:32.469Z"
   }
 ]
