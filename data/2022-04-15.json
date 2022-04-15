@@ -166,5 +166,13 @@
     "username": "ticklishbutterfly953",
     "password": "wildone",
     "invokedAt": "2022-04-15T20:00:54.623Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Arnaud",
+    "email": "marc.arnaud@example.com",
+    "username": "lazybear256",
+    "password": "braves",
+    "invokedAt": "2022-04-15T21:00:35.638Z"
   }
 ]
