@@ -118,5 +118,13 @@
     "username": "goldengorilla466",
     "password": "tekken",
     "invokedAt": "2022-04-16T14:00:38.386Z"
+  },
+  {
+    "firstName": "Jarle",
+    "lastName": "Berg",
+    "email": "jarle.berg@example.com",
+    "username": "angrybutterfly104",
+    "password": "phpbb",
+    "invokedAt": "2022-04-16T15:00:37.147Z"
   }
 ]
