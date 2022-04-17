@@ -78,5 +78,13 @@
     "username": "ticklishdog777",
     "password": "research",
     "invokedAt": "2022-04-17T09:00:38.406Z"
+  },
+  {
+    "firstName": "Samantha",
+    "lastName": "Chen",
+    "email": "samantha.chen@example.com",
+    "username": "lazypanda220",
+    "password": "chimera",
+    "invokedAt": "2022-04-17T10:00:34.191Z"
   }
 ]
