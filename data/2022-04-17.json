@@ -46,5 +46,13 @@
     "username": "whitetiger680",
     "password": "lacrosse",
     "invokedAt": "2022-04-17T05:00:32.853Z"
+  },
+  {
+    "firstName": "Laurent",
+    "lastName": "Lambert",
+    "email": "laurent.lambert@example.com",
+    "username": "sadcat935",
+    "password": "1007",
+    "invokedAt": "2022-04-17T06:00:32.101Z"
   }
 ]
