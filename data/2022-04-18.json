@@ -78,5 +78,13 @@
     "username": "happywolf995",
     "password": "catfish",
     "invokedAt": "2022-04-18T09:00:37.814Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Lowe",
+    "email": "bernard.lowe@example.com",
+    "username": "redrabbit398",
+    "password": "record",
+    "invokedAt": "2022-04-18T10:01:00.210Z"
   }
 ]
