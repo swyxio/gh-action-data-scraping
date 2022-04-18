@@ -142,5 +142,13 @@
     "username": "whitegorilla176",
     "password": "smackdow",
     "invokedAt": "2022-04-18T17:04:54.187Z"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Ferguson",
+    "email": "todd.ferguson@example.com",
+    "username": "whitefrog267",
+    "password": "password9",
+    "invokedAt": "2022-04-18T18:00:49.849Z"
   }
 ]
