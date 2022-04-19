@@ -54,5 +54,13 @@
     "username": "happyfrog173",
     "password": "coldplay",
     "invokedAt": "2022-04-19T06:00:39.907Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Martin",
+    "email": "james.martin@example.com",
+    "username": "tinybird611",
+    "password": "aaaaaa",
+    "invokedAt": "2022-04-19T07:00:35.496Z"
   }
 ]
