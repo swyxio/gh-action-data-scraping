@@ -6,5 +6,13 @@
     "username": "orangebear296",
     "password": "turnip",
     "invokedAt": "2022-04-20T00:00:59.958Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Vermeeren",
+    "email": "sophie.vermeeren@example.com",
+    "username": "heavyfrog847",
+    "password": "pizza",
+    "invokedAt": "2022-04-20T01:29:40.351Z"
   }
 ]
