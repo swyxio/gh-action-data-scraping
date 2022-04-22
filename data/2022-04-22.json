@@ -158,5 +158,13 @@
     "username": "orangekoala600",
     "password": "winners",
     "invokedAt": "2022-04-22T19:00:39.682Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Lefevre",
+    "email": "aaron.lefevre@example.com",
+    "username": "heavywolf950",
+    "password": "hedgehog",
+    "invokedAt": "2022-04-22T20:00:41.922Z"
   }
 ]
