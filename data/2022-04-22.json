@@ -126,5 +126,13 @@
     "username": "purpleswan935",
     "password": "123987",
     "invokedAt": "2022-04-22T15:02:48.567Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Koçoğlu",
+    "email": "gul.kocoglu@example.com",
+    "username": "purpleostrich503",
+    "password": "yousuck",
+    "invokedAt": "2022-04-22T16:00:43.736Z"
   }
 ]
