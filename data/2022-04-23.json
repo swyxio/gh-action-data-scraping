@@ -94,5 +94,13 @@
     "username": "crazyduck376",
     "password": "experienced",
     "invokedAt": "2022-04-23T11:00:41.780Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Perkins",
+    "email": "amanda.perkins@example.com",
+    "username": "whitegorilla966",
+    "password": "boeing",
+    "invokedAt": "2022-04-23T12:00:37.387Z"
   }
 ]
