@@ -102,5 +102,13 @@
     "username": "whitegorilla966",
     "password": "boeing",
     "invokedAt": "2022-04-23T12:00:37.387Z"
+  },
+  {
+    "firstName": "Abram",
+    "lastName": "Bruch",
+    "email": "abram.bruch@example.com",
+    "username": "yellowdog291",
+    "password": "casino",
+    "invokedAt": "2022-04-23T13:05:48.358Z"
   }
 ]
