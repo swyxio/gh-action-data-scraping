@@ -118,5 +118,13 @@
     "username": "happyfrog685",
     "password": "charisma",
     "invokedAt": "2022-04-24T14:00:35.611Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Kreß",
+    "email": "marcus.kress@example.com",
+    "username": "purplemouse234",
+    "password": "search",
+    "invokedAt": "2022-04-24T15:00:39.435Z"
   }
 ]
