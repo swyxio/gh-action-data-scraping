@@ -86,5 +86,13 @@
     "username": "bigcat585",
     "password": "script",
     "invokedAt": "2022-04-24T10:00:46.790Z"
+  },
+  {
+    "firstName": "Harrison",
+    "lastName": "Martin",
+    "email": "harrison.martin@example.com",
+    "username": "organicbird403",
+    "password": "2005",
+    "invokedAt": "2022-04-24T11:00:35.334Z"
   }
 ]
