@@ -158,5 +158,13 @@
     "username": "smallbird965",
     "password": "talk",
     "invokedAt": "2022-04-25T19:06:43.511Z"
+  },
+  {
+    "firstName": "Morris",
+    "lastName": "Young",
+    "email": "morris.young@example.com",
+    "username": "lazypanda233",
+    "password": "alberta",
+    "invokedAt": "2022-04-25T20:00:33.703Z"
   }
 ]
