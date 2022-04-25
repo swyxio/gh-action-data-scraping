@@ -166,5 +166,13 @@
     "username": "lazypanda233",
     "password": "alberta",
     "invokedAt": "2022-04-25T20:00:33.703Z"
+  },
+  {
+    "firstName": "Miroslav",
+    "lastName": "Aßmann",
+    "email": "miroslav.assmann@example.com",
+    "username": "lazytiger494",
+    "password": "joe123",
+    "invokedAt": "2022-04-25T21:00:40.774Z"
   }
 ]
