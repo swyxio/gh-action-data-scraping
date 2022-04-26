@@ -142,5 +142,13 @@
     "username": "orangefrog899",
     "password": "chips",
     "invokedAt": "2022-04-26T17:09:46.656Z"
+  },
+  {
+    "firstName": "Erdal",
+    "lastName": "Hensel",
+    "email": "erdal.hensel@example.com",
+    "username": "redleopard221",
+    "password": "chimera",
+    "invokedAt": "2022-04-26T18:05:47.868Z"
   }
 ]
