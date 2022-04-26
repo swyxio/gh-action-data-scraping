@@ -86,5 +86,13 @@
     "username": "smallfrog772",
     "password": "1999",
     "invokedAt": "2022-04-26T10:00:53.588Z"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Martin",
+    "email": "isabella.martin@example.com",
+    "username": "happykoala721",
+    "password": "lestat",
+    "invokedAt": "2022-04-26T11:05:50.354Z"
   }
 ]
