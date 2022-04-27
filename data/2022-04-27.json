@@ -142,5 +142,13 @@
     "username": "goldentiger954",
     "password": "fubar",
     "invokedAt": "2022-04-27T17:06:46.823Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Zhang",
+    "email": "ella.zhang@example.com",
+    "username": "smallladybug185",
+    "password": "1968",
+    "invokedAt": "2022-04-27T18:05:57.709Z"
   }
 ]
