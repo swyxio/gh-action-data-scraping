@@ -158,5 +158,13 @@
     "username": "crazymouse580",
     "password": "abcde",
     "invokedAt": "2022-04-28T19:01:25.772Z"
+  },
+  {
+    "firstName": "Aran",
+    "lastName": "Reuser",
+    "email": "aran.reuser@example.com",
+    "username": "crazyleopard633",
+    "password": "cooking",
+    "invokedAt": "2022-04-28T20:00:42.803Z"
   }
 ]
