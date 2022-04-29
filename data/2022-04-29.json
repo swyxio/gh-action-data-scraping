@@ -182,5 +182,13 @@
     "username": "silverelephant593",
     "password": "sports",
     "invokedAt": "2022-04-29T22:00:42.933Z"
+  },
+  {
+    "firstName": "Dejan",
+    "lastName": "Moulin",
+    "email": "dejan.moulin@example.com",
+    "username": "whitedog565",
+    "password": "cleaner",
+    "invokedAt": "2022-04-29T23:00:40.463Z"
   }
 ]
