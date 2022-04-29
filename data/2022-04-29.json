@@ -174,5 +174,13 @@
     "username": "blackfish626",
     "password": "giants",
     "invokedAt": "2022-04-29T21:01:09.781Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Moilanen",
+    "email": "joona.moilanen@example.com",
+    "username": "silverelephant593",
+    "password": "sports",
+    "invokedAt": "2022-04-29T22:00:42.933Z"
   }
 ]
