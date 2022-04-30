@@ -38,5 +38,13 @@
     "username": "bluebird269",
     "password": "pegasus",
     "invokedAt": "2022-04-30T04:03:39.196Z"
+  },
+  {
+    "firstName": "Begüm",
+    "lastName": "Kılıççı",
+    "email": "begum.kilicci@example.com",
+    "username": "smalldog810",
+    "password": "training",
+    "invokedAt": "2022-04-30T05:01:33.842Z"
   }
 ]
