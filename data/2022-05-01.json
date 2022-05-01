@@ -126,5 +126,13 @@
     "username": "bluebear603",
     "password": "horton",
     "invokedAt": "2022-05-01T15:00:41.700Z"
+  },
+  {
+    "firstName": "Dick",
+    "lastName": "Meyer",
+    "email": "dick.meyer@example.com",
+    "username": "blueladybug872",
+    "password": "fletch",
+    "invokedAt": "2022-05-01T16:00:36.840Z"
   }
 ]
