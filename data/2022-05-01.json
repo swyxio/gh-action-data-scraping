@@ -94,5 +94,13 @@
     "username": "crazykoala300",
     "password": "fuzzy",
     "invokedAt": "2022-05-01T11:00:49.486Z"
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Hill",
+    "email": "molly.hill@example.com",
+    "username": "angrybear326",
+    "password": "hotbox",
+    "invokedAt": "2022-05-01T12:00:34.424Z"
   }
 ]
