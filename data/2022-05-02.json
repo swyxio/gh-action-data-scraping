@@ -110,5 +110,13 @@
     "username": "lazyzebra385",
     "password": "147147",
     "invokedAt": "2022-05-02T13:12:37.745Z"
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "Jackson",
+    "email": "jimmy.jackson@example.com",
+    "username": "blacklion788",
+    "password": "bbking",
+    "invokedAt": "2022-05-02T14:00:56.385Z"
   }
 ]
