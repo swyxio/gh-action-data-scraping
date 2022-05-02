@@ -158,5 +158,13 @@
     "username": "goldenbird422",
     "password": "anubis",
     "invokedAt": "2022-05-02T19:05:51.227Z"
+  },
+  {
+    "firstName": "Nooa",
+    "lastName": "Peltonen",
+    "email": "nooa.peltonen@example.com",
+    "username": "crazyelephant261",
+    "password": "mission",
+    "invokedAt": "2022-05-02T20:00:46.991Z"
   }
 ]
