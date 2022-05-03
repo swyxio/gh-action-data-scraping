@@ -126,5 +126,13 @@
     "username": "greenpanda479",
     "password": "federal",
     "invokedAt": "2022-05-03T15:00:54.061Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Hansen",
+    "email": "nicklas.hansen@example.com",
+    "username": "ticklishostrich224",
+    "password": "leeann",
+    "invokedAt": "2022-05-03T16:00:44.703Z"
   }
 ]
