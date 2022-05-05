@@ -174,5 +174,13 @@
     "username": "organicduck629",
     "password": "brian",
     "invokedAt": "2022-05-05T21:00:52.421Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Collins",
+    "email": "lily.collins@example.com",
+    "username": "yellowduck177",
+    "password": "graham",
+    "invokedAt": "2022-05-05T22:00:59.841Z"
   }
 ]
