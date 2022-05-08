@@ -54,5 +54,13 @@
     "username": "ticklishkoala765",
     "password": "nitro",
     "invokedAt": "2022-05-08T06:00:57.064Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Ouellet",
+    "email": "alexandre.ouellet@example.com",
+    "username": "greenlion611",
+    "password": "murder",
+    "invokedAt": "2022-05-08T07:00:43.755Z"
   }
 ]
