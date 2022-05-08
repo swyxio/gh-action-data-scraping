@@ -134,5 +134,13 @@
     "username": "bluepeacock140",
     "password": "rolling",
     "invokedAt": "2022-05-08T16:00:40.878Z"
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "White",
+    "email": "jeff.white@example.com",
+    "username": "silverfrog153",
+    "password": "jenny",
+    "invokedAt": "2022-05-08T17:03:30.850Z"
   }
 ]
