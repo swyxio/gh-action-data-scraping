@@ -86,5 +86,13 @@
     "username": "orangeostrich513",
     "password": "george1",
     "invokedAt": "2022-05-09T10:00:47.053Z"
+  },
+  {
+    "firstName": "Assunção",
+    "lastName": "Viana",
+    "email": "assuncao.viana@example.com",
+    "username": "heavymouse773",
+    "password": "lian",
+    "invokedAt": "2022-05-09T11:00:41.623Z"
   }
 ]
