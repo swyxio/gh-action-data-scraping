@@ -46,5 +46,13 @@
     "username": "redtiger300",
     "password": "chinese",
     "invokedAt": "2022-05-09T05:04:00.414Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Flores",
+    "email": "jose.flores@example.com",
+    "username": "beautifulgorilla836",
+    "password": "house1",
+    "invokedAt": "2022-05-09T06:00:47.477Z"
   }
 ]
