@@ -38,5 +38,13 @@
     "username": "happylion715",
     "password": "apple123",
     "invokedAt": "2022-05-10T04:00:37.062Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Netland",
+    "email": "diego.netland@example.com",
+    "username": "blackbird446",
+    "password": "devil",
+    "invokedAt": "2022-05-10T05:01:16.680Z"
   }
 ]
