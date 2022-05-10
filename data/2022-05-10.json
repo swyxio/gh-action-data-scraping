@@ -102,5 +102,13 @@
     "username": "lazydog803",
     "password": "street",
     "invokedAt": "2022-05-10T12:00:53.528Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Sadıklar",
+    "email": "fatih.sadiklar@example.com",
+    "username": "bluesnake616",
+    "password": "travis",
+    "invokedAt": "2022-05-10T13:17:19.488Z"
   }
 ]
