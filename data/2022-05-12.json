@@ -166,5 +166,13 @@
     "username": "blackbird602",
     "password": "play",
     "invokedAt": "2022-05-12T20:00:38.815Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Lampi",
+    "email": "toivo.lampi@example.com",
+    "username": "whitelion420",
+    "password": "scheisse",
+    "invokedAt": "2022-05-12T21:00:33.691Z"
   }
 ]
