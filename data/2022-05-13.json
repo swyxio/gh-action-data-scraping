@@ -46,5 +46,13 @@
     "username": "greenduck744",
     "password": "emily1",
     "invokedAt": "2022-05-13T05:15:39.782Z"
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "Martinez",
+    "email": "eduardo.martinez@example.com",
+    "username": "bigrabbit787",
+    "password": "warlock",
+    "invokedAt": "2022-05-13T06:03:27.199Z"
   }
 ]
