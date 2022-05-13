@@ -182,5 +182,13 @@
     "username": "organiccat162",
     "password": "hooters",
     "invokedAt": "2022-05-13T22:00:38.115Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Ozansoy",
+    "email": "esat.ozansoy@example.com",
+    "username": "saddog421",
+    "password": "paco",
+    "invokedAt": "2022-05-13T23:00:50.773Z"
   }
 ]
