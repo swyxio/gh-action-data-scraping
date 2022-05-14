@@ -102,5 +102,13 @@
     "username": "angryzebra286",
     "password": "ontario",
     "invokedAt": "2022-05-14T12:00:49.338Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Petersen",
+    "email": "nikolaj.petersen@example.com",
+    "username": "brownleopard521",
+    "password": "asdf123",
+    "invokedAt": "2022-05-14T13:12:53.438Z"
   }
 ]
