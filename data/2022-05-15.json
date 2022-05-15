@@ -142,5 +142,13 @@
     "username": "whitekoala613",
     "password": "bean",
     "invokedAt": "2022-05-15T17:05:13.629Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Babaoğlu",
+    "email": "vildan.babaoglu@example.com",
+    "username": "happycat321",
+    "password": "gman",
+    "invokedAt": "2022-05-15T18:00:45.933Z"
   }
 ]
