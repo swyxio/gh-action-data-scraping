@@ -94,5 +94,13 @@
     "username": "heavydog750",
     "password": "1981",
     "invokedAt": "2022-05-15T11:00:42.730Z"
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Leroux",
+    "email": "agnes.leroux@example.com",
+    "username": "bigdog110",
+    "password": "referee",
+    "invokedAt": "2022-05-15T12:00:42.750Z"
   }
 ]
