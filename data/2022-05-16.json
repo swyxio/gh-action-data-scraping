@@ -166,5 +166,13 @@
     "username": "redkoala475",
     "password": "vulcan",
     "invokedAt": "2022-05-16T20:00:36.099Z"
+  },
+  {
+    "firstName": "Clémence",
+    "lastName": "Dumas",
+    "email": "clemence.dumas@example.com",
+    "username": "greenpanda137",
+    "password": "wildcard",
+    "invokedAt": "2022-05-16T21:00:43.725Z"
   }
 ]
