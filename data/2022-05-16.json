@@ -174,5 +174,13 @@
     "username": "greenpanda137",
     "password": "wildcard",
     "invokedAt": "2022-05-16T21:00:43.725Z"
+  },
+  {
+    "firstName": "Sofie",
+    "lastName": "Christensen",
+    "email": "sofie.christensen@example.com",
+    "username": "ticklishgorilla428",
+    "password": "sugar",
+    "invokedAt": "2022-05-16T22:00:52.523Z"
   }
 ]
