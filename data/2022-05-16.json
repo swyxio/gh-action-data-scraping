@@ -86,5 +86,13 @@
     "username": "crazydog631",
     "password": "malibu",
     "invokedAt": "2022-05-16T10:00:49.234Z"
+  },
+  {
+    "firstName": "Kerttu",
+    "lastName": "Salmela",
+    "email": "kerttu.salmela@example.com",
+    "username": "smallfrog580",
+    "password": "323232",
+    "invokedAt": "2022-05-16T11:00:48.570Z"
   }
 ]
