@@ -102,5 +102,13 @@
     "username": "greentiger910",
     "password": "guitars",
     "invokedAt": "2022-05-17T12:00:45.240Z"
+  },
+  {
+    "firstName": "Derek",
+    "lastName": "Kelley",
+    "email": "derek.kelley@example.com",
+    "username": "goldenfish699",
+    "password": "davis",
+    "invokedAt": "2022-05-17T13:12:05.483Z"
   }
 ]
