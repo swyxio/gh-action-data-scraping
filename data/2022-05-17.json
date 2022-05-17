@@ -182,5 +182,13 @@
     "username": "redfish591",
     "password": "abc12345",
     "invokedAt": "2022-05-17T22:00:39.662Z"
+  },
+  {
+    "firstName": "Serge",
+    "lastName": "Perez",
+    "email": "serge.perez@example.com",
+    "username": "tinyzebra345",
+    "password": "devil666",
+    "invokedAt": "2022-05-17T23:00:51.603Z"
   }
 ]
