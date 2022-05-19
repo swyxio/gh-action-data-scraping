@@ -70,5 +70,13 @@
     "username": "sadduck945",
     "password": "lightning",
     "invokedAt": "2022-05-19T08:00:38.182Z"
+  },
+  {
+    "firstName": "Ruben",
+    "lastName": "Ibañez",
+    "email": "ruben.ibanez@example.com",
+    "username": "whitewolf645",
+    "password": "timber",
+    "invokedAt": "2022-05-19T09:00:56.303Z"
   }
 ]
