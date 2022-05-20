@@ -86,5 +86,13 @@
     "username": "bigwolf538",
     "password": "letmein2",
     "invokedAt": "2022-05-20T10:00:51.946Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Leppanen",
+    "email": "oskari.leppanen@example.com",
+    "username": "lazyostrich618",
+    "password": "charlotte",
+    "invokedAt": "2022-05-20T11:00:46.272Z"
   }
 ]
