@@ -14,5 +14,13 @@
     "username": "silverduck858",
     "password": "billy1",
     "invokedAt": "2022-05-22T01:27:46.158Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Santana",
+    "email": "juan.santana@example.com",
+    "username": "beautifultiger235",
+    "password": "gryphon",
+    "invokedAt": "2022-05-22T02:32:22.031Z"
   }
 ]
