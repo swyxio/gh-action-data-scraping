@@ -166,5 +166,13 @@
     "username": "bigbird597",
     "password": "5555",
     "invokedAt": "2022-05-23T21:00:43.560Z"
+  },
+  {
+    "firstName": "Aarão",
+    "lastName": "Nunes",
+    "email": "aarao.nunes@example.com",
+    "username": "beautifulpanda382",
+    "password": "carpente",
+    "invokedAt": "2022-05-23T22:00:49.023Z"
   }
 ]
