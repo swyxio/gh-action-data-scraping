@@ -134,5 +134,13 @@
     "username": "redswan995",
     "password": "looker",
     "invokedAt": "2022-05-23T17:04:31.893Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Wood",
+    "email": "sarah.wood@example.com",
+    "username": "silverleopard576",
+    "password": "fortune",
+    "invokedAt": "2022-05-23T18:00:36.268Z"
   }
 ]
