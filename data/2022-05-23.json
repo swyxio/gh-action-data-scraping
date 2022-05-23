@@ -110,5 +110,13 @@
     "username": "crazyladybug791",
     "password": "quebec",
     "invokedAt": "2022-05-23T14:00:55.109Z"
+  },
+  {
+    "firstName": "Margot",
+    "lastName": "Lecomte",
+    "email": "margot.lecomte@example.com",
+    "username": "happypanda176",
+    "password": "spot",
+    "invokedAt": "2022-05-23T15:00:36.574Z"
   }
 ]
