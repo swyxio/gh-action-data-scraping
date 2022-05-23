@@ -118,5 +118,13 @@
     "username": "happypanda176",
     "password": "spot",
     "invokedAt": "2022-05-23T15:00:36.574Z"
+  },
+  {
+    "firstName": "Christy",
+    "lastName": "Black",
+    "email": "christy.black@example.com",
+    "username": "purplegoose927",
+    "password": "nacked",
+    "invokedAt": "2022-05-23T16:00:48.967Z"
   }
 ]
