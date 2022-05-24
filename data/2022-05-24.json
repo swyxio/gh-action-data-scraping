@@ -182,5 +182,13 @@
     "username": "yellowwolf742",
     "password": "marines",
     "invokedAt": "2022-05-24T22:01:05.516Z"
+  },
+  {
+    "firstName": "Nathanaël",
+    "lastName": "Carpentier",
+    "email": "nathanael.carpentier@example.com",
+    "username": "tinywolf914",
+    "password": "vermont",
+    "invokedAt": "2022-05-24T23:00:30.629Z"
   }
 ]
