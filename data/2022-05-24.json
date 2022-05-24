@@ -86,5 +86,13 @@
     "username": "heavyswan351",
     "password": "abgrtyu",
     "invokedAt": "2022-05-24T10:00:40.781Z"
+  },
+  {
+    "firstName": "Aurélien",
+    "lastName": "Garcia",
+    "email": "aurelien.garcia@example.com",
+    "username": "happydog464",
+    "password": "spud",
+    "invokedAt": "2022-05-24T11:00:32.959Z"
   }
 ]
