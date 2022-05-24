@@ -78,5 +78,13 @@
     "username": "purpletiger351",
     "password": "guyver",
     "invokedAt": "2022-05-24T09:00:41.763Z"
+  },
+  {
+    "firstName": "Hadrien",
+    "lastName": "Moreau",
+    "email": "hadrien.moreau@example.com",
+    "username": "heavyswan351",
+    "password": "abgrtyu",
+    "invokedAt": "2022-05-24T10:00:40.781Z"
   }
 ]
