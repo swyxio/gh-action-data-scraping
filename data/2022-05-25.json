@@ -22,5 +22,13 @@
     "username": "sadgorilla684",
     "password": "quebec",
     "invokedAt": "2022-05-25T02:39:31.824Z"
+  },
+  {
+    "firstName": "Heinrich",
+    "lastName": "Guillot",
+    "email": "heinrich.guillot@example.com",
+    "username": "greencat343",
+    "password": "hand",
+    "invokedAt": "2022-05-25T03:25:18.073Z"
   }
 ]
