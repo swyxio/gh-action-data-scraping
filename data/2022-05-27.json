@@ -70,5 +70,13 @@
     "username": "silverpeacock931",
     "password": "gabber",
     "invokedAt": "2022-05-27T08:00:41.423Z"
+  },
+  {
+    "firstName": "Manuel",
+    "lastName": "Jacobs",
+    "email": "manuel.jacobs@example.com",
+    "username": "purplekoala656",
+    "password": "rocket",
+    "invokedAt": "2022-05-27T09:00:46.214Z"
   }
 ]
