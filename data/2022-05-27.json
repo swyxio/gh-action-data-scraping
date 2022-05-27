@@ -46,5 +46,13 @@
     "username": "blacktiger878",
     "password": "eating",
     "invokedAt": "2022-05-27T05:04:39.789Z"
+  },
+  {
+    "firstName": "Mato",
+    "lastName": "Bunk",
+    "email": "mato.bunk@example.com",
+    "username": "purplerabbit416",
+    "password": "hank",
+    "invokedAt": "2022-05-27T06:00:41.529Z"
   }
 ]
