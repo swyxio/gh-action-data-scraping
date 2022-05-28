@@ -102,5 +102,13 @@
     "username": "lazyzebra872",
     "password": "ring",
     "invokedAt": "2022-05-28T12:00:37.601Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Adam",
+    "email": "claude.adam@example.com",
+    "username": "heavymouse185",
+    "password": "menace",
+    "invokedAt": "2022-05-28T13:08:12.468Z"
   }
 ]
