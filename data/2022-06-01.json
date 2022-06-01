@@ -110,5 +110,13 @@
     "username": "crazymouse960",
     "password": "apache",
     "invokedAt": "2022-06-01T13:15:27.655Z"
+  },
+  {
+    "firstName": "Vilmer",
+    "lastName": "Guttorm",
+    "email": "vilmer.guttorm@example.com",
+    "username": "brownfrog623",
+    "password": "earthlink",
+    "invokedAt": "2022-06-01T14:08:05.961Z"
   }
 ]
