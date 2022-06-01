@@ -86,5 +86,13 @@
     "username": "bluegorilla321",
     "password": "sidekick",
     "invokedAt": "2022-06-01T10:02:51.235Z"
+  },
+  {
+    "firstName": "Nihal",
+    "lastName": "Dağlaroğlu",
+    "email": "nihal.daglaroglu@example.com",
+    "username": "biggoose592",
+    "password": "video",
+    "invokedAt": "2022-06-01T11:00:37.565Z"
   }
 ]
