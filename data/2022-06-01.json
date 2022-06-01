@@ -22,5 +22,13 @@
     "username": "tinyfish343",
     "password": "gofast",
     "invokedAt": "2022-06-01T02:50:12.032Z"
+  },
+  {
+    "firstName": "Sydney",
+    "lastName": "Pennings",
+    "email": "sydney.pennings@example.com",
+    "username": "happyrabbit653",
+    "password": "dilbert",
+    "invokedAt": "2022-06-01T03:44:08.102Z"
   }
 ]
