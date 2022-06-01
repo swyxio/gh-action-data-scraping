@@ -166,5 +166,13 @@
     "username": "purplecat141",
     "password": "zanzibar",
     "invokedAt": "2022-06-01T20:00:44.599Z"
+  },
+  {
+    "firstName": "Nico",
+    "lastName": "Mongstad",
+    "email": "nico.mongstad@example.com",
+    "username": "blackduck378",
+    "password": "1369",
+    "invokedAt": "2022-06-01T21:00:48.958Z"
   }
 ]
