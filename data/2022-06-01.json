@@ -118,5 +118,13 @@
     "username": "brownfrog623",
     "password": "earthlink",
     "invokedAt": "2022-06-01T14:08:05.961Z"
+  },
+  {
+    "firstName": "Philipp",
+    "lastName": "Jasper",
+    "email": "philipp.jasper@example.com",
+    "username": "purpleswan376",
+    "password": "freckles",
+    "invokedAt": "2022-06-01T15:00:58.763Z"
   }
 ]
