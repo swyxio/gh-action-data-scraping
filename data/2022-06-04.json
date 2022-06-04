@@ -118,5 +118,13 @@
     "username": "lazydog664",
     "password": "eight",
     "invokedAt": "2022-06-04T15:01:25.501Z"
+  },
+  {
+    "firstName": "Kerttu",
+    "lastName": "Lehtonen",
+    "email": "kerttu.lehtonen@example.com",
+    "username": "crazygorilla343",
+    "password": "heritage",
+    "invokedAt": "2022-06-04T16:01:20.555Z"
   }
 ]
