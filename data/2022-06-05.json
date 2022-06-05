@@ -126,5 +126,13 @@
     "username": "bigbutterfly796",
     "password": "football1",
     "invokedAt": "2022-06-05T16:03:08.629Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Otnes",
+    "email": "magnus.otnes@example.com",
+    "username": "angryduck869",
+    "password": "comment",
+    "invokedAt": "2022-06-05T17:02:07.679Z"
   }
 ]
