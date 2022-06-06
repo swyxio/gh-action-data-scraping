@@ -54,5 +54,13 @@
     "username": "organicswan317",
     "password": "bigbird",
     "invokedAt": "2022-06-06T07:01:18.287Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Møller",
+    "email": "marie.moller@example.com",
+    "username": "lazyswan101",
+    "password": "mommy",
+    "invokedAt": "2022-06-06T08:06:43.832Z"
   }
 ]
