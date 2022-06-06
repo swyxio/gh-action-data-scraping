@@ -166,5 +166,13 @@
     "username": "tinydog235",
     "password": "pants",
     "invokedAt": "2022-06-06T21:00:42.849Z"
+  },
+  {
+    "firstName": "Buse",
+    "lastName": "Sinanoğlu",
+    "email": "buse.sinanoglu@example.com",
+    "username": "happyostrich893",
+    "password": "basket",
+    "invokedAt": "2022-06-06T22:01:15.830Z"
   }
 ]
