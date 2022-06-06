@@ -158,5 +158,13 @@
     "username": "yellowswan596",
     "password": "pimp",
     "invokedAt": "2022-06-06T20:01:15.626Z"
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Amble",
+    "email": "axel.amble@example.com",
+    "username": "tinydog235",
+    "password": "pants",
+    "invokedAt": "2022-06-06T21:00:42.849Z"
   }
 ]
