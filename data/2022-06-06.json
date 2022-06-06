@@ -46,5 +46,13 @@
     "username": "brownbird463",
     "password": "warrior1",
     "invokedAt": "2022-06-06T06:07:23.800Z"
+  },
+  {
+    "firstName": "Roman",
+    "lastName": "Kumar",
+    "email": "roman.kumar@example.com",
+    "username": "organicswan317",
+    "password": "bigbird",
+    "invokedAt": "2022-06-06T07:01:18.287Z"
   }
 ]
