@@ -38,5 +38,13 @@
     "username": "brownpanda519",
     "password": "club",
     "invokedAt": "2022-06-06T05:08:14.868Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Soler",
+    "email": "david.soler@example.com",
+    "username": "brownbird463",
+    "password": "warrior1",
+    "invokedAt": "2022-06-06T06:07:23.800Z"
   }
 ]
