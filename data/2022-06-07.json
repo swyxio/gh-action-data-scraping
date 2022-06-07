@@ -86,5 +86,13 @@
     "username": "redwolf526",
     "password": "insert",
     "invokedAt": "2022-06-07T11:00:46.635Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Johnson",
+    "email": "kayla.johnson@example.com",
+    "username": "beautifulkoala946",
+    "password": "098765",
+    "invokedAt": "2022-06-07T12:11:24.676Z"
   }
 ]
