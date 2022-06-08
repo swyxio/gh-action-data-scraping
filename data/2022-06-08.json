@@ -94,5 +94,13 @@
     "username": "brownswan903",
     "password": "firefly",
     "invokedAt": "2022-06-08T12:08:28.082Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Wirta",
+    "email": "joona.wirta@example.com",
+    "username": "happycat599",
+    "password": "doughboy",
+    "invokedAt": "2022-06-08T13:28:58.051Z"
   }
 ]
