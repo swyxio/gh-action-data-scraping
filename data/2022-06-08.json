@@ -86,5 +86,13 @@
     "username": "browndog547",
     "password": "goaway",
     "invokedAt": "2022-06-08T11:00:40.624Z"
+  },
+  {
+    "firstName": "Teodor",
+    "lastName": "Frafjord",
+    "email": "teodor.frafjord@example.com",
+    "username": "brownswan903",
+    "password": "firefly",
+    "invokedAt": "2022-06-08T12:08:28.082Z"
   }
 ]
