@@ -94,5 +94,13 @@
     "username": "purplefrog990",
     "password": "tricia",
     "invokedAt": "2022-06-10T12:09:40.428Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Olivier",
+    "email": "adem.olivier@example.com",
+    "username": "purpledog117",
+    "password": "promise",
+    "invokedAt": "2022-06-10T13:25:47.804Z"
   }
 ]
