@@ -86,5 +86,13 @@
     "username": "purplefish321",
     "password": "electric",
     "invokedAt": "2022-06-10T11:01:33.763Z"
+  },
+  {
+    "firstName": "Nolan",
+    "lastName": "Howell",
+    "email": "nolan.howell@example.com",
+    "username": "purplefrog990",
+    "password": "tricia",
+    "invokedAt": "2022-06-10T12:09:40.428Z"
   }
 ]
