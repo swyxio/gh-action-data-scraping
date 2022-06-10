@@ -142,5 +142,13 @@
     "username": "goldenpanda129",
     "password": "zippy",
     "invokedAt": "2022-06-10T18:05:37.187Z"
+  },
+  {
+    "firstName": "Saúl",
+    "lastName": "da Mota",
+    "email": "saul.damota@example.com",
+    "username": "bluesnake530",
+    "password": "toilet",
+    "invokedAt": "2022-06-10T19:01:04.714Z"
   }
 ]
