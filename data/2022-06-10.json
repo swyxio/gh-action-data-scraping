@@ -102,5 +102,13 @@
     "username": "purpledog117",
     "password": "promise",
     "invokedAt": "2022-06-10T13:25:47.804Z"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Rose",
+    "email": "ellen.rose@example.com",
+    "username": "lazybear520",
+    "password": "hero",
+    "invokedAt": "2022-06-10T14:01:32.107Z"
   }
 ]
