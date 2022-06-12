@@ -38,5 +38,13 @@
     "username": "ticklishfish410",
     "password": "forest",
     "invokedAt": "2022-06-12T05:01:02.366Z"
+  },
+  {
+    "firstName": "Wanda",
+    "lastName": "Wells",
+    "email": "wanda.wells@example.com",
+    "username": "blacktiger746",
+    "password": "gofast",
+    "invokedAt": "2022-06-12T06:07:21.776Z"
   }
 ]
