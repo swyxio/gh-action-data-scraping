@@ -62,5 +62,13 @@
     "username": "heavyzebra124",
     "password": "sixers",
     "invokedAt": "2022-06-14T09:01:24.858Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Jackson",
+    "email": "eva.jackson@example.com",
+    "username": "greenzebra908",
+    "password": "photo",
+    "invokedAt": "2022-06-14T10:06:39.998Z"
   }
 ]
