@@ -94,5 +94,13 @@
     "username": "purplemeercat598",
     "password": "bicycle",
     "invokedAt": "2022-06-15T12:08:54.799Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Pena",
+    "email": "mario.pena@example.com",
+    "username": "blackpanda672",
+    "password": "pooter",
+    "invokedAt": "2022-06-15T13:26:08.012Z"
   }
 ]
