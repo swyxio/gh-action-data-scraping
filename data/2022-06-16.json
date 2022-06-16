@@ -126,5 +126,13 @@
     "username": "whitemouse435",
     "password": "californ",
     "invokedAt": "2022-06-16T16:05:27.092Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Schmitt",
+    "email": "harry.schmitt@example.com",
+    "username": "lazybird231",
+    "password": "calibra",
+    "invokedAt": "2022-06-16T17:10:34.764Z"
   }
 ]
