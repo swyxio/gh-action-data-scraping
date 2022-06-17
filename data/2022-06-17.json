@@ -62,5 +62,13 @@
     "username": "silvergorilla479",
     "password": "power",
     "invokedAt": "2022-06-17T07:00:41.611Z"
+  },
+  {
+    "firstName": "Ilya",
+    "lastName": "Veelenturf",
+    "email": "ilya.veelenturf@example.com",
+    "username": "happyfish691",
+    "password": "98765",
+    "invokedAt": "2022-06-17T08:00:41.737Z"
   }
 ]
