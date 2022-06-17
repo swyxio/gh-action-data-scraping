@@ -142,5 +142,13 @@
     "username": "sadbutterfly958",
     "password": "beaner",
     "invokedAt": "2022-06-17T17:06:05.192Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Gill",
+    "email": "harper.gill@example.com",
+    "username": "greencat247",
+    "password": "jagger",
+    "invokedAt": "2022-06-17T18:00:50.367Z"
   }
 ]
