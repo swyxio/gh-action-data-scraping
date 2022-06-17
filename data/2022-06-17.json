@@ -150,5 +150,13 @@
     "username": "greencat247",
     "password": "jagger",
     "invokedAt": "2022-06-17T18:00:50.367Z"
+  },
+  {
+    "firstName": "Emile",
+    "lastName": "Thompson",
+    "email": "emile.thompson@example.com",
+    "username": "yellowduck141",
+    "password": "user",
+    "invokedAt": "2022-06-17T19:05:36.299Z"
   }
 ]
