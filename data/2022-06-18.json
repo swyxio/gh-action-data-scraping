@@ -158,5 +158,13 @@
     "username": "bigkoala236",
     "password": "massive",
     "invokedAt": "2022-06-18T19:00:36.828Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Bårdsen",
+    "email": "adam.bardsen@example.com",
+    "username": "angrywolf328",
+    "password": "blam",
+    "invokedAt": "2022-06-18T20:00:45.791Z"
   }
 ]
