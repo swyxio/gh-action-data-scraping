@@ -30,5 +30,13 @@
     "username": "yellowfrog564",
     "password": "isaac",
     "invokedAt": "2022-06-18T03:25:38.066Z"
+  },
+  {
+    "firstName": "Cooper",
+    "lastName": "Anderson",
+    "email": "cooper.anderson@example.com",
+    "username": "sadrabbit244",
+    "password": "justme",
+    "invokedAt": "2022-06-18T04:04:52.712Z"
   }
 ]
