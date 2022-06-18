@@ -126,5 +126,13 @@
     "username": "blueduck464",
     "password": "splash",
     "invokedAt": "2022-06-18T15:00:50.925Z"
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Moore",
+    "email": "nelson.moore@example.com",
+    "username": "beautifulelephant540",
+    "password": "magic1",
+    "invokedAt": "2022-06-18T16:02:56.949Z"
   }
 ]
