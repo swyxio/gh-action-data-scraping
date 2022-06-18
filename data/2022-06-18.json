@@ -102,5 +102,13 @@
     "username": "beautifulelephant893",
     "password": "rambo",
     "invokedAt": "2022-06-18T12:00:46.814Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Topaloğlu",
+    "email": "elif.topaloglu@example.com",
+    "username": "whiteelephant366",
+    "password": "public",
+    "invokedAt": "2022-06-18T13:05:34.232Z"
   }
 ]
