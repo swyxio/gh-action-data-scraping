@@ -110,5 +110,13 @@
     "username": "whiteelephant366",
     "password": "public",
     "invokedAt": "2022-06-18T13:05:34.232Z"
+  },
+  {
+    "firstName": "Kathrin",
+    "lastName": "Mewes",
+    "email": "kathrin.mewes@example.com",
+    "username": "brownbutterfly357",
+    "password": "toejam",
+    "invokedAt": "2022-06-18T14:00:31.233Z"
   }
 ]
