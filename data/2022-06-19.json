@@ -70,5 +70,13 @@
     "username": "goldengoose256",
     "password": "patriots",
     "invokedAt": "2022-06-19T08:00:54.776Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Jørgensen",
+    "email": "emil.jorgensen@example.com",
+    "username": "organiccat365",
+    "password": "whiteboy",
+    "invokedAt": "2022-06-19T09:00:38.562Z"
   }
 ]
