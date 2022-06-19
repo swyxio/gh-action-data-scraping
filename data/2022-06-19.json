@@ -78,5 +78,13 @@
     "username": "organiccat365",
     "password": "whiteboy",
     "invokedAt": "2022-06-19T09:00:38.562Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Patel",
+    "email": "noah.patel@example.com",
+    "username": "tinybear321",
+    "password": "dolly",
+    "invokedAt": "2022-06-19T10:00:46.420Z"
   }
 ]
