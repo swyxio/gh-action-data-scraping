@@ -102,5 +102,13 @@
     "username": "happybutterfly608",
     "password": "bigpimp",
     "invokedAt": "2022-06-20T12:00:47.947Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Annala",
+    "email": "lauri.annala@example.com",
+    "username": "orangetiger451",
+    "password": "2002",
+    "invokedAt": "2022-06-20T13:13:06.026Z"
   }
 ]
