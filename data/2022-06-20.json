@@ -46,5 +46,13 @@
     "username": "greenmeercat639",
     "password": "operator",
     "invokedAt": "2022-06-20T05:01:12.730Z"
+  },
+  {
+    "firstName": "Malik",
+    "lastName": "Macdonald",
+    "email": "malik.macdonald@example.com",
+    "username": "brownmouse275",
+    "password": "smith",
+    "invokedAt": "2022-06-20T06:00:47.890Z"
   }
 ]
