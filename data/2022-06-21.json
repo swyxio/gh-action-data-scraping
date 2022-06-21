@@ -174,5 +174,13 @@
     "username": "orangekoala735",
     "password": "harper",
     "invokedAt": "2022-06-21T21:00:59.832Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Hanson",
+    "email": "miguel.hanson@example.com",
+    "username": "bigduck868",
+    "password": "carnage",
+    "invokedAt": "2022-06-21T22:00:42.273Z"
   }
 ]
