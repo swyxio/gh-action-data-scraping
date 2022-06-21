@@ -142,5 +142,13 @@
     "username": "blackelephant522",
     "password": "basket",
     "invokedAt": "2022-06-21T17:09:16.096Z"
+  },
+  {
+    "firstName": "Sedat",
+    "lastName": "Van den Brandhof",
+    "email": "sedat.vandenbrandhof@example.com",
+    "username": "bigmouse109",
+    "password": "site",
+    "invokedAt": "2022-06-21T18:00:44.149Z"
   }
 ]
