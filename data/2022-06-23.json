@@ -94,5 +94,13 @@
     "username": "angrygorilla306",
     "password": "bigblock",
     "invokedAt": "2022-06-23T11:00:45.216Z"
+  },
+  {
+    "firstName": "Malik",
+    "lastName": "Martin",
+    "email": "malik.martin@example.com",
+    "username": "smallostrich939",
+    "password": "123456789",
+    "invokedAt": "2022-06-23T12:00:39.140Z"
   }
 ]
