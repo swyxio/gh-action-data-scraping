@@ -54,5 +54,13 @@
     "username": "heavygorilla108",
     "password": "1025",
     "invokedAt": "2022-06-24T06:00:53.835Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Dupont",
+    "email": "miro.dupont@example.com",
+    "username": "bigmeercat569",
+    "password": "redskin",
+    "invokedAt": "2022-06-24T07:00:38.731Z"
   }
 ]
