@@ -142,5 +142,13 @@
     "username": "sadrabbit850",
     "password": "planet",
     "invokedAt": "2022-06-26T17:01:54.107Z"
+  },
+  {
+    "firstName": "Debbie",
+    "lastName": "Long",
+    "email": "debbie.long@example.com",
+    "username": "brownmeercat506",
+    "password": "frodo",
+    "invokedAt": "2022-06-26T18:00:52.869Z"
   }
 ]
