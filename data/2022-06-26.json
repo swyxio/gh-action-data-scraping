@@ -158,5 +158,13 @@
     "username": "redmeercat999",
     "password": "fischer",
     "invokedAt": "2022-06-26T19:00:32.545Z"
+  },
+  {
+    "firstName": "Pihla",
+    "lastName": "Rintala",
+    "email": "pihla.rintala@example.com",
+    "username": "tinymeercat634",
+    "password": "caligula",
+    "invokedAt": "2022-06-26T20:00:35.716Z"
   }
 ]
