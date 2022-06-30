@@ -78,5 +78,13 @@
     "username": "goldenmouse532",
     "password": "playoffs",
     "invokedAt": "2022-06-30T09:00:44.603Z"
+  },
+  {
+    "firstName": "Harvey",
+    "lastName": "Reid",
+    "email": "harvey.reid@example.com",
+    "username": "purplewolf387",
+    "password": "potato",
+    "invokedAt": "2022-06-30T10:00:36.865Z"
   }
 ]
