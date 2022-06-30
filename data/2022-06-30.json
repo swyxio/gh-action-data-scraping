@@ -166,5 +166,13 @@
     "username": "silverostrich366",
     "password": "strike",
     "invokedAt": "2022-06-30T20:00:45.919Z"
+  },
+  {
+    "firstName": "Ümit",
+    "lastName": "Denkel",
+    "email": "umit.denkel@example.com",
+    "username": "greenostrich920",
+    "password": "turtle",
+    "invokedAt": "2022-06-30T21:00:52.045Z"
   }
 ]
