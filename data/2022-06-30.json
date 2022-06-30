@@ -70,5 +70,13 @@
     "username": "bluerabbit331",
     "password": "otis",
     "invokedAt": "2022-06-30T08:00:48.534Z"
+  },
+  {
+    "firstName": "Çetin",
+    "lastName": "Karadaş",
+    "email": "cetin.karadas@example.com",
+    "username": "goldenmouse532",
+    "password": "playoffs",
+    "invokedAt": "2022-06-30T09:00:44.603Z"
   }
 ]
