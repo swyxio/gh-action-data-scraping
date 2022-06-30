@@ -142,5 +142,13 @@
     "username": "tinyfrog263",
     "password": "netscape",
     "invokedAt": "2022-06-30T17:07:06.334Z"
+  },
+  {
+    "firstName": "Serenity",
+    "lastName": "Fisher",
+    "email": "serenity.fisher@example.com",
+    "username": "goldenswan373",
+    "password": "vodka",
+    "invokedAt": "2022-06-30T18:01:15.621Z"
   }
 ]
