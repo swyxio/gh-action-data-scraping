@@ -110,5 +110,13 @@
     "username": "silverswan923",
     "password": "titleist",
     "invokedAt": "2022-06-30T13:13:38.217Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Brown",
+    "email": "matilda.brown@example.com",
+    "username": "purplebutterfly547",
+    "password": "account",
+    "invokedAt": "2022-06-30T14:00:43.400Z"
   }
 ]
