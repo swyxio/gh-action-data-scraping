@@ -102,5 +102,13 @@
     "username": "happydog251",
     "password": "caster",
     "invokedAt": "2022-07-01T12:00:47.405Z"
+  },
+  {
+    "firstName": "اميرمحمد",
+    "lastName": "موسوی",
+    "email": "myrmhmd.mwswy@example.com",
+    "username": "smallkoala298",
+    "password": "buzzer",
+    "invokedAt": "2022-07-01T13:13:17.005Z"
   }
 ]
