@@ -158,5 +158,13 @@
     "username": "angrysnake770",
     "password": "chips",
     "invokedAt": "2022-07-03T19:00:40.081Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Davis",
+    "email": "sophie.davis@example.com",
+    "username": "redkoala989",
+    "password": "4200",
+    "invokedAt": "2022-07-03T20:00:32.832Z"
   }
 ]
