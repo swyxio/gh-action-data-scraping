@@ -182,5 +182,13 @@
     "username": "biglion987",
     "password": "guardian",
     "invokedAt": "2022-07-04T22:00:53.121Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Bailey",
+    "email": "dan.bailey@example.com",
+    "username": "heavyfish277",
+    "password": "vsegda",
+    "invokedAt": "2022-07-04T23:00:31.824Z"
   }
 ]
