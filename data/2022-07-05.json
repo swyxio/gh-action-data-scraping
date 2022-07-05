@@ -94,5 +94,13 @@
     "username": "happybird679",
     "password": "byteme",
     "invokedAt": "2022-07-05T11:00:44.057Z"
+  },
+  {
+    "firstName": "Medina",
+    "lastName": "Leroux",
+    "email": "medina.leroux@example.com",
+    "username": "silverfrog753",
+    "password": "asdfghjkl",
+    "invokedAt": "2022-07-05T12:00:48.765Z"
   }
 ]
