@@ -126,5 +126,13 @@
     "username": "brownbird552",
     "password": "alucard",
     "invokedAt": "2022-07-06T15:00:54.991Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Li",
+    "email": "jeremy.li@example.com",
+    "username": "blackwolf529",
+    "password": "builder",
+    "invokedAt": "2022-07-06T16:00:45.082Z"
   }
 ]
