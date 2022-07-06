@@ -102,5 +102,13 @@
     "username": "bigmeercat192",
     "password": "mischief",
     "invokedAt": "2022-07-06T12:01:00.908Z"
+  },
+  {
+    "firstName": "Ratko",
+    "lastName": "Daničić",
+    "email": "ratko.danicic@example.com",
+    "username": "heavyostrich686",
+    "password": "atlas",
+    "invokedAt": "2022-07-06T13:14:26.906Z"
   }
 ]
