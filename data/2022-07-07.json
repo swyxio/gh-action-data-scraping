@@ -166,5 +166,13 @@
     "username": "bluemeercat390",
     "password": "charisma",
     "invokedAt": "2022-07-07T20:00:50.236Z"
+  },
+  {
+    "firstName": "Anders",
+    "lastName": "Thrane",
+    "email": "anders.thrane@example.com",
+    "username": "blueleopard111",
+    "password": "sixers",
+    "invokedAt": "2022-07-07T21:00:37.681Z"
   }
 ]
