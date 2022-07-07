@@ -158,5 +158,13 @@
     "username": "tinyelephant523",
     "password": "justin1",
     "invokedAt": "2022-07-07T19:00:48.969Z"
+  },
+  {
+    "firstName": "Ivica",
+    "lastName": "Grujić",
+    "email": "ivica.grujic@example.com",
+    "username": "bluemeercat390",
+    "password": "charisma",
+    "invokedAt": "2022-07-07T20:00:50.236Z"
   }
 ]
