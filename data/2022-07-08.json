@@ -182,5 +182,13 @@
     "username": "silverpeacock483",
     "password": "sail",
     "invokedAt": "2022-07-08T22:00:37.725Z"
+  },
+  {
+    "firstName": "Helmi",
+    "lastName": "Hanninen",
+    "email": "helmi.hanninen@example.com",
+    "username": "smallcat960",
+    "password": "clean",
+    "invokedAt": "2022-07-08T23:00:41.581Z"
   }
 ]
