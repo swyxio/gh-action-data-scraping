@@ -86,5 +86,13 @@
     "username": "lazyduck727",
     "password": "park",
     "invokedAt": "2022-07-08T10:00:48.839Z"
+  },
+  {
+    "firstName": "Dobrivod",
+    "lastName": "Kashchenko",
+    "email": "dobrivod.kashchenko@example.com",
+    "username": "lazykoala146",
+    "password": "moonbeam",
+    "invokedAt": "2022-07-08T11:00:45.025Z"
   }
 ]
