@@ -158,5 +158,13 @@
     "username": "blackpeacock135",
     "password": "indian",
     "invokedAt": "2022-07-09T19:00:42.787Z"
+  },
+  {
+    "firstName": "Marvin",
+    "lastName": "Williams",
+    "email": "marvin.williams@example.com",
+    "username": "orangepanda761",
+    "password": "aragorn",
+    "invokedAt": "2022-07-09T20:00:50.062Z"
   }
 ]
