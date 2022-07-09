@@ -78,5 +78,13 @@
     "username": "bigmeercat898",
     "password": "trace",
     "invokedAt": "2022-07-09T09:00:42.367Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Johansen",
+    "email": "lea.johansen@example.com",
+    "username": "yellowsnake214",
+    "password": "timeout",
+    "invokedAt": "2022-07-09T10:00:38.461Z"
   }
 ]
