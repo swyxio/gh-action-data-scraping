@@ -46,5 +46,13 @@
     "username": "goldenfish799",
     "password": "amsterda",
     "invokedAt": "2022-07-10T05:02:07.164Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Ennis",
+    "email": "thomas.ennis@example.com",
+    "username": "blueelephant520",
+    "password": "krista",
+    "invokedAt": "2022-07-10T06:00:49.679Z"
   }
 ]
