@@ -70,5 +70,13 @@
     "username": "bigfish954",
     "password": "seinfeld",
     "invokedAt": "2022-07-10T08:00:50.893Z"
+  },
+  {
+    "firstName": "Ilyès",
+    "lastName": "Berger",
+    "email": "ilyes.berger@example.com",
+    "username": "orangepanda854",
+    "password": "badboy",
+    "invokedAt": "2022-07-10T09:00:57.632Z"
   }
 ]
