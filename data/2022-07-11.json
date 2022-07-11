@@ -150,5 +150,13 @@
     "username": "redcat762",
     "password": "cisco",
     "invokedAt": "2022-07-11T18:01:30.681Z"
+  },
+  {
+    "firstName": "Léandre",
+    "lastName": "Roux",
+    "email": "leandre.roux@example.com",
+    "username": "orangemeercat744",
+    "password": "456456",
+    "invokedAt": "2022-07-11T19:00:40.970Z"
   }
 ]
