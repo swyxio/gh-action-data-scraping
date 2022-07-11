@@ -126,5 +126,13 @@
     "username": "crazyzebra854",
     "password": "peekaboo",
     "invokedAt": "2022-07-11T15:05:43.251Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Bergeron",
+    "email": "zoe.bergeron@example.com",
+    "username": "yellowduck672",
+    "password": "shorty",
+    "invokedAt": "2022-07-11T16:06:11.873Z"
   }
 ]
