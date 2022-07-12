@@ -70,5 +70,13 @@
     "username": "brownfish521",
     "password": "whales",
     "invokedAt": "2022-07-12T08:00:32.697Z"
+  },
+  {
+    "firstName": "Lada",
+    "lastName": "Stefanović",
+    "email": "lada.stefanovic@example.com",
+    "username": "purpleswan886",
+    "password": "marijuan",
+    "invokedAt": "2022-07-12T09:06:22.378Z"
   }
 ]
