@@ -174,5 +174,13 @@
     "username": "brownleopard220",
     "password": "qweasd",
     "invokedAt": "2022-07-13T22:00:41.902Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Zhang",
+    "email": "hunter.zhang@example.com",
+    "username": "lazygorilla840",
+    "password": "block",
+    "invokedAt": "2022-07-13T23:00:40.571Z"
   }
 ]
