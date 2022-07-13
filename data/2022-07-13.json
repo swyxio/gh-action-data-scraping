@@ -118,5 +118,13 @@
     "username": "browndog488",
     "password": "deskjet",
     "invokedAt": "2022-07-13T14:02:56.006Z"
+  },
+  {
+    "firstName": "Millie",
+    "lastName": "Moore",
+    "email": "millie.moore@example.com",
+    "username": "blackbear714",
+    "password": "crawford",
+    "invokedAt": "2022-07-13T15:10:36.606Z"
   }
 ]
