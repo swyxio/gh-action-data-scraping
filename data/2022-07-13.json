@@ -166,5 +166,13 @@
     "username": "tinybird820",
     "password": "badboy",
     "invokedAt": "2022-07-13T21:00:57.843Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Olsen",
+    "email": "valdemar.olsen@example.com",
+    "username": "brownleopard220",
+    "password": "qweasd",
+    "invokedAt": "2022-07-13T22:00:41.902Z"
   }
 ]
