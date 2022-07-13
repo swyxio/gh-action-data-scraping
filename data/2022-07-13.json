@@ -134,5 +134,13 @@
     "username": "greengoose485",
     "password": "deerhunt",
     "invokedAt": "2022-07-13T16:00:55.740Z"
+  },
+  {
+    "firstName": "Carole",
+    "lastName": "Flores",
+    "email": "carole.flores@example.com",
+    "username": "crazygoose952",
+    "password": "dogs",
+    "invokedAt": "2022-07-13T17:05:46.974Z"
   }
 ]
