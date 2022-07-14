@@ -126,5 +126,13 @@
     "username": "crazyduck726",
     "password": "island",
     "invokedAt": "2022-07-14T15:00:59.498Z"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Snyder",
+    "email": "steven.snyder@example.com",
+    "username": "purpleleopard120",
+    "password": "nissan",
+    "invokedAt": "2022-07-14T16:00:42.505Z"
   }
 ]
