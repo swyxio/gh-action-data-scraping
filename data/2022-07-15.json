@@ -94,5 +94,13 @@
     "username": "purplepeacock970",
     "password": "77777777",
     "invokedAt": "2022-07-15T11:00:41.742Z"
+  },
+  {
+    "firstName": "Domingo",
+    "lastName": "Pascual",
+    "email": "domingo.pascual@example.com",
+    "username": "redpeacock309",
+    "password": "sonic",
+    "invokedAt": "2022-07-15T12:00:41.998Z"
   }
 ]
