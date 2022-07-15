@@ -134,5 +134,13 @@
     "username": "bigpanda613",
     "password": "scooter",
     "invokedAt": "2022-07-15T16:00:45.649Z"
+  },
+  {
+    "firstName": "Ciro",
+    "lastName": "Aukes",
+    "email": "ciro.aukes@example.com",
+    "username": "silverrabbit475",
+    "password": "driver",
+    "invokedAt": "2022-07-15T17:06:24.825Z"
   }
 ]
