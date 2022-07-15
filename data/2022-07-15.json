@@ -142,5 +142,13 @@
     "username": "silverrabbit475",
     "password": "driver",
     "invokedAt": "2022-07-15T17:06:24.825Z"
+  },
+  {
+    "firstName": "Susana",
+    "lastName": "Lugo",
+    "email": "susana.lugo@example.com",
+    "username": "sadcat100",
+    "password": "physics",
+    "invokedAt": "2022-07-15T18:00:41.949Z"
   }
 ]
