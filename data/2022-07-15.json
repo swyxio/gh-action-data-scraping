@@ -182,5 +182,13 @@
     "username": "silverostrich213",
     "password": "7654321",
     "invokedAt": "2022-07-15T22:00:39.887Z"
+  },
+  {
+    "firstName": "Anatole",
+    "lastName": "Legrand",
+    "email": "anatole.legrand@example.com",
+    "username": "silvercat887",
+    "password": "damon",
+    "invokedAt": "2022-07-15T23:00:45.950Z"
   }
 ]
