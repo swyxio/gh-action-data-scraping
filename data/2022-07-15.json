@@ -102,5 +102,13 @@
     "username": "redpeacock309",
     "password": "sonic",
     "invokedAt": "2022-07-15T12:00:41.998Z"
+  },
+  {
+    "firstName": "Gligorije",
+    "lastName": "Raspopović",
+    "email": "gligorije.raspopovic@example.com",
+    "username": "goldenfrog980",
+    "password": "rugby1",
+    "invokedAt": "2022-07-15T13:14:34.515Z"
   }
 ]
