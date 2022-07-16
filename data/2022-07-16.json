@@ -30,5 +30,13 @@
     "username": "crazydog375",
     "password": "links",
     "invokedAt": "2022-07-16T03:27:34.596Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Johansen",
+    "email": "anton.johansen@example.com",
+    "username": "yellowgoose594",
+    "password": "enternow",
+    "invokedAt": "2022-07-16T04:06:23.091Z"
   }
 ]
