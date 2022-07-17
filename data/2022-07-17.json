@@ -94,5 +94,13 @@
     "username": "redgorilla506",
     "password": "france",
     "invokedAt": "2022-07-17T11:00:48.497Z"
+  },
+  {
+    "firstName": "Fahima",
+    "lastName": "Den Boer",
+    "email": "fahima.denboer@example.com",
+    "username": "orangefrog542",
+    "password": "404040",
+    "invokedAt": "2022-07-17T12:01:11.020Z"
   }
 ]
