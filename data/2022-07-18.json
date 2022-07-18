@@ -78,5 +78,13 @@
     "username": "blackostrich125",
     "password": "maximum",
     "invokedAt": "2022-07-18T09:00:46.711Z"
+  },
+  {
+    "firstName": "Miomir",
+    "lastName": "Sokolović",
+    "email": "miomir.sokolovic@example.com",
+    "username": "purplepeacock743",
+    "password": "rockon",
+    "invokedAt": "2022-07-18T10:00:49.083Z"
   }
 ]
