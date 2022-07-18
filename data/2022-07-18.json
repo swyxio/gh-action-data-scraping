@@ -126,5 +126,13 @@
     "username": "heavylion992",
     "password": "superior",
     "invokedAt": "2022-07-18T15:01:13.893Z"
+  },
+  {
+    "firstName": "Jesús",
+    "lastName": "Diaz",
+    "email": "jesus.diaz@example.com",
+    "username": "heavykoala866",
+    "password": "tester",
+    "invokedAt": "2022-07-18T16:00:46.510Z"
   }
 ]
