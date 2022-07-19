@@ -102,5 +102,13 @@
     "username": "purplesnake762",
     "password": "hollywood",
     "invokedAt": "2022-07-19T12:00:54.833Z"
+  },
+  {
+    "firstName": "Binck",
+    "lastName": "Duindam",
+    "email": "binck.duindam@example.com",
+    "username": "beautifuldog499",
+    "password": "roofer",
+    "invokedAt": "2022-07-19T13:13:22.817Z"
   }
 ]
