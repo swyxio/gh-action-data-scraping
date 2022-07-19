@@ -142,5 +142,13 @@
     "username": "crazybird881",
     "password": "playoffs",
     "invokedAt": "2022-07-19T17:08:20.239Z"
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Beck",
+    "email": "walter.beck@example.com",
+    "username": "lazykoala851",
+    "password": "hopeful",
+    "invokedAt": "2022-07-19T18:00:33.072Z"
   }
 ]
