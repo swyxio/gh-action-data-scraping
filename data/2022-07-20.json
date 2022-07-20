@@ -166,5 +166,13 @@
     "username": "brownostrich200",
     "password": "qqqqqqq",
     "invokedAt": "2022-07-20T21:00:42.018Z"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Lacroix",
+    "email": "claire.lacroix@example.com",
+    "username": "greenbird811",
+    "password": "rockford",
+    "invokedAt": "2022-07-20T22:00:50.845Z"
   }
 ]
