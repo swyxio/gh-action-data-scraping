@@ -134,5 +134,13 @@
     "username": "crazymouse444",
     "password": "marian",
     "invokedAt": "2022-07-20T16:01:05.001Z"
+  },
+  {
+    "firstName": "Onni",
+    "lastName": "Tuominen",
+    "email": "onni.tuominen@example.com",
+    "username": "angryduck557",
+    "password": "termite",
+    "invokedAt": "2022-07-20T18:00:42.147Z"
   }
 ]
