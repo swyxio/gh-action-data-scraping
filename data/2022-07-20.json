@@ -118,5 +118,13 @@
     "username": "brownostrich801",
     "password": "alucard",
     "invokedAt": "2022-07-20T14:03:21.833Z"
+  },
+  {
+    "firstName": "Nenad",
+    "lastName": "Lončarević",
+    "email": "nenad.loncarevic@example.com",
+    "username": "goldengoose790",
+    "password": "descent",
+    "invokedAt": "2022-07-20T15:01:00.386Z"
   }
 ]
