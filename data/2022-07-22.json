@@ -86,5 +86,13 @@
     "username": "beautifuldog457",
     "password": "woohoo",
     "invokedAt": "2022-07-22T11:00:32.424Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Moore",
+    "email": "kate.moore@example.com",
+    "username": "beautifulzebra698",
+    "password": "lestat",
+    "invokedAt": "2022-07-22T12:01:01.835Z"
   }
 ]
