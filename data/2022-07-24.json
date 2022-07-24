@@ -46,5 +46,13 @@
     "username": "redtiger899",
     "password": "kungfu",
     "invokedAt": "2022-07-24T06:00:37.106Z"
+  },
+  {
+    "firstName": "Siddharth",
+    "lastName": "Saha",
+    "email": "siddharth.saha@example.com",
+    "username": "goldenrabbit349",
+    "password": "crusty",
+    "invokedAt": "2022-07-24T07:00:32.894Z"
   }
 ]
