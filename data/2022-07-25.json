@@ -158,5 +158,13 @@
     "username": "redrabbit430",
     "password": "sticks",
     "invokedAt": "2022-07-25T22:00:34.775Z"
+  },
+  {
+    "firstName": "Ángel",
+    "lastName": "Peña",
+    "email": "angel.pena@example.com",
+    "username": "biglion167",
+    "password": "chilli",
+    "invokedAt": "2022-07-25T23:00:34.307Z"
   }
 ]
