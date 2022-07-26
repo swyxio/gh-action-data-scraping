@@ -166,5 +166,13 @@
     "username": "smallkoala664",
     "password": "pandora",
     "invokedAt": "2022-07-26T21:00:55.307Z"
+  },
+  {
+    "firstName": "Tilo",
+    "lastName": "Lauterbach",
+    "email": "tilo.lauterbach@example.com",
+    "username": "heavygorilla958",
+    "password": "bathing",
+    "invokedAt": "2022-07-26T22:00:58.928Z"
   }
 ]
