@@ -54,5 +54,13 @@
     "username": "ticklishfish306",
     "password": "versace",
     "invokedAt": "2022-07-29T06:00:48.961Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Perez",
+    "email": "ryan.perez@example.com",
+    "username": "ticklishmouse755",
+    "password": "forward",
+    "invokedAt": "2022-07-29T07:00:32.830Z"
   }
 ]
