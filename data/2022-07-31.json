@@ -38,5 +38,13 @@
     "username": "happydog487",
     "password": "blizzard",
     "invokedAt": "2022-07-31T04:12:36.523Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Williams",
+    "email": "anna.williams@example.com",
+    "username": "heavywolf230",
+    "password": "ramones",
+    "invokedAt": "2022-07-31T05:03:26.878Z"
   }
 ]
