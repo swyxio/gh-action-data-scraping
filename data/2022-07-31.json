@@ -30,5 +30,13 @@
     "username": "crazydog882",
     "password": "quick",
     "invokedAt": "2022-07-31T03:30:14.474Z"
+  },
+  {
+    "firstName": "Draginja",
+    "lastName": "Lazović",
+    "email": "draginja.lazovic@example.com",
+    "username": "happydog487",
+    "password": "blizzard",
+    "invokedAt": "2022-07-31T04:12:36.523Z"
   }
 ]
