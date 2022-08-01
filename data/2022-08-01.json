@@ -94,5 +94,13 @@
     "username": "crazyzebra734",
     "password": "biguns",
     "invokedAt": "2022-08-01T11:00:38.639Z"
+  },
+  {
+    "firstName": "Maik",
+    "lastName": "Dumont",
+    "email": "maik.dumont@example.com",
+    "username": "angrylion268",
+    "password": "woohoo",
+    "invokedAt": "2022-08-01T12:00:45.640Z"
   }
 ]
