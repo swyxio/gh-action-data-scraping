@@ -46,5 +46,13 @@
     "username": "organicpanda152",
     "password": "yamaha",
     "invokedAt": "2022-08-01T05:23:26.873Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Gordon",
+    "email": "adam.gordon@example.com",
+    "username": "tinypanda988",
+    "password": "oblivion",
+    "invokedAt": "2022-08-01T06:07:16.858Z"
   }
 ]
