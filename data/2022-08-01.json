@@ -126,5 +126,13 @@
     "username": "orangemeercat483",
     "password": "soft",
     "invokedAt": "2022-08-01T15:00:43.854Z"
+  },
+  {
+    "firstName": "Joaquín",
+    "lastName": "Gonzales",
+    "email": "joaquin.gonzales@example.com",
+    "username": "greenmouse206",
+    "password": "malaka",
+    "invokedAt": "2022-08-01T18:00:41.585Z"
   }
 ]
