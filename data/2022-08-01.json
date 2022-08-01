@@ -78,5 +78,13 @@
     "username": "smallcat391",
     "password": "spawn",
     "invokedAt": "2022-08-01T09:00:35.808Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Kujala",
+    "email": "peppi.kujala@example.com",
+    "username": "blackostrich292",
+    "password": "kangaroo",
+    "invokedAt": "2022-08-01T10:00:47.504Z"
   }
 ]
