@@ -54,5 +54,13 @@
     "username": "sadmouse667",
     "password": "pyon",
     "invokedAt": "2022-08-02T06:01:52.810Z"
+  },
+  {
+    "firstName": "Leroy",
+    "lastName": "Wallace",
+    "email": "leroy.wallace@example.com",
+    "username": "tinytiger598",
+    "password": "cookie",
+    "invokedAt": "2022-08-02T07:00:37.200Z"
   }
 ]
