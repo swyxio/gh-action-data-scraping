@@ -78,5 +78,13 @@
     "username": "orangeladybug260",
     "password": "gateway2",
     "invokedAt": "2022-08-02T09:00:42.741Z"
+  },
+  {
+    "firstName": "Óscar",
+    "lastName": "Rocha",
+    "email": "oscar.rocha@example.com",
+    "username": "happybutterfly698",
+    "password": "pink",
+    "invokedAt": "2022-08-02T10:00:50.562Z"
   }
 ]
