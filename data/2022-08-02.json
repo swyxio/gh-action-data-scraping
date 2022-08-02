@@ -38,5 +38,13 @@
     "username": "smallcat701",
     "password": "ccbill",
     "invokedAt": "2022-08-02T04:27:22.464Z"
+  },
+  {
+    "firstName": "Susanne",
+    "lastName": "Hart",
+    "email": "susanne.hart@example.com",
+    "username": "purplefrog261",
+    "password": "stocking",
+    "invokedAt": "2022-08-02T05:21:03.908Z"
   }
 ]
