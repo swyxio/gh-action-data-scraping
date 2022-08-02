@@ -14,5 +14,13 @@
     "username": "goldendog887",
     "password": "julian",
     "invokedAt": "2022-08-02T01:29:53.138Z"
+  },
+  {
+    "firstName": "Dragoljub",
+    "lastName": "Maksimović",
+    "email": "dragoljub.maksimovic@example.com",
+    "username": "redcat523",
+    "password": "access1",
+    "invokedAt": "2022-08-02T02:53:05.080Z"
   }
 ]
