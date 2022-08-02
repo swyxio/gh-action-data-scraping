@@ -70,5 +70,13 @@
     "username": "redostrich369",
     "password": "sonic",
     "invokedAt": "2022-08-02T08:00:58.415Z"
+  },
+  {
+    "firstName": "Brajko",
+    "lastName": "Zdravković",
+    "email": "brajko.zdravkovic@example.com",
+    "username": "orangeladybug260",
+    "password": "gateway2",
+    "invokedAt": "2022-08-02T09:00:42.741Z"
   }
 ]
