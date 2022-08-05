@@ -70,5 +70,13 @@
     "username": "crazyduck642",
     "password": "progress",
     "invokedAt": "2022-08-05T08:00:53.572Z"
+  },
+  {
+    "firstName": "Dragica",
+    "lastName": "Dufour",
+    "email": "dragica.dufour@example.com",
+    "username": "tinyduck778",
+    "password": "password1",
+    "invokedAt": "2022-08-05T09:00:51.096Z"
   }
 ]
