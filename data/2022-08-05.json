@@ -62,5 +62,13 @@
     "username": "smallwolf113",
     "password": "fastball",
     "invokedAt": "2022-08-05T07:00:31.668Z"
+  },
+  {
+    "firstName": "Brooklyn",
+    "lastName": "Keijer",
+    "email": "brooklyn.keijer@example.com",
+    "username": "crazyduck642",
+    "password": "progress",
+    "invokedAt": "2022-08-05T08:00:53.572Z"
   }
 ]
