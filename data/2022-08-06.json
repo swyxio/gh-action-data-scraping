@@ -158,5 +158,13 @@
     "username": "orangefish208",
     "password": "bread",
     "invokedAt": "2022-08-06T20:00:49.731Z"
+  },
+  {
+    "firstName": "Leslie",
+    "lastName": "Ruiz",
+    "email": "leslie.ruiz@example.com",
+    "username": "happyfish834",
+    "password": "maserati",
+    "invokedAt": "2022-08-06T21:00:48.471Z"
   }
 ]
