@@ -142,5 +142,13 @@
     "username": "purpleleopard623",
     "password": "reserve",
     "invokedAt": "2022-08-06T17:02:14.815Z"
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Serrano",
+    "email": "teresa.serrano@example.com",
+    "username": "silverfish301",
+    "password": "dynamite",
+    "invokedAt": "2022-08-06T18:00:39.662Z"
   }
 ]
