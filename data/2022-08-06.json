@@ -102,5 +102,13 @@
     "username": "crazyfish877",
     "password": "meridian",
     "invokedAt": "2022-08-06T12:00:29.828Z"
+  },
+  {
+    "firstName": "Hannah",
+    "lastName": "Hughes",
+    "email": "hannah.hughes@example.com",
+    "username": "bluedog597",
+    "password": "878787",
+    "invokedAt": "2022-08-06T13:06:27.143Z"
   }
 ]
