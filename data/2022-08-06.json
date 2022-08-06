@@ -126,5 +126,13 @@
     "username": "beautifulbird483",
     "password": "blink",
     "invokedAt": "2022-08-06T15:00:40.189Z"
+  },
+  {
+    "firstName": "Samuele",
+    "lastName": "Rousseau",
+    "email": "samuele.rousseau@example.com",
+    "username": "blackduck811",
+    "password": "capone",
+    "invokedAt": "2022-08-06T16:00:34.763Z"
   }
 ]
