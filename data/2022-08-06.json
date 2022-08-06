@@ -62,5 +62,13 @@
     "username": "crazybear444",
     "password": "viper",
     "invokedAt": "2022-08-06T07:01:21.803Z"
+  },
+  {
+    "firstName": "Dragan",
+    "lastName": "Picard",
+    "email": "dragan.picard@example.com",
+    "username": "greenbear368",
+    "password": "speakers",
+    "invokedAt": "2022-08-06T08:01:09.034Z"
   }
 ]
