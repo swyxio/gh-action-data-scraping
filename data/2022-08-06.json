@@ -118,5 +118,13 @@
     "username": "blackduck157",
     "password": "sadie1",
     "invokedAt": "2022-08-06T14:00:31.852Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Warren",
+    "email": "sara.warren@example.com",
+    "username": "beautifulbird483",
+    "password": "blink",
+    "invokedAt": "2022-08-06T15:00:40.189Z"
   }
 ]
