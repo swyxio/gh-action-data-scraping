@@ -62,5 +62,13 @@
     "username": "bluetiger100",
     "password": "presley",
     "invokedAt": "2022-08-07T07:00:36.912Z"
+  },
+  {
+    "firstName": "Tomás",
+    "lastName": "Concepción",
+    "email": "tomas.concepcion@example.com",
+    "username": "goldenswan632",
+    "password": "shiloh",
+    "invokedAt": "2022-08-07T08:00:52.549Z"
   }
 ]
