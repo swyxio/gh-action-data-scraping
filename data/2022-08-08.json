@@ -158,5 +158,13 @@
     "username": "angryrabbit497",
     "password": "max123",
     "invokedAt": "2022-08-08T19:00:41.530Z"
+  },
+  {
+    "firstName": "Dragana",
+    "lastName": "Simonović",
+    "email": "dragana.simonovic@example.com",
+    "username": "bigbutterfly102",
+    "password": "abacab",
+    "invokedAt": "2022-08-08T20:00:35.337Z"
   }
 ]
