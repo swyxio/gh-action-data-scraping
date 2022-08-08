@@ -62,5 +62,13 @@
     "username": "brownbear220",
     "password": "trooper",
     "invokedAt": "2022-08-08T07:00:43.028Z"
+  },
+  {
+    "firstName": "Ružica",
+    "lastName": "Rodić",
+    "email": "ruzica.rodic@example.com",
+    "username": "blackwolf650",
+    "password": "westham",
+    "invokedAt": "2022-08-08T08:00:59.708Z"
   }
 ]
