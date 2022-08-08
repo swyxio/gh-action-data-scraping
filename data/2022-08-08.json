@@ -46,5 +46,13 @@
     "username": "smalldog117",
     "password": "proxy",
     "invokedAt": "2022-08-08T05:04:26.210Z"
+  },
+  {
+    "firstName": "Nathanaël",
+    "lastName": "Colin",
+    "email": "nathanael.colin@example.com",
+    "username": "heavypanda594",
+    "password": "barcelon",
+    "invokedAt": "2022-08-08T06:00:37.963Z"
   }
 ]
