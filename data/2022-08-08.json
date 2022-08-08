@@ -182,5 +182,13 @@
     "username": "bigrabbit857",
     "password": "glasgow",
     "invokedAt": "2022-08-08T22:00:46.704Z"
+  },
+  {
+    "firstName": "Ruža",
+    "lastName": "Šijan",
+    "email": "ruza.sijan@example.com",
+    "username": "yellowbird418",
+    "password": "grunt",
+    "invokedAt": "2022-08-08T23:00:52.484Z"
   }
 ]
