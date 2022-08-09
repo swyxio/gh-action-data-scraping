@@ -166,5 +166,13 @@
     "username": "happyelephant494",
     "password": "storage",
     "invokedAt": "2022-08-09T20:00:55.238Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Ayaydın",
+    "email": "deniz.ayaydin@example.com",
+    "username": "orangeleopard568",
+    "password": "rasta",
+    "invokedAt": "2022-08-09T21:00:41.678Z"
   }
 ]
