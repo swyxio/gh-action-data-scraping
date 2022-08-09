@@ -86,5 +86,13 @@
     "username": "whiteduck716",
     "password": "030303",
     "invokedAt": "2022-08-09T10:00:54.141Z"
+  },
+  {
+    "firstName": "Oya",
+    "lastName": "Topçuoğlu",
+    "email": "oya.topcuoglu@example.com",
+    "username": "greenleopard723",
+    "password": "dynasty",
+    "invokedAt": "2022-08-09T11:00:45.152Z"
   }
 ]
