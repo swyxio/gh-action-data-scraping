@@ -126,5 +126,13 @@
     "username": "biglion441",
     "password": "bounty",
     "invokedAt": "2022-08-09T15:00:57.347Z"
+  },
+  {
+    "firstName": "Rick",
+    "lastName": "Adams",
+    "email": "rick.adams@example.com",
+    "username": "heavyfrog953",
+    "password": "boulder",
+    "invokedAt": "2022-08-09T16:00:52.665Z"
   }
 ]
