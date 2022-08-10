@@ -182,5 +182,13 @@
     "username": "greenpeacock103",
     "password": "boston",
     "invokedAt": "2022-08-10T22:00:49.851Z"
+  },
+  {
+    "firstName": "Ulrico",
+    "lastName": "Aragão",
+    "email": "ulrico.aragao@example.com",
+    "username": "bluezebra818",
+    "password": "polopolo",
+    "invokedAt": "2022-08-10T23:00:51.421Z"
   }
 ]
