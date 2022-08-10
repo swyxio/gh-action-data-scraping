@@ -94,5 +94,13 @@
     "username": "brownmeercat500",
     "password": "uptown",
     "invokedAt": "2022-08-10T11:00:41.126Z"
+  },
+  {
+    "firstName": "Carla",
+    "lastName": "Roche",
+    "email": "carla.roche@example.com",
+    "username": "happybear270",
+    "password": "tweety",
+    "invokedAt": "2022-08-10T12:00:53.836Z"
   }
 ]
