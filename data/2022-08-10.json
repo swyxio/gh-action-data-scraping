@@ -126,5 +126,13 @@
     "username": "tinypeacock630",
     "password": "tardis",
     "invokedAt": "2022-08-10T15:00:34.072Z"
+  },
+  {
+    "firstName": "Anka",
+    "lastName": "Stošić",
+    "email": "anka.stosic@example.com",
+    "username": "bluesnake192",
+    "password": "shocker",
+    "invokedAt": "2022-08-10T16:00:52.407Z"
   }
 ]
