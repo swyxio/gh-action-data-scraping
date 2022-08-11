@@ -182,5 +182,13 @@
     "username": "bluelion202",
     "password": "7894",
     "invokedAt": "2022-08-11T22:00:49.927Z"
+  },
+  {
+    "firstName": "Niilo",
+    "lastName": "Niskanen",
+    "email": "niilo.niskanen@example.com",
+    "username": "blacktiger316",
+    "password": "13579",
+    "invokedAt": "2022-08-11T23:00:39.630Z"
   }
 ]
