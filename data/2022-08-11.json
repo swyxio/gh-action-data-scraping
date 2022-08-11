@@ -86,5 +86,13 @@
     "username": "orangegoose847",
     "password": "reaper",
     "invokedAt": "2022-08-11T10:00:46.465Z"
+  },
+  {
+    "firstName": "German",
+    "lastName": "Vidal",
+    "email": "german.vidal@example.com",
+    "username": "heavyduck465",
+    "password": "hoffman",
+    "invokedAt": "2022-08-11T11:00:46.896Z"
   }
 ]
