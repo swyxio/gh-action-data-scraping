@@ -166,5 +166,13 @@
     "username": "greenpeacock434",
     "password": "apple",
     "invokedAt": "2022-08-11T20:00:52.115Z"
+  },
+  {
+    "firstName": "Encarnación",
+    "lastName": "Vega",
+    "email": "encarnacion.vega@example.com",
+    "username": "biglion222",
+    "password": "qwe123",
+    "invokedAt": "2022-08-11T21:00:53.663Z"
   }
 ]
