@@ -78,5 +78,13 @@
     "username": "happykoala881",
     "password": "booger",
     "invokedAt": "2022-08-11T09:00:35.397Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Kristensen",
+    "email": "jonas.kristensen@example.com",
+    "username": "orangegoose847",
+    "password": "reaper",
+    "invokedAt": "2022-08-11T10:00:46.465Z"
   }
 ]
