@@ -126,5 +126,13 @@
     "username": "organiccat225",
     "password": "ncc1701",
     "invokedAt": "2022-08-11T15:00:54.111Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Carmona",
+    "email": "alberto.carmona@example.com",
+    "username": "bluezebra736",
+    "password": "hudson",
+    "invokedAt": "2022-08-11T16:00:43.178Z"
   }
 ]
