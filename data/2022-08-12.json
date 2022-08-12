@@ -174,5 +174,13 @@
     "username": "heavyzebra837",
     "password": "4ever",
     "invokedAt": "2022-08-12T21:00:30.894Z"
+  },
+  {
+    "firstName": "Keith",
+    "lastName": "Johnson",
+    "email": "keith.johnson@example.com",
+    "username": "redlion675",
+    "password": "talbot",
+    "invokedAt": "2022-08-12T22:00:47.034Z"
   }
 ]
