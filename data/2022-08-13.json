@@ -166,5 +166,13 @@
     "username": "whitesnake385",
     "password": "bigbig",
     "invokedAt": "2022-08-13T20:00:38.128Z"
+  },
+  {
+    "firstName": "Vlatka",
+    "lastName": "Tadić",
+    "email": "vlatka.tadic@example.com",
+    "username": "silverleopard832",
+    "password": "freeuser",
+    "invokedAt": "2022-08-13T21:00:37.982Z"
   }
 ]
