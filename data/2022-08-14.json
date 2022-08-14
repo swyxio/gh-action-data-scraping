@@ -174,5 +174,13 @@
     "username": "greenleopard496",
     "password": "hero",
     "invokedAt": "2022-08-14T21:00:45.855Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Aşıkoğlu",
+    "email": "batur.asikoglu@example.com",
+    "username": "goldenbird545",
+    "password": "kilroy",
+    "invokedAt": "2022-08-14T22:00:56.032Z"
   }
 ]
