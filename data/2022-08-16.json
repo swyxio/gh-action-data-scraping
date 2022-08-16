@@ -158,5 +158,13 @@
     "username": "whitesnake321",
     "password": "panhead",
     "invokedAt": "2022-08-16T19:00:35.623Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Cook",
+    "email": "grace.cook@example.com",
+    "username": "redmeercat385",
+    "password": "helper",
+    "invokedAt": "2022-08-16T20:00:57.970Z"
   }
 ]
