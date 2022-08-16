@@ -86,5 +86,13 @@
     "username": "redswan350",
     "password": "shelter",
     "invokedAt": "2022-08-16T10:00:48.832Z"
+  },
+  {
+    "firstName": "Gonzalo",
+    "lastName": "Álvarez",
+    "email": "gonzalo.alvarez@example.com",
+    "username": "orangerabbit330",
+    "password": "1220",
+    "invokedAt": "2022-08-16T11:00:41.257Z"
   }
 ]
