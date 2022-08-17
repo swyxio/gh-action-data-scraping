@@ -102,5 +102,13 @@
     "username": "brownfish107",
     "password": "broncos",
     "invokedAt": "2022-08-17T12:00:49.757Z"
+  },
+  {
+    "firstName": "Jake",
+    "lastName": "Walker",
+    "email": "jake.walker@example.com",
+    "username": "tinywolf808",
+    "password": "starbuck",
+    "invokedAt": "2022-08-17T13:15:28.343Z"
   }
 ]
