@@ -110,5 +110,13 @@
     "username": "sadwolf920",
     "password": "band",
     "invokedAt": "2022-08-18T13:14:20.103Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Petersen",
+    "email": "christoffer.petersen@example.com",
+    "username": "blueswan142",
+    "password": "capital",
+    "invokedAt": "2022-08-18T14:02:43.896Z"
   }
 ]
