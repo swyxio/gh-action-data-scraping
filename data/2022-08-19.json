@@ -134,5 +134,13 @@
     "username": "bigcat444",
     "password": "stupid1",
     "invokedAt": "2022-08-19T16:00:35.906Z"
+  },
+  {
+    "firstName": "Slobodan",
+    "lastName": "Uzelac",
+    "email": "slobodan.uzelac@example.com",
+    "username": "purplecat933",
+    "password": "proxy",
+    "invokedAt": "2022-08-19T17:05:59.188Z"
   }
 ]
