@@ -142,5 +142,13 @@
     "username": "purplecat933",
     "password": "proxy",
     "invokedAt": "2022-08-19T17:05:59.188Z"
+  },
+  {
+    "firstName": "Zoran",
+    "lastName": "Mišković",
+    "email": "zoran.miskovic@example.com",
+    "username": "lazyfish553",
+    "password": "stinker",
+    "invokedAt": "2022-08-19T18:00:55.383Z"
   }
 ]
