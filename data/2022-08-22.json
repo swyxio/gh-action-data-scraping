@@ -46,5 +46,13 @@
     "username": "happyleopard152",
     "password": "flying",
     "invokedAt": "2022-08-22T19:00:39.952Z"
+  },
+  {
+    "firstName": "Marion",
+    "lastName": "Colin",
+    "email": "marion.colin@example.com",
+    "username": "blackmeercat900",
+    "password": "marcus",
+    "invokedAt": "2022-08-22T20:00:51.979Z"
   }
 ]
