@@ -110,5 +110,13 @@
     "username": "ticklishmeercat249",
     "password": "redeye",
     "invokedAt": "2022-08-23T13:12:30.690Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Lammi",
+    "email": "oliver.lammi@example.com",
+    "username": "sadsnake899",
+    "password": "baggins",
+    "invokedAt": "2022-08-23T14:01:00.745Z"
   }
 ]
