@@ -166,5 +166,13 @@
     "username": "beautifulfish777",
     "password": "1007",
     "invokedAt": "2022-08-23T20:00:35.650Z"
+  },
+  {
+    "firstName": "Svetlana",
+    "lastName": "Pantić",
+    "email": "svetlana.pantic@example.com",
+    "username": "blackpanda589",
+    "password": "perfect",
+    "invokedAt": "2022-08-23T21:00:39.866Z"
   }
 ]
