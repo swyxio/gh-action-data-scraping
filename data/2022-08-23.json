@@ -78,5 +78,13 @@
     "username": "yellowbird822",
     "password": "starfire",
     "invokedAt": "2022-08-23T09:00:32.774Z"
+  },
+  {
+    "firstName": "Nalan",
+    "lastName": "Tokatlıoğlu",
+    "email": "nalan.tokatlioglu@example.com",
+    "username": "lazywolf352",
+    "password": "doctor",
+    "invokedAt": "2022-08-23T10:00:45.472Z"
   }
 ]
