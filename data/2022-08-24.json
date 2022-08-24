@@ -126,5 +126,13 @@
     "username": "blacksnake632",
     "password": "vulcan",
     "invokedAt": "2022-08-24T15:00:53.781Z"
+  },
+  {
+    "firstName": "Joëlle",
+    "lastName": "Bourgeois",
+    "email": "joelle.bourgeois@example.com",
+    "username": "angryfish253",
+    "password": "pavlov",
+    "invokedAt": "2022-08-24T16:00:48.034Z"
   }
 ]
