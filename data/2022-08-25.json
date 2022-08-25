@@ -158,5 +158,13 @@
     "username": "crazygorilla893",
     "password": "trans",
     "invokedAt": "2022-08-25T19:00:37.659Z"
+  },
+  {
+    "firstName": "Johann",
+    "lastName": "Alvestad",
+    "email": "johann.alvestad@example.com",
+    "username": "silverbear565",
+    "password": "starter",
+    "invokedAt": "2022-08-25T20:00:54.608Z"
   }
 ]
