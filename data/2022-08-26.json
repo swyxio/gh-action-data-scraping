@@ -118,5 +118,13 @@
     "username": "greenswan545",
     "password": "billbill",
     "invokedAt": "2022-08-26T16:00:48.858Z"
+  },
+  {
+    "firstName": "Thibaut",
+    "lastName": "Deschamps",
+    "email": "thibaut.deschamps@example.com",
+    "username": "orangetiger150",
+    "password": "richard",
+    "invokedAt": "2022-08-26T17:04:32.668Z"
   }
 ]
