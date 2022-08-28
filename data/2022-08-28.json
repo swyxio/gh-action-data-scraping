@@ -182,5 +182,13 @@
     "username": "goldencat252",
     "password": "ireland",
     "invokedAt": "2022-08-28T22:00:40.848Z"
+  },
+  {
+    "firstName": "Vicki",
+    "lastName": "Ortiz",
+    "email": "vicki.ortiz@example.com",
+    "username": "orangesnake850",
+    "password": "lost",
+    "invokedAt": "2022-08-28T23:00:38.846Z"
   }
 ]
