@@ -126,5 +126,13 @@
     "username": "bluemouse958",
     "password": "vertigo",
     "invokedAt": "2022-08-28T15:00:50.802Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Jones",
+    "email": "owen.jones@example.com",
+    "username": "bluerabbit891",
+    "password": "golfball",
+    "invokedAt": "2022-08-28T16:00:41.217Z"
   }
 ]
