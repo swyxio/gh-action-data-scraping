@@ -54,5 +54,13 @@
     "username": "goldenelephant221",
     "password": "funtime",
     "invokedAt": "2022-08-28T06:00:31.950Z"
+  },
+  {
+    "firstName": "Gabin",
+    "lastName": "Leclercq",
+    "email": "gabin.leclercq@example.com",
+    "username": "happycat811",
+    "password": "wasser",
+    "invokedAt": "2022-08-28T07:00:34.437Z"
   }
 ]
