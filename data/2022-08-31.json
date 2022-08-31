@@ -118,5 +118,13 @@
     "username": "lazyduck989",
     "password": "marsh",
     "invokedAt": "2022-08-31T14:02:17.785Z"
+  },
+  {
+    "firstName": "Matias",
+    "lastName": "Keranen",
+    "email": "matias.keranen@example.com",
+    "username": "ticklishpanda673",
+    "password": "bumble",
+    "invokedAt": "2022-08-31T15:00:43.360Z"
   }
 ]
