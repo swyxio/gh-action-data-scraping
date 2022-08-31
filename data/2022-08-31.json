@@ -86,5 +86,13 @@
     "username": "purplemeercat195",
     "password": "wing",
     "invokedAt": "2022-08-31T10:00:49.708Z"
+  },
+  {
+    "firstName": "Eevi",
+    "lastName": "Lehto",
+    "email": "eevi.lehto@example.com",
+    "username": "silvermeercat961",
+    "password": "windmill",
+    "invokedAt": "2022-08-31T11:00:42.300Z"
   }
 ]
