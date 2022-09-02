@@ -182,5 +182,13 @@
     "username": "angryrabbit965",
     "password": "met2002",
     "invokedAt": "2022-09-02T22:00:40.968Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Heikkila",
+    "email": "miro.heikkila@example.com",
+    "username": "smallgorilla765",
+    "password": "game",
+    "invokedAt": "2022-09-02T23:00:40.735Z"
   }
 ]
