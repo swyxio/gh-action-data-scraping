@@ -62,5 +62,13 @@
     "username": "bigsnake760",
     "password": "corsair",
     "invokedAt": "2022-09-02T07:07:24.009Z"
+  },
+  {
+    "firstName": "Paulo",
+    "lastName": "Martins",
+    "email": "paulo.martins@example.com",
+    "username": "greengoose159",
+    "password": "corn",
+    "invokedAt": "2022-09-02T08:00:33.772Z"
   }
 ]
