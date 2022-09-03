@@ -118,5 +118,13 @@
     "username": "happypanda192",
     "password": "quebec",
     "invokedAt": "2022-09-03T14:00:33.601Z"
+  },
+  {
+    "firstName": "Lenni",
+    "lastName": "Nikula",
+    "email": "lenni.nikula@example.com",
+    "username": "silvercat820",
+    "password": "myself",
+    "invokedAt": "2022-09-03T15:00:45.461Z"
   }
 ]
