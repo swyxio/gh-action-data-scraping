@@ -94,5 +94,13 @@
     "username": "brownpeacock665",
     "password": "debra",
     "invokedAt": "2022-09-03T11:00:46.363Z"
+  },
+  {
+    "firstName": "Josefa",
+    "lastName": "Nieto",
+    "email": "josefa.nieto@example.com",
+    "username": "redcat117",
+    "password": "scully",
+    "invokedAt": "2022-09-03T12:00:34.950Z"
   }
 ]
