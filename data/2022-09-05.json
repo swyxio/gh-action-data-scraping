@@ -94,5 +94,13 @@
     "username": "browndog970",
     "password": "zappa",
     "invokedAt": "2022-09-05T11:00:45.803Z"
+  },
+  {
+    "firstName": "Jordano",
+    "lastName": "Rodrigues",
+    "email": "jordano.rodrigues@example.com",
+    "username": "happyfish542",
+    "password": "spurs1",
+    "invokedAt": "2022-09-05T12:00:47.377Z"
   }
 ]
