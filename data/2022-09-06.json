@@ -94,5 +94,13 @@
     "username": "organicbird183",
     "password": "bridge",
     "invokedAt": "2022-09-06T11:00:38.845Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Holten",
+    "email": "diego.holten@example.com",
+    "username": "smallcat195",
+    "password": "stones",
+    "invokedAt": "2022-09-06T12:00:40.222Z"
   }
 ]
