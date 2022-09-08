@@ -142,5 +142,13 @@
     "username": "lazygorilla130",
     "password": "discover",
     "invokedAt": "2022-09-08T17:09:40.672Z"
+  },
+  {
+    "firstName": "Stefan",
+    "lastName": "Moreau",
+    "email": "stefan.moreau@example.com",
+    "username": "orangeleopard111",
+    "password": "phone",
+    "invokedAt": "2022-09-08T19:01:57.226Z"
   }
 ]
