@@ -78,5 +78,13 @@
     "username": "happybutterfly299",
     "password": "theater",
     "invokedAt": "2022-09-08T09:01:36.901Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Carter",
+    "email": "amy.carter@example.com",
+    "username": "lazybear449",
+    "password": "cccccc",
+    "invokedAt": "2022-09-08T10:00:31.859Z"
   }
 ]
