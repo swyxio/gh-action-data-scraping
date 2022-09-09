@@ -118,5 +118,13 @@
     "username": "ticklishpeacock800",
     "password": "chivas",
     "invokedAt": "2022-09-09T18:00:37.560Z"
+  },
+  {
+    "firstName": "Jasmina",
+    "lastName": "Stepanović",
+    "email": "jasmina.stepanovic@example.com",
+    "username": "ticklishmouse285",
+    "password": "celebrity",
+    "invokedAt": "2022-09-09T22:00:37.444Z"
   }
 ]
