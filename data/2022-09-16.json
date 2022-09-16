@@ -174,5 +174,13 @@
     "username": "tinyelephant252",
     "password": "payton",
     "invokedAt": "2022-09-16T21:00:48.317Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "de la Crúz",
+    "email": "andres.delacruz@example.com",
+    "username": "whitegoose605",
+    "password": "helmet",
+    "invokedAt": "2022-09-16T22:00:36.758Z"
   }
 ]
