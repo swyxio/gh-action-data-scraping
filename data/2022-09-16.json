@@ -118,5 +118,13 @@
     "username": "angryfish406",
     "password": "coolness",
     "invokedAt": "2022-09-16T14:09:31.077Z"
+  },
+  {
+    "firstName": "Rocío",
+    "lastName": "Cortes",
+    "email": "rocio.cortes@example.com",
+    "username": "silverbird750",
+    "password": "daemon",
+    "invokedAt": "2022-09-16T15:00:30.925Z"
   }
 ]
