@@ -126,5 +126,13 @@
     "username": "silverbird750",
     "password": "daemon",
     "invokedAt": "2022-09-16T15:00:30.925Z"
+  },
+  {
+    "firstName": "Héctor",
+    "lastName": "Castillo",
+    "email": "hector.castillo@example.com",
+    "username": "blackgoose714",
+    "password": "passion",
+    "invokedAt": "2022-09-16T16:00:52.446Z"
   }
 ]
