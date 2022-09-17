@@ -142,5 +142,13 @@
     "username": "redwolf143",
     "password": "ruby",
     "invokedAt": "2022-09-17T17:05:26.111Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Carter",
+    "email": "matthew.carter@example.com",
+    "username": "tinykoala465",
+    "password": "topcat",
+    "invokedAt": "2022-09-17T18:00:38.943Z"
   }
 ]
