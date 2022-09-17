@@ -118,5 +118,13 @@
     "username": "goldenbear441",
     "password": "bill",
     "invokedAt": "2022-09-17T14:00:31.834Z"
+  },
+  {
+    "firstName": "Aubrey",
+    "lastName": "Matthews",
+    "email": "aubrey.matthews@example.com",
+    "username": "silverostrich688",
+    "password": "goforit",
+    "invokedAt": "2022-09-17T15:00:52.577Z"
   }
 ]
