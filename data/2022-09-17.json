@@ -62,5 +62,13 @@
     "username": "organicelephant121",
     "password": "famous",
     "invokedAt": "2022-09-17T07:01:43.989Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Ennis",
+    "email": "william.ennis@example.com",
+    "username": "redgoose993",
+    "password": "flight",
+    "invokedAt": "2022-09-17T08:00:40.987Z"
   }
 ]
