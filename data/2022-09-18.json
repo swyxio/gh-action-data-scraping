@@ -102,5 +102,13 @@
     "username": "sadladybug544",
     "password": "pink",
     "invokedAt": "2022-09-18T12:00:52.153Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Reed",
+    "email": "roberto.reed@example.com",
+    "username": "orangeladybug508",
+    "password": "monalisa",
+    "invokedAt": "2022-09-18T13:11:33.650Z"
   }
 ]
