@@ -182,5 +182,13 @@
     "username": "tinybird850",
     "password": "malone",
     "invokedAt": "2022-09-18T22:00:40.756Z"
+  },
+  {
+    "firstName": "Hannah",
+    "lastName": "Harcourt",
+    "email": "hannah.harcourt@example.com",
+    "username": "smallbird237",
+    "password": "medical",
+    "invokedAt": "2022-09-18T23:00:46.143Z"
   }
 ]
