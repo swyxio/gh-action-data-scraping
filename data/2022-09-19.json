@@ -182,5 +182,13 @@
     "username": "blackdog525",
     "password": "dimples",
     "invokedAt": "2022-09-19T22:00:37.794Z"
+  },
+  {
+    "firstName": "Natércio",
+    "lastName": "Farias",
+    "email": "natercio.farias@example.com",
+    "username": "goldenbear364",
+    "password": "pony",
+    "invokedAt": "2022-09-19T23:00:41.501Z"
   }
 ]
