@@ -86,5 +86,13 @@
     "username": "heavyrabbit789",
     "password": "nirvana",
     "invokedAt": "2022-09-20T10:00:49.284Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Dupuis",
+    "email": "evan.dupuis@example.com",
+    "username": "blackbird756",
+    "password": "enterprise",
+    "invokedAt": "2022-09-20T11:00:37.719Z"
   }
 ]
