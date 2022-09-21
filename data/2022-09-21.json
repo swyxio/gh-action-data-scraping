@@ -126,5 +126,13 @@
     "username": "crazybird125",
     "password": "gotmilk",
     "invokedAt": "2022-09-21T15:00:44.036Z"
+  },
+  {
+    "firstName": "Anja",
+    "lastName": "Radanović",
+    "email": "anja.radanovic@example.com",
+    "username": "bigladybug675",
+    "password": "420420",
+    "invokedAt": "2022-09-21T16:00:43.004Z"
   }
 ]
