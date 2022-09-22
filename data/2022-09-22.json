@@ -94,5 +94,13 @@
     "username": "happydog872",
     "password": "kingkong",
     "invokedAt": "2022-09-22T11:00:30.686Z"
+  },
+  {
+    "firstName": "Thommy",
+    "lastName": "Vree",
+    "email": "thommy.vree@example.com",
+    "username": "bluedog171",
+    "password": "bendover",
+    "invokedAt": "2022-09-22T12:00:57.202Z"
   }
 ]
