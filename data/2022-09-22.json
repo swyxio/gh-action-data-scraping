@@ -70,5 +70,13 @@
     "username": "lazypeacock292",
     "password": "lestat",
     "invokedAt": "2022-09-22T08:01:37.519Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Harris",
+    "email": "arthur.harris@example.com",
+    "username": "whitemouse806",
+    "password": "balloon",
+    "invokedAt": "2022-09-22T09:03:02.338Z"
   }
 ]
