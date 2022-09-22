@@ -166,5 +166,13 @@
     "username": "organicmeercat319",
     "password": "pippo",
     "invokedAt": "2022-09-22T20:00:44.746Z"
+  },
+  {
+    "firstName": "Lewis",
+    "lastName": "Brooks",
+    "email": "lewis.brooks@example.com",
+    "username": "greenkoala768",
+    "password": "honeybee",
+    "invokedAt": "2022-09-22T21:00:40.926Z"
   }
 ]
