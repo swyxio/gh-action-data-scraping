@@ -118,5 +118,13 @@
     "username": "orangepeacock809",
     "password": "racing",
     "invokedAt": "2022-09-23T14:11:24.670Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Poulsen",
+    "email": "emily.poulsen@example.com",
+    "username": "whitemouse688",
+    "password": "stinger",
+    "invokedAt": "2022-09-23T15:01:51.768Z"
   }
 ]
