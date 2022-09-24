@@ -86,5 +86,13 @@
     "username": "organicgoose588",
     "password": "goalie",
     "invokedAt": "2022-09-24T10:00:39.652Z"
+  },
+  {
+    "firstName": "Dierk",
+    "lastName": "Lichtenberg",
+    "email": "dierk.lichtenberg@example.com",
+    "username": "greenleopard575",
+    "password": "martin",
+    "invokedAt": "2022-09-24T11:00:39.837Z"
   }
 ]
