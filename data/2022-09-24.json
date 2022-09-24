@@ -174,5 +174,13 @@
     "username": "lazymeercat145",
     "password": "favorite",
     "invokedAt": "2022-09-24T21:00:45.875Z"
+  },
+  {
+    "firstName": "Alexandra",
+    "lastName": "Marshall",
+    "email": "alexandra.marshall@example.com",
+    "username": "blackdog611",
+    "password": "theforce",
+    "invokedAt": "2022-09-24T22:00:34.058Z"
   }
 ]
