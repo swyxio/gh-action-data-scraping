@@ -70,5 +70,13 @@
     "username": "blackelephant623",
     "password": "riddle",
     "invokedAt": "2022-09-24T08:00:44.795Z"
+  },
+  {
+    "firstName": "Iva",
+    "lastName": "Lazić",
+    "email": "iva.lazic@example.com",
+    "username": "happypanda968",
+    "password": "felipe",
+    "invokedAt": "2022-09-24T09:01:33.102Z"
   }
 ]
