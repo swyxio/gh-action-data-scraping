@@ -182,5 +182,13 @@
     "username": "blackdog611",
     "password": "theforce",
     "invokedAt": "2022-09-24T22:00:34.058Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Boyd",
+    "email": "alfred.boyd@example.com",
+    "username": "angryduck322",
+    "password": "0.0.000",
+    "invokedAt": "2022-09-24T23:00:36.144Z"
   }
 ]
