@@ -54,5 +54,13 @@
     "username": "crazyswan724",
     "password": "neutron",
     "invokedAt": "2022-09-25T06:02:56.043Z"
+  },
+  {
+    "firstName": "Phillip",
+    "lastName": "Frøyland",
+    "email": "phillip.froyland@example.com",
+    "username": "crazypanda515",
+    "password": "qwer1234",
+    "invokedAt": "2022-09-25T07:02:21.550Z"
   }
 ]
