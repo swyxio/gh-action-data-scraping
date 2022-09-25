@@ -102,5 +102,13 @@
     "username": "purplewolf806",
     "password": "smart1",
     "invokedAt": "2022-09-25T12:00:44.105Z"
+  },
+  {
+    "firstName": "Zorica",
+    "lastName": "Vuksanović",
+    "email": "zorica.vuksanovic@example.com",
+    "username": "happycat342",
+    "password": "corwin",
+    "invokedAt": "2022-09-25T13:11:41.677Z"
   }
 ]
