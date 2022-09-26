@@ -86,5 +86,13 @@
     "username": "angryduck208",
     "password": "warriors",
     "invokedAt": "2022-09-26T10:00:48.062Z"
+  },
+  {
+    "firstName": "Uglješa",
+    "lastName": "Smiljanić",
+    "email": "ugljesa.smiljanic@example.com",
+    "username": "whitebear482",
+    "password": "sophia",
+    "invokedAt": "2022-09-26T11:00:29.818Z"
   }
 ]
