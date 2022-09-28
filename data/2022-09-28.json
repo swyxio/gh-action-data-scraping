@@ -166,5 +166,13 @@
     "username": "heavygorilla624",
     "password": "phillies",
     "invokedAt": "2022-09-28T20:00:35.960Z"
+  },
+  {
+    "firstName": "Arseniy",
+    "lastName": "Yanchuk",
+    "email": "arseniy.yanchuk@example.com",
+    "username": "beautifulbird323",
+    "password": "zxc123",
+    "invokedAt": "2022-09-28T21:00:46.852Z"
   }
 ]
