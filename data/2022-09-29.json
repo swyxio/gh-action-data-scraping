@@ -142,5 +142,13 @@
     "username": "orangeduck261",
     "password": "boss",
     "invokedAt": "2022-09-29T18:03:06.145Z"
+  },
+  {
+    "firstName": "Elfriede",
+    "lastName": "Freiberg",
+    "email": "elfriede.freiberg@example.com",
+    "username": "greendog863",
+    "password": "ming",
+    "invokedAt": "2022-09-29T19:04:08.146Z"
   }
 ]
