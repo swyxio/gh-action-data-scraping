@@ -54,5 +54,13 @@
     "username": "tinyfrog445",
     "password": "windows",
     "invokedAt": "2022-09-30T07:14:10.816Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Singh",
+    "email": "henry.singh@example.com",
+    "username": "redzebra211",
+    "password": "a1b2c3d4",
+    "invokedAt": "2022-09-30T08:04:50.746Z"
   }
 ]
