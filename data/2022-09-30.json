@@ -142,5 +142,13 @@
     "username": "blackkoala587",
     "password": "lekker",
     "invokedAt": "2022-09-30T18:03:06.058Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Tuomi",
+    "email": "daniel.tuomi@example.com",
+    "username": "greenmouse841",
+    "password": "unicorn",
+    "invokedAt": "2022-09-30T19:04:08.298Z"
   }
 ]
