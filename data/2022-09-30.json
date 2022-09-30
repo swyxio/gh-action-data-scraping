@@ -166,5 +166,13 @@
     "username": "whitewolf692",
     "password": "scott",
     "invokedAt": "2022-09-30T21:00:39.008Z"
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Gutiérrez",
+    "email": "gustavo.gutierrez@example.com",
+    "username": "blackladybug256",
+    "password": "gonzo1",
+    "invokedAt": "2022-09-30T22:00:47.799Z"
   }
 ]
