@@ -70,5 +70,13 @@
     "username": "organiccat213",
     "password": "babes",
     "invokedAt": "2022-09-30T09:06:49.125Z"
+  },
+  {
+    "firstName": "Stephen",
+    "lastName": "Brewer",
+    "email": "stephen.brewer@example.com",
+    "username": "whitefish204",
+    "password": "quest",
+    "invokedAt": "2022-09-30T10:01:46.264Z"
   }
 ]
