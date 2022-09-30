@@ -134,5 +134,13 @@
     "username": "bigdog118",
     "password": "zigzag",
     "invokedAt": "2022-09-30T17:12:19.959Z"
+  },
+  {
+    "firstName": "Katrine",
+    "lastName": "Sørensen",
+    "email": "katrine.sorensen@example.com",
+    "username": "blackkoala587",
+    "password": "lekker",
+    "invokedAt": "2022-09-30T18:03:06.058Z"
   }
 ]
