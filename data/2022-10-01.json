@@ -94,5 +94,13 @@
     "username": "bigtiger862",
     "password": "bonkers",
     "invokedAt": "2022-10-01T11:00:53.753Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Nielsen",
+    "email": "astrid.nielsen@example.com",
+    "username": "orangeleopard259",
+    "password": "nevada",
+    "invokedAt": "2022-10-01T12:00:50.536Z"
   }
 ]
