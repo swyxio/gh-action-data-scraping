@@ -134,5 +134,13 @@
     "username": "ticklishswan176",
     "password": "ncc1701e",
     "invokedAt": "2022-10-04T16:02:43.629Z"
+  },
+  {
+    "firstName": "Horst",
+    "lastName": "Dumont",
+    "email": "horst.dumont@example.com",
+    "username": "biggoose401",
+    "password": "focus",
+    "invokedAt": "2022-10-04T17:12:41.437Z"
   }
 ]
