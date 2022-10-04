@@ -118,5 +118,13 @@
     "username": "bluedog469",
     "password": "houses",
     "invokedAt": "2022-10-04T14:14:28.875Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Andersen",
+    "email": "valdemar.andersen@example.com",
+    "username": "smallrabbit737",
+    "password": "enjoy",
+    "invokedAt": "2022-10-04T15:03:31.893Z"
   }
 ]
