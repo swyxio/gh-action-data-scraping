@@ -86,5 +86,13 @@
     "username": "organicduck805",
     "password": "daewoo",
     "invokedAt": "2022-10-05T10:01:19.160Z"
+  },
+  {
+    "firstName": "Hudson",
+    "lastName": "Anderson",
+    "email": "hudson.anderson@example.com",
+    "username": "blackcat626",
+    "password": "myxworld",
+    "invokedAt": "2022-10-05T11:01:55.691Z"
   }
 ]
