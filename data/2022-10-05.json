@@ -182,5 +182,13 @@
     "username": "yellowelephant548",
     "password": "theater",
     "invokedAt": "2022-10-05T22:00:33.889Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Gürmen",
+    "email": "gokhan.gurmen@example.com",
+    "username": "redlion703",
+    "password": "tupac",
+    "invokedAt": "2022-10-05T23:01:09.432Z"
   }
 ]
