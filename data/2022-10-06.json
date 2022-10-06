@@ -174,5 +174,13 @@
     "username": "sadelephant164",
     "password": "metal",
     "invokedAt": "2022-10-06T21:00:43.973Z"
+  },
+  {
+    "firstName": "Quint",
+    "lastName": "Bijsterveld",
+    "email": "quint.bijsterveld@example.com",
+    "username": "whitezebra868",
+    "password": "horses",
+    "invokedAt": "2022-10-06T22:00:42.918Z"
   }
 ]
