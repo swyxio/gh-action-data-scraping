@@ -78,5 +78,13 @@
     "username": "brownlion379",
     "password": "beans",
     "invokedAt": "2022-10-07T09:03:29.234Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Petersen",
+    "email": "frederik.petersen@example.com",
+    "username": "angryzebra775",
+    "password": "fmale",
+    "invokedAt": "2022-10-07T10:01:44.553Z"
   }
 ]
