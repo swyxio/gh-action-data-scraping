@@ -182,5 +182,13 @@
     "username": "angryfrog537",
     "password": "sprout",
     "invokedAt": "2022-10-07T22:00:48.077Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Olsen",
+    "email": "rasmus.olsen@example.com",
+    "username": "redfish940",
+    "password": "q1w2e3r4",
+    "invokedAt": "2022-10-07T23:00:45.917Z"
   }
 ]
