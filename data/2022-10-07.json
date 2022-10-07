@@ -134,5 +134,13 @@
     "username": "silvergoose976",
     "password": "puppet",
     "invokedAt": "2022-10-07T16:02:39.541Z"
+  },
+  {
+    "firstName": "Monica",
+    "lastName": "Louis",
+    "email": "monica.louis@example.com",
+    "username": "yellowfrog184",
+    "password": "bongo",
+    "invokedAt": "2022-10-07T17:12:05.810Z"
   }
 ]
