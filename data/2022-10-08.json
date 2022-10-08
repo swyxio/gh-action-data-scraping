@@ -166,5 +166,13 @@
     "username": "redgoose624",
     "password": "pppp",
     "invokedAt": "2022-10-08T20:00:51.138Z"
+  },
+  {
+    "firstName": "Milja",
+    "lastName": "Oja",
+    "email": "milja.oja@example.com",
+    "username": "goldenpanda417",
+    "password": "vermont",
+    "invokedAt": "2022-10-08T21:00:44.259Z"
   }
 ]
