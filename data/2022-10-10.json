@@ -182,5 +182,13 @@
     "username": "purplemouse516",
     "password": "single",
     "invokedAt": "2022-10-10T22:00:36.985Z"
+  },
+  {
+    "firstName": "Nadia",
+    "lastName": "Ballesteros",
+    "email": "nadia.ballesteros@example.com",
+    "username": "redelephant105",
+    "password": "albatros",
+    "invokedAt": "2022-10-10T23:00:45.127Z"
   }
 ]
