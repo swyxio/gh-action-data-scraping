@@ -158,5 +158,13 @@
     "username": "smallfish819",
     "password": "stinger",
     "invokedAt": "2022-10-10T19:07:17.587Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Özgörkey",
+    "email": "afsar.ozgorkey@example.com",
+    "username": "angrygoose675",
+    "password": "gabby",
+    "invokedAt": "2022-10-10T20:00:51.549Z"
   }
 ]
