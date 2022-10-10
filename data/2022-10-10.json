@@ -94,5 +94,13 @@
     "username": "ticklishrabbit559",
     "password": "pimping",
     "invokedAt": "2022-10-10T11:01:15.109Z"
+  },
+  {
+    "firstName": "Dana",
+    "lastName": "Schaarschmidt",
+    "email": "dana.schaarschmidt@example.com",
+    "username": "greenbear458",
+    "password": "pluto",
+    "invokedAt": "2022-10-10T12:00:32.243Z"
   }
 ]
