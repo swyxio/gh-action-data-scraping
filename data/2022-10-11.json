@@ -166,5 +166,13 @@
     "username": "brownfrog935",
     "password": "hores",
     "invokedAt": "2022-10-11T20:00:40.349Z"
+  },
+  {
+    "firstName": "Damian",
+    "lastName": "Rousseau",
+    "email": "damian.rousseau@example.com",
+    "username": "silverladybug807",
+    "password": "hall",
+    "invokedAt": "2022-10-11T21:01:34.180Z"
   }
 ]
