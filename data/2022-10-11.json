@@ -182,5 +182,13 @@
     "username": "redwolf346",
     "password": "rockets",
     "invokedAt": "2022-10-11T22:02:46.611Z"
+  },
+  {
+    "firstName": "Francisco",
+    "lastName": "Herrero",
+    "email": "francisco.herrero@example.com",
+    "username": "yellowgoose780",
+    "password": "handball",
+    "invokedAt": "2022-10-11T23:01:11.421Z"
   }
 ]
