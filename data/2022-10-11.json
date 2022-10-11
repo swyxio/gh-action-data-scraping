@@ -54,5 +54,13 @@
     "username": "crazyrabbit729",
     "password": "unique",
     "invokedAt": "2022-10-11T06:16:27.204Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Öztürk",
+    "email": "afsar.ozturk@example.com",
+    "username": "redkoala912",
+    "password": "macaroni",
+    "invokedAt": "2022-10-11T07:12:03.972Z"
   }
 ]
