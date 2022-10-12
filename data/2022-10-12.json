@@ -166,5 +166,13 @@
     "username": "beautifulzebra834",
     "password": "addison",
     "invokedAt": "2022-10-12T20:00:44.674Z"
+  },
+  {
+    "firstName": "Edgar",
+    "lastName": "Kretschmann",
+    "email": "edgar.kretschmann@example.com",
+    "username": "crazycat992",
+    "password": "terrier",
+    "invokedAt": "2022-10-12T21:01:13.300Z"
   }
 ]
