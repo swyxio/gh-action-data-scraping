@@ -118,5 +118,13 @@
     "username": "sadgoose533",
     "password": "yeah",
     "invokedAt": "2022-10-12T14:15:24.354Z"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Moulin",
+    "email": "frank.moulin@example.com",
+    "username": "lazytiger190",
+    "password": "qwer",
+    "invokedAt": "2022-10-12T15:02:51.247Z"
   }
 ]
