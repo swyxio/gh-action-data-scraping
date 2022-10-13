@@ -158,5 +158,13 @@
     "username": "tinytiger754",
     "password": "apple1",
     "invokedAt": "2022-10-13T19:05:27.576Z"
+  },
+  {
+    "firstName": "Mirco",
+    "lastName": "Van Hooff",
+    "email": "mirco.vanhooff@example.com",
+    "username": "purpleelephant961",
+    "password": "lighter",
+    "invokedAt": "2022-10-13T20:00:38.030Z"
   }
 ]
