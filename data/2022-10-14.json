@@ -102,5 +102,13 @@
     "username": "happysnake633",
     "password": "imagine",
     "invokedAt": "2022-10-14T12:00:40.163Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Jarvinen",
+    "email": "emil.jarvinen@example.com",
+    "username": "happygoose752",
+    "password": "ncc1701e",
+    "invokedAt": "2022-10-14T13:19:02.877Z"
   }
 ]
