@@ -142,5 +142,13 @@
     "username": "lazycat957",
     "password": "reckless",
     "invokedAt": "2022-10-14T17:10:21.990Z"
+  },
+  {
+    "firstName": "Thibaut",
+    "lastName": "Mercier",
+    "email": "thibaut.mercier@example.com",
+    "username": "brownlion985",
+    "password": "mobile",
+    "invokedAt": "2022-10-14T18:01:42.773Z"
   }
 ]
