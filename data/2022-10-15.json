@@ -86,5 +86,13 @@
     "username": "purplebear855",
     "password": "research",
     "invokedAt": "2022-10-15T10:00:42.193Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Kallio",
+    "email": "toivo.kallio@example.com",
+    "username": "yellowfish370",
+    "password": "harpoon",
+    "invokedAt": "2022-10-15T11:00:42.151Z"
   }
 ]
