@@ -166,5 +166,13 @@
     "username": "lazygoose301",
     "password": "pictuers",
     "invokedAt": "2022-10-16T20:00:42.030Z"
+  },
+  {
+    "firstName": "Ken",
+    "lastName": "Arnold",
+    "email": "ken.arnold@example.com",
+    "username": "ticklishmouse713",
+    "password": "broken",
+    "invokedAt": "2022-10-16T21:00:35.690Z"
   }
 ]
