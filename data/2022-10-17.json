@@ -30,5 +30,13 @@
     "username": "bigpeacock181",
     "password": "switch",
     "invokedAt": "2022-10-17T03:59:32.857Z"
+  },
+  {
+    "firstName": "Ruben",
+    "lastName": "Van Hameren",
+    "email": "ruben.vanhameren@example.com",
+    "username": "smalldog179",
+    "password": "longdong",
+    "invokedAt": "2022-10-17T04:48:34.798Z"
   }
 ]
