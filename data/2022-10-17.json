@@ -166,5 +166,13 @@
     "username": "goldendog171",
     "password": "dream",
     "invokedAt": "2022-10-17T20:00:46.270Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Berndsen",
+    "email": "lisa.berndsen@example.com",
+    "username": "goldenleopard134",
+    "password": "chiks",
+    "invokedAt": "2022-10-17T21:00:57.835Z"
   }
 ]
