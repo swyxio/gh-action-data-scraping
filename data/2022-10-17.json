@@ -110,5 +110,13 @@
     "username": "lazypanda335",
     "password": "sally",
     "invokedAt": "2022-10-17T13:21:10.657Z"
+  },
+  {
+    "firstName": "Ariana",
+    "lastName": "Van de Scheur",
+    "email": "ariana.vandescheur@example.com",
+    "username": "goldenleopard117",
+    "password": "casino",
+    "invokedAt": "2022-10-17T14:15:00.875Z"
   }
 ]
