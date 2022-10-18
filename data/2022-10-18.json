@@ -142,5 +142,13 @@
     "username": "purpledog235",
     "password": "irish1",
     "invokedAt": "2022-10-18T17:13:14.766Z"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Terry",
+    "email": "patrick.terry@example.com",
+    "username": "happyrabbit192",
+    "password": "arsenal",
+    "invokedAt": "2022-10-18T18:05:30.594Z"
   }
 ]
