@@ -126,5 +126,13 @@
     "username": "silverladybug795",
     "password": "sonia",
     "invokedAt": "2022-10-18T15:03:01.005Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Akşit",
+    "email": "coskun.aksit@example.com",
+    "username": "redladybug360",
+    "password": "sausages",
+    "invokedAt": "2022-10-18T16:04:05.185Z"
   }
 ]
