@@ -166,5 +166,13 @@
     "username": "heavyswan700",
     "password": "rafael",
     "invokedAt": "2022-10-18T20:00:30.938Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Özkök",
+    "email": "ulku.ozkok@example.com",
+    "username": "blackswan557",
+    "password": "username",
+    "invokedAt": "2022-10-18T21:01:06.924Z"
   }
 ]
