@@ -182,5 +182,13 @@
     "username": "yellowdog789",
     "password": "webster",
     "invokedAt": "2022-10-18T22:00:58.500Z"
+  },
+  {
+    "firstName": "Nihal",
+    "lastName": "Koçoğlu",
+    "email": "nihal.kocoglu@example.com",
+    "username": "sadmeercat509",
+    "password": "stereo",
+    "invokedAt": "2022-10-18T23:00:41.619Z"
   }
 ]
