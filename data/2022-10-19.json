@@ -118,5 +118,13 @@
     "username": "beautifulzebra742",
     "password": "hubert",
     "invokedAt": "2022-10-19T15:02:56.415Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Lucas",
+    "email": "diego.lucas@example.com",
+    "username": "brownzebra582",
+    "password": "wrench",
+    "invokedAt": "2022-10-19T16:03:30.075Z"
   }
 ]
