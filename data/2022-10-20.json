@@ -118,5 +118,13 @@
     "username": "greenleopard692",
     "password": "flash1",
     "invokedAt": "2022-10-20T14:15:55.355Z"
+  },
+  {
+    "firstName": "Curtis",
+    "lastName": "Jones",
+    "email": "curtis.jones@example.com",
+    "username": "greentiger818",
+    "password": "whynot",
+    "invokedAt": "2022-10-20T15:02:29.745Z"
   }
 ]
