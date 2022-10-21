@@ -70,5 +70,13 @@
     "username": "whiteladybug943",
     "password": "dream",
     "invokedAt": "2022-10-21T08:00:53.850Z"
+  },
+  {
+    "firstName": "Marianne",
+    "lastName": "Gagné",
+    "email": "marianne.gagne@example.com",
+    "username": "lazydog883",
+    "password": "fullback",
+    "invokedAt": "2022-10-21T09:04:40.631Z"
   }
 ]
