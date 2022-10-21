@@ -78,5 +78,13 @@
     "username": "lazydog883",
     "password": "fullback",
     "invokedAt": "2022-10-21T09:04:40.631Z"
+  },
+  {
+    "firstName": "Milan",
+    "lastName": "Žigić",
+    "email": "milan.zigic@example.com",
+    "username": "happyfish220",
+    "password": "shock",
+    "invokedAt": "2022-10-21T10:02:09.104Z"
   }
 ]
