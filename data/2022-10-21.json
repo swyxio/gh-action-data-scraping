@@ -46,5 +46,13 @@
     "username": "goldenduck349",
     "password": "california",
     "invokedAt": "2022-10-21T05:22:20.272Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Stensvold",
+    "email": "jonas.stensvold@example.com",
+    "username": "blackgorilla629",
+    "password": "buster",
+    "invokedAt": "2022-10-21T06:08:23.823Z"
   }
 ]
