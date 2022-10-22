@@ -142,5 +142,13 @@
     "username": "silverpeacock450",
     "password": "zeppelin",
     "invokedAt": "2022-10-22T17:07:52.794Z"
+  },
+  {
+    "firstName": "Palma",
+    "lastName": "da Rocha",
+    "email": "palma.darocha@example.com",
+    "username": "brownsnake282",
+    "password": "return",
+    "invokedAt": "2022-10-22T18:00:53.172Z"
   }
 ]
