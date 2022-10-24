@@ -46,5 +46,13 @@
     "username": "silverfrog216",
     "password": "ranch",
     "invokedAt": "2022-10-24T05:28:48.756Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Alcaraz",
+    "email": "santiago.alcaraz@example.com",
+    "username": "orangegorilla532",
+    "password": "suzuki",
+    "invokedAt": "2022-10-24T06:25:41.608Z"
   }
 ]
