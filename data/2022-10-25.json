@@ -158,5 +158,13 @@
     "username": "bluerabbit533",
     "password": "square",
     "invokedAt": "2022-10-25T19:15:19.740Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Harris",
+    "email": "albert.harris@example.com",
+    "username": "angryleopard709",
+    "password": "incubus",
+    "invokedAt": "2022-10-25T20:02:06.687Z"
   }
 ]
