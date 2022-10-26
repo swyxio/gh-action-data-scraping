@@ -38,5 +38,13 @@
     "username": "crazyleopard866",
     "password": "loki",
     "invokedAt": "2022-10-26T04:21:24.836Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Miller",
+    "email": "bob.miller@example.com",
+    "username": "organicgoose112",
+    "password": "memorex",
+    "invokedAt": "2022-10-26T05:11:18.072Z"
   }
 ]
