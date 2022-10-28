@@ -158,5 +158,13 @@
     "username": "angrylion212",
     "password": "prelude",
     "invokedAt": "2022-10-28T20:00:48.180Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Köylüoğlu",
+    "email": "adem.koyluoglu@example.com",
+    "username": "heavybird599",
+    "password": "000001",
+    "invokedAt": "2022-10-28T21:00:45.019Z"
   }
 ]
