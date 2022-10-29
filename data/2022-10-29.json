@@ -158,5 +158,13 @@
     "username": "heavysnake966",
     "password": "isabella",
     "invokedAt": "2022-10-29T19:00:45.670Z"
+  },
+  {
+    "firstName": "Ramona",
+    "lastName": "Langhammer",
+    "email": "ramona.langhammer@example.com",
+    "username": "goldendog489",
+    "password": "papers",
+    "invokedAt": "2022-10-29T20:00:38.575Z"
   }
 ]
