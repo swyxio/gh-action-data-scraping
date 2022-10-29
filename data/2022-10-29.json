@@ -166,5 +166,13 @@
     "username": "goldendog489",
     "password": "papers",
     "invokedAt": "2022-10-29T20:00:38.575Z"
+  },
+  {
+    "firstName": "Lou",
+    "lastName": "Martin",
+    "email": "lou.martin@example.com",
+    "username": "silverdog829",
+    "password": "bobbob",
+    "invokedAt": "2022-10-29T21:00:52.920Z"
   }
 ]
