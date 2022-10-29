@@ -182,5 +182,13 @@
     "username": "tinyduck335",
     "password": "moritz",
     "invokedAt": "2022-10-29T22:00:36.895Z"
+  },
+  {
+    "firstName": "Ismail",
+    "lastName": "Garcia",
+    "email": "ismail.garcia@example.com",
+    "username": "lazyfish997",
+    "password": "lithium",
+    "invokedAt": "2022-10-29T23:00:41.295Z"
   }
 ]
