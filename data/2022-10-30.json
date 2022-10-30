@@ -94,5 +94,13 @@
     "username": "yellowrabbit441",
     "password": "harley",
     "invokedAt": "2022-10-30T11:00:37.305Z"
+  },
+  {
+    "firstName": "Waldtraut",
+    "lastName": "Thielmann",
+    "email": "waldtraut.thielmann@example.com",
+    "username": "purplepeacock424",
+    "password": "lemonade",
+    "invokedAt": "2022-10-30T12:00:39.256Z"
   }
 ]
