@@ -126,5 +126,13 @@
     "username": "purpleswan211",
     "password": "progress",
     "invokedAt": "2022-11-01T15:00:58.954Z"
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Dumont",
+    "email": "alicia.dumont@example.com",
+    "username": "redbear246",
+    "password": "celeb",
+    "invokedAt": "2022-11-01T16:00:35.317Z"
   }
 ]
