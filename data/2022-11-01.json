@@ -118,5 +118,13 @@
     "username": "sadkoala229",
     "password": "kajak",
     "invokedAt": "2022-11-01T14:06:36.037Z"
+  },
+  {
+    "firstName": "Velibor",
+    "lastName": "Nemanjić",
+    "email": "velibor.nemanjic@example.com",
+    "username": "purpleswan211",
+    "password": "progress",
+    "invokedAt": "2022-11-01T15:00:58.954Z"
   }
 ]
