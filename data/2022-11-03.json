@@ -142,5 +142,13 @@
     "username": "purpleleopard901",
     "password": "newpass",
     "invokedAt": "2022-11-03T17:04:33.985Z"
+  },
+  {
+    "firstName": "Hedwich",
+    "lastName": "Van den Bogert",
+    "email": "hedwich.vandenbogert@example.com",
+    "username": "sadbird134",
+    "password": "coolcool",
+    "invokedAt": "2022-11-03T18:01:05.926Z"
   }
 ]
