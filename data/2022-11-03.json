@@ -174,5 +174,13 @@
     "username": "redpanda582",
     "password": "nightwin",
     "invokedAt": "2022-11-03T21:00:43.363Z"
+  },
+  {
+    "firstName": "Lazar",
+    "lastName": "Mišković",
+    "email": "lazar.miskovic@example.com",
+    "username": "blackgorilla462",
+    "password": "nittany",
+    "invokedAt": "2022-11-03T22:00:42.043Z"
   }
 ]
