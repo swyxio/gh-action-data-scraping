@@ -78,5 +78,13 @@
     "username": "ticklishbear552",
     "password": "asdf",
     "invokedAt": "2022-11-06T09:00:44.910Z"
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Leclercq",
+    "email": "luka.leclercq@example.com",
+    "username": "smalltiger342",
+    "password": "andrea1",
+    "invokedAt": "2022-11-06T10:01:02.272Z"
   }
 ]
