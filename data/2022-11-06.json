@@ -94,5 +94,13 @@
     "username": "bigelephant306",
     "password": "tickler",
     "invokedAt": "2022-11-06T11:00:56.499Z"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Lima",
+    "email": "bruno.lima@example.com",
+    "username": "organicmouse685",
+    "password": "hunting",
+    "invokedAt": "2022-11-06T12:00:36.176Z"
   }
 ]
