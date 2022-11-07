@@ -174,5 +174,13 @@
     "username": "lazypeacock229",
     "password": "superb",
     "invokedAt": "2022-11-07T21:00:44.534Z"
+  },
+  {
+    "firstName": "Solène",
+    "lastName": "Garnier",
+    "email": "solene.garnier@example.com",
+    "username": "goldenladybug902",
+    "password": "midway",
+    "invokedAt": "2022-11-07T22:00:40.196Z"
   }
 ]
