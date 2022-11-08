@@ -86,5 +86,13 @@
     "username": "blackfrog666",
     "password": "invis",
     "invokedAt": "2022-11-08T10:00:40.672Z"
+  },
+  {
+    "firstName": "Vicente",
+    "lastName": "Quintanilla",
+    "email": "vicente.quintanilla@example.com",
+    "username": "organicgorilla606",
+    "password": "grumpy",
+    "invokedAt": "2022-11-08T11:00:39.070Z"
   }
 ]
