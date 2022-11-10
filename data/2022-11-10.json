@@ -134,5 +134,13 @@
     "username": "beautifulostrich802",
     "password": "spiderma",
     "invokedAt": "2022-11-10T16:00:42.891Z"
+  },
+  {
+    "firstName": "Hans-Friedrich",
+    "lastName": "Behnke",
+    "email": "hans-friedrich.behnke@example.com",
+    "username": "smallcat456",
+    "password": "gigi",
+    "invokedAt": "2022-11-10T17:04:08.404Z"
   }
 ]
