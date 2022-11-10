@@ -70,5 +70,13 @@
     "username": "bigpeacock447",
     "password": "cooldude",
     "invokedAt": "2022-11-10T08:00:41.170Z"
+  },
+  {
+    "firstName": "Beau",
+    "lastName": "Thompson",
+    "email": "beau.thompson@example.com",
+    "username": "lazypeacock785",
+    "password": "command",
+    "invokedAt": "2022-11-10T09:01:49.472Z"
   }
 ]
