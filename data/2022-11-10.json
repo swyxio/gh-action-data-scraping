@@ -14,5 +14,13 @@
     "username": "smalltiger185",
     "password": "trinitro",
     "invokedAt": "2022-11-10T01:29:02.303Z"
+  },
+  {
+    "firstName": "Beth",
+    "lastName": "Peterson",
+    "email": "beth.peterson@example.com",
+    "username": "yellowbear501",
+    "password": "booster",
+    "invokedAt": "2022-11-10T02:41:02.490Z"
   }
 ]
