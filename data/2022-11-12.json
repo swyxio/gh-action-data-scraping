@@ -46,5 +46,13 @@
     "username": "yellowbear993",
     "password": "stream",
     "invokedAt": "2022-11-12T05:02:08.308Z"
+  },
+  {
+    "firstName": "Esma",
+    "lastName": "Süleymanoğlu",
+    "email": "esma.suleymanoglu@example.com",
+    "username": "beautifulsnake952",
+    "password": "smurf",
+    "invokedAt": "2022-11-12T06:00:47.424Z"
   }
 ]
