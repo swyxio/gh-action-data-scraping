@@ -142,5 +142,13 @@
     "username": "greenpanda355",
     "password": "pizza1",
     "invokedAt": "2022-11-12T17:02:29.770Z"
+  },
+  {
+    "firstName": "Félix",
+    "lastName": "Román",
+    "email": "felix.roman@example.com",
+    "username": "greenbird112",
+    "password": "seeking",
+    "invokedAt": "2022-11-12T18:00:49.010Z"
   }
 ]
