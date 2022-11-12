@@ -86,5 +86,13 @@
     "username": "blackpanda954",
     "password": "player1",
     "invokedAt": "2022-11-12T10:00:36.689Z"
+  },
+  {
+    "firstName": "Gildo",
+    "lastName": "Silva",
+    "email": "gildo.silva@example.com",
+    "username": "crazylion624",
+    "password": "jiong",
+    "invokedAt": "2022-11-12T11:00:51.280Z"
   }
 ]
