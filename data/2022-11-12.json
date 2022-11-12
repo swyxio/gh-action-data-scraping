@@ -62,5 +62,13 @@
     "username": "bigmeercat322",
     "password": "formula1",
     "invokedAt": "2022-11-12T07:00:46.814Z"
+  },
+  {
+    "firstName": "Reynaldo",
+    "lastName": "Santiago",
+    "email": "reynaldo.santiago@example.com",
+    "username": "bluebear810",
+    "password": "gymnastic",
+    "invokedAt": "2022-11-12T08:00:48.031Z"
   }
 ]
