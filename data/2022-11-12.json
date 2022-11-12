@@ -38,5 +38,13 @@
     "username": "bluebear905",
     "password": "bicycle",
     "invokedAt": "2022-11-12T04:08:01.042Z"
+  },
+  {
+    "firstName": "Vegard",
+    "lastName": "Kilen",
+    "email": "vegard.kilen@example.com",
+    "username": "yellowbear993",
+    "password": "stream",
+    "invokedAt": "2022-11-12T05:02:08.308Z"
   }
 ]
