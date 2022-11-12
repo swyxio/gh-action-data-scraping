@@ -54,5 +54,13 @@
     "username": "beautifulsnake952",
     "password": "smurf",
     "invokedAt": "2022-11-12T06:00:47.424Z"
+  },
+  {
+    "firstName": "Johnny",
+    "lastName": "Wilson",
+    "email": "johnny.wilson@example.com",
+    "username": "bigmeercat322",
+    "password": "formula1",
+    "invokedAt": "2022-11-12T07:00:46.814Z"
   }
 ]
