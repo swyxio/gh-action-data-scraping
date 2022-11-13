@@ -46,5 +46,13 @@
     "username": "blueduck232",
     "password": "redeye",
     "invokedAt": "2022-11-13T05:02:30.097Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Campbell",
+    "email": "owen.campbell@example.com",
+    "username": "whitepanda568",
+    "password": "woody1",
+    "invokedAt": "2022-11-13T06:00:52.504Z"
   }
 ]
