@@ -134,5 +134,13 @@
     "username": "greenrabbit530",
     "password": "vbnm",
     "invokedAt": "2022-11-13T16:00:41.487Z"
+  },
+  {
+    "firstName": "Howard",
+    "lastName": "Cook",
+    "email": "howard.cook@example.com",
+    "username": "beautifulcat743",
+    "password": "brittany",
+    "invokedAt": "2022-11-13T17:02:31.174Z"
   }
 ]
