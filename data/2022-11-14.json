@@ -78,5 +78,13 @@
     "username": "bigfish739",
     "password": "deerhunt",
     "invokedAt": "2022-11-14T09:00:44.837Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Richardson",
+    "email": "max.richardson@example.com",
+    "username": "heavycat621",
+    "password": "galore",
+    "invokedAt": "2022-11-14T10:00:56.485Z"
   }
 ]
