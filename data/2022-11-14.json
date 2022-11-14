@@ -86,5 +86,13 @@
     "username": "heavycat621",
     "password": "galore",
     "invokedAt": "2022-11-14T10:00:56.485Z"
+  },
+  {
+    "firstName": "Heather",
+    "lastName": "Hunter",
+    "email": "heather.hunter@example.com",
+    "username": "happyduck190",
+    "password": "conover",
+    "invokedAt": "2022-11-14T12:00:44.725Z"
   }
 ]
