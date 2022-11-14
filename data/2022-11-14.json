@@ -62,5 +62,13 @@
     "username": "ticklishtiger601",
     "password": "010203",
     "invokedAt": "2022-11-14T07:00:33.042Z"
+  },
+  {
+    "firstName": "Denice",
+    "lastName": "da Cunha",
+    "email": "denice.dacunha@example.com",
+    "username": "greendog222",
+    "password": "123456",
+    "invokedAt": "2022-11-14T08:00:36.958Z"
   }
 ]
