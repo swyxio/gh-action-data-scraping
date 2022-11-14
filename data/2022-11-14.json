@@ -166,5 +166,13 @@
     "username": "bigfish752",
     "password": "jingle",
     "invokedAt": "2022-11-14T21:00:47.205Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Pedersen",
+    "email": "tobias.pedersen@example.com",
+    "username": "blackelephant838",
+    "password": "doghouse",
+    "invokedAt": "2022-11-14T22:00:41.976Z"
   }
 ]
