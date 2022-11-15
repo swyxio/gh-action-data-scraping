@@ -102,5 +102,13 @@
     "username": "heavysnake568",
     "password": "burly",
     "invokedAt": "2022-11-15T12:00:36.065Z"
+  },
+  {
+    "firstName": "Boško",
+    "lastName": "Stepanović",
+    "email": "bosko.stepanovic@example.com",
+    "username": "yellowkoala816",
+    "password": "racerx",
+    "invokedAt": "2022-11-15T13:12:40.809Z"
   }
 ]
