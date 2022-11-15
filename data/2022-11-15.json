@@ -134,5 +134,13 @@
     "username": "angryladybug519",
     "password": "hello123",
     "invokedAt": "2022-11-15T16:00:44.063Z"
+  },
+  {
+    "firstName": "Volkan",
+    "lastName": "Dalkıran",
+    "email": "volkan.dalkiran@example.com",
+    "username": "heavybutterfly137",
+    "password": "thecrow",
+    "invokedAt": "2022-11-15T17:02:55.444Z"
   }
 ]
