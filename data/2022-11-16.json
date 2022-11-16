@@ -62,5 +62,13 @@
     "username": "brownpanda984",
     "password": "amanda1",
     "invokedAt": "2022-11-16T07:00:40.844Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Kaplangı",
+    "email": "babur.kaplangi@example.com",
+    "username": "yellowgorilla588",
+    "password": "bing",
+    "invokedAt": "2022-11-16T08:00:53.674Z"
   }
 ]
