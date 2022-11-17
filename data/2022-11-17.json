@@ -158,5 +158,13 @@
     "username": "happydog419",
     "password": "leedsutd",
     "invokedAt": "2022-11-17T19:00:51.244Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Herrero",
+    "email": "andres.herrero@example.com",
+    "username": "greendog411",
+    "password": "98765432",
+    "invokedAt": "2022-11-17T20:00:50.570Z"
   }
 ]
