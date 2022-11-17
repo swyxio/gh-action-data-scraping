@@ -102,5 +102,13 @@
     "username": "sadmouse307",
     "password": "dogfood",
     "invokedAt": "2022-11-17T12:00:42.593Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Olsen",
+    "email": "philip.olsen@example.com",
+    "username": "happyswan264",
+    "password": "mygirl",
+    "invokedAt": "2022-11-17T13:11:08.399Z"
   }
 ]
