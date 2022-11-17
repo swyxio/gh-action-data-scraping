@@ -86,5 +86,13 @@
     "username": "redbird379",
     "password": "1245",
     "invokedAt": "2022-11-17T10:00:46.829Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Olsen",
+    "email": "emily.olsen@example.com",
+    "username": "blackdog116",
+    "password": "geheim",
+    "invokedAt": "2022-11-17T11:00:33.087Z"
   }
 ]
