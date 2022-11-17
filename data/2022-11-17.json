@@ -94,5 +94,13 @@
     "username": "blackdog116",
     "password": "geheim",
     "invokedAt": "2022-11-17T11:00:33.087Z"
+  },
+  {
+    "firstName": "Zaida",
+    "lastName": "Barros",
+    "email": "zaida.barros@example.com",
+    "username": "sadmouse307",
+    "password": "dogfood",
+    "invokedAt": "2022-11-17T12:00:42.593Z"
   }
 ]
