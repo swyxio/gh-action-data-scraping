@@ -118,5 +118,13 @@
     "username": "lazyleopard292",
     "password": "micro",
     "invokedAt": "2022-11-18T14:00:45.479Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Christensen",
+    "email": "jacob.christensen@example.com",
+    "username": "crazycat807",
+    "password": "armada",
+    "invokedAt": "2022-11-18T15:00:31.546Z"
   }
 ]
