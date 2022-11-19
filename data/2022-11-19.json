@@ -102,5 +102,13 @@
     "username": "bigostrich667",
     "password": "highway",
     "invokedAt": "2022-11-19T12:00:38.547Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Berberoğlu",
+    "email": "ozkan.berberoglu@example.com",
+    "username": "crazyduck453",
+    "password": "asdf1234",
+    "invokedAt": "2022-11-19T13:06:24.707Z"
   }
 ]
