@@ -134,5 +134,13 @@
     "username": "silverrabbit494",
     "password": "nextel",
     "invokedAt": "2022-11-20T16:00:42.959Z"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Sanders",
+    "email": "kelly.sanders@example.com",
+    "username": "bluemeercat524",
+    "password": "nate",
+    "invokedAt": "2022-11-20T17:00:54.147Z"
   }
 ]
