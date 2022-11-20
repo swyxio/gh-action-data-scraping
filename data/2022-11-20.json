@@ -126,5 +126,13 @@
     "username": "lazyduck930",
     "password": "crimson",
     "invokedAt": "2022-11-20T15:00:46.225Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Pedersen",
+    "email": "william.pedersen@example.com",
+    "username": "silverrabbit494",
+    "password": "nextel",
+    "invokedAt": "2022-11-20T16:00:42.959Z"
   }
 ]
