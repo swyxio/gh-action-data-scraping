@@ -182,5 +182,13 @@
     "username": "silverwolf291",
     "password": "sharks",
     "invokedAt": "2022-11-20T22:00:47.913Z"
+  },
+  {
+    "firstName": "Jovan",
+    "lastName": "Čabarkapa",
+    "email": "jovan.cabarkapa@example.com",
+    "username": "yellowsnake355",
+    "password": "doggy",
+    "invokedAt": "2022-11-20T23:00:36.894Z"
   }
 ]
