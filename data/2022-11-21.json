@@ -94,5 +94,13 @@
     "username": "orangetiger642",
     "password": "buffet",
     "invokedAt": "2022-11-21T11:00:49.368Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Sørensen",
+    "email": "maria.sorensen@example.com",
+    "username": "whitecat783",
+    "password": "2525",
+    "invokedAt": "2022-11-21T12:00:40.041Z"
   }
 ]
