@@ -38,5 +38,13 @@
     "username": "blackdog592",
     "password": "bessie",
     "invokedAt": "2022-11-23T04:00:41.777Z"
+  },
+  {
+    "firstName": "Heinz-Peter",
+    "lastName": "Gerken",
+    "email": "heinz-peter.gerken@example.com",
+    "username": "happybutterfly366",
+    "password": "phillies",
+    "invokedAt": "2022-11-23T05:00:31.878Z"
   }
 ]
