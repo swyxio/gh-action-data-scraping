@@ -166,5 +166,13 @@
     "username": "silverbear501",
     "password": "gotcha",
     "invokedAt": "2022-11-23T21:00:47.026Z"
+  },
+  {
+    "firstName": "Berta",
+    "lastName": "Bußmann",
+    "email": "berta.bussmann@example.com",
+    "username": "happyfrog338",
+    "password": "gremlin",
+    "invokedAt": "2022-11-23T22:00:38.233Z"
   }
 ]
