@@ -46,5 +46,13 @@
     "username": "happybutterfly366",
     "password": "phillies",
     "invokedAt": "2022-11-23T05:00:31.878Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Pierre",
+    "email": "alexandre.pierre@example.com",
+    "username": "happywolf469",
+    "password": "simon1",
+    "invokedAt": "2022-11-23T06:00:46.153Z"
   }
 ]
