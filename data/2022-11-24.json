@@ -126,5 +126,13 @@
     "username": "orangesnake754",
     "password": "august",
     "invokedAt": "2022-11-24T15:00:51.016Z"
+  },
+  {
+    "firstName": "Mirna",
+    "lastName": "Ristović",
+    "email": "mirna.ristovic@example.com",
+    "username": "angryfish590",
+    "password": "cricket",
+    "invokedAt": "2022-11-24T16:00:40.176Z"
   }
 ]
