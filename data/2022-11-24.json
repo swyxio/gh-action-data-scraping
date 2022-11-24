@@ -54,5 +54,13 @@
     "username": "angrysnake335",
     "password": "hoffman",
     "invokedAt": "2022-11-24T06:00:50.101Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Ma",
+    "email": "adam.ma@example.com",
+    "username": "purpleleopard914",
+    "password": "catnip",
+    "invokedAt": "2022-11-24T07:00:50.828Z"
   }
 ]
