@@ -22,5 +22,13 @@
     "username": "brownlion884",
     "password": "californ",
     "invokedAt": "2022-11-24T02:27:55.766Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Edvartsen",
+    "email": "olivier.edvartsen@example.com",
+    "username": "redpanda394",
+    "password": "spectrum",
+    "invokedAt": "2022-11-24T03:09:00.925Z"
   }
 ]
