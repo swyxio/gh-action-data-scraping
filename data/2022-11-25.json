@@ -46,5 +46,13 @@
     "username": "angryelephant529",
     "password": "manolo",
     "invokedAt": "2022-11-25T05:00:41.046Z"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Warnke",
+    "email": "joseph.warnke@example.com",
+    "username": "angrykoala498",
+    "password": "bigmoney",
+    "invokedAt": "2022-11-25T06:00:49.176Z"
   }
 ]
