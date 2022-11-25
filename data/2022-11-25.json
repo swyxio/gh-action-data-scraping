@@ -174,5 +174,13 @@
     "username": "happyzebra661",
     "password": "figure",
     "invokedAt": "2022-11-25T21:00:42.223Z"
+  },
+  {
+    "firstName": "Hussein",
+    "lastName": "Roosjen",
+    "email": "hussein.roosjen@example.com",
+    "username": "lazyzebra812",
+    "password": "dutch",
+    "invokedAt": "2022-11-25T22:00:42.744Z"
   }
 ]
