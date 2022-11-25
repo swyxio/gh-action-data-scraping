@@ -94,5 +94,13 @@
     "username": "bigsnake196",
     "password": "flounder",
     "invokedAt": "2022-11-25T11:00:48.907Z"
+  },
+  {
+    "firstName": "Gabriela",
+    "lastName": "Reber",
+    "email": "gabriela.reber@example.com",
+    "username": "blackduck999",
+    "password": "cambridg",
+    "invokedAt": "2022-11-25T12:00:44.032Z"
   }
 ]
