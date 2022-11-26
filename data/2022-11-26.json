@@ -182,5 +182,13 @@
     "username": "bigmeercat543",
     "password": "just4me",
     "invokedAt": "2022-11-26T22:00:36.951Z"
+  },
+  {
+    "firstName": "Najib",
+    "lastName": "Geldof",
+    "email": "najib.geldof@example.com",
+    "username": "redpanda202",
+    "password": "hiphop",
+    "invokedAt": "2022-11-26T23:00:33.020Z"
   }
 ]
