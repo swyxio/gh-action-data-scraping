@@ -126,5 +126,13 @@
     "username": "greenpeacock762",
     "password": "eskimo",
     "invokedAt": "2022-11-26T15:00:41.328Z"
+  },
+  {
+    "firstName": "Stein",
+    "lastName": "Eldevik",
+    "email": "stein.eldevik@example.com",
+    "username": "crazysnake291",
+    "password": "flyboy",
+    "invokedAt": "2022-11-26T16:00:42.229Z"
   }
 ]
