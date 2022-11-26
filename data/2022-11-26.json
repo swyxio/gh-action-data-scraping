@@ -166,5 +166,13 @@
     "username": "heavyfish640",
     "password": "password1",
     "invokedAt": "2022-11-26T20:00:52.382Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Körmükçü",
+    "email": "ozkan.kormukcu@example.com",
+    "username": "goldenbutterfly104",
+    "password": "winner",
+    "invokedAt": "2022-11-26T21:00:45.626Z"
   }
 ]
