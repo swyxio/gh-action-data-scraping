@@ -126,5 +126,13 @@
     "username": "goldencat358",
     "password": "earth",
     "invokedAt": "2022-11-27T15:00:38.529Z"
+  },
+  {
+    "firstName": "Kurt",
+    "lastName": "Meyer",
+    "email": "kurt.meyer@example.com",
+    "username": "silvermouse283",
+    "password": "mortal",
+    "invokedAt": "2022-11-27T16:00:41.086Z"
   }
 ]
