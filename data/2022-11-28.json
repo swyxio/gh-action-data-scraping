@@ -182,5 +182,13 @@
     "username": "purpledog302",
     "password": "1222",
     "invokedAt": "2022-11-28T22:00:48.744Z"
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Davidson",
+    "email": "teresa.davidson@example.com",
+    "username": "lazytiger869",
+    "password": "yahooo",
+    "invokedAt": "2022-11-28T23:00:37.912Z"
   }
 ]
