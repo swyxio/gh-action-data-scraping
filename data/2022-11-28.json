@@ -174,5 +174,13 @@
     "username": "bluemeercat902",
     "password": "police",
     "invokedAt": "2022-11-28T21:00:48.708Z"
+  },
+  {
+    "firstName": "Felipe",
+    "lastName": "Villa",
+    "email": "felipe.villa@example.com",
+    "username": "purpledog302",
+    "password": "1222",
+    "invokedAt": "2022-11-28T22:00:48.744Z"
   }
 ]
