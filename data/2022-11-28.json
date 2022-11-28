@@ -102,5 +102,13 @@
     "username": "greenfrog440",
     "password": "celica",
     "invokedAt": "2022-11-28T12:01:00.856Z"
+  },
+  {
+    "firstName": "Arvin",
+    "lastName": "Skjerdal",
+    "email": "arvin.skjerdal@example.com",
+    "username": "silverfish623",
+    "password": "blackdog",
+    "invokedAt": "2022-11-28T13:07:05.884Z"
   }
 ]
