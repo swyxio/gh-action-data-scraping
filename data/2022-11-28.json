@@ -118,5 +118,13 @@
     "username": "sadbear127",
     "password": "hotmail1",
     "invokedAt": "2022-11-28T14:00:40.330Z"
+  },
+  {
+    "firstName": "Iván",
+    "lastName": "Vázquez",
+    "email": "ivan.vazquez@example.com",
+    "username": "silverpanda224",
+    "password": "rrpass1",
+    "invokedAt": "2022-11-28T15:00:40.755Z"
   }
 ]
