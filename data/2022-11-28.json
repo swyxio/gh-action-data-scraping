@@ -142,5 +142,13 @@
     "username": "organicgoose183",
     "password": "eskimo",
     "invokedAt": "2022-11-28T17:00:48.204Z"
+  },
+  {
+    "firstName": "Lada",
+    "lastName": "Vrhovac",
+    "email": "lada.vrhovac@example.com",
+    "username": "purpleladybug325",
+    "password": "torpedo",
+    "invokedAt": "2022-11-28T18:00:48.646Z"
   }
 ]
