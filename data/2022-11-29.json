@@ -118,5 +118,13 @@
     "username": "goldenbutterfly786",
     "password": "zxcvb",
     "invokedAt": "2022-11-29T14:00:42.150Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Bernard",
+    "email": "alice.bernard@example.com",
+    "username": "organicrabbit919",
+    "password": "capecod",
+    "invokedAt": "2022-11-29T15:00:46.950Z"
   }
 ]
