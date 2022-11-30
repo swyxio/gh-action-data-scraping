@@ -30,5 +30,13 @@
     "username": "goldendog463",
     "password": "sundance",
     "invokedAt": "2022-11-30T03:07:28.313Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Price",
+    "email": "claude.price@example.com",
+    "username": "heavypanda699",
+    "password": "1977",
+    "invokedAt": "2022-11-30T04:00:47.088Z"
   }
 ]
