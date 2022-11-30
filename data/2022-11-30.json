@@ -78,5 +78,13 @@
     "username": "blackleopard401",
     "password": "blink182",
     "invokedAt": "2022-11-30T09:00:40.753Z"
+  },
+  {
+    "firstName": "Judith",
+    "lastName": "Jackson",
+    "email": "judith.jackson@example.com",
+    "username": "heavymeercat705",
+    "password": "experienced",
+    "invokedAt": "2022-11-30T10:00:43.507Z"
   }
 ]
