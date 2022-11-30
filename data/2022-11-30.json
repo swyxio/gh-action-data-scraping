@@ -54,5 +54,13 @@
     "username": "smalldog917",
     "password": "streets",
     "invokedAt": "2022-11-30T06:00:51.100Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Leppo",
+    "email": "peppi.leppo@example.com",
+    "username": "redlion841",
+    "password": "havana",
+    "invokedAt": "2022-11-30T07:00:49.985Z"
   }
 ]
