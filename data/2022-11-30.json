@@ -118,5 +118,13 @@
     "username": "heavywolf357",
     "password": "demons",
     "invokedAt": "2022-11-30T14:01:04.035Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Chen",
+    "email": "harper.chen@example.com",
+    "username": "redelephant551",
+    "password": "hambone",
+    "invokedAt": "2022-11-30T15:00:42.158Z"
   }
 ]
