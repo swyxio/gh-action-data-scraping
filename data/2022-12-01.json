@@ -158,5 +158,13 @@
     "username": "goldenbird432",
     "password": "edward1",
     "invokedAt": "2022-12-01T19:00:37.048Z"
+  },
+  {
+    "firstName": "Dagmar",
+    "lastName": "da Luz",
+    "email": "dagmar.daluz@example.com",
+    "username": "beautifulbear302",
+    "password": "oasis",
+    "invokedAt": "2022-12-01T20:00:46.261Z"
   }
 ]
