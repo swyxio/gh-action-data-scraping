@@ -46,5 +46,13 @@
     "username": "crazymouse728",
     "password": "dynamo",
     "invokedAt": "2022-12-01T05:00:48.574Z"
+  },
+  {
+    "firstName": "Seth",
+    "lastName": "Vasquez",
+    "email": "seth.vasquez@example.com",
+    "username": "beautifulbutterfly478",
+    "password": "doubled",
+    "invokedAt": "2022-12-01T06:00:36.814Z"
   }
 ]
