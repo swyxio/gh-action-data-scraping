@@ -166,5 +166,13 @@
     "username": "beautifulbear302",
     "password": "oasis",
     "invokedAt": "2022-12-01T20:00:46.261Z"
+  },
+  {
+    "firstName": "Tjeerd",
+    "lastName": "Tunç",
+    "email": "tjeerd.tunc@example.com",
+    "username": "lazyfrog680",
+    "password": "werewolf",
+    "invokedAt": "2022-12-01T21:00:41.565Z"
   }
 ]
