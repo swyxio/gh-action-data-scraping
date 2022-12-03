@@ -70,5 +70,13 @@
     "username": "redfrog113",
     "password": "gateway",
     "invokedAt": "2022-12-03T08:00:41.438Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Da Silva",
+    "email": "marie.dasilva@example.com",
+    "username": "tinyostrich275",
+    "password": "321321",
+    "invokedAt": "2022-12-03T09:00:30.176Z"
   }
 ]
