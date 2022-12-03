@@ -166,5 +166,13 @@
     "username": "greenkoala911",
     "password": "quebec",
     "invokedAt": "2022-12-03T20:00:39.097Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Fontai",
+    "email": "justin.fontai@example.com",
+    "username": "brownbird201",
+    "password": "attack",
+    "invokedAt": "2022-12-03T21:00:49.356Z"
   }
 ]
