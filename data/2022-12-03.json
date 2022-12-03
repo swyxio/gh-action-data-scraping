@@ -86,5 +86,13 @@
     "username": "redgorilla970",
     "password": "moose1",
     "invokedAt": "2022-12-03T10:00:36.035Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Tahincioğlu",
+    "email": "gul.tahincioglu@example.com",
+    "username": "goldendog172",
+    "password": "catherin",
+    "invokedAt": "2022-12-03T11:00:35.533Z"
   }
 ]
