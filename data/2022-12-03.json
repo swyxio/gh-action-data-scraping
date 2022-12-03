@@ -22,5 +22,13 @@
     "username": "brownkoala818",
     "password": "bank",
     "invokedAt": "2022-12-03T02:18:05.757Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Møller",
+    "email": "silas.moller@example.com",
+    "username": "smallzebra652",
+    "password": "krypton",
+    "invokedAt": "2022-12-03T03:00:38.989Z"
   }
 ]
