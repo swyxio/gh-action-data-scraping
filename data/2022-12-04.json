@@ -22,5 +22,13 @@
     "username": "blueduck467",
     "password": "clarinet",
     "invokedAt": "2022-12-04T02:23:39.682Z"
+  },
+  {
+    "firstName": "Ayoub",
+    "lastName": "Opgård",
+    "email": "ayoub.opgard@example.com",
+    "username": "crazycat323",
+    "password": "burner",
+    "invokedAt": "2022-12-04T03:01:51.086Z"
   }
 ]
