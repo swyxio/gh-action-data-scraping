@@ -150,5 +150,13 @@
     "username": "brownpeacock354",
     "password": "coffee",
     "invokedAt": "2022-12-04T18:00:43.654Z"
+  },
+  {
+    "firstName": "Arieke",
+    "lastName": "Goedkoop",
+    "email": "arieke.goedkoop@example.com",
+    "username": "blackdog287",
+    "password": "myspace1",
+    "invokedAt": "2022-12-04T19:00:39.554Z"
   }
 ]
