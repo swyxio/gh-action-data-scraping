@@ -158,5 +158,13 @@
     "username": "blackdog287",
     "password": "myspace1",
     "invokedAt": "2022-12-04T19:00:39.554Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Mikkola",
+    "email": "peppi.mikkola@example.com",
+    "username": "tinypeacock778",
+    "password": "aileen",
+    "invokedAt": "2022-12-04T20:00:48.208Z"
   }
 ]
