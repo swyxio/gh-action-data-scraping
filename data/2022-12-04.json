@@ -142,5 +142,13 @@
     "username": "ticklishbutterfly168",
     "password": "cornell",
     "invokedAt": "2022-12-04T17:00:43.109Z"
+  },
+  {
+    "firstName": "Suzanne",
+    "lastName": "Campbell",
+    "email": "suzanne.campbell@example.com",
+    "username": "brownpeacock354",
+    "password": "coffee",
+    "invokedAt": "2022-12-04T18:00:43.654Z"
   }
 ]
