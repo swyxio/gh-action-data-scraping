@@ -86,5 +86,13 @@
     "username": "happypeacock119",
     "password": "icehouse",
     "invokedAt": "2022-12-05T10:00:50.415Z"
+  },
+  {
+    "firstName": "Esmeralda",
+    "lastName": "Shkil",
+    "email": "esmeralda.shkil@example.com",
+    "username": "whitewolf432",
+    "password": "painter",
+    "invokedAt": "2022-12-05T11:00:38.213Z"
   }
 ]
