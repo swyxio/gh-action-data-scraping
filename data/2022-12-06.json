@@ -110,5 +110,13 @@
     "username": "redfrog989",
     "password": "brad",
     "invokedAt": "2022-12-06T13:06:54.238Z"
+  },
+  {
+    "firstName": "Mateja",
+    "lastName": "RatkovićRistić",
+    "email": "mateja.ratkovicristic@example.com",
+    "username": "lazyduck513",
+    "password": "oblivion",
+    "invokedAt": "2022-12-06T14:02:41.870Z"
   }
 ]
