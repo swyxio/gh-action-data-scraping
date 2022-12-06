@@ -118,5 +118,13 @@
     "username": "lazyduck513",
     "password": "oblivion",
     "invokedAt": "2022-12-06T14:02:41.870Z"
+  },
+  {
+    "firstName": "Dustin",
+    "lastName": "Hudson",
+    "email": "dustin.hudson@example.com",
+    "username": "brownelephant206",
+    "password": "ferrari",
+    "invokedAt": "2022-12-06T15:00:37.232Z"
   }
 ]
