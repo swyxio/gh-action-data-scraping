@@ -86,5 +86,13 @@
     "username": "bluecat554",
     "password": "lookout",
     "invokedAt": "2022-12-06T10:01:06.806Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Slawa",
+    "email": "victor.slawa@example.com",
+    "username": "tinyostrich321",
+    "password": "cottage",
+    "invokedAt": "2022-12-06T11:01:00.195Z"
   }
 ]
