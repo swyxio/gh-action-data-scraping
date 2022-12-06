@@ -38,5 +38,13 @@
     "username": "bigfrog533",
     "password": "firewall",
     "invokedAt": "2022-12-06T04:00:55.101Z"
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "Edwards",
+    "email": "cameron.edwards@example.com",
+    "username": "beautifulbird179",
+    "password": "stacy",
+    "invokedAt": "2022-12-06T05:00:46.349Z"
   }
 ]
