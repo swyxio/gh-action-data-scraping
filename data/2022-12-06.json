@@ -166,5 +166,13 @@
     "username": "beautifulsnake902",
     "password": "ontario",
     "invokedAt": "2022-12-06T20:00:55.040Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Girard",
+    "email": "guillaume.girard@example.com",
+    "username": "lazyrabbit985",
+    "password": "groups",
+    "invokedAt": "2022-12-06T21:00:33.417Z"
   }
 ]
