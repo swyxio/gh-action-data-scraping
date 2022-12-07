@@ -102,5 +102,13 @@
     "username": "organicbear667",
     "password": "beaver",
     "invokedAt": "2022-12-07T12:00:52.192Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Hoekema",
+    "email": "ralph.hoekema@example.com",
+    "username": "beautifulbird185",
+    "password": "aaaaa1",
+    "invokedAt": "2022-12-07T13:05:09.626Z"
   }
 ]
