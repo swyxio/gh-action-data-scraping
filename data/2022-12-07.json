@@ -142,5 +142,13 @@
     "username": "tinygorilla920",
     "password": "phish1",
     "invokedAt": "2022-12-07T17:00:45.136Z"
+  },
+  {
+    "firstName": "Estêvão",
+    "lastName": "da Rosa",
+    "email": "estevao.darosa@example.com",
+    "username": "greenzebra497",
+    "password": "broker",
+    "invokedAt": "2022-12-07T18:00:56.730Z"
   }
 ]
