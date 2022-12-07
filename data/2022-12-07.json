@@ -134,5 +134,13 @@
     "username": "goldengorilla138",
     "password": "rusty",
     "invokedAt": "2022-12-07T16:00:40.512Z"
+  },
+  {
+    "firstName": "Kuzey",
+    "lastName": "Tütüncü",
+    "email": "kuzey.tutuncu@example.com",
+    "username": "tinygorilla920",
+    "password": "phish1",
+    "invokedAt": "2022-12-07T17:00:45.136Z"
   }
 ]
