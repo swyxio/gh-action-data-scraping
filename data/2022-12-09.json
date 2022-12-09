@@ -182,5 +182,13 @@
     "username": "sadgorilla589",
     "password": "trey",
     "invokedAt": "2022-12-09T22:00:45.562Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Fernandez",
+    "email": "sophie.fernandez@example.com",
+    "username": "blackleopard923",
+    "password": "blink",
+    "invokedAt": "2022-12-09T23:00:39.855Z"
   }
 ]
