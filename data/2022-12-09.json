@@ -142,5 +142,13 @@
     "username": "greentiger706",
     "password": "nebraska",
     "invokedAt": "2022-12-09T17:00:38.705Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Daub",
+    "email": "amanda.daub@example.com",
+    "username": "orangebird130",
+    "password": "annika",
+    "invokedAt": "2022-12-09T18:00:41.665Z"
   }
 ]
