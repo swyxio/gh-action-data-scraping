@@ -30,5 +30,13 @@
     "username": "heavybird162",
     "password": "snapper",
     "invokedAt": "2022-12-10T03:00:37.231Z"
+  },
+  {
+    "firstName": "Jay",
+    "lastName": "Clark",
+    "email": "jay.clark@example.com",
+    "username": "blackostrich529",
+    "password": "pathfind",
+    "invokedAt": "2022-12-10T04:00:42.757Z"
   }
 ]
