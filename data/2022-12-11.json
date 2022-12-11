@@ -158,5 +158,13 @@
     "username": "bigwolf632",
     "password": "shrimp",
     "invokedAt": "2022-12-11T19:00:38.940Z"
+  },
+  {
+    "firstName": "Russell",
+    "lastName": "Moreno",
+    "email": "russell.moreno@example.com",
+    "username": "lazykoala911",
+    "password": "junk",
+    "invokedAt": "2022-12-11T20:00:37.940Z"
   }
 ]
