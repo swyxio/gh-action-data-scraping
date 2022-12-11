@@ -126,5 +126,13 @@
     "username": "angrymouse205",
     "password": "trustme",
     "invokedAt": "2022-12-11T15:00:32.816Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Moilanen",
+    "email": "otto.moilanen@example.com",
+    "username": "happytiger106",
+    "password": "101010",
+    "invokedAt": "2022-12-11T16:00:36.048Z"
   }
 ]
