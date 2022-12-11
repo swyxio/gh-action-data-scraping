@@ -182,5 +182,13 @@
     "username": "redfish871",
     "password": "crew",
     "invokedAt": "2022-12-11T22:00:47.005Z"
+  },
+  {
+    "firstName": "Irina",
+    "lastName": "Zdravković",
+    "email": "irina.zdravkovic@example.com",
+    "username": "happycat221",
+    "password": "nolimit",
+    "invokedAt": "2022-12-11T23:00:50.335Z"
   }
 ]
