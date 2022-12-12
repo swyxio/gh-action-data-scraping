@@ -142,5 +142,13 @@
     "username": "crazygoose910",
     "password": "blacklab",
     "invokedAt": "2022-12-12T17:00:48.328Z"
+  },
+  {
+    "firstName": "Léandre",
+    "lastName": "Blanc",
+    "email": "leandre.blanc@example.com",
+    "username": "bigostrich969",
+    "password": "root",
+    "invokedAt": "2022-12-12T18:00:32.082Z"
   }
 ]
