@@ -54,5 +54,13 @@
     "username": "purpledog524",
     "password": "swimming",
     "invokedAt": "2022-12-12T06:00:35.970Z"
+  },
+  {
+    "firstName": "Mateja",
+    "lastName": "Rađen",
+    "email": "mateja.raden@example.com",
+    "username": "crazysnake291",
+    "password": "funky",
+    "invokedAt": "2022-12-12T07:00:35.819Z"
   }
 ]
