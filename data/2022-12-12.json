@@ -38,5 +38,13 @@
     "username": "yellowleopard609",
     "password": "thecure",
     "invokedAt": "2022-12-12T04:00:55.833Z"
+  },
+  {
+    "firstName": "Hjalmar",
+    "lastName": "Kopperud",
+    "email": "hjalmar.kopperud@example.com",
+    "username": "bigladybug575",
+    "password": "4321",
+    "invokedAt": "2022-12-12T05:00:33.095Z"
   }
 ]
