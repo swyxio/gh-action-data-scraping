@@ -126,5 +126,13 @@
     "username": "blackkoala144",
     "password": "pegasus",
     "invokedAt": "2022-12-12T15:00:51.206Z"
+  },
+  {
+    "firstName": "Inessa",
+    "lastName": "Cardoso",
+    "email": "inessa.cardoso@example.com",
+    "username": "happyfish468",
+    "password": "cabernet",
+    "invokedAt": "2022-12-12T16:00:44.797Z"
   }
 ]
