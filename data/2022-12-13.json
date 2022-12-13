@@ -78,5 +78,13 @@
     "username": "blackpanda367",
     "password": "anarchy",
     "invokedAt": "2022-12-13T09:00:37.044Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Nichols",
+    "email": "mary.nichols@example.com",
+    "username": "blueleopard567",
+    "password": "gawker",
+    "invokedAt": "2022-12-13T10:00:38.895Z"
   }
 ]
