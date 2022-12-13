@@ -182,5 +182,13 @@
     "username": "sadcat827",
     "password": "toronto",
     "invokedAt": "2022-12-13T22:00:42.589Z"
+  },
+  {
+    "firstName": "Borislav",
+    "lastName": "Filipović",
+    "email": "borislav.filipovic@example.com",
+    "username": "organicsnake289",
+    "password": "chichi",
+    "invokedAt": "2022-12-13T23:00:50.902Z"
   }
 ]
