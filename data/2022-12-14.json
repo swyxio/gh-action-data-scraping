@@ -46,5 +46,13 @@
     "username": "bigdog326",
     "password": "ferris",
     "invokedAt": "2022-12-14T05:00:40.728Z"
+  },
+  {
+    "firstName": "Iva",
+    "lastName": "Simonović",
+    "email": "iva.simonovic@example.com",
+    "username": "greengorilla504",
+    "password": "coldplay",
+    "invokedAt": "2022-12-14T06:00:54.951Z"
   }
 ]
