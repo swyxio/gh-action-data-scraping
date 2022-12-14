@@ -158,5 +158,13 @@
     "username": "redwolf973",
     "password": "meow",
     "invokedAt": "2022-12-14T19:00:33.460Z"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Bell",
+    "email": "ellen.bell@example.com",
+    "username": "angrydog706",
+    "password": "181818",
+    "invokedAt": "2022-12-14T20:00:46.194Z"
   }
 ]
