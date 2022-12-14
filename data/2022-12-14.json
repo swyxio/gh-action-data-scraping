@@ -142,5 +142,13 @@
     "username": "blackleopard563",
     "password": "twister",
     "invokedAt": "2022-12-14T17:00:40.269Z"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Kıraç",
+    "email": "mehmet.kirac@example.com",
+    "username": "lazypeacock921",
+    "password": "down",
+    "invokedAt": "2022-12-14T18:00:46.433Z"
   }
 ]
