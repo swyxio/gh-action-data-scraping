@@ -22,5 +22,13 @@
     "username": "lazytiger768",
     "password": "baddog",
     "invokedAt": "2022-12-15T02:25:38.742Z"
+  },
+  {
+    "firstName": "Carter",
+    "lastName": "Wilson",
+    "email": "carter.wilson@example.com",
+    "username": "orangepeacock222",
+    "password": "mailman",
+    "invokedAt": "2022-12-15T03:04:44.175Z"
   }
 ]
