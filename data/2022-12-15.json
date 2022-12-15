@@ -94,5 +94,13 @@
     "username": "bigostrich367",
     "password": "alley",
     "invokedAt": "2022-12-15T11:00:37.202Z"
+  },
+  {
+    "firstName": "Vidya",
+    "lastName": "Adiga",
+    "email": "vidya.adiga@example.com",
+    "username": "angrygoose604",
+    "password": "today",
+    "invokedAt": "2022-12-15T12:00:56.440Z"
   }
 ]
