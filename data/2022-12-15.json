@@ -110,5 +110,13 @@
     "username": "purplecat892",
     "password": "gofish",
     "invokedAt": "2022-12-15T13:05:28.956Z"
+  },
+  {
+    "firstName": "Leonhard",
+    "lastName": "Gräf",
+    "email": "leonhard.graf@example.com",
+    "username": "beautifulduck858",
+    "password": "pleasure",
+    "invokedAt": "2022-12-15T14:01:01.555Z"
   }
 ]
