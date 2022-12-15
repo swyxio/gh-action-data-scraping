@@ -142,5 +142,13 @@
     "username": "ticklishelephant160",
     "password": "waffle",
     "invokedAt": "2022-12-15T17:00:56.894Z"
+  },
+  {
+    "firstName": "Lærke",
+    "lastName": "Olsen",
+    "email": "laerke.olsen@example.com",
+    "username": "bluefrog846",
+    "password": "camera",
+    "invokedAt": "2022-12-15T18:00:45.950Z"
   }
 ]
