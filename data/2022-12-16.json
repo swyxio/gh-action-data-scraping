@@ -174,5 +174,13 @@
     "username": "redlion598",
     "password": "jenny",
     "invokedAt": "2022-12-16T21:00:39.425Z"
+  },
+  {
+    "firstName": "Laurie",
+    "lastName": "Bélanger",
+    "email": "laurie.belanger@example.com",
+    "username": "redpanda690",
+    "password": "linda1",
+    "invokedAt": "2022-12-16T22:00:50.568Z"
   }
 ]
