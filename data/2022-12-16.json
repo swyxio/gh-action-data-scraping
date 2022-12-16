@@ -38,5 +38,13 @@
     "username": "yellowbutterfly431",
     "password": "zappa",
     "invokedAt": "2022-12-16T04:00:36.624Z"
+  },
+  {
+    "firstName": "Denis",
+    "lastName": "Charles",
+    "email": "denis.charles@example.com",
+    "username": "happydog560",
+    "password": "creation",
+    "invokedAt": "2022-12-16T05:00:40.057Z"
   }
 ]
