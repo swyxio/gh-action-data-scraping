@@ -150,5 +150,13 @@
     "username": "whitekoala436",
     "password": "diving",
     "invokedAt": "2022-12-16T18:00:49.035Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Fuentes",
+    "email": "diego.fuentes@example.com",
+    "username": "browntiger971",
+    "password": "tbird",
+    "invokedAt": "2022-12-16T19:00:36.231Z"
   }
 ]
