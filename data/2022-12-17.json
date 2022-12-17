@@ -126,5 +126,13 @@
     "username": "beautifulpanda590",
     "password": "puffy",
     "invokedAt": "2022-12-17T15:00:40.045Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Evans",
+    "email": "william.evans@example.com",
+    "username": "tinylion722",
+    "password": "austin",
+    "invokedAt": "2022-12-17T16:00:38.756Z"
   }
 ]
