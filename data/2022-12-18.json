@@ -86,5 +86,13 @@
     "username": "sadbear279",
     "password": "1011",
     "invokedAt": "2022-12-18T10:00:39.946Z"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Bakić",
+    "email": "nikola.bakic@example.com",
+    "username": "whiteelephant662",
+    "password": "spinner",
+    "invokedAt": "2022-12-18T11:00:37.114Z"
   }
 ]
