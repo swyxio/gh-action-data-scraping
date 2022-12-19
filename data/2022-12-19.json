@@ -78,5 +78,13 @@
     "username": "purplegorilla942",
     "password": "deep",
     "invokedAt": "2022-12-19T09:00:50.596Z"
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Morris",
+    "email": "jeff.morris@example.com",
+    "username": "silverdog488",
+    "password": "4200",
+    "invokedAt": "2022-12-19T10:01:10.740Z"
   }
 ]
