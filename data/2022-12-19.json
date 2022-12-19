@@ -94,5 +94,13 @@
     "username": "crazytiger861",
     "password": "hawaii",
     "invokedAt": "2022-12-19T11:00:39.015Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Özdenak",
+    "email": "gokhan.ozdenak@example.com",
+    "username": "bluedog580",
+    "password": "loaded",
+    "invokedAt": "2022-12-19T12:00:38.122Z"
   }
 ]
