@@ -182,5 +182,13 @@
     "username": "yellowpanda676",
     "password": "hookup",
     "invokedAt": "2022-12-19T22:00:41.089Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Sirko",
+    "email": "benjamin.sirko@example.com",
+    "username": "greenfrog979",
+    "password": "909090",
+    "invokedAt": "2022-12-19T23:00:37.447Z"
   }
 ]
