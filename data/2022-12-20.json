@@ -46,5 +46,13 @@
     "username": "ticklishswan312",
     "password": "china",
     "invokedAt": "2022-12-20T05:00:50.321Z"
+  },
+  {
+    "firstName": "Mirna",
+    "lastName": "Tešić",
+    "email": "mirna.tesic@example.com",
+    "username": "happybird305",
+    "password": "1234qwer",
+    "invokedAt": "2022-12-20T06:00:52.245Z"
   }
 ]
