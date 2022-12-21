@@ -78,5 +78,13 @@
     "username": "lazytiger916",
     "password": "premium",
     "invokedAt": "2022-12-21T09:00:37.162Z"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Jones",
+    "email": "joseph.jones@example.com",
+    "username": "crazycat958",
+    "password": "station",
+    "invokedAt": "2022-12-21T10:00:38.534Z"
   }
 ]
