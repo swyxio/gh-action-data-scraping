@@ -182,5 +182,13 @@
     "username": "orangewolf913",
     "password": "stefano",
     "invokedAt": "2022-12-22T22:00:55.200Z"
+  },
+  {
+    "firstName": "Olga",
+    "lastName": "García",
+    "email": "olga.garcia@example.com",
+    "username": "browncat592",
+    "password": "nintendo",
+    "invokedAt": "2022-12-22T23:00:52.755Z"
   }
 ]
