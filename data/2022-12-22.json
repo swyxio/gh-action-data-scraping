@@ -174,5 +174,13 @@
     "username": "ticklishfish238",
     "password": "xfiles",
     "invokedAt": "2022-12-22T21:00:49.689Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Poulsen",
+    "email": "valdemar.poulsen@example.com",
+    "username": "orangewolf913",
+    "password": "stefano",
+    "invokedAt": "2022-12-22T22:00:55.200Z"
   }
 ]
