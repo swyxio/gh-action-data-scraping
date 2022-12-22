@@ -166,5 +166,13 @@
     "username": "silvermouse567",
     "password": "mypass",
     "invokedAt": "2022-12-22T20:00:37.333Z"
+  },
+  {
+    "firstName": "Konrad",
+    "lastName": "Husby",
+    "email": "konrad.husby@example.com",
+    "username": "ticklishfish238",
+    "password": "xfiles",
+    "invokedAt": "2022-12-22T21:00:49.689Z"
   }
 ]
