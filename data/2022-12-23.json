@@ -54,5 +54,13 @@
     "username": "angryfish332",
     "password": "spiker",
     "invokedAt": "2022-12-23T06:00:59.491Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Morin",
+    "email": "mary.morin@example.com",
+    "username": "heavygorilla276",
+    "password": "connie",
+    "invokedAt": "2022-12-23T07:00:42.218Z"
   }
 ]
