@@ -46,5 +46,13 @@
     "username": "happyfish350",
     "password": "yeah",
     "invokedAt": "2022-12-23T05:00:54.027Z"
+  },
+  {
+    "firstName": "Tone",
+    "lastName": "Svela",
+    "email": "tone.svela@example.com",
+    "username": "angryfish332",
+    "password": "spiker",
+    "invokedAt": "2022-12-23T06:00:59.491Z"
   }
 ]
