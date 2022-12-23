@@ -118,5 +118,13 @@
     "username": "goldenwolf591",
     "password": "ball",
     "invokedAt": "2022-12-23T14:00:38.839Z"
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Carroll",
+    "email": "sally.carroll@example.com",
+    "username": "redwolf526",
+    "password": "bonjovi",
+    "invokedAt": "2022-12-23T15:00:47.002Z"
   }
 ]
