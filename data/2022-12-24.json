@@ -158,5 +158,13 @@
     "username": "bluegoose186",
     "password": "core",
     "invokedAt": "2022-12-24T19:00:38.997Z"
+  },
+  {
+    "firstName": "Solange",
+    "lastName": "Andre",
+    "email": "solange.andre@example.com",
+    "username": "happykoala731",
+    "password": "beowulf",
+    "invokedAt": "2022-12-24T20:00:42.994Z"
   }
 ]
