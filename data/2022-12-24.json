@@ -54,5 +54,13 @@
     "username": "crazypanda291",
     "password": "whitesox",
     "invokedAt": "2022-12-24T06:00:42.358Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Bowman",
+    "email": "sophie.bowman@example.com",
+    "username": "brownelephant593",
+    "password": "eagles",
+    "invokedAt": "2022-12-24T07:00:33.277Z"
   }
 ]
