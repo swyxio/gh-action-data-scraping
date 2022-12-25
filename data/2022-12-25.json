@@ -134,5 +134,13 @@
     "username": "blueleopard535",
     "password": "banger",
     "invokedAt": "2022-12-25T16:00:55.002Z"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Møller",
+    "email": "isabella.moller@example.com",
+    "username": "crazyleopard825",
+    "password": "getout",
+    "invokedAt": "2022-12-25T17:00:55.091Z"
   }
 ]
