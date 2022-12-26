@@ -158,5 +158,13 @@
     "username": "goldenduck806",
     "password": "gargoyle",
     "invokedAt": "2022-12-26T19:00:35.286Z"
+  },
+  {
+    "firstName": "Vito",
+    "lastName": "Lefevre",
+    "email": "vito.lefevre@example.com",
+    "username": "smallmouse388",
+    "password": "fusion",
+    "invokedAt": "2022-12-26T20:00:41.830Z"
   }
 ]
