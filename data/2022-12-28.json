@@ -38,5 +38,13 @@
     "username": "orangeelephant520",
     "password": "metoo",
     "invokedAt": "2022-12-28T04:00:39.008Z"
+  },
+  {
+    "firstName": "Verena",
+    "lastName": "Rödel",
+    "email": "verena.rodel@example.com",
+    "username": "orangetiger237",
+    "password": "vincent",
+    "invokedAt": "2022-12-28T05:00:43.010Z"
   }
 ]
