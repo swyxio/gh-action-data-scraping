@@ -38,5 +38,13 @@
     "username": "silvergoose123",
     "password": "rugger",
     "invokedAt": "2022-12-29T04:01:06.832Z"
+  },
+  {
+    "firstName": "Katrine",
+    "lastName": "Jørgensen",
+    "email": "katrine.jorgensen@example.com",
+    "username": "bluemeercat968",
+    "password": "idefix",
+    "invokedAt": "2022-12-29T05:00:44.768Z"
   }
 ]
