@@ -54,5 +54,13 @@
     "username": "purpleduck222",
     "password": "admiral",
     "invokedAt": "2022-12-29T06:00:54.260Z"
+  },
+  {
+    "firstName": "Walther",
+    "lastName": "Hübsch",
+    "email": "walther.hubsch@example.com",
+    "username": "beautifulcat731",
+    "password": "carl",
+    "invokedAt": "2022-12-29T07:00:38.906Z"
   }
 ]
