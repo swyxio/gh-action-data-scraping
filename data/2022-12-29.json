@@ -46,5 +46,13 @@
     "username": "bluemeercat968",
     "password": "idefix",
     "invokedAt": "2022-12-29T05:00:44.768Z"
+  },
+  {
+    "firstName": "Aleksej",
+    "lastName": "Stevanović",
+    "email": "aleksej.stevanovic@example.com",
+    "username": "purpleduck222",
+    "password": "admiral",
+    "invokedAt": "2022-12-29T06:00:54.260Z"
   }
 ]
