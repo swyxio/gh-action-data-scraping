@@ -78,5 +78,13 @@
     "username": "heavyelephant441",
     "password": "stellar",
     "invokedAt": "2022-12-30T09:00:33.182Z"
+  },
+  {
+    "firstName": "Villads",
+    "lastName": "Andersen",
+    "email": "villads.andersen@example.com",
+    "username": "heavywolf420",
+    "password": "softail",
+    "invokedAt": "2022-12-30T10:00:44.654Z"
   }
 ]
