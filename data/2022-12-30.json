@@ -182,5 +182,13 @@
     "username": "bigbear313",
     "password": "gene",
     "invokedAt": "2022-12-30T22:00:39.307Z"
+  },
+  {
+    "firstName": "Abbas",
+    "lastName": "Kjøde",
+    "email": "abbas.kjode@example.com",
+    "username": "yellowgorilla339",
+    "password": "dragonba",
+    "invokedAt": "2022-12-30T23:00:39.502Z"
   }
 ]
