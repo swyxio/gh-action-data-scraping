@@ -86,5 +86,13 @@
     "username": "heavywolf420",
     "password": "softail",
     "invokedAt": "2022-12-30T10:00:44.654Z"
+  },
+  {
+    "firstName": "Vlatko",
+    "lastName": "Đokić",
+    "email": "vlatko.dokic@example.com",
+    "username": "ticklishladybug332",
+    "password": "cookie1",
+    "invokedAt": "2022-12-30T11:00:40.106Z"
   }
 ]
