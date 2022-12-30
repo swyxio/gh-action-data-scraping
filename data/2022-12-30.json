@@ -46,5 +46,13 @@
     "username": "bigfish849",
     "password": "1965",
     "invokedAt": "2022-12-30T05:00:48.326Z"
+  },
+  {
+    "firstName": "Vítor",
+    "lastName": "Sales",
+    "email": "vitor.sales@example.com",
+    "username": "heavylion712",
+    "password": "poseidon",
+    "invokedAt": "2022-12-30T06:00:54.134Z"
   }
 ]
