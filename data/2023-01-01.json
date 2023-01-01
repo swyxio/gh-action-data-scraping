@@ -158,5 +158,13 @@
     "username": "happybear404",
     "password": "rose",
     "invokedAt": "2023-01-01T19:00:38.016Z"
+  },
+  {
+    "firstName": "Tadija",
+    "lastName": "Španović",
+    "email": "tadija.spanovic@example.com",
+    "username": "ticklishkoala365",
+    "password": "boston",
+    "invokedAt": "2023-01-01T20:00:40.829Z"
   }
 ]
