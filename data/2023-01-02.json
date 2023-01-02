@@ -174,5 +174,13 @@
     "username": "greentiger383",
     "password": "usarmy",
     "invokedAt": "2023-01-02T21:00:46.060Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Johnson",
+    "email": "jack.johnson@example.com",
+    "username": "redtiger688",
+    "password": "joke",
+    "invokedAt": "2023-01-02T22:00:40.043Z"
   }
 ]
