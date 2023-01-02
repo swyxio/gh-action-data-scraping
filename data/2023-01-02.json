@@ -126,5 +126,13 @@
     "username": "tinycat883",
     "password": "desmond",
     "invokedAt": "2023-01-02T15:00:55.853Z"
+  },
+  {
+    "firstName": "Aleksa",
+    "lastName": "Zelenović",
+    "email": "aleksa.zelenovic@example.com",
+    "username": "greenwolf353",
+    "password": "remember",
+    "invokedAt": "2023-01-02T16:00:41.699Z"
   }
 ]
