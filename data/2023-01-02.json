@@ -78,5 +78,13 @@
     "username": "yellowfrog961",
     "password": "gone",
     "invokedAt": "2023-01-02T09:00:42.635Z"
+  },
+  {
+    "firstName": "Lillian",
+    "lastName": "Romero",
+    "email": "lillian.romero@example.com",
+    "username": "silverbird742",
+    "password": "tetsuo",
+    "invokedAt": "2023-01-02T10:01:04.975Z"
   }
 ]
