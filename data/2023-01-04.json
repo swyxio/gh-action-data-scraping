@@ -158,5 +158,13 @@
     "username": "greengoose886",
     "password": "front242",
     "invokedAt": "2023-01-04T19:00:58.970Z"
+  },
+  {
+    "firstName": "Arnas",
+    "lastName": "Erdal",
+    "email": "arnas.erdal@example.com",
+    "username": "redmeercat740",
+    "password": "fluffy",
+    "invokedAt": "2023-01-04T20:00:56.232Z"
   }
 ]
