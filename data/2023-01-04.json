@@ -126,5 +126,13 @@
     "username": "brownmouse677",
     "password": "twiggy",
     "invokedAt": "2023-01-04T15:00:40.930Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Tolonen",
+    "email": "lauri.tolonen@example.com",
+    "username": "greenfrog204",
+    "password": "somethin",
+    "invokedAt": "2023-01-04T16:00:43.231Z"
   }
 ]
