@@ -174,5 +174,13 @@
     "username": "blackostrich259",
     "password": "nine",
     "invokedAt": "2023-01-05T21:00:36.715Z"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Kjær",
+    "email": "joseph.kjaer@example.com",
+    "username": "happyelephant693",
+    "password": "modles",
+    "invokedAt": "2023-01-05T22:00:47.808Z"
   }
 ]
