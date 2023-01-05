@@ -118,5 +118,13 @@
     "username": "purplebird389",
     "password": "dewalt",
     "invokedAt": "2023-01-05T14:00:44.062Z"
+  },
+  {
+    "firstName": "Sascha",
+    "lastName": "Mezger",
+    "email": "sascha.mezger@example.com",
+    "username": "blueduck448",
+    "password": "dork",
+    "invokedAt": "2023-01-05T15:00:45.433Z"
   }
 ]
