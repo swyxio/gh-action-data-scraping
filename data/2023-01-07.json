@@ -118,5 +118,13 @@
     "username": "yellowrabbit172",
     "password": "chucky",
     "invokedAt": "2023-01-07T14:00:40.081Z"
+  },
+  {
+    "firstName": "Özsu",
+    "lastName": "Nalbantoğlu",
+    "email": "ozsu.nalbantoglu@example.com",
+    "username": "heavyostrich602",
+    "password": "xiong",
+    "invokedAt": "2023-01-07T15:00:45.176Z"
   }
 ]
