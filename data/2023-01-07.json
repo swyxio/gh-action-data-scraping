@@ -126,5 +126,13 @@
     "username": "heavyostrich602",
     "password": "xiong",
     "invokedAt": "2023-01-07T15:00:45.176Z"
+  },
+  {
+    "firstName": "دینا",
+    "lastName": "صدر",
+    "email": "dyn.sdr@example.com",
+    "username": "redcat101",
+    "password": "jorge",
+    "invokedAt": "2023-01-07T16:00:43.100Z"
   }
 ]
