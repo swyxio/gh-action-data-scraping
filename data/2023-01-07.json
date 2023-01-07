@@ -46,5 +46,13 @@
     "username": "orangeduck584",
     "password": "unknown",
     "invokedAt": "2023-01-07T05:00:36.863Z"
+  },
+  {
+    "firstName": "Agnès",
+    "lastName": "Le Gall",
+    "email": "agnes.legall@example.com",
+    "username": "bigladybug526",
+    "password": "erin",
+    "invokedAt": "2023-01-07T06:00:50.290Z"
   }
 ]
