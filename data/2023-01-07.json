@@ -166,5 +166,13 @@
     "username": "smallbutterfly199",
     "password": "redalert",
     "invokedAt": "2023-01-07T20:00:40.214Z"
+  },
+  {
+    "firstName": "Melike",
+    "lastName": "Kaplangı",
+    "email": "melike.kaplangi@example.com",
+    "username": "purpletiger213",
+    "password": "konyor",
+    "invokedAt": "2023-01-07T21:00:42.789Z"
   }
 ]
