@@ -142,5 +142,13 @@
     "username": "smalldog750",
     "password": "chelsea1",
     "invokedAt": "2023-01-08T17:00:38.682Z"
+  },
+  {
+    "firstName": "Stanoje",
+    "lastName": "Jevremović",
+    "email": "stanoje.jevremovic@example.com",
+    "username": "heavydog580",
+    "password": "treetop",
+    "invokedAt": "2023-01-08T18:00:42.764Z"
   }
 ]
