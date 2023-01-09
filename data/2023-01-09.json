@@ -174,5 +174,13 @@
     "username": "lazybird923",
     "password": "aptiva",
     "invokedAt": "2023-01-09T21:00:34.887Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Wilson",
+    "email": "daniel.wilson@example.com",
+    "username": "brownlion235",
+    "password": "trustme",
+    "invokedAt": "2023-01-09T22:00:36.344Z"
   }
 ]
