@@ -110,5 +110,13 @@
     "username": "bluemeercat305",
     "password": "project",
     "invokedAt": "2023-01-10T13:05:20.961Z"
+  },
+  {
+    "firstName": "Enrique",
+    "lastName": "Benítez",
+    "email": "enrique.benitez@example.com",
+    "username": "heavyelephant130",
+    "password": "harlem",
+    "invokedAt": "2023-01-10T14:01:15.449Z"
   }
 ]
