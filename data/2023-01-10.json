@@ -102,5 +102,13 @@
     "username": "bigpanda339",
     "password": "rugby1",
     "invokedAt": "2023-01-10T12:00:57.828Z"
+  },
+  {
+    "firstName": "Aatu",
+    "lastName": "Mikkola",
+    "email": "aatu.mikkola@example.com",
+    "username": "bluemeercat305",
+    "password": "project",
+    "invokedAt": "2023-01-10T13:05:20.961Z"
   }
 ]
