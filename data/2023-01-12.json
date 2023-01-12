@@ -126,5 +126,13 @@
     "username": "orangepanda515",
     "password": "deadspin",
     "invokedAt": "2023-01-12T15:01:05.301Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Fernandez",
+    "email": "robin.fernandez@example.com",
+    "username": "smallfish587",
+    "password": "biit",
+    "invokedAt": "2023-01-12T16:04:24.207Z"
   }
 ]
