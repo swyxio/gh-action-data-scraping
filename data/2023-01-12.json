@@ -158,5 +158,13 @@
     "username": "whitekoala253",
     "password": "smoking",
     "invokedAt": "2023-01-12T19:00:44.841Z"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Lam",
+    "email": "jade.lam@example.com",
+    "username": "heavybutterfly394",
+    "password": "lightning",
+    "invokedAt": "2023-01-12T20:00:51.614Z"
   }
 ]
