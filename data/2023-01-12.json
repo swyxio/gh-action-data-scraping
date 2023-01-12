@@ -174,5 +174,13 @@
     "username": "greentiger392",
     "password": "ou8123",
     "invokedAt": "2023-01-12T21:00:46.200Z"
+  },
+  {
+    "firstName": "Corey",
+    "lastName": "Porter",
+    "email": "corey.porter@example.com",
+    "username": "goldengoose825",
+    "password": "thisisit",
+    "invokedAt": "2023-01-12T22:00:54.347Z"
   }
 ]
