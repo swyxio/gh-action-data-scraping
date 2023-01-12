@@ -86,5 +86,13 @@
     "username": "organictiger287",
     "password": "candice",
     "invokedAt": "2023-01-12T10:00:51.446Z"
+  },
+  {
+    "firstName": "Flynn",
+    "lastName": "Roberts",
+    "email": "flynn.roberts@example.com",
+    "username": "lazypanda306",
+    "password": "plum",
+    "invokedAt": "2023-01-12T11:00:42.679Z"
   }
 ]
