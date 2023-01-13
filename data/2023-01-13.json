@@ -166,5 +166,13 @@
     "username": "silverbear338",
     "password": "national",
     "invokedAt": "2023-01-13T20:00:49.099Z"
+  },
+  {
+    "firstName": "Liva",
+    "lastName": "Andersen",
+    "email": "liva.andersen@example.com",
+    "username": "smallfish792",
+    "password": "blanche",
+    "invokedAt": "2023-01-13T21:00:38.054Z"
   }
 ]
