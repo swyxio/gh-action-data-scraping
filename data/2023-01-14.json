@@ -182,5 +182,13 @@
     "username": "happydog329",
     "password": "radio",
     "invokedAt": "2023-01-14T22:00:38.707Z"
+  },
+  {
+    "firstName": "Susie",
+    "lastName": "Hayes",
+    "email": "susie.hayes@example.com",
+    "username": "goldenduck176",
+    "password": "christina",
+    "invokedAt": "2023-01-14T23:00:39.959Z"
   }
 ]
