@@ -94,5 +94,13 @@
     "username": "bluebear747",
     "password": "morning",
     "invokedAt": "2023-01-14T11:00:36.246Z"
+  },
+  {
+    "firstName": "Dragiša",
+    "lastName": "Kitić",
+    "email": "dragisa.kitic@example.com",
+    "username": "brownostrich993",
+    "password": "fingerig",
+    "invokedAt": "2023-01-14T12:00:49.027Z"
   }
 ]
