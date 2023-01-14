@@ -30,5 +30,13 @@
     "username": "happyfish772",
     "password": "building",
     "invokedAt": "2023-01-14T03:00:47.877Z"
+  },
+  {
+    "firstName": "Nourdin",
+    "lastName": "Van der Winden",
+    "email": "nourdin.vanderwinden@example.com",
+    "username": "tinybird500",
+    "password": "nitro",
+    "invokedAt": "2023-01-14T04:00:49.092Z"
   }
 ]
