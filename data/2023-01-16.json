@@ -94,5 +94,13 @@
     "username": "crazyelephant195",
     "password": "belmont",
     "invokedAt": "2023-01-16T11:00:44.229Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Márquez",
+    "email": "jorge.marquez@example.com",
+    "username": "angryfrog585",
+    "password": "sheepdog",
+    "invokedAt": "2023-01-16T12:00:50.863Z"
   }
 ]
