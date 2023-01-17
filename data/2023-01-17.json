@@ -62,5 +62,13 @@
     "username": "silverfrog144",
     "password": "nuclear",
     "invokedAt": "2023-01-17T07:00:38.428Z"
+  },
+  {
+    "firstName": "Hannah",
+    "lastName": "Jones",
+    "email": "hannah.jones@example.com",
+    "username": "silverpanda895",
+    "password": "jason1",
+    "invokedAt": "2023-01-17T08:00:39.670Z"
   }
 ]
