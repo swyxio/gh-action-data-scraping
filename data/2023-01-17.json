@@ -94,5 +94,13 @@
     "username": "purpledog931",
     "password": "bengals",
     "invokedAt": "2023-01-17T11:00:40.622Z"
+  },
+  {
+    "firstName": "Ömür",
+    "lastName": "Tuğluk",
+    "email": "omur.tugluk@example.com",
+    "username": "blacktiger374",
+    "password": "forrest",
+    "invokedAt": "2023-01-17T12:00:49.239Z"
   }
 ]
