@@ -118,5 +118,13 @@
     "username": "happygorilla362",
     "password": "serious",
     "invokedAt": "2023-01-18T14:00:43.031Z"
+  },
+  {
+    "firstName": "Vladimir",
+    "lastName": "Dinčić",
+    "email": "vladimir.dincic@example.com",
+    "username": "crazybear874",
+    "password": "perfect",
+    "invokedAt": "2023-01-18T15:00:41.132Z"
   }
 ]
