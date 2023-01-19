@@ -158,5 +158,13 @@
     "username": "whiterabbit786",
     "password": "firewall",
     "invokedAt": "2023-01-19T19:01:02.592Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Caron",
+    "email": "joshua.caron@example.com",
+    "username": "tinymeercat491",
+    "password": "azerty",
+    "invokedAt": "2023-01-19T20:00:45.551Z"
   }
 ]
