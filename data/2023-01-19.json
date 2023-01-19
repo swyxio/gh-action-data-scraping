@@ -14,5 +14,13 @@
     "username": "reddog979",
     "password": "carnival",
     "invokedAt": "2023-01-19T01:27:37.316Z"
+  },
+  {
+    "firstName": "Borislav",
+    "lastName": "Đokić",
+    "email": "borislav.dokic@example.com",
+    "username": "angrycat380",
+    "password": "normal",
+    "invokedAt": "2023-01-19T02:25:09.850Z"
   }
 ]
