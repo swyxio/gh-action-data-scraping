@@ -38,5 +38,13 @@
     "username": "brownbird193",
     "password": "fishing",
     "invokedAt": "2023-01-19T04:00:52.924Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Zapata",
+    "email": "diego.zapata@example.com",
+    "username": "silvercat651",
+    "password": "riddle",
+    "invokedAt": "2023-01-19T05:00:51.274Z"
   }
 ]
