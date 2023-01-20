@@ -182,5 +182,13 @@
     "username": "crazywolf256",
     "password": "2004",
     "invokedAt": "2023-01-20T22:00:38.134Z"
+  },
+  {
+    "firstName": "Herman",
+    "lastName": "Lynch",
+    "email": "herman.lynch@example.com",
+    "username": "brownsnake618",
+    "password": "tools",
+    "invokedAt": "2023-01-20T23:00:30.977Z"
   }
 ]
