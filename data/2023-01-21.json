@@ -142,5 +142,13 @@
     "username": "crazyduck712",
     "password": "goblue",
     "invokedAt": "2023-01-21T17:00:37.177Z"
+  },
+  {
+    "firstName": "Peetu",
+    "lastName": "Kauppila",
+    "email": "peetu.kauppila@example.com",
+    "username": "smalldog880",
+    "password": "nimrod",
+    "invokedAt": "2023-01-21T18:00:45.062Z"
   }
 ]
