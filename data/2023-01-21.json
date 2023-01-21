@@ -174,5 +174,13 @@
     "username": "lazyrabbit251",
     "password": "54321",
     "invokedAt": "2023-01-21T21:00:38.688Z"
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Terzić",
+    "email": "mila.terzic@example.com",
+    "username": "heavypeacock876",
+    "password": "printing",
+    "invokedAt": "2023-01-21T22:00:40.587Z"
   }
 ]
