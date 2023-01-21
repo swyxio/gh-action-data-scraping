@@ -182,5 +182,13 @@
     "username": "heavypeacock876",
     "password": "printing",
     "invokedAt": "2023-01-21T22:00:40.587Z"
+  },
+  {
+    "firstName": "Maksim",
+    "lastName": "Deryazhniy",
+    "email": "maksim.deryazhniy@example.com",
+    "username": "blueduck777",
+    "password": "cook",
+    "invokedAt": "2023-01-21T23:00:42.700Z"
   }
 ]
