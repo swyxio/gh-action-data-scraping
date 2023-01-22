@@ -166,5 +166,13 @@
     "username": "happybird833",
     "password": "duffer",
     "invokedAt": "2023-01-22T20:00:44.798Z"
+  },
+  {
+    "firstName": "Tolislav",
+    "lastName": "Duda",
+    "email": "tolislav.duda@example.com",
+    "username": "heavybear928",
+    "password": "angela",
+    "invokedAt": "2023-01-22T21:00:33.930Z"
   }
 ]
