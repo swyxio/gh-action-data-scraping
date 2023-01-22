@@ -134,5 +134,13 @@
     "username": "crazycat201",
     "password": "212121",
     "invokedAt": "2023-01-22T16:00:36.632Z"
+  },
+  {
+    "firstName": "Milosav",
+    "lastName": "Tasić",
+    "email": "milosav.tasic@example.com",
+    "username": "beautifulmeercat590",
+    "password": "vette",
+    "invokedAt": "2023-01-22T17:00:48.113Z"
   }
 ]
