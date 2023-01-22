@@ -182,5 +182,13 @@
     "username": "crazyfish264",
     "password": "taylor",
     "invokedAt": "2023-01-22T22:00:39.621Z"
+  },
+  {
+    "firstName": "Otelo",
+    "lastName": "Fernandes",
+    "email": "otelo.fernandes@example.com",
+    "username": "brownfish529",
+    "password": "bull",
+    "invokedAt": "2023-01-22T23:00:42.870Z"
   }
 ]
