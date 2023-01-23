@@ -38,5 +38,13 @@
     "username": "brownbutterfly125",
     "password": "picasso",
     "invokedAt": "2023-01-23T04:00:39.171Z"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Price",
+    "email": "linda.price@example.com",
+    "username": "redgorilla771",
+    "password": "davis",
+    "invokedAt": "2023-01-23T05:00:41.684Z"
   }
 ]
