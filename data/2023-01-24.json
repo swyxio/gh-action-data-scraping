@@ -118,5 +118,13 @@
     "username": "smallleopard787",
     "password": "volcano",
     "invokedAt": "2023-01-24T14:00:46.789Z"
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Carlson",
+    "email": "jennifer.carlson@example.com",
+    "username": "heavytiger544",
+    "password": "winner",
+    "invokedAt": "2023-01-24T15:00:40.288Z"
   }
 ]
