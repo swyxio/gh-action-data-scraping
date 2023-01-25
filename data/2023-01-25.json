@@ -118,5 +118,13 @@
     "username": "brownbird565",
     "password": "turner",
     "invokedAt": "2023-01-25T14:00:44.737Z"
+  },
+  {
+    "firstName": "Maximilian",
+    "lastName": "Leinweber",
+    "email": "maximilian.leinweber@example.com",
+    "username": "crazyladybug596",
+    "password": "babyface",
+    "invokedAt": "2023-01-25T15:00:52.050Z"
   }
 ]
