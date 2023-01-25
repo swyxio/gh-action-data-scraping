@@ -134,5 +134,13 @@
     "username": "sadbird662",
     "password": "national",
     "invokedAt": "2023-01-25T16:01:07.079Z"
+  },
+  {
+    "firstName": "Dragan",
+    "lastName": "Lehner",
+    "email": "dragan.lehner@example.com",
+    "username": "happylion174",
+    "password": "ursula",
+    "invokedAt": "2023-01-25T17:00:51.055Z"
   }
 ]
