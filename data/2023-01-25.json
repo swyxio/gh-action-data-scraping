@@ -166,5 +166,13 @@
     "username": "bigostrich333",
     "password": "tracer",
     "invokedAt": "2023-01-25T20:00:44.881Z"
+  },
+  {
+    "firstName": "Debbie",
+    "lastName": "Long",
+    "email": "debbie.long@example.com",
+    "username": "bigleopard644",
+    "password": "4545",
+    "invokedAt": "2023-01-25T21:00:40.432Z"
   }
 ]
