@@ -182,5 +182,13 @@
     "username": "heavyfish645",
     "password": "firewall",
     "invokedAt": "2023-01-25T22:00:50.605Z"
+  },
+  {
+    "firstName": "Regina",
+    "lastName": "Walker",
+    "email": "regina.walker@example.com",
+    "username": "greenmouse885",
+    "password": "1234abcd",
+    "invokedAt": "2023-01-25T23:00:43.083Z"
   }
 ]
