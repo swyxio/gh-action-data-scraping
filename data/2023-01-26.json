@@ -182,5 +182,13 @@
     "username": "beautifultiger531",
     "password": "seabee",
     "invokedAt": "2023-01-26T22:00:46.476Z"
+  },
+  {
+    "firstName": "Antonin",
+    "lastName": "Rousseau",
+    "email": "antonin.rousseau@example.com",
+    "username": "bigduck214",
+    "password": "blueball",
+    "invokedAt": "2023-01-26T23:00:41.456Z"
   }
 ]
