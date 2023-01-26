@@ -118,5 +118,13 @@
     "username": "crazytiger431",
     "password": "barcelona",
     "invokedAt": "2023-01-26T14:00:44.798Z"
+  },
+  {
+    "firstName": "Ilona",
+    "lastName": "Jarvela",
+    "email": "ilona.jarvela@example.com",
+    "username": "crazycat112",
+    "password": "alexander",
+    "invokedAt": "2023-01-26T15:00:42.523Z"
   }
 ]
