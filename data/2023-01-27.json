@@ -78,5 +78,13 @@
     "username": "tinyostrich101",
     "password": "insertions",
     "invokedAt": "2023-01-27T09:00:40.072Z"
+  },
+  {
+    "firstName": "Jarle",
+    "lastName": "Bjørge",
+    "email": "jarle.bjorge@example.com",
+    "username": "ticklishkoala985",
+    "password": "aaaaaa",
+    "invokedAt": "2023-01-27T10:00:43.970Z"
   }
 ]
