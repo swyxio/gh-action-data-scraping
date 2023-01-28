@@ -174,5 +174,13 @@
     "username": "angryleopard873",
     "password": "webster",
     "invokedAt": "2023-01-28T21:00:32.797Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Santana",
+    "email": "carlos.santana@example.com",
+    "username": "whitebird640",
+    "password": "gofast",
+    "invokedAt": "2023-01-28T22:00:37.305Z"
   }
 ]
