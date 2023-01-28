@@ -182,5 +182,13 @@
     "username": "whitebird640",
     "password": "gofast",
     "invokedAt": "2023-01-28T22:00:37.305Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Mitchell",
+    "email": "felix.mitchell@example.com",
+    "username": "bigpanda777",
+    "password": "song",
+    "invokedAt": "2023-01-28T23:00:34.899Z"
   }
 ]
