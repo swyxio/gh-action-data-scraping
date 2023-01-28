@@ -6,5 +6,13 @@
     "username": "heavyduck107",
     "password": "airbus",
     "invokedAt": "2023-01-28T00:00:48.793Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Limoncuoğlu",
+    "email": "batur.limoncuoglu@example.com",
+    "username": "sadfrog739",
+    "password": "rusty",
+    "invokedAt": "2023-01-28T01:27:56.148Z"
   }
 ]
