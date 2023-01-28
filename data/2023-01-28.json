@@ -94,5 +94,13 @@
     "username": "greentiger353",
     "password": "engineer",
     "invokedAt": "2023-01-28T11:00:39.833Z"
+  },
+  {
+    "firstName": "Carmen",
+    "lastName": "Calvo",
+    "email": "carmen.calvo@example.com",
+    "username": "yellowduck612",
+    "password": "retire",
+    "invokedAt": "2023-01-28T12:00:38.210Z"
   }
 ]
