@@ -158,5 +158,13 @@
     "username": "browntiger321",
     "password": "kingfish",
     "invokedAt": "2023-01-28T19:00:40.204Z"
+  },
+  {
+    "firstName": "Tyrone",
+    "lastName": "Torres",
+    "email": "tyrone.torres@example.com",
+    "username": "goldenduck124",
+    "password": "chargers",
+    "invokedAt": "2023-01-28T20:00:37.155Z"
   }
 ]
