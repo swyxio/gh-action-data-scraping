@@ -134,5 +134,13 @@
     "username": "tinyduck391",
     "password": "talisman",
     "invokedAt": "2023-01-29T17:00:41.414Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Kahveci",
+    "email": "babur.kahveci@example.com",
+    "username": "sadgorilla524",
+    "password": "4you",
+    "invokedAt": "2023-01-29T18:00:45.887Z"
   }
 ]
