@@ -86,5 +86,13 @@
     "username": "brownlion398",
     "password": "cricket",
     "invokedAt": "2023-01-29T11:00:43.254Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Yorulmaz",
+    "email": "ege.yorulmaz@example.com",
+    "username": "purplewolf759",
+    "password": "woofwoof",
+    "invokedAt": "2023-01-29T12:00:39.325Z"
   }
 ]
