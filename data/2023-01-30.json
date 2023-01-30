@@ -70,5 +70,13 @@
     "username": "heavyfish500",
     "password": "none",
     "invokedAt": "2023-01-30T08:00:42.822Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Ayaydın",
+    "email": "ozkan.ayaydin@example.com",
+    "username": "purplefrog910",
+    "password": "goaway",
+    "invokedAt": "2023-01-30T09:00:45.805Z"
   }
 ]
