@@ -182,5 +182,13 @@
     "username": "heavydog957",
     "password": "senators",
     "invokedAt": "2023-01-30T22:00:39.968Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Aykaç",
+    "email": "kenan.aykac@example.com",
+    "username": "ticklishfrog324",
+    "password": "klondike",
+    "invokedAt": "2023-01-30T23:00:47.759Z"
   }
 ]
