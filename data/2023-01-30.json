@@ -22,5 +22,13 @@
     "username": "greenrabbit317",
     "password": "keystone",
     "invokedAt": "2023-01-30T02:19:50.411Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Santana",
+    "email": "jonathan.santana@example.com",
+    "username": "bigfrog554",
+    "password": "movie",
+    "invokedAt": "2023-01-30T03:00:47.538Z"
   }
 ]
