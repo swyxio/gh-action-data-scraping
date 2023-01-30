@@ -158,5 +158,13 @@
     "username": "brownmeercat196",
     "password": "555666",
     "invokedAt": "2023-01-30T19:00:46.870Z"
+  },
+  {
+    "firstName": "Djarno",
+    "lastName": "Van de Meeberg",
+    "email": "djarno.vandemeeberg@example.com",
+    "username": "greenzebra979",
+    "password": "draco",
+    "invokedAt": "2023-01-30T20:00:40.966Z"
   }
 ]
