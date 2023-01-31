@@ -78,5 +78,13 @@
     "username": "bluebear781",
     "password": "clippers",
     "invokedAt": "2023-01-31T09:00:49.452Z"
+  },
+  {
+    "firstName": "Léandre",
+    "lastName": "Renaud",
+    "email": "leandre.renaud@example.com",
+    "username": "blackcat555",
+    "password": "sanity",
+    "invokedAt": "2023-01-31T10:00:48.445Z"
   }
 ]
