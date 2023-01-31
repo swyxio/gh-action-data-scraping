@@ -118,5 +118,13 @@
     "username": "sadzebra195",
     "password": "tulips",
     "invokedAt": "2023-01-31T14:00:38.709Z"
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Henríquez",
+    "email": "gustavo.henriquez@example.com",
+    "username": "bluefrog526",
+    "password": "loveme",
+    "invokedAt": "2023-01-31T15:00:52.704Z"
   }
 ]
