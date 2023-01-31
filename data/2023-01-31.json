@@ -102,5 +102,13 @@
     "username": "angrylion542",
     "password": "encore",
     "invokedAt": "2023-01-31T12:00:49.193Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Taylor",
+    "email": "ella.taylor@example.com",
+    "username": "blackduck568",
+    "password": "fighter",
+    "invokedAt": "2023-01-31T13:06:39.854Z"
   }
 ]
