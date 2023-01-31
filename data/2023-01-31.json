@@ -70,5 +70,13 @@
     "username": "organicgorilla496",
     "password": "puck",
     "invokedAt": "2023-01-31T08:00:42.195Z"
+  },
+  {
+    "firstName": "Iva",
+    "lastName": "Golubović",
+    "email": "iva.golubovic@example.com",
+    "username": "bluebear781",
+    "password": "clippers",
+    "invokedAt": "2023-01-31T09:00:49.452Z"
   }
 ]
