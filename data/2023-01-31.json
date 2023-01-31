@@ -134,5 +134,13 @@
     "username": "tinyzebra460",
     "password": "austin31",
     "invokedAt": "2023-01-31T16:00:52.801Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Roy",
+    "email": "gabriel.roy@example.com",
+    "username": "tinydog188",
+    "password": "doit",
+    "invokedAt": "2023-01-31T17:00:40.015Z"
   }
 ]
