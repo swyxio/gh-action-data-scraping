@@ -94,5 +94,13 @@
     "username": "brownbutterfly499",
     "password": "vienna",
     "invokedAt": "2023-01-31T11:00:49.117Z"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Nenezić",
+    "email": "nikola.nenezic@example.com",
+    "username": "angrylion542",
+    "password": "encore",
+    "invokedAt": "2023-01-31T12:00:49.193Z"
   }
 ]
