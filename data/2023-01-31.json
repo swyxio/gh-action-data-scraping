@@ -142,5 +142,13 @@
     "username": "tinydog188",
     "password": "doit",
     "invokedAt": "2023-01-31T17:00:40.015Z"
+  },
+  {
+    "firstName": "Ángeles",
+    "lastName": "Carmona",
+    "email": "angeles.carmona@example.com",
+    "username": "orangeladybug366",
+    "password": "snuggles",
+    "invokedAt": "2023-01-31T18:00:41.011Z"
   }
 ]
