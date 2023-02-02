@@ -78,5 +78,13 @@
     "username": "goldenduck250",
     "password": "ducati",
     "invokedAt": "2023-02-02T09:00:35.073Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "West",
+    "email": "dylan.west@example.com",
+    "username": "silvercat341",
+    "password": "memorex",
+    "invokedAt": "2023-02-02T10:00:51.350Z"
   }
 ]
