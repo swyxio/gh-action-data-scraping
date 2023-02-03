@@ -126,5 +126,13 @@
     "username": "angrytiger466",
     "password": "juan",
     "invokedAt": "2023-02-03T15:00:34.152Z"
+  },
+  {
+    "firstName": "Türkan",
+    "lastName": "Nußbaum",
+    "email": "turkan.nussbaum@example.com",
+    "username": "happysnake487",
+    "password": "trustme",
+    "invokedAt": "2023-02-03T16:00:53.971Z"
   }
 ]
