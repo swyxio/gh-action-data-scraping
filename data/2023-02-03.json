@@ -78,5 +78,13 @@
     "username": "redmouse320",
     "password": "aviation",
     "invokedAt": "2023-02-03T09:00:48.660Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Cruz",
+    "email": "andres.cruz@example.com",
+    "username": "organicleopard698",
+    "password": "players",
+    "invokedAt": "2023-02-03T10:00:41.960Z"
   }
 ]
