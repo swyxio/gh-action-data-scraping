@@ -54,5 +54,13 @@
     "username": "browngorilla590",
     "password": "yyyyyyyy",
     "invokedAt": "2023-02-04T06:00:54.198Z"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Brewer",
+    "email": "joseph.brewer@example.com",
+    "username": "bluewolf384",
+    "password": "creation",
+    "invokedAt": "2023-02-04T07:00:33.808Z"
   }
 ]
