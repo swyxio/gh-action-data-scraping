@@ -134,5 +134,13 @@
     "username": "lazyelephant550",
     "password": "europe",
     "invokedAt": "2023-02-04T16:00:40.898Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Flores",
+    "email": "andres.flores@example.com",
+    "username": "sadbird871",
+    "password": "blueberr",
+    "invokedAt": "2023-02-04T17:00:34.446Z"
   }
 ]
