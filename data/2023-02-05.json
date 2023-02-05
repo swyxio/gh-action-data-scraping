@@ -62,5 +62,13 @@
     "username": "sadfish425",
     "password": "bowwow",
     "invokedAt": "2023-02-05T07:00:46.712Z"
+  },
+  {
+    "firstName": "Toni",
+    "lastName": "Morin",
+    "email": "toni.morin@example.com",
+    "username": "organicpanda568",
+    "password": "vision",
+    "invokedAt": "2023-02-05T08:00:33.101Z"
   }
 ]
