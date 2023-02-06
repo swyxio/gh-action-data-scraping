@@ -182,5 +182,13 @@
     "username": "crazyostrich682",
     "password": "blowfish",
     "invokedAt": "2023-02-06T22:00:36.036Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Claire",
+    "email": "alice.claire@example.com",
+    "username": "organicladybug800",
+    "password": "aussie",
+    "invokedAt": "2023-02-06T23:00:42.240Z"
   }
 ]
