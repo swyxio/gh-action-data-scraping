@@ -6,5 +6,13 @@
     "username": "heavydog647",
     "password": "stargate",
     "invokedAt": "2023-02-06T00:00:50.897Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Collins",
+    "email": "joe.collins@example.com",
+    "username": "happybear555",
+    "password": "gofish",
+    "invokedAt": "2023-02-06T01:27:28.748Z"
   }
 ]
