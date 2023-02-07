@@ -126,5 +126,13 @@
     "username": "lazybutterfly821",
     "password": "hotmail1",
     "invokedAt": "2023-02-07T15:00:39.198Z"
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Howard",
+    "email": "leon.howard@example.com",
+    "username": "purplebird353",
+    "password": "oceans",
+    "invokedAt": "2023-02-07T16:00:38.511Z"
   }
 ]
