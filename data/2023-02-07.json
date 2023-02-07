@@ -94,5 +94,13 @@
     "username": "orangemouse815",
     "password": "borders",
     "invokedAt": "2023-02-07T11:00:39.134Z"
+  },
+  {
+    "firstName": "Phoebe",
+    "lastName": "White",
+    "email": "phoebe.white@example.com",
+    "username": "smallrabbit193",
+    "password": "username",
+    "invokedAt": "2023-02-07T12:00:53.848Z"
   }
 ]
