@@ -70,5 +70,13 @@
     "username": "goldenpanda167",
     "password": "eddie1",
     "invokedAt": "2023-02-09T08:01:27.223Z"
+  },
+  {
+    "firstName": "Percy",
+    "lastName": "Van Roijen",
+    "email": "percy.vanroijen@example.com",
+    "username": "organicbutterfly250",
+    "password": "django",
+    "invokedAt": "2023-02-09T09:00:45.930Z"
   }
 ]
