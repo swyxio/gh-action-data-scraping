@@ -182,5 +182,13 @@
     "username": "whitepeacock345",
     "password": "lllll",
     "invokedAt": "2023-02-09T22:00:47.689Z"
+  },
+  {
+    "firstName": "Antonin",
+    "lastName": "Rodriguez",
+    "email": "antonin.rodriguez@example.com",
+    "username": "blackzebra124",
+    "password": "funfun",
+    "invokedAt": "2023-02-09T23:00:48.347Z"
   }
 ]
