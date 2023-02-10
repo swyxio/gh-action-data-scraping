@@ -182,5 +182,13 @@
     "username": "orangeswan368",
     "password": "newton",
     "invokedAt": "2023-02-10T22:00:34.894Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Tokatlıoğlu",
+    "email": "davut.tokatlioglu@example.com",
+    "username": "heavymouse311",
+    "password": "track",
+    "invokedAt": "2023-02-10T23:00:38.107Z"
   }
 ]
