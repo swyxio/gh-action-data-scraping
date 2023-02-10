@@ -54,5 +54,13 @@
     "username": "sadsnake726",
     "password": "vanguard",
     "invokedAt": "2023-02-10T06:00:36.972Z"
+  },
+  {
+    "firstName": "Svetislav",
+    "lastName": "Vuksanović",
+    "email": "svetislav.vuksanovic@example.com",
+    "username": "happygoose699",
+    "password": "&amp",
+    "invokedAt": "2023-02-10T07:00:43.307Z"
   }
 ]
