@@ -94,5 +94,13 @@
     "username": "bluekoala315",
     "password": "animals",
     "invokedAt": "2023-02-10T11:00:41.723Z"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Lawson",
+    "email": "kelly.lawson@example.com",
+    "username": "yellowkoala563",
+    "password": "scully",
+    "invokedAt": "2023-02-10T12:00:40.606Z"
   }
 ]
