@@ -78,5 +78,13 @@
     "username": "yellowcat578",
     "password": "infinity",
     "invokedAt": "2023-02-11T09:00:41.293Z"
+  },
+  {
+    "firstName": "Bessie",
+    "lastName": "Fisher",
+    "email": "bessie.fisher@example.com",
+    "username": "tinycat839",
+    "password": "video",
+    "invokedAt": "2023-02-11T10:00:40.992Z"
   }
 ]
