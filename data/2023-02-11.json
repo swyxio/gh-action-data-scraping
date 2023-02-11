@@ -86,5 +86,13 @@
     "username": "tinycat839",
     "password": "video",
     "invokedAt": "2023-02-11T10:00:40.992Z"
+  },
+  {
+    "firstName": "Gorana",
+    "lastName": "Pantelić",
+    "email": "gorana.pantelic@example.com",
+    "username": "greentiger363",
+    "password": "scorpio",
+    "invokedAt": "2023-02-11T11:00:40.980Z"
   }
 ]
