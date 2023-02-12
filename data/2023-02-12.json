@@ -110,5 +110,13 @@
     "username": "angrysnake791",
     "password": "biteme1",
     "invokedAt": "2023-02-12T13:03:56.209Z"
+  },
+  {
+    "firstName": "Božidar",
+    "lastName": "Mitrović",
+    "email": "bozidar.mitrovic@example.com",
+    "username": "orangelion903",
+    "password": "player",
+    "invokedAt": "2023-02-12T14:00:38.744Z"
   }
 ]
