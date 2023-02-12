@@ -182,5 +182,13 @@
     "username": "organiccat313",
     "password": "wendy1",
     "invokedAt": "2023-02-12T22:00:35.732Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Rodríguez",
+    "email": "jose.rodriguez@example.com",
+    "username": "redzebra491",
+    "password": "898989",
+    "invokedAt": "2023-02-12T23:00:40.197Z"
   }
 ]
