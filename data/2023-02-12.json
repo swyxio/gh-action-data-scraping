@@ -126,5 +126,13 @@
     "username": "smallostrich189",
     "password": "random",
     "invokedAt": "2023-02-12T15:00:36.770Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Gagné",
+    "email": "abigail.gagne@example.com",
+    "username": "lazybear648",
+    "password": "bobcat",
+    "invokedAt": "2023-02-12T16:00:37.673Z"
   }
 ]
