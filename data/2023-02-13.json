@@ -30,5 +30,13 @@
     "username": "redrabbit785",
     "password": "coldplay",
     "invokedAt": "2023-02-13T03:05:49.321Z"
+  },
+  {
+    "firstName": "Altamira",
+    "lastName": "Duarte",
+    "email": "altamira.duarte@example.com",
+    "username": "happysnake119",
+    "password": "bernard",
+    "invokedAt": "2023-02-13T04:01:01.845Z"
   }
 ]
