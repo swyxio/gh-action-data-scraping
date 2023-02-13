@@ -94,5 +94,13 @@
     "username": "heavyfrog565",
     "password": "rusty",
     "invokedAt": "2023-02-13T11:00:40.787Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Demirbaş",
+    "email": "elif.demirbas@example.com",
+    "username": "redgoose892",
+    "password": "porkchop",
+    "invokedAt": "2023-02-13T12:00:57.888Z"
   }
 ]
