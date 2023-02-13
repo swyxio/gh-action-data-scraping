@@ -150,5 +150,13 @@
     "username": "yellowbird899",
     "password": "treetop",
     "invokedAt": "2023-02-13T18:00:51.174Z"
+  },
+  {
+    "firstName": "Elli",
+    "lastName": "Toivonen",
+    "email": "elli.toivonen@example.com",
+    "username": "yellowmouse139",
+    "password": "george1",
+    "invokedAt": "2023-02-13T19:00:39.336Z"
   }
 ]
