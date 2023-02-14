@@ -126,5 +126,13 @@
     "username": "yellowbird290",
     "password": "abcd",
     "invokedAt": "2023-02-14T15:00:38.340Z"
+  },
+  {
+    "firstName": "Aada",
+    "lastName": "Leinonen",
+    "email": "aada.leinonen@example.com",
+    "username": "organiccat217",
+    "password": "hardrock",
+    "invokedAt": "2023-02-14T16:00:55.751Z"
   }
 ]
