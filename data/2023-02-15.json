@@ -38,5 +38,13 @@
     "username": "purplekoala528",
     "password": "boeing",
     "invokedAt": "2023-02-15T04:00:41.177Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Remes",
+    "email": "niklas.remes@example.com",
+    "username": "biglion450",
+    "password": "22222",
+    "invokedAt": "2023-02-15T05:00:41.125Z"
   }
 ]
