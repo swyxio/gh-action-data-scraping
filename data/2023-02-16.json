@@ -182,5 +182,13 @@
     "username": "tinyfish464",
     "password": "hithere",
     "invokedAt": "2023-02-16T22:00:49.006Z"
+  },
+  {
+    "firstName": "Elinor",
+    "lastName": "Bakkehaug",
+    "email": "elinor.bakkehaug@example.com",
+    "username": "ticklishfrog526",
+    "password": "johnjohn",
+    "invokedAt": "2023-02-16T23:00:42.907Z"
   }
 ]
