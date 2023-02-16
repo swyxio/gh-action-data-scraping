@@ -102,5 +102,13 @@
     "username": "smallzebra770",
     "password": "africa",
     "invokedAt": "2023-02-16T12:00:58.742Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Méndez",
+    "email": "gabriel.mendez@example.com",
+    "username": "goldenfish162",
+    "password": "1944",
+    "invokedAt": "2023-02-16T13:05:34.930Z"
   }
 ]
