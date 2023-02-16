@@ -142,5 +142,13 @@
     "username": "happycat926",
     "password": "husker",
     "invokedAt": "2023-02-16T17:00:37.947Z"
+  },
+  {
+    "firstName": "Prodan",
+    "lastName": "Živadinović",
+    "email": "prodan.zivadinovic@example.com",
+    "username": "happypanda522",
+    "password": "99999999",
+    "invokedAt": "2023-02-16T18:00:52.820Z"
   }
 ]
