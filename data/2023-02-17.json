@@ -158,5 +158,13 @@
     "username": "blackbear365",
     "password": "1204",
     "invokedAt": "2023-02-17T19:00:50.106Z"
+  },
+  {
+    "firstName": "Jayaraj",
+    "lastName": "Banerjee",
+    "email": "jayaraj.banerjee@example.com",
+    "username": "heavybird672",
+    "password": "dorian",
+    "invokedAt": "2023-02-17T20:00:53.306Z"
   }
 ]
