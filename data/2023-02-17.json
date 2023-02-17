@@ -182,5 +182,13 @@
     "username": "blackdog480",
     "password": "tunafish",
     "invokedAt": "2023-02-17T22:00:39.566Z"
+  },
+  {
+    "firstName": "Annamaria",
+    "lastName": "Lacroix",
+    "email": "annamaria.lacroix@example.com",
+    "username": "lazyfish357",
+    "password": "danger",
+    "invokedAt": "2023-02-17T23:00:48.335Z"
   }
 ]
