@@ -78,5 +78,13 @@
     "username": "heavybutterfly925",
     "password": "fiction",
     "invokedAt": "2023-02-17T09:00:48.193Z"
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Andersen",
+    "email": "signe.andersen@example.com",
+    "username": "yellowmeercat891",
+    "password": "seeker",
+    "invokedAt": "2023-02-17T10:00:45.283Z"
   }
 ]
