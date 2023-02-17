@@ -142,5 +142,13 @@
     "username": "redlion475",
     "password": "picturs",
     "invokedAt": "2023-02-17T17:00:35.550Z"
+  },
+  {
+    "firstName": "Eetu",
+    "lastName": "Lampi",
+    "email": "eetu.lampi@example.com",
+    "username": "greendog217",
+    "password": "fandango",
+    "invokedAt": "2023-02-17T18:00:40.854Z"
   }
 ]
