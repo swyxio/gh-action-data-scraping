@@ -142,5 +142,13 @@
     "username": "sadbear327",
     "password": "band",
     "invokedAt": "2023-02-18T18:00:40.434Z"
+  },
+  {
+    "firstName": "Ángel",
+    "lastName": "Barreto",
+    "email": "angel.barreto@example.com",
+    "username": "tinymouse461",
+    "password": "celtic",
+    "invokedAt": "2023-02-18T19:00:34.309Z"
   }
 ]
