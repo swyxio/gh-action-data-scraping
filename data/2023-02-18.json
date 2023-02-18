@@ -118,5 +118,13 @@
     "username": "blackgoose624",
     "password": "gold",
     "invokedAt": "2023-02-18T15:00:41.248Z"
+  },
+  {
+    "firstName": "Viivi",
+    "lastName": "Salmela",
+    "email": "viivi.salmela@example.com",
+    "username": "crazyrabbit153",
+    "password": "bigblock",
+    "invokedAt": "2023-02-18T16:00:44.258Z"
   }
 ]
