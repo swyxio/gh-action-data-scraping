@@ -150,5 +150,13 @@
     "username": "tinymouse461",
     "password": "celtic",
     "invokedAt": "2023-02-18T19:00:34.309Z"
+  },
+  {
+    "firstName": "Tonkostana",
+    "lastName": "Skorubskiy",
+    "email": "tonkostana.skorubskiy@example.com",
+    "username": "lazymouse645",
+    "password": "spartan",
+    "invokedAt": "2023-02-18T20:00:46.481Z"
   }
 ]
