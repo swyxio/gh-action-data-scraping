@@ -86,5 +86,13 @@
     "username": "lazymouse381",
     "password": "illini",
     "invokedAt": "2023-02-19T10:00:38.200Z"
+  },
+  {
+    "firstName": "Svetlana",
+    "lastName": "Kitić",
+    "email": "svetlana.kitic@example.com",
+    "username": "redwolf316",
+    "password": "nimrod",
+    "invokedAt": "2023-02-19T11:00:39.780Z"
   }
 ]
