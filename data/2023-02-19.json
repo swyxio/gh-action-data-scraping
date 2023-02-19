@@ -150,5 +150,13 @@
     "username": "bigdog795",
     "password": "byteme",
     "invokedAt": "2023-02-19T18:00:40.242Z"
+  },
+  {
+    "firstName": "Anadir",
+    "lastName": "Nascimento",
+    "email": "anadir.nascimento@example.com",
+    "username": "bluefrog814",
+    "password": "1966",
+    "invokedAt": "2023-02-19T19:00:39.262Z"
   }
 ]
