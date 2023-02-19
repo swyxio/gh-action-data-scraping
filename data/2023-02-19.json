@@ -142,5 +142,13 @@
     "username": "angryladybug284",
     "password": "espresso",
     "invokedAt": "2023-02-19T17:00:48.312Z"
+  },
+  {
+    "firstName": "Sherri",
+    "lastName": "Byrd",
+    "email": "sherri.byrd@example.com",
+    "username": "bigdog795",
+    "password": "byteme",
+    "invokedAt": "2023-02-19T18:00:40.242Z"
   }
 ]
