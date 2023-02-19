@@ -94,5 +94,13 @@
     "username": "redwolf316",
     "password": "nimrod",
     "invokedAt": "2023-02-19T11:00:39.780Z"
+  },
+  {
+    "firstName": "Snežana",
+    "lastName": "Popović",
+    "email": "snezana.popovic@example.com",
+    "username": "happygorilla715",
+    "password": "personal",
+    "invokedAt": "2023-02-19T12:00:36.972Z"
   }
 ]
