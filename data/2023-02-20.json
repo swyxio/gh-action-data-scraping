@@ -182,5 +182,13 @@
     "username": "orangepeacock284",
     "password": "nutter",
     "invokedAt": "2023-02-20T22:00:43.152Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Flores",
+    "email": "ana.flores@example.com",
+    "username": "redpeacock686",
+    "password": "cards",
+    "invokedAt": "2023-02-20T23:00:43.004Z"
   }
 ]
