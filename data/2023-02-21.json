@@ -182,5 +182,13 @@
     "username": "redpanda328",
     "password": "versace",
     "invokedAt": "2023-02-21T22:00:38.239Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Elliott",
+    "email": "alice.elliott@example.com",
+    "username": "goldenostrich176",
+    "password": "doubled",
+    "invokedAt": "2023-02-21T23:00:49.361Z"
   }
 ]
