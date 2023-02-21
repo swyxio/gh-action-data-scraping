@@ -166,5 +166,13 @@
     "username": "happyswan287",
     "password": "stinks",
     "invokedAt": "2023-02-21T20:00:51.903Z"
+  },
+  {
+    "firstName": "Polle",
+    "lastName": "Balemans",
+    "email": "polle.balemans@example.com",
+    "username": "sadzebra627",
+    "password": "cuervo",
+    "invokedAt": "2023-02-21T21:00:45.679Z"
   }
 ]
