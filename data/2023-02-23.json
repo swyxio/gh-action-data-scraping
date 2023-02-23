@@ -38,5 +38,13 @@
     "username": "greenduck397",
     "password": "sassy",
     "invokedAt": "2023-02-23T04:00:43.799Z"
+  },
+  {
+    "firstName": "Thiago",
+    "lastName": "Van Zijderveld",
+    "email": "thiago.vanzijderveld@example.com",
+    "username": "lazyzebra965",
+    "password": "funstuff",
+    "invokedAt": "2023-02-23T05:00:42.017Z"
   }
 ]
