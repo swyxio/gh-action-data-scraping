@@ -182,5 +182,13 @@
     "username": "sadrabbit107",
     "password": "railroad",
     "invokedAt": "2023-02-24T22:00:40.007Z"
+  },
+  {
+    "firstName": "Craig",
+    "lastName": "Moreno",
+    "email": "craig.moreno@example.com",
+    "username": "lazybutterfly241",
+    "password": "dwayne",
+    "invokedAt": "2023-02-24T23:00:45.353Z"
   }
 ]
