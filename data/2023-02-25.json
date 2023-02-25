@@ -126,5 +126,13 @@
     "username": "silvertiger893",
     "password": "maximus",
     "invokedAt": "2023-02-25T15:00:42.003Z"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Arnold",
+    "email": "todd.arnold@example.com",
+    "username": "angryleopard817",
+    "password": "vulcan",
+    "invokedAt": "2023-02-25T16:00:44.508Z"
   }
 ]
