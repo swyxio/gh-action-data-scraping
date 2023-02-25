@@ -78,5 +78,13 @@
     "username": "crazyfish988",
     "password": "getsdown",
     "invokedAt": "2023-02-25T09:00:37.801Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Flores",
+    "email": "ana.flores@example.com",
+    "username": "goldenwolf176",
+    "password": "futbol",
+    "invokedAt": "2023-02-25T10:00:41.229Z"
   }
 ]
