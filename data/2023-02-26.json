@@ -30,5 +30,13 @@
     "username": "goldensnake495",
     "password": "deadspin",
     "invokedAt": "2023-02-26T03:10:26.383Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Perkins",
+    "email": "juan.perkins@example.com",
+    "username": "crazybird190",
+    "password": "gentle",
+    "invokedAt": "2023-02-26T04:00:48.387Z"
   }
 ]
