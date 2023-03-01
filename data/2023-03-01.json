@@ -126,5 +126,13 @@
     "username": "blackladybug407",
     "password": "look",
     "invokedAt": "2023-03-01T15:00:47.380Z"
+  },
+  {
+    "firstName": "Latife",
+    "lastName": "Erginsoy",
+    "email": "latife.erginsoy@example.com",
+    "username": "blackbird901",
+    "password": "moomoo",
+    "invokedAt": "2023-03-01T16:00:38.282Z"
   }
 ]
