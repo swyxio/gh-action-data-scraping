@@ -166,5 +166,13 @@
     "username": "lazyswan470",
     "password": "1976",
     "invokedAt": "2023-03-01T20:00:44.546Z"
+  },
+  {
+    "firstName": "Iris",
+    "lastName": "Rousseau",
+    "email": "iris.rousseau@example.com",
+    "username": "whitebutterfly470",
+    "password": "computer",
+    "invokedAt": "2023-03-01T21:00:45.963Z"
   }
 ]
