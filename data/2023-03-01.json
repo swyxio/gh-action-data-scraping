@@ -30,5 +30,13 @@
     "username": "silvergoose701",
     "password": "knickerless",
     "invokedAt": "2023-03-01T03:12:18.229Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Nieto",
+    "email": "alvaro.nieto@example.com",
+    "username": "lazyfish754",
+    "password": "applepie",
+    "invokedAt": "2023-03-01T04:00:48.974Z"
   }
 ]
