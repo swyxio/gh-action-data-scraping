@@ -94,5 +94,13 @@
     "username": "crazybutterfly633",
     "password": "catch22",
     "invokedAt": "2023-03-01T11:00:51.970Z"
+  },
+  {
+    "firstName": "Tanmay",
+    "lastName": "Moolya",
+    "email": "tanmay.moolya@example.com",
+    "username": "brownbutterfly968",
+    "password": "engine",
+    "invokedAt": "2023-03-01T12:00:41.078Z"
   }
 ]
