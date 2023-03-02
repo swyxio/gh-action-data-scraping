@@ -94,5 +94,13 @@
     "username": "redlion545",
     "password": "alaska",
     "invokedAt": "2023-03-02T11:00:45.102Z"
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Williams",
+    "email": "luca.williams@example.com",
+    "username": "tinyrabbit640",
+    "password": "shooter",
+    "invokedAt": "2023-03-02T12:00:48.910Z"
   }
 ]
