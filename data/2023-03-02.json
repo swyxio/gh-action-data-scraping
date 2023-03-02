@@ -158,5 +158,13 @@
     "username": "heavycat503",
     "password": "casino",
     "invokedAt": "2023-03-02T19:00:43.131Z"
+  },
+  {
+    "firstName": "Renata",
+    "lastName": "Maliy",
+    "email": "renata.maliy@example.com",
+    "username": "brownzebra386",
+    "password": "abc123",
+    "invokedAt": "2023-03-02T20:01:13.218Z"
   }
 ]
