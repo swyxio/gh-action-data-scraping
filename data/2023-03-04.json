@@ -62,5 +62,13 @@
     "username": "sadgoose440",
     "password": "forum",
     "invokedAt": "2023-03-04T07:00:40.231Z"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Hunter",
+    "email": "jim.hunter@example.com",
+    "username": "greentiger409",
+    "password": "blam",
+    "invokedAt": "2023-03-04T08:00:38.373Z"
   }
 ]
