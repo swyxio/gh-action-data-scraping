@@ -126,5 +126,13 @@
     "username": "sadbird757",
     "password": "icehouse",
     "invokedAt": "2023-03-05T15:00:42.819Z"
+  },
+  {
+    "firstName": "Edmur",
+    "lastName": "da Luz",
+    "email": "edmur.daluz@example.com",
+    "username": "greensnake814",
+    "password": "gamma",
+    "invokedAt": "2023-03-05T16:00:48.023Z"
   }
 ]
