@@ -46,5 +46,13 @@
     "username": "greenladybug708",
     "password": "1122",
     "invokedAt": "2023-03-05T05:00:40.425Z"
+  },
+  {
+    "firstName": "Anaïs",
+    "lastName": "Masson",
+    "email": "anais.masson@example.com",
+    "username": "tinykoala318",
+    "password": "summit",
+    "invokedAt": "2023-03-05T06:00:52.242Z"
   }
 ]
