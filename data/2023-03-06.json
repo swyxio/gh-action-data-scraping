@@ -86,5 +86,13 @@
     "username": "whitebutterfly132",
     "password": "allegro",
     "invokedAt": "2023-03-06T10:00:53.075Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Handke",
+    "email": "bernard.handke@example.com",
+    "username": "crazyleopard152",
+    "password": "lust",
+    "invokedAt": "2023-03-06T11:00:36.320Z"
   }
 ]
