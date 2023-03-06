@@ -70,5 +70,13 @@
     "username": "organiclion866",
     "password": "bigbird",
     "invokedAt": "2023-03-06T08:00:41.997Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Turner",
+    "email": "claude.turner@example.com",
+    "username": "goldenleopard467",
+    "password": "yellow",
+    "invokedAt": "2023-03-06T09:01:00.664Z"
   }
 ]
