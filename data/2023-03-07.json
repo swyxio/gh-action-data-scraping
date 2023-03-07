@@ -134,5 +134,13 @@
     "username": "crazykoala483",
     "password": "shorty",
     "invokedAt": "2023-03-07T16:00:43.418Z"
+  },
+  {
+    "firstName": "Emmeli",
+    "lastName": "Forseth",
+    "email": "emmeli.forseth@example.com",
+    "username": "lazybird138",
+    "password": "lookout",
+    "invokedAt": "2023-03-07T17:00:39.883Z"
   }
 ]
