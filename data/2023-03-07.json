@@ -78,5 +78,13 @@
     "username": "happyfish936",
     "password": "dandfa",
     "invokedAt": "2023-03-07T09:00:34.216Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Vestre",
+    "email": "kayla.vestre@example.com",
+    "username": "crazymouse500",
+    "password": "pitchers",
+    "invokedAt": "2023-03-07T10:00:41.199Z"
   }
 ]
