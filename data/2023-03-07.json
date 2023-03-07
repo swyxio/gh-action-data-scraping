@@ -46,5 +46,13 @@
     "username": "happylion729",
     "password": "miles",
     "invokedAt": "2023-03-07T05:00:47.712Z"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Smith",
+    "email": "ellie.smith@example.com",
+    "username": "happypanda437",
+    "password": "blink",
+    "invokedAt": "2023-03-07T06:00:32.966Z"
   }
 ]
