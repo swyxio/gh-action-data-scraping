@@ -150,5 +150,13 @@
     "username": "lazydog106",
     "password": "southpar",
     "invokedAt": "2023-03-07T18:00:51.947Z"
+  },
+  {
+    "firstName": "Dileep",
+    "lastName": "Babu",
+    "email": "dileep.babu@example.com",
+    "username": "silversnake251",
+    "password": "paradigm",
+    "invokedAt": "2023-03-07T19:00:49.864Z"
   }
 ]
