@@ -86,5 +86,13 @@
     "username": "crazymouse500",
     "password": "pitchers",
     "invokedAt": "2023-03-07T10:00:41.199Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Akal",
+    "email": "ozkan.akal@example.com",
+    "username": "blacksnake720",
+    "password": "gypsy",
+    "invokedAt": "2023-03-07T11:00:40.875Z"
   }
 ]
