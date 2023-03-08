@@ -166,5 +166,13 @@
     "username": "sadpanda202",
     "password": "49ers",
     "invokedAt": "2023-03-08T20:00:42.341Z"
+  },
+  {
+    "firstName": "Carla",
+    "lastName": "Caballero",
+    "email": "carla.caballero@example.com",
+    "username": "heavyfish245",
+    "password": "gareth",
+    "invokedAt": "2023-03-08T21:01:09.396Z"
   }
 ]
