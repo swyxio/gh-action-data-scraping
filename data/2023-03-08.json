@@ -158,5 +158,13 @@
     "username": "ticklishfrog603",
     "password": "margaret",
     "invokedAt": "2023-03-08T19:00:52.555Z"
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Nielsen",
+    "email": "victoria.nielsen@example.com",
+    "username": "sadpanda202",
+    "password": "49ers",
+    "invokedAt": "2023-03-08T20:00:42.341Z"
   }
 ]
