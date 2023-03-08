@@ -142,5 +142,13 @@
     "username": "goldenduck119",
     "password": "quebec",
     "invokedAt": "2023-03-08T17:00:37.239Z"
+  },
+  {
+    "firstName": "Aubree",
+    "lastName": "Smith",
+    "email": "aubree.smith@example.com",
+    "username": "goldenwolf634",
+    "password": "hansen",
+    "invokedAt": "2023-03-08T18:00:43.466Z"
   }
 ]
