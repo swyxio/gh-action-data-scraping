@@ -166,5 +166,13 @@
     "username": "heavysnake739",
     "password": "1949",
     "invokedAt": "2023-03-09T20:00:43.819Z"
+  },
+  {
+    "firstName": "Yvone",
+    "lastName": "Farias",
+    "email": "yvone.farias@example.com",
+    "username": "happyfish346",
+    "password": "cigars",
+    "invokedAt": "2023-03-09T21:00:35.051Z"
   }
 ]
