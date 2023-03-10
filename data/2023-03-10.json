@@ -126,5 +126,13 @@
     "username": "blackwolf501",
     "password": "12312312",
     "invokedAt": "2023-03-10T15:00:50.026Z"
+  },
+  {
+    "firstName": "Ümit",
+    "lastName": "Kavaklıoğlu",
+    "email": "umit.kavaklioglu@example.com",
+    "username": "sadwolf284",
+    "password": "striker",
+    "invokedAt": "2023-03-10T16:00:52.594Z"
   }
 ]
