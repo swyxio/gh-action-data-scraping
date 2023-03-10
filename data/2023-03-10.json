@@ -46,5 +46,13 @@
     "username": "angrygoose252",
     "password": "doghouse",
     "invokedAt": "2023-03-10T05:00:41.469Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Lavigne",
+    "email": "leo.lavigne@example.com",
+    "username": "purplebear167",
+    "password": "chewy",
+    "invokedAt": "2023-03-10T06:00:40.452Z"
   }
 ]
