@@ -94,5 +94,13 @@
     "username": "purplefish547",
     "password": "justme",
     "invokedAt": "2023-03-10T11:00:47.036Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Parra",
+    "email": "alexander.parra@example.com",
+    "username": "angryrabbit121",
+    "password": "hairy",
+    "invokedAt": "2023-03-10T12:00:47.407Z"
   }
 ]
