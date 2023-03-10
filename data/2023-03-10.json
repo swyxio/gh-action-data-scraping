@@ -86,5 +86,13 @@
     "username": "happysnake785",
     "password": "whiskers",
     "invokedAt": "2023-03-10T10:00:52.745Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Vasquez",
+    "email": "susan.vasquez@example.com",
+    "username": "purplefish547",
+    "password": "justme",
+    "invokedAt": "2023-03-10T11:00:47.036Z"
   }
 ]
