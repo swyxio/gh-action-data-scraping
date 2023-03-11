@@ -142,5 +142,13 @@
     "username": "yellowlion222",
     "password": "lancia",
     "invokedAt": "2023-03-11T17:00:36.998Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Petersen",
+    "email": "valdemar.petersen@example.com",
+    "username": "bigswan268",
+    "password": "steele",
+    "invokedAt": "2023-03-11T18:00:38.627Z"
   }
 ]
