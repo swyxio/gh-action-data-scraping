@@ -118,5 +118,13 @@
     "username": "bigdog526",
     "password": "kissme",
     "invokedAt": "2023-03-11T14:00:46.899Z"
+  },
+  {
+    "firstName": "Heinz-Gerd",
+    "lastName": "Fabian",
+    "email": "heinz-gerd.fabian@example.com",
+    "username": "silverbutterfly139",
+    "password": "evolutio",
+    "invokedAt": "2023-03-11T15:00:35.361Z"
   }
 ]
