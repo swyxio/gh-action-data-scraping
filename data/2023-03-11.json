@@ -166,5 +166,13 @@
     "username": "redgorilla703",
     "password": "freaky",
     "invokedAt": "2023-03-11T20:00:38.176Z"
+  },
+  {
+    "firstName": "Marija",
+    "lastName": "Legrand",
+    "email": "marija.legrand@example.com",
+    "username": "silverswan150",
+    "password": "komodo",
+    "invokedAt": "2023-03-11T21:00:45.874Z"
   }
 ]
