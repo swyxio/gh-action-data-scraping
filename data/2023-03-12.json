@@ -158,5 +158,13 @@
     "username": "redkoala262",
     "password": "nacked",
     "invokedAt": "2023-03-12T19:00:45.331Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Gagnon",
+    "email": "alexander.gagnon@example.com",
+    "username": "crazybutterfly360",
+    "password": "lisa",
+    "invokedAt": "2023-03-12T20:00:54.071Z"
   }
 ]
