@@ -150,5 +150,13 @@
     "username": "redbird903",
     "password": "vermont",
     "invokedAt": "2023-03-14T18:01:40.880Z"
+  },
+  {
+    "firstName": "Yoëll",
+    "lastName": "Van de Kerkhof",
+    "email": "yoell.vandekerkhof@example.com",
+    "username": "smallmouse277",
+    "password": "lollipop",
+    "invokedAt": "2023-03-14T19:00:51.551Z"
   }
 ]
