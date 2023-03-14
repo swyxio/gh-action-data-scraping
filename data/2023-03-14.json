@@ -174,5 +174,13 @@
     "username": "heavybird711",
     "password": "sirius",
     "invokedAt": "2023-03-14T21:00:53.468Z"
+  },
+  {
+    "firstName": "Mirjana",
+    "lastName": "Španović",
+    "email": "mirjana.spanovic@example.com",
+    "username": "purplefish579",
+    "password": "loveya",
+    "invokedAt": "2023-03-14T22:00:39.817Z"
   }
 ]
