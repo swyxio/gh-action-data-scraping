@@ -62,5 +62,13 @@
     "username": "sadlion327",
     "password": "airplane",
     "invokedAt": "2023-03-14T07:00:46.720Z"
+  },
+  {
+    "firstName": "Eberhardt",
+    "lastName": "Pott",
+    "email": "eberhardt.pott@example.com",
+    "username": "purplepanda677",
+    "password": "smokes",
+    "invokedAt": "2023-03-14T08:00:53.234Z"
   }
 ]
