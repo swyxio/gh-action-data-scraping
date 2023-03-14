@@ -94,5 +94,13 @@
     "username": "bluetiger670",
     "password": "dome",
     "invokedAt": "2023-03-14T11:00:55.948Z"
+  },
+  {
+    "firstName": "Galina",
+    "lastName": "Pankevich",
+    "email": "galina.pankevich@example.com",
+    "username": "heavymouse979",
+    "password": "andreas",
+    "invokedAt": "2023-03-14T12:00:53.124Z"
   }
 ]
