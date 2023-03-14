@@ -86,5 +86,13 @@
     "username": "purpleduck362",
     "password": "sinned",
     "invokedAt": "2023-03-14T10:00:58.307Z"
+  },
+  {
+    "firstName": "Jader",
+    "lastName": "Lima",
+    "email": "jader.lima@example.com",
+    "username": "bluetiger670",
+    "password": "dome",
+    "invokedAt": "2023-03-14T11:00:55.948Z"
   }
 ]
