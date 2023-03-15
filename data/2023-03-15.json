@@ -46,5 +46,13 @@
     "username": "heavyrabbit532",
     "password": "account",
     "invokedAt": "2023-03-15T05:00:46.786Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Ninković",
+    "email": "ivan.ninkovic@example.com",
+    "username": "greenlion815",
+    "password": "lance",
+    "invokedAt": "2023-03-15T06:00:38.941Z"
   }
 ]
