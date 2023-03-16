@@ -54,5 +54,13 @@
     "username": "silvergoose638",
     "password": "vancouve",
     "invokedAt": "2023-03-16T06:00:50.151Z"
+  },
+  {
+    "firstName": "Addison",
+    "lastName": "Grewal",
+    "email": "addison.grewal@example.com",
+    "username": "goldenwolf554",
+    "password": "goaway",
+    "invokedAt": "2023-03-16T07:00:45.309Z"
   }
 ]
