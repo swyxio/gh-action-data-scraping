@@ -142,5 +142,13 @@
     "username": "greensnake288",
     "password": "georgia",
     "invokedAt": "2023-03-17T17:00:47.331Z"
+  },
+  {
+    "firstName": "Lourenço",
+    "lastName": "Cavalcanti",
+    "email": "lourenco.cavalcanti@example.com",
+    "username": "angryrabbit956",
+    "password": "grendel",
+    "invokedAt": "2023-03-17T18:00:44.252Z"
   }
 ]
