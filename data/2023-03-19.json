@@ -86,5 +86,13 @@
     "username": "brownmeercat884",
     "password": "meat",
     "invokedAt": "2023-03-19T10:00:37.379Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Ylitalo",
+    "email": "emma.ylitalo@example.com",
+    "username": "beautifulpanda257",
+    "password": "cowboys",
+    "invokedAt": "2023-03-19T11:00:46.238Z"
   }
 ]
