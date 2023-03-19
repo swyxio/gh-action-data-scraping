@@ -174,5 +174,13 @@
     "username": "goldenleopard662",
     "password": "sleepy",
     "invokedAt": "2023-03-19T21:00:37.152Z"
+  },
+  {
+    "firstName": "Line",
+    "lastName": "Dupont",
+    "email": "line.dupont@example.com",
+    "username": "blackbear828",
+    "password": "xing",
+    "invokedAt": "2023-03-19T22:00:41.106Z"
   }
 ]
