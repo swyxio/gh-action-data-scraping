@@ -22,5 +22,13 @@
     "username": "beautifulduck245",
     "password": "yahoo",
     "invokedAt": "2023-03-19T02:25:01.981Z"
+  },
+  {
+    "firstName": "Vratislav",
+    "lastName": "Diminskiy",
+    "email": "vratislav.diminskiy@example.com",
+    "username": "goldengorilla796",
+    "password": "itsme",
+    "invokedAt": "2023-03-19T03:02:42.259Z"
   }
 ]
