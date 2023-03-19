@@ -126,5 +126,13 @@
     "username": "bluewolf317",
     "password": "bigmac",
     "invokedAt": "2023-03-19T15:00:53.248Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Hatala",
+    "email": "emil.hatala@example.com",
+    "username": "blackbear915",
+    "password": "jaguars",
+    "invokedAt": "2023-03-19T16:00:44.854Z"
   }
 ]
