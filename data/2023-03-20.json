@@ -14,5 +14,13 @@
     "username": "lazybird230",
     "password": "dupont",
     "invokedAt": "2023-03-20T01:27:42.349Z"
+  },
+  {
+    "firstName": "Alma",
+    "lastName": "Menéndez",
+    "email": "alma.menendez@example.com",
+    "username": "whitebird414",
+    "password": "server",
+    "invokedAt": "2023-03-20T02:22:28.827Z"
   }
 ]
