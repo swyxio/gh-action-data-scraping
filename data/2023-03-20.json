@@ -38,5 +38,13 @@
     "username": "angrysnake103",
     "password": "super1",
     "invokedAt": "2023-03-20T04:00:48.859Z"
+  },
+  {
+    "firstName": "Saúl",
+    "lastName": "Cavalcanti",
+    "email": "saul.cavalcanti@example.com",
+    "username": "tinybear501",
+    "password": "place",
+    "invokedAt": "2023-03-20T05:00:45.716Z"
   }
 ]
