@@ -46,5 +46,13 @@
     "username": "whitebird220",
     "password": "terrier",
     "invokedAt": "2023-03-22T05:00:41.176Z"
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Fernandez",
+    "email": "danny.fernandez@example.com",
+    "username": "happysnake175",
+    "password": "boat",
+    "invokedAt": "2023-03-22T06:00:50.067Z"
   }
 ]
