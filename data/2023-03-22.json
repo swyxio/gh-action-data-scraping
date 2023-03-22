@@ -182,5 +182,13 @@
     "username": "smallpanda354",
     "password": "evan",
     "invokedAt": "2023-03-22T22:00:47.304Z"
+  },
+  {
+    "firstName": "Dona",
+    "lastName": "Nair",
+    "email": "dona.nair@example.com",
+    "username": "browngorilla136",
+    "password": "driver",
+    "invokedAt": "2023-03-22T23:00:41.010Z"
   }
 ]
