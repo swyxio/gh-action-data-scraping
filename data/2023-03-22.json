@@ -142,5 +142,13 @@
     "username": "goldenwolf289",
     "password": "softail",
     "invokedAt": "2023-03-22T17:00:52.173Z"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Van Ravesteijn",
+    "email": "nikola.vanravesteijn@example.com",
+    "username": "silverpanda474",
+    "password": "alien",
+    "invokedAt": "2023-03-22T18:00:55.672Z"
   }
 ]
