@@ -46,5 +46,13 @@
     "username": "goldenpanda848",
     "password": "twinkle",
     "invokedAt": "2023-03-23T05:00:37.186Z"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Graves",
+    "email": "kelly.graves@example.com",
+    "username": "purplepanda422",
+    "password": "dark",
+    "invokedAt": "2023-03-23T06:00:40.243Z"
   }
 ]
