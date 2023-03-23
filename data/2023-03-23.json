@@ -182,5 +182,13 @@
     "username": "smallbutterfly459",
     "password": "japanes",
     "invokedAt": "2023-03-23T22:00:42.132Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Rousseau",
+    "email": "elias.rousseau@example.com",
+    "username": "lazywolf803",
+    "password": "newness",
+    "invokedAt": "2023-03-23T23:00:42.133Z"
   }
 ]
