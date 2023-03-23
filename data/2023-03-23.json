@@ -158,5 +158,13 @@
     "username": "sadsnake436",
     "password": "tonight",
     "invokedAt": "2023-03-23T19:00:35.491Z"
+  },
+  {
+    "firstName": "Milja",
+    "lastName": "Kujala",
+    "email": "milja.kujala@example.com",
+    "username": "brownzebra878",
+    "password": "joe123",
+    "invokedAt": "2023-03-23T20:00:48.835Z"
   }
 ]
