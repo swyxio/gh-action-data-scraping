@@ -174,5 +174,13 @@
     "username": "heavymouse172",
     "password": "kiwi",
     "invokedAt": "2023-03-24T22:01:00.460Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Öztürk",
+    "email": "vedat.ozturk@example.com",
+    "username": "bigzebra707",
+    "password": "989898",
+    "invokedAt": "2023-03-24T23:00:47.708Z"
   }
 ]
