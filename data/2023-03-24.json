@@ -142,5 +142,13 @@
     "username": "brownpanda763",
     "password": "bigblue",
     "invokedAt": "2023-03-24T17:00:33.788Z"
+  },
+  {
+    "firstName": "Sonika",
+    "lastName": "Mathew",
+    "email": "sonika.mathew@example.com",
+    "username": "heavyduck556",
+    "password": "scanner",
+    "invokedAt": "2023-03-24T18:00:42.509Z"
   }
 ]
