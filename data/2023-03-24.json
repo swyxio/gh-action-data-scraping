@@ -70,5 +70,13 @@
     "username": "yellowbutterfly676",
     "password": "puff",
     "invokedAt": "2023-03-24T08:00:44.431Z"
+  },
+  {
+    "firstName": "Sami",
+    "lastName": "Overå",
+    "email": "sami.overa@example.com",
+    "username": "blackkoala210",
+    "password": "lantern",
+    "invokedAt": "2023-03-24T09:00:56.198Z"
   }
 ]
