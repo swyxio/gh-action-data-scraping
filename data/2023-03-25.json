@@ -62,5 +62,13 @@
     "username": "tinypanda431",
     "password": "yankees",
     "invokedAt": "2023-03-25T07:00:44.143Z"
+  },
+  {
+    "firstName": "Stanko",
+    "lastName": "Rašić",
+    "email": "stanko.rasic@example.com",
+    "username": "happyleopard516",
+    "password": "kenny1",
+    "invokedAt": "2023-03-25T08:00:47.794Z"
   }
 ]
