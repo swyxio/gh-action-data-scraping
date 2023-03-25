@@ -86,5 +86,13 @@
     "username": "tinymouse104",
     "password": "west",
     "invokedAt": "2023-03-25T10:00:41.074Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Leyva",
+    "email": "ruby.leyva@example.com",
+    "username": "purplebird863",
+    "password": "mondeo",
+    "invokedAt": "2023-03-25T11:00:45.265Z"
   }
 ]
