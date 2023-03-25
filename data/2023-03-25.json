@@ -94,5 +94,13 @@
     "username": "purplebird863",
     "password": "mondeo",
     "invokedAt": "2023-03-25T11:00:45.265Z"
+  },
+  {
+    "firstName": "Lise",
+    "lastName": "Boyer",
+    "email": "lise.boyer@example.com",
+    "username": "silverlion528",
+    "password": "harvey",
+    "invokedAt": "2023-03-25T12:00:47.164Z"
   }
 ]
