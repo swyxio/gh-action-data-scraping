@@ -174,5 +174,13 @@
     "username": "blackpeacock126",
     "password": "tequila",
     "invokedAt": "2023-03-26T21:00:47.851Z"
+  },
+  {
+    "firstName": "Gavrilo",
+    "lastName": "Kuzmenko",
+    "email": "gavrilo.kuzmenko@example.com",
+    "username": "tinypeacock315",
+    "password": "mike1",
+    "invokedAt": "2023-03-26T22:00:46.045Z"
   }
 ]
