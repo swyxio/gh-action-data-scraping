@@ -46,5 +46,13 @@
     "username": "organiccat329",
     "password": "smeghead",
     "invokedAt": "2023-03-26T05:00:43.561Z"
+  },
+  {
+    "firstName": "Jeffery",
+    "lastName": "Anderson",
+    "email": "jeffery.anderson@example.com",
+    "username": "bluegorilla602",
+    "password": "rusty",
+    "invokedAt": "2023-03-26T06:00:44.221Z"
   }
 ]
