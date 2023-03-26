@@ -166,5 +166,13 @@
     "username": "whitecat498",
     "password": "tunafish",
     "invokedAt": "2023-03-26T20:00:33.507Z"
+  },
+  {
+    "firstName": "Hans-Jörg",
+    "lastName": "Kübler",
+    "email": "hans-jorg.kubler@example.com",
+    "username": "blackpeacock126",
+    "password": "tequila",
+    "invokedAt": "2023-03-26T21:00:47.851Z"
   }
 ]
