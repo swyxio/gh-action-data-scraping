@@ -182,5 +182,13 @@
     "username": "tinypeacock315",
     "password": "mike1",
     "invokedAt": "2023-03-26T22:00:46.045Z"
+  },
+  {
+    "firstName": "Levko",
+    "lastName": "Afanasenko",
+    "email": "levko.afanasenko@example.com",
+    "username": "organicladybug405",
+    "password": "admin",
+    "invokedAt": "2023-03-26T23:00:40.017Z"
   }
 ]
