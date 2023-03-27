@@ -158,5 +158,13 @@
     "username": "smallrabbit999",
     "password": "andromed",
     "invokedAt": "2023-03-27T19:00:42.689Z"
+  },
+  {
+    "firstName": "Darío",
+    "lastName": "Garica",
+    "email": "dario.garica@example.com",
+    "username": "bluefish110",
+    "password": "dodgers1",
+    "invokedAt": "2023-03-27T20:00:41.435Z"
   }
 ]
