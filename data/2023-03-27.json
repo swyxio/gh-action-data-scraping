@@ -182,5 +182,13 @@
     "username": "purplegorilla858",
     "password": "wetter",
     "invokedAt": "2023-03-27T22:00:52.872Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Yáñez",
+    "email": "pedro.yanez@example.com",
+    "username": "bluepeacock576",
+    "password": "high",
+    "invokedAt": "2023-03-27T23:00:39.754Z"
   }
 ]
