@@ -54,5 +54,13 @@
     "username": "whitebutterfly248",
     "password": "fishhead",
     "invokedAt": "2023-03-27T06:00:41.388Z"
+  },
+  {
+    "firstName": "Lance",
+    "lastName": "Little",
+    "email": "lance.little@example.com",
+    "username": "lazyfrog205",
+    "password": "plastic",
+    "invokedAt": "2023-03-27T07:00:47.809Z"
   }
 ]
