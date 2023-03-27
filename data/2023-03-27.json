@@ -166,5 +166,13 @@
     "username": "bluefish110",
     "password": "dodgers1",
     "invokedAt": "2023-03-27T20:00:41.435Z"
+  },
+  {
+    "firstName": "Dale",
+    "lastName": "Watkins",
+    "email": "dale.watkins@example.com",
+    "username": "bluetiger684",
+    "password": "blue32",
+    "invokedAt": "2023-03-27T21:00:56.186Z"
   }
 ]
