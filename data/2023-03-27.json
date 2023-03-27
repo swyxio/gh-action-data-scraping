@@ -126,5 +126,13 @@
     "username": "organiczebra837",
     "password": "orange",
     "invokedAt": "2023-03-27T15:00:57.219Z"
+  },
+  {
+    "firstName": "Denis",
+    "lastName": "Porto",
+    "email": "denis.porto@example.com",
+    "username": "tinymouse599",
+    "password": "auto",
+    "invokedAt": "2023-03-27T16:00:50.428Z"
   }
 ]
