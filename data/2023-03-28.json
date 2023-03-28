@@ -166,5 +166,13 @@
     "username": "beautifultiger591",
     "password": "line",
     "invokedAt": "2023-03-28T20:00:45.239Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Bell",
+    "email": "susan.bell@example.com",
+    "username": "bluefrog724",
+    "password": "goldstar",
+    "invokedAt": "2023-03-28T21:00:45.235Z"
   }
 ]
