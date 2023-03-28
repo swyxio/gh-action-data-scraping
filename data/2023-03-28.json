@@ -126,5 +126,13 @@
     "username": "goldenduck759",
     "password": "jack",
     "invokedAt": "2023-03-28T15:00:56.386Z"
+  },
+  {
+    "firstName": "Samu",
+    "lastName": "Lampo",
+    "email": "samu.lampo@example.com",
+    "username": "happypeacock883",
+    "password": "beacon",
+    "invokedAt": "2023-03-28T16:00:59.499Z"
   }
 ]
