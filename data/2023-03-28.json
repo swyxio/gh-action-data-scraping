@@ -86,5 +86,13 @@
     "username": "crazyfrog654",
     "password": "miguel",
     "invokedAt": "2023-03-28T10:00:48.218Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Ruona",
+    "email": "viljami.ruona@example.com",
+    "username": "goldendog427",
+    "password": "clowns",
+    "invokedAt": "2023-03-28T11:00:34.090Z"
   }
 ]
