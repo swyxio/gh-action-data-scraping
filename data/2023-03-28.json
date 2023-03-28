@@ -142,5 +142,13 @@
     "username": "yellowwolf404",
     "password": "worm",
     "invokedAt": "2023-03-28T17:00:45.169Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Edwards",
+    "email": "hugo.edwards@example.com",
+    "username": "organicostrich410",
+    "password": "hornets",
+    "invokedAt": "2023-03-28T18:00:57.141Z"
   }
 ]
