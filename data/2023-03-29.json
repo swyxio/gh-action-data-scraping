@@ -158,5 +158,13 @@
     "username": "silvermeercat456",
     "password": "ajax",
     "invokedAt": "2023-03-29T20:00:48.209Z"
+  },
+  {
+    "firstName": "Geoff",
+    "lastName": "Gibson",
+    "email": "geoff.gibson@example.com",
+    "username": "sadgorilla715",
+    "password": "freedom1",
+    "invokedAt": "2023-03-29T21:00:41.989Z"
   }
 ]
