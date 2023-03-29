@@ -118,5 +118,13 @@
     "username": "sadtiger187",
     "password": "opendoor",
     "invokedAt": "2023-03-29T14:00:44.173Z"
+  },
+  {
+    "firstName": "Sue",
+    "lastName": "Baker",
+    "email": "sue.baker@example.com",
+    "username": "lazytiger943",
+    "password": "bbking",
+    "invokedAt": "2023-03-29T15:09:51.155Z"
   }
 ]
