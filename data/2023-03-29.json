@@ -174,5 +174,13 @@
     "username": "greenbear329",
     "password": "groovy",
     "invokedAt": "2023-03-29T22:00:59.268Z"
+  },
+  {
+    "firstName": "Sanni",
+    "lastName": "Suomi",
+    "email": "sanni.suomi@example.com",
+    "username": "whitefrog819",
+    "password": "virginia",
+    "invokedAt": "2023-03-29T23:00:46.581Z"
   }
 ]
