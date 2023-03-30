@@ -46,5 +46,13 @@
     "username": "yellowbird661",
     "password": "infantry",
     "invokedAt": "2023-03-30T05:00:40.493Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Ma",
+    "email": "olivier.ma@example.com",
+    "username": "lazyrabbit307",
+    "password": "zipper",
+    "invokedAt": "2023-03-30T06:00:57.082Z"
   }
 ]
