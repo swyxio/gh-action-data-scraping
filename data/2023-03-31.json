@@ -174,5 +174,13 @@
     "username": "angrywolf394",
     "password": "guinness",
     "invokedAt": "2023-03-31T21:00:45.481Z"
+  },
+  {
+    "firstName": "Willow",
+    "lastName": "Jackson",
+    "email": "willow.jackson@example.com",
+    "username": "angryswan650",
+    "password": "fudge",
+    "invokedAt": "2023-03-31T22:00:44.149Z"
   }
 ]
