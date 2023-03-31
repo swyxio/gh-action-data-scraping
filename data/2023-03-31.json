@@ -166,5 +166,13 @@
     "username": "angryelephant973",
     "password": "dino",
     "invokedAt": "2023-03-31T20:00:43.214Z"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Renaud",
+    "email": "erik.renaud@example.com",
+    "username": "angrywolf394",
+    "password": "guinness",
+    "invokedAt": "2023-03-31T21:00:45.481Z"
   }
 ]
