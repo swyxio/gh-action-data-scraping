@@ -182,5 +182,13 @@
     "username": "angryswan650",
     "password": "fudge",
     "invokedAt": "2023-03-31T22:00:44.149Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Düşenkalkar",
+    "email": "gokhan.dusenkalkar@example.com",
+    "username": "goldenswan989",
+    "password": "teen",
+    "invokedAt": "2023-03-31T23:00:41.261Z"
   }
 ]
