@@ -134,5 +134,13 @@
     "username": "happyduck844",
     "password": "saigon",
     "invokedAt": "2023-03-31T16:01:24.157Z"
+  },
+  {
+    "firstName": "Leposava",
+    "lastName": "Živojinović",
+    "email": "leposava.zivojinovic@example.com",
+    "username": "heavyleopard990",
+    "password": "kungfu",
+    "invokedAt": "2023-03-31T17:00:49.265Z"
   }
 ]
