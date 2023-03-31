@@ -118,5 +118,13 @@
     "username": "greenpanda755",
     "password": "strong",
     "invokedAt": "2023-03-31T14:00:50.134Z"
+  },
+  {
+    "firstName": "Vladislav",
+    "lastName": "Živanović",
+    "email": "vladislav.zivanovic@example.com",
+    "username": "redmeercat365",
+    "password": "berry",
+    "invokedAt": "2023-03-31T15:00:39.745Z"
   }
 ]
