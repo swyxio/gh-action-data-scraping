@@ -102,5 +102,13 @@
     "username": "greensnake217",
     "password": "chocha",
     "invokedAt": "2023-04-01T12:01:04.318Z"
+  },
+  {
+    "firstName": "Miodrag",
+    "lastName": "Vilotić",
+    "email": "miodrag.vilotic@example.com",
+    "username": "goldenduck420",
+    "password": "alejandr",
+    "invokedAt": "2023-04-01T13:01:32.653Z"
   }
 ]
