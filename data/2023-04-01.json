@@ -166,5 +166,13 @@
     "username": "greentiger828",
     "password": "ralph",
     "invokedAt": "2023-04-01T20:00:48.034Z"
+  },
+  {
+    "firstName": "Krish",
+    "lastName": "Prabhu",
+    "email": "krish.prabhu@example.com",
+    "username": "ticklishgorilla902",
+    "password": "tight",
+    "invokedAt": "2023-04-01T21:00:37.260Z"
   }
 ]
