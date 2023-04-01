@@ -30,5 +30,13 @@
     "username": "heavybutterfly374",
     "password": "toni",
     "invokedAt": "2023-04-01T03:00:42.441Z"
+  },
+  {
+    "firstName": "Ignacio",
+    "lastName": "Herrero",
+    "email": "ignacio.herrero@example.com",
+    "username": "heavypanda963",
+    "password": "ceasar",
+    "invokedAt": "2023-04-01T04:00:40.664Z"
   }
 ]
