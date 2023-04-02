@@ -86,5 +86,13 @@
     "username": "blacktiger541",
     "password": "90210",
     "invokedAt": "2023-04-02T10:00:41.243Z"
+  },
+  {
+    "firstName": "Bérénice",
+    "lastName": "Michel",
+    "email": "berenice.michel@example.com",
+    "username": "happydog965",
+    "password": "spikes",
+    "invokedAt": "2023-04-02T11:00:56.932Z"
   }
 ]
