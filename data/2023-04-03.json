@@ -110,5 +110,13 @@
     "username": "whitemouse176",
     "password": "paris",
     "invokedAt": "2023-04-03T13:03:11.673Z"
+  },
+  {
+    "firstName": "Mélissa",
+    "lastName": "Barbier",
+    "email": "melissa.barbier@example.com",
+    "username": "bluemouse123",
+    "password": "metoo",
+    "invokedAt": "2023-04-03T14:00:50.027Z"
   }
 ]
