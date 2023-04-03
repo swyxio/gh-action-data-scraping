@@ -126,5 +126,13 @@
     "username": "bigcat720",
     "password": "zoom",
     "invokedAt": "2023-04-03T15:00:44.557Z"
+  },
+  {
+    "firstName": "Petar",
+    "lastName": "Jevtić",
+    "email": "petar.jevtic@example.com",
+    "username": "lazypeacock851",
+    "password": "420247",
+    "invokedAt": "2023-04-03T16:00:45.392Z"
   }
 ]
