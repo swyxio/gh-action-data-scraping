@@ -94,5 +94,13 @@
     "username": "crazyostrich328",
     "password": "irish1",
     "invokedAt": "2023-04-05T11:00:51.958Z"
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Turner",
+    "email": "bobby.turner@example.com",
+    "username": "blackwolf633",
+    "password": "visual",
+    "invokedAt": "2023-04-05T12:01:01.969Z"
   }
 ]
