@@ -134,5 +134,13 @@
     "username": "happyduck233",
     "password": "tophat",
     "invokedAt": "2023-04-06T16:00:45.176Z"
+  },
+  {
+    "firstName": "Zoran",
+    "lastName": "Glavaš",
+    "email": "zoran.glavas@example.com",
+    "username": "yellowpanda874",
+    "password": "wwwww",
+    "invokedAt": "2023-04-06T17:00:56.366Z"
   }
 ]
