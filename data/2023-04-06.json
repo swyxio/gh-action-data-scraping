@@ -78,5 +78,13 @@
     "username": "greenduck658",
     "password": "enters",
     "invokedAt": "2023-04-06T09:00:49.673Z"
+  },
+  {
+    "firstName": "Helmut",
+    "lastName": "Meyer",
+    "email": "helmut.meyer@example.com",
+    "username": "redpeacock311",
+    "password": "dogger",
+    "invokedAt": "2023-04-06T10:01:00.992Z"
   }
 ]
