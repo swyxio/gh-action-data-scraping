@@ -158,5 +158,13 @@
     "username": "smallladybug234",
     "password": "chips",
     "invokedAt": "2023-04-07T19:00:38.070Z"
+  },
+  {
+    "firstName": "Dominic",
+    "lastName": "Miller",
+    "email": "dominic.miller@example.com",
+    "username": "brownswan312",
+    "password": "compact",
+    "invokedAt": "2023-04-07T20:00:54.288Z"
   }
 ]
