@@ -70,5 +70,13 @@
     "username": "yellowmeercat652",
     "password": "optimus",
     "invokedAt": "2023-04-08T08:00:37.630Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Topaloğlu",
+    "email": "okan.topaloglu@example.com",
+    "username": "tinymeercat923",
+    "password": "pooky",
+    "invokedAt": "2023-04-08T09:00:50.644Z"
   }
 ]
