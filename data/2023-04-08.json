@@ -126,5 +126,13 @@
     "username": "tinybear272",
     "password": "hithere",
     "invokedAt": "2023-04-08T15:00:31.703Z"
+  },
+  {
+    "firstName": "Helge",
+    "lastName": "Stricker",
+    "email": "helge.stricker@example.com",
+    "username": "bluepeacock911",
+    "password": "oracle",
+    "invokedAt": "2023-04-08T16:00:32.288Z"
   }
 ]
