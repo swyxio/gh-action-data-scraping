@@ -134,5 +134,13 @@
     "username": "bluepeacock911",
     "password": "oracle",
     "invokedAt": "2023-04-08T16:00:32.288Z"
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Moore",
+    "email": "austin.moore@example.com",
+    "username": "tinypanda161",
+    "password": "brittany",
+    "invokedAt": "2023-04-08T17:00:36.870Z"
   }
 ]
