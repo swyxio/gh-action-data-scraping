@@ -158,5 +158,13 @@
     "username": "bigrabbit770",
     "password": "twister",
     "invokedAt": "2023-04-08T19:00:50.233Z"
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Sandal",
+    "email": "freja.sandal@example.com",
+    "username": "bigostrich384",
+    "password": "samiam",
+    "invokedAt": "2023-04-08T20:00:49.795Z"
   }
 ]
