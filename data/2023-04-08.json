@@ -118,5 +118,13 @@
     "username": "bluetiger381",
     "password": "moonbeam",
     "invokedAt": "2023-04-08T14:00:45.586Z"
+  },
+  {
+    "firstName": "Mara",
+    "lastName": "Renard",
+    "email": "mara.renard@example.com",
+    "username": "tinybear272",
+    "password": "hithere",
+    "invokedAt": "2023-04-08T15:00:31.703Z"
   }
 ]
