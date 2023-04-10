@@ -118,5 +118,13 @@
     "username": "goldenfrog571",
     "password": "farscape",
     "invokedAt": "2023-04-10T14:00:42.245Z"
+  },
+  {
+    "firstName": "Izzie",
+    "lastName": "Nguyen",
+    "email": "izzie.nguyen@example.com",
+    "username": "purpleduck240",
+    "password": "claudia",
+    "invokedAt": "2023-04-10T15:00:40.534Z"
   }
 ]
