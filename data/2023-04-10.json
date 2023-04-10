@@ -174,5 +174,13 @@
     "username": "smallostrich875",
     "password": "kashmir",
     "invokedAt": "2023-04-10T21:00:52.332Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Blanco",
+    "email": "eva.blanco@example.com",
+    "username": "happykoala865",
+    "password": "guest",
+    "invokedAt": "2023-04-10T22:00:50.331Z"
   }
 ]
