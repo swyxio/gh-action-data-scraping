@@ -158,5 +158,13 @@
     "username": "beautifultiger251",
     "password": "amazing",
     "invokedAt": "2023-04-11T19:00:41.353Z"
+  },
+  {
+    "firstName": "Eliott",
+    "lastName": "Brun",
+    "email": "eliott.brun@example.com",
+    "username": "happykoala175",
+    "password": "backdoor",
+    "invokedAt": "2023-04-11T20:01:58.371Z"
   }
 ]
