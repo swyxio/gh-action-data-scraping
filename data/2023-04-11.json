@@ -142,5 +142,13 @@
     "username": "yellowduck919",
     "password": "jolene",
     "invokedAt": "2023-04-11T17:00:39.247Z"
+  },
+  {
+    "firstName": "Đuro",
+    "lastName": "Simić",
+    "email": "duro.simic@example.com",
+    "username": "browncat988",
+    "password": "mephisto",
+    "invokedAt": "2023-04-11T18:00:49.297Z"
   }
 ]
