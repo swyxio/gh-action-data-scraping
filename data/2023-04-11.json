@@ -110,5 +110,13 @@
     "username": "silverdog989",
     "password": "bunker",
     "invokedAt": "2023-04-11T13:03:16.356Z"
+  },
+  {
+    "firstName": "Rocco",
+    "lastName": "Schott",
+    "email": "rocco.schott@example.com",
+    "username": "redsnake462",
+    "password": "redwood",
+    "invokedAt": "2023-04-11T14:00:37.115Z"
   }
 ]
