@@ -94,5 +94,13 @@
     "username": "biggorilla219",
     "password": "bubbles",
     "invokedAt": "2023-04-12T11:00:48.619Z"
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Lemoine",
+    "email": "nora.lemoine@example.com",
+    "username": "goldenbutterfly490",
+    "password": "legion",
+    "invokedAt": "2023-04-12T12:00:46.404Z"
   }
 ]
