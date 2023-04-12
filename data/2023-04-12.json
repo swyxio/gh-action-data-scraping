@@ -62,5 +62,13 @@
     "username": "purplepanda848",
     "password": "tyson",
     "invokedAt": "2023-04-12T07:00:38.866Z"
+  },
+  {
+    "firstName": "Rainer",
+    "lastName": "Bußmann",
+    "email": "rainer.bussmann@example.com",
+    "username": "goldengorilla534",
+    "password": "meier",
+    "invokedAt": "2023-04-12T08:00:49.424Z"
   }
 ]
