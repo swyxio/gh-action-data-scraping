@@ -38,5 +38,13 @@
     "username": "smallfrog972",
     "password": "9999999",
     "invokedAt": "2023-04-14T04:00:51.237Z"
+  },
+  {
+    "firstName": "Momir",
+    "lastName": "Karanović",
+    "email": "momir.karanovic@example.com",
+    "username": "purplepeacock704",
+    "password": "betty",
+    "invokedAt": "2023-04-14T05:00:50.174Z"
   }
 ]
