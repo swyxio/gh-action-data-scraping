@@ -94,5 +94,13 @@
     "username": "redbutterfly453",
     "password": "gasman",
     "invokedAt": "2023-04-14T11:00:53.452Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Young",
+    "email": "samuel.young@example.com",
+    "username": "yellowbutterfly745",
+    "password": "iloveyou1",
+    "invokedAt": "2023-04-14T12:01:10.680Z"
   }
 ]
