@@ -78,5 +78,13 @@
     "username": "smallkoala338",
     "password": "fashion",
     "invokedAt": "2023-04-15T09:00:31.101Z"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Jordan",
+    "email": "ellen.jordan@example.com",
+    "username": "reddog939",
+    "password": "marma",
+    "invokedAt": "2023-04-15T10:00:53.761Z"
   }
 ]
