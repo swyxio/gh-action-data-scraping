@@ -134,5 +134,13 @@
     "username": "crazycat763",
     "password": "goldie",
     "invokedAt": "2023-04-15T16:00:41.193Z"
+  },
+  {
+    "firstName": "Vladana",
+    "lastName": "Kićanović",
+    "email": "vladana.kicanovic@example.com",
+    "username": "purplepeacock333",
+    "password": "fatcat",
+    "invokedAt": "2023-04-15T17:00:43.201Z"
   }
 ]
