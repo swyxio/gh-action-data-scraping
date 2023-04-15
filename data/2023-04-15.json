@@ -46,5 +46,13 @@
     "username": "sadpanda611",
     "password": "qwert",
     "invokedAt": "2023-04-15T05:00:38.344Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Sørensen",
+    "email": "christian.sorensen@example.com",
+    "username": "sadlion879",
+    "password": "bethany",
+    "invokedAt": "2023-04-15T06:00:52.064Z"
   }
 ]
