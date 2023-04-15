@@ -142,5 +142,13 @@
     "username": "purplepeacock333",
     "password": "fatcat",
     "invokedAt": "2023-04-15T17:00:43.201Z"
+  },
+  {
+    "firstName": "Gordon",
+    "lastName": "Hicks",
+    "email": "gordon.hicks@example.com",
+    "username": "purplezebra495",
+    "password": "surfer",
+    "invokedAt": "2023-04-15T18:00:39.126Z"
   }
 ]
