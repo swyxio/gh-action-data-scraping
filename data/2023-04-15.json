@@ -182,5 +182,13 @@
     "username": "tinybird766",
     "password": "three",
     "invokedAt": "2023-04-15T22:00:30.877Z"
+  },
+  {
+    "firstName": "Emiliano",
+    "lastName": "Almeida",
+    "email": "emiliano.almeida@example.com",
+    "username": "whiteleopard960",
+    "password": "crystal",
+    "invokedAt": "2023-04-15T23:00:33.446Z"
   }
 ]
