@@ -22,5 +22,13 @@
     "username": "yellowcat161",
     "password": "teenie",
     "invokedAt": "2023-04-15T02:14:10.455Z"
+  },
+  {
+    "firstName": "Uroš",
+    "lastName": "Golubović",
+    "email": "uros.golubovic@example.com",
+    "username": "purplegorilla107",
+    "password": "blizzard",
+    "invokedAt": "2023-04-15T03:01:01.158Z"
   }
 ]
