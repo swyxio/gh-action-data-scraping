@@ -182,5 +182,13 @@
     "username": "silverdog835",
     "password": "getout",
     "invokedAt": "2023-04-16T22:00:34.909Z"
+  },
+  {
+    "firstName": "Eevi",
+    "lastName": "Huotari",
+    "email": "eevi.huotari@example.com",
+    "username": "yellowkoala225",
+    "password": "playa",
+    "invokedAt": "2023-04-16T23:00:42.120Z"
   }
 ]
