@@ -54,5 +54,13 @@
     "username": "goldencat629",
     "password": "fender",
     "invokedAt": "2023-04-16T06:00:48.369Z"
+  },
+  {
+    "firstName": "Tiago",
+    "lastName": "Gonzalez",
+    "email": "tiago.gonzalez@example.com",
+    "username": "crazydog728",
+    "password": "alexande",
+    "invokedAt": "2023-04-16T07:00:40.054Z"
   }
 ]
