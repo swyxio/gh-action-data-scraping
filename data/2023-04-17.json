@@ -166,5 +166,13 @@
     "username": "blackelephant176",
     "password": "granada",
     "invokedAt": "2023-04-17T20:00:34.326Z"
+  },
+  {
+    "firstName": "Anete",
+    "lastName": "da Rocha",
+    "email": "anete.darocha@example.com",
+    "username": "goldentiger985",
+    "password": "catfish",
+    "invokedAt": "2023-04-17T21:00:40.216Z"
   }
 ]
