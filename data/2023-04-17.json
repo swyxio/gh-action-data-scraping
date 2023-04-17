@@ -78,5 +78,13 @@
     "username": "angrybird143",
     "password": "fiesta",
     "invokedAt": "2023-04-17T09:00:43.045Z"
+  },
+  {
+    "firstName": "Olga",
+    "lastName": "Guerrero",
+    "email": "olga.guerrero@example.com",
+    "username": "heavypanda415",
+    "password": "universe",
+    "invokedAt": "2023-04-17T10:00:46.482Z"
   }
 ]
