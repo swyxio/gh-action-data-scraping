@@ -174,5 +174,13 @@
     "username": "goldentiger985",
     "password": "catfish",
     "invokedAt": "2023-04-17T21:00:40.216Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Christensen",
+    "email": "noah.christensen@example.com",
+    "username": "orangebear792",
+    "password": "chuang",
+    "invokedAt": "2023-04-17T22:00:53.152Z"
   }
 ]
