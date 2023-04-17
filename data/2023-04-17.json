@@ -102,5 +102,13 @@
     "username": "orangepanda768",
     "password": "testtest",
     "invokedAt": "2023-04-17T12:00:39.283Z"
+  },
+  {
+    "firstName": "Anastasija",
+    "lastName": "Stevanović",
+    "email": "anastasija.stevanovic@example.com",
+    "username": "whiteladybug151",
+    "password": "nemesis",
+    "invokedAt": "2023-04-17T13:03:14.120Z"
   }
 ]
