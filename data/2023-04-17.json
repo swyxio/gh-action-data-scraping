@@ -94,5 +94,13 @@
     "username": "purpleleopard714",
     "password": "wayne",
     "invokedAt": "2023-04-17T11:00:33.240Z"
+  },
+  {
+    "firstName": "Joan",
+    "lastName": "Peña",
+    "email": "joan.pena@example.com",
+    "username": "orangepanda768",
+    "password": "testtest",
+    "invokedAt": "2023-04-17T12:00:39.283Z"
   }
 ]
