@@ -94,5 +94,13 @@
     "username": "orangecat189",
     "password": "muscle",
     "invokedAt": "2023-04-19T11:00:54.544Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Evliyaoğlu",
+    "email": "sedef.evliyaoglu@example.com",
+    "username": "lazyfrog409",
+    "password": "nomore",
+    "invokedAt": "2023-04-19T12:00:52.286Z"
   }
 ]
