@@ -102,5 +102,13 @@
     "username": "lazyfrog409",
     "password": "nomore",
     "invokedAt": "2023-04-19T12:00:52.286Z"
+  },
+  {
+    "firstName": "Kathleen",
+    "lastName": "Büchler",
+    "email": "kathleen.buchler@example.com",
+    "username": "goldenkoala187",
+    "password": "bianca",
+    "invokedAt": "2023-04-19T13:03:09.211Z"
   }
 ]
