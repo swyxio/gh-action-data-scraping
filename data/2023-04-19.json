@@ -30,5 +30,13 @@
     "username": "redwolf376",
     "password": "smart",
     "invokedAt": "2023-04-19T03:00:46.483Z"
+  },
+  {
+    "firstName": "Radenko",
+    "lastName": "Trajković",
+    "email": "radenko.trajkovic@example.com",
+    "username": "whitetiger986",
+    "password": "vulcan",
+    "invokedAt": "2023-04-19T04:01:02.750Z"
   }
 ]
