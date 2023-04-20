@@ -102,5 +102,13 @@
     "username": "purpletiger503",
     "password": "strat",
     "invokedAt": "2023-04-20T12:00:51.342Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Denkel",
+    "email": "efe.denkel@example.com",
+    "username": "sadcat137",
+    "password": "claire",
+    "invokedAt": "2023-04-20T13:02:53.120Z"
   }
 ]
