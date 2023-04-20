@@ -182,5 +182,13 @@
     "username": "tinypanda784",
     "password": "bingo",
     "invokedAt": "2023-04-20T22:00:34.987Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Payne",
+    "email": "paul.payne@example.com",
+    "username": "whitedog338",
+    "password": "bigbird",
+    "invokedAt": "2023-04-20T23:00:34.681Z"
   }
 ]
