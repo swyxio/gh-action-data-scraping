@@ -78,5 +78,13 @@
     "username": "purplefrog754",
     "password": "7654321",
     "invokedAt": "2023-04-21T09:00:53.605Z"
+  },
+  {
+    "firstName": "Emilia",
+    "lastName": "Contreras",
+    "email": "emilia.contreras@example.com",
+    "username": "sadcat542",
+    "password": "stone",
+    "invokedAt": "2023-04-21T10:00:51.122Z"
   }
 ]
