@@ -126,5 +126,13 @@
     "username": "smallrabbit270",
     "password": "5678",
     "invokedAt": "2023-04-21T15:00:43.692Z"
+  },
+  {
+    "firstName": "Redouane",
+    "lastName": "Van der Weele",
+    "email": "redouane.vanderweele@example.com",
+    "username": "purplegorilla639",
+    "password": "explore",
+    "invokedAt": "2023-04-21T16:00:43.142Z"
   }
 ]
