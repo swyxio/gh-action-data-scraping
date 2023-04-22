@@ -94,5 +94,13 @@
     "username": "happyswan674",
     "password": "scooter",
     "invokedAt": "2023-04-22T11:00:42.008Z"
+  },
+  {
+    "firstName": "Staniša",
+    "lastName": "Vlahović",
+    "email": "stanisa.vlahovic@example.com",
+    "username": "heavyostrich649",
+    "password": "slow",
+    "invokedAt": "2023-04-22T12:00:42.309Z"
   }
 ]
