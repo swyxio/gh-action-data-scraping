@@ -158,5 +158,13 @@
     "username": "greenmouse446",
     "password": "famous",
     "invokedAt": "2023-04-23T19:00:46.415Z"
+  },
+  {
+    "firstName": "Jesse",
+    "lastName": "Salmi",
+    "email": "jesse.salmi@example.com",
+    "username": "beautifuldog185",
+    "password": "25802580",
+    "invokedAt": "2023-04-23T20:00:53.681Z"
   }
 ]
