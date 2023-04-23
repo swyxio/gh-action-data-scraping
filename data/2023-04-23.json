@@ -54,5 +54,13 @@
     "username": "whitepanda805",
     "password": "marvel",
     "invokedAt": "2023-04-23T06:00:49.258Z"
+  },
+  {
+    "firstName": "Vlatka",
+    "lastName": "Sekulić",
+    "email": "vlatka.sekulic@example.com",
+    "username": "bigkoala323",
+    "password": "entry",
+    "invokedAt": "2023-04-23T07:00:39.894Z"
   }
 ]
