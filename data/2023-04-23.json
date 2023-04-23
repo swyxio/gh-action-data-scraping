@@ -150,5 +150,13 @@
     "username": "silverwolf588",
     "password": "theater",
     "invokedAt": "2023-04-23T18:00:33.313Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Lampinen",
+    "email": "samuel.lampinen@example.com",
+    "username": "greenmouse446",
+    "password": "famous",
+    "invokedAt": "2023-04-23T19:00:46.415Z"
   }
 ]
