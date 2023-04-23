@@ -94,5 +94,13 @@
     "username": "bluefish290",
     "password": "qqqqqq",
     "invokedAt": "2023-04-23T11:00:44.431Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Williams",
+    "email": "matthew.williams@example.com",
+    "username": "greenwolf967",
+    "password": "speakers",
+    "invokedAt": "2023-04-23T12:00:43.421Z"
   }
 ]
