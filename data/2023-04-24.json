@@ -46,5 +46,13 @@
     "username": "blackduck850",
     "password": "marshall",
     "invokedAt": "2023-04-24T05:00:47.477Z"
+  },
+  {
+    "firstName": "Héctor",
+    "lastName": "Diez",
+    "email": "hector.diez@example.com",
+    "username": "ticklishswan522",
+    "password": "dragonfl",
+    "invokedAt": "2023-04-24T06:00:50.577Z"
   }
 ]
