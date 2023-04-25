@@ -54,5 +54,13 @@
     "username": "yellowrabbit911",
     "password": "bradley",
     "invokedAt": "2023-04-25T06:00:35.067Z"
+  },
+  {
+    "firstName": "Slađana",
+    "lastName": "Lapčević",
+    "email": "sladana.lapcevic@example.com",
+    "username": "blackdog741",
+    "password": "abcd",
+    "invokedAt": "2023-04-25T07:00:53.713Z"
   }
 ]
