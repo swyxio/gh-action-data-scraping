@@ -86,5 +86,13 @@
     "username": "yellowfrog890",
     "password": "torino",
     "invokedAt": "2023-04-25T10:00:45.412Z"
+  },
+  {
+    "firstName": "Admir",
+    "lastName": "De Smidt",
+    "email": "admir.desmidt@example.com",
+    "username": "redcat443",
+    "password": "peace",
+    "invokedAt": "2023-04-25T11:00:43.729Z"
   }
 ]
