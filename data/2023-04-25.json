@@ -142,5 +142,13 @@
     "username": "crazylion619",
     "password": "bigben",
     "invokedAt": "2023-04-25T17:00:40.135Z"
+  },
+  {
+    "firstName": "Guildo",
+    "lastName": "Pinto",
+    "email": "guildo.pinto@example.com",
+    "username": "smallcat454",
+    "password": "gatorade",
+    "invokedAt": "2023-04-25T18:00:34.167Z"
   }
 ]
