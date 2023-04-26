@@ -182,5 +182,13 @@
     "username": "smallfish784",
     "password": "stalker",
     "invokedAt": "2023-04-26T22:00:39.140Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Mora",
+    "email": "luis.mora@example.com",
+    "username": "heavyswan986",
+    "password": "brother",
+    "invokedAt": "2023-04-26T23:00:31.161Z"
   }
 ]
