@@ -94,5 +94,13 @@
     "username": "redrabbit406",
     "password": "darrell",
     "invokedAt": "2023-04-26T11:00:45.104Z"
+  },
+  {
+    "firstName": "Arnav",
+    "lastName": "Kouser",
+    "email": "arnav.kouser@example.com",
+    "username": "crazydog865",
+    "password": "spread",
+    "invokedAt": "2023-04-26T12:00:52.269Z"
   }
 ]
