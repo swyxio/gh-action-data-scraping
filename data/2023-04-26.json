@@ -174,5 +174,13 @@
     "username": "lazywolf194",
     "password": "wilder",
     "invokedAt": "2023-04-26T21:00:36.514Z"
+  },
+  {
+    "firstName": "Phoebe",
+    "lastName": "Daniels",
+    "email": "phoebe.daniels@example.com",
+    "username": "smallfish784",
+    "password": "stalker",
+    "invokedAt": "2023-04-26T22:00:39.140Z"
   }
 ]
