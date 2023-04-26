@@ -166,5 +166,13 @@
     "username": "yellowrabbit685",
     "password": "oracle",
     "invokedAt": "2023-04-26T20:00:50.400Z"
+  },
+  {
+    "firstName": "Fletcher",
+    "lastName": "Walker",
+    "email": "fletcher.walker@example.com",
+    "username": "lazywolf194",
+    "password": "wilder",
+    "invokedAt": "2023-04-26T21:00:36.514Z"
   }
 ]
