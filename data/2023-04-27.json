@@ -174,5 +174,13 @@
     "username": "silverpeacock427",
     "password": "entrance",
     "invokedAt": "2023-04-27T21:00:48.302Z"
+  },
+  {
+    "firstName": "Carolyn",
+    "lastName": "Watson",
+    "email": "carolyn.watson@example.com",
+    "username": "beautifulzebra104",
+    "password": "password2",
+    "invokedAt": "2023-04-27T22:00:44.594Z"
   }
 ]
