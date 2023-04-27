@@ -102,5 +102,13 @@
     "username": "happytiger976",
     "password": "score",
     "invokedAt": "2023-04-27T12:00:40.257Z"
+  },
+  {
+    "firstName": "Leonel",
+    "lastName": "Archuleta",
+    "email": "leonel.archuleta@example.com",
+    "username": "sadpeacock182",
+    "password": "renegade",
+    "invokedAt": "2023-04-27T13:02:11.417Z"
   }
 ]
