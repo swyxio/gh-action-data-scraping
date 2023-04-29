@@ -54,5 +54,13 @@
     "username": "reddog322",
     "password": "barnes",
     "invokedAt": "2023-04-29T06:00:50.044Z"
+  },
+  {
+    "firstName": "Liva",
+    "lastName": "Jensen",
+    "email": "liva.jensen@example.com",
+    "username": "goldengorilla738",
+    "password": "goforit",
+    "invokedAt": "2023-04-29T07:00:38.487Z"
   }
 ]
