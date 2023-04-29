@@ -174,5 +174,13 @@
     "username": "sadcat924",
     "password": "stupid1",
     "invokedAt": "2023-04-29T21:00:43.206Z"
+  },
+  {
+    "firstName": "Arseniy",
+    "lastName": "Nemirovich-Danchenko",
+    "email": "arseniy.nemirovich-danchenko@example.com",
+    "username": "goldenswan139",
+    "password": "ping",
+    "invokedAt": "2023-04-29T22:00:36.468Z"
   }
 ]
