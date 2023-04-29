@@ -102,5 +102,13 @@
     "username": "tinyostrich202",
     "password": "priest",
     "invokedAt": "2023-04-29T12:00:48.403Z"
+  },
+  {
+    "firstName": "Slađana",
+    "lastName": "Karadžić",
+    "email": "sladana.karadzic@example.com",
+    "username": "whitebutterfly176",
+    "password": "stanford",
+    "invokedAt": "2023-04-29T13:01:05.720Z"
   }
 ]
