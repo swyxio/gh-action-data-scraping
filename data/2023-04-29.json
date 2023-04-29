@@ -182,5 +182,13 @@
     "username": "goldenswan139",
     "password": "ping",
     "invokedAt": "2023-04-29T22:00:36.468Z"
+  },
+  {
+    "firstName": "Tanja",
+    "lastName": "Pantelić",
+    "email": "tanja.pantelic@example.com",
+    "username": "greengorilla633",
+    "password": "hair",
+    "invokedAt": "2023-04-29T23:00:42.106Z"
   }
 ]
