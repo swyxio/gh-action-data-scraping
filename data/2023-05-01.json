@@ -78,5 +78,13 @@
     "username": "happyswan278",
     "password": "speed",
     "invokedAt": "2023-05-01T09:00:48.387Z"
+  },
+  {
+    "firstName": "Li",
+    "lastName": "Ruigrok",
+    "email": "li.ruigrok@example.com",
+    "username": "bluebutterfly495",
+    "password": "weiner",
+    "invokedAt": "2023-05-01T10:00:53.581Z"
   }
 ]
