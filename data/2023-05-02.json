@@ -166,5 +166,13 @@
     "username": "whitewolf312",
     "password": "billybob",
     "invokedAt": "2023-05-02T20:00:37.113Z"
+  },
+  {
+    "firstName": "Filippa",
+    "lastName": "Thomsen",
+    "email": "filippa.thomsen@example.com",
+    "username": "bigtiger588",
+    "password": "teresa",
+    "invokedAt": "2023-05-02T21:00:51.684Z"
   }
 ]
