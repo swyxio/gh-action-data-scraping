@@ -166,5 +166,13 @@
     "username": "whiteladybug240",
     "password": "pearson",
     "invokedAt": "2023-05-03T20:00:44.261Z"
+  },
+  {
+    "firstName": "Marion",
+    "lastName": "Richards",
+    "email": "marion.richards@example.com",
+    "username": "brownbear838",
+    "password": "ping",
+    "invokedAt": "2023-05-03T21:00:39.286Z"
   }
 ]
