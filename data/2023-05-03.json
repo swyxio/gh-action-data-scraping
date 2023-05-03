@@ -158,5 +158,13 @@
     "username": "beautifulduck603",
     "password": "tripper",
     "invokedAt": "2023-05-03T19:00:49.863Z"
+  },
+  {
+    "firstName": "Neven",
+    "lastName": "Krasić",
+    "email": "neven.krasic@example.com",
+    "username": "whiteladybug240",
+    "password": "pearson",
+    "invokedAt": "2023-05-03T20:00:44.261Z"
   }
 ]
