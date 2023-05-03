@@ -110,5 +110,13 @@
     "username": "brownostrich790",
     "password": "shelter",
     "invokedAt": "2023-05-03T13:02:26.521Z"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Rogers",
+    "email": "steven.rogers@example.com",
+    "username": "bigbutterfly179",
+    "password": "aaron1",
+    "invokedAt": "2023-05-03T14:00:45.942Z"
   }
 ]
