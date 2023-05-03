@@ -142,5 +142,13 @@
     "username": "whitepanda598",
     "password": "military",
     "invokedAt": "2023-05-03T17:00:41.048Z"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Owens",
+    "email": "brandon.owens@example.com",
+    "username": "happyswan944",
+    "password": "fletch",
+    "invokedAt": "2023-05-03T18:00:43.550Z"
   }
 ]
