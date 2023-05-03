@@ -174,5 +174,13 @@
     "username": "brownbear838",
     "password": "ping",
     "invokedAt": "2023-05-03T21:00:39.286Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Wood",
+    "email": "leo.wood@example.com",
+    "username": "yellowladybug771",
+    "password": "spinner",
+    "invokedAt": "2023-05-03T22:00:30.945Z"
   }
 ]
