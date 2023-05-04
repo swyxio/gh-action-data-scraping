@@ -94,5 +94,13 @@
     "username": "organicsnake709",
     "password": "nopass",
     "invokedAt": "2023-05-04T11:00:59.707Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Zhidenko",
+    "email": "albert.zhidenko@example.com",
+    "username": "silverfrog822",
+    "password": "kool",
+    "invokedAt": "2023-05-04T12:00:42.016Z"
   }
 ]
