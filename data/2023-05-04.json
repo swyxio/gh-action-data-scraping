@@ -110,5 +110,13 @@
     "username": "silverzebra363",
     "password": "helloo",
     "invokedAt": "2023-05-04T13:02:35.309Z"
+  },
+  {
+    "firstName": "Bente",
+    "lastName": "Blaas",
+    "email": "bente.blaas@example.com",
+    "username": "happygoose672",
+    "password": "strider",
+    "invokedAt": "2023-05-04T14:00:44.244Z"
   }
 ]
