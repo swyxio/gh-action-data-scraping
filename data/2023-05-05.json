@@ -54,5 +54,13 @@
     "username": "blackswan199",
     "password": "damian",
     "invokedAt": "2023-05-05T06:00:41.198Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Couri",
+    "email": "viljami.couri@example.com",
+    "username": "silverpanda427",
+    "password": "breaker",
+    "invokedAt": "2023-05-05T07:00:49.968Z"
   }
 ]
