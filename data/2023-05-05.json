@@ -110,5 +110,13 @@
     "username": "blackpeacock818",
     "password": "pinball",
     "invokedAt": "2023-05-05T13:01:51.778Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Kristensen",
+    "email": "emma.kristensen@example.com",
+    "username": "beautifulbutterfly378",
+    "password": "atlas",
+    "invokedAt": "2023-05-05T14:00:45.291Z"
   }
 ]
