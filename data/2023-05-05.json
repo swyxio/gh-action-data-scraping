@@ -142,5 +142,13 @@
     "username": "sadgoose520",
     "password": "chair",
     "invokedAt": "2023-05-05T17:00:30.007Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Jean",
+    "email": "guillaume.jean@example.com",
+    "username": "silverleopard234",
+    "password": "cherokee",
+    "invokedAt": "2023-05-05T18:00:42.279Z"
   }
 ]
