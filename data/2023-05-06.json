@@ -142,5 +142,13 @@
     "username": "orangeelephant528",
     "password": "worker",
     "invokedAt": "2023-05-06T17:00:46.367Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Gutiérrez",
+    "email": "david.gutierrez@example.com",
+    "username": "bigdog453",
+    "password": "caster",
+    "invokedAt": "2023-05-06T18:00:43.440Z"
   }
 ]
