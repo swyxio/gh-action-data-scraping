@@ -54,5 +54,13 @@
     "username": "greenbutterfly843",
     "password": "california",
     "invokedAt": "2023-05-07T06:00:43.609Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Kristensen",
+    "email": "jeppe.kristensen@example.com",
+    "username": "yellowwolf632",
+    "password": "entry",
+    "invokedAt": "2023-05-07T07:00:32.228Z"
   }
 ]
