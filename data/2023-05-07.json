@@ -70,5 +70,13 @@
     "username": "purplepanda289",
     "password": "just4me",
     "invokedAt": "2023-05-07T08:00:33.081Z"
+  },
+  {
+    "firstName": "Frankie",
+    "lastName": "Peters",
+    "email": "frankie.peters@example.com",
+    "username": "redsnake177",
+    "password": "neng",
+    "invokedAt": "2023-05-07T09:00:33.282Z"
   }
 ]
