@@ -102,5 +102,13 @@
     "username": "redfrog229",
     "password": "season",
     "invokedAt": "2023-05-07T12:00:37.943Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Li",
+    "email": "sebastian.li@example.com",
+    "username": "smallostrich687",
+    "password": "rugby1",
+    "invokedAt": "2023-05-07T13:00:56.542Z"
   }
 ]
