@@ -94,5 +94,13 @@
     "username": "bigbutterfly706",
     "password": "5683",
     "invokedAt": "2023-05-08T11:00:43.107Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Stewart",
+    "email": "rose.stewart@example.com",
+    "username": "heavylion330",
+    "password": "rosie",
+    "invokedAt": "2023-05-08T12:00:37.755Z"
   }
 ]
