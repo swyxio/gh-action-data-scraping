@@ -110,5 +110,13 @@
     "username": "blueostrich214",
     "password": "compaq1",
     "invokedAt": "2023-05-09T14:00:40.854Z"
+  },
+  {
+    "firstName": "Nadeche",
+    "lastName": "Van Diggelen",
+    "email": "nadeche.vandiggelen@example.com",
+    "username": "blackbutterfly279",
+    "password": "reaper",
+    "invokedAt": "2023-05-09T15:01:00.441Z"
   }
 ]
