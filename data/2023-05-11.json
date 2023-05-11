@@ -38,5 +38,13 @@
     "username": "tinyzebra157",
     "password": "beverly",
     "invokedAt": "2023-05-11T04:00:37.074Z"
+  },
+  {
+    "firstName": "Fanny",
+    "lastName": "Vidal",
+    "email": "fanny.vidal@example.com",
+    "username": "brownzebra100",
+    "password": "customer",
+    "invokedAt": "2023-05-11T05:00:40.926Z"
   }
 ]
