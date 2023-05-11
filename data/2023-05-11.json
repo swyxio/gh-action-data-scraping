@@ -126,5 +126,13 @@
     "username": "yellowmeercat762",
     "password": "center",
     "invokedAt": "2023-05-11T16:00:49.064Z"
+  },
+  {
+    "firstName": "Alina",
+    "lastName": "Merkel",
+    "email": "alina.merkel@example.com",
+    "username": "yellowduck459",
+    "password": "tricia",
+    "invokedAt": "2023-05-11T17:00:48.079Z"
   }
 ]
