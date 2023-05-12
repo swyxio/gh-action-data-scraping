@@ -142,5 +142,13 @@
     "username": "brownbear181",
     "password": "trucks",
     "invokedAt": "2023-05-12T17:00:43.067Z"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Roche",
+    "email": "antonio.roche@example.com",
+    "username": "orangeduck752",
+    "password": "eclipse1",
+    "invokedAt": "2023-05-12T18:00:47.037Z"
   }
 ]
