@@ -118,5 +118,13 @@
     "username": "crazybear961",
     "password": "qqqqqq",
     "invokedAt": "2023-05-12T14:00:39.479Z"
+  },
+  {
+    "firstName": "Ramberto",
+    "lastName": "Mendes",
+    "email": "ramberto.mendes@example.com",
+    "username": "happylion448",
+    "password": "backdoor",
+    "invokedAt": "2023-05-12T15:00:43.306Z"
   }
 ]
