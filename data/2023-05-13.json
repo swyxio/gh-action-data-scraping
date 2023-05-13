@@ -166,5 +166,13 @@
     "username": "blackkoala329",
     "password": "gadget",
     "invokedAt": "2023-05-13T20:00:52.312Z"
+  },
+  {
+    "firstName": "Nalan",
+    "lastName": "Sinanoğlu",
+    "email": "nalan.sinanoglu@example.com",
+    "username": "sadpanda421",
+    "password": "rusty2",
+    "invokedAt": "2023-05-13T21:00:35.724Z"
   }
 ]
