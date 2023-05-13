@@ -54,5 +54,13 @@
     "username": "happybear870",
     "password": "bledsoe",
     "invokedAt": "2023-05-13T06:00:43.612Z"
+  },
+  {
+    "firstName": "Vukan",
+    "lastName": "Vujičić",
+    "email": "vukan.vujicic@example.com",
+    "username": "blackfish405",
+    "password": "muffin",
+    "invokedAt": "2023-05-13T07:00:37.070Z"
   }
 ]
