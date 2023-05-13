@@ -158,5 +158,13 @@
     "username": "beautifultiger111",
     "password": "scarlett",
     "invokedAt": "2023-05-13T19:00:34.876Z"
+  },
+  {
+    "firstName": "Lewis",
+    "lastName": "King",
+    "email": "lewis.king@example.com",
+    "username": "blackkoala329",
+    "password": "gadget",
+    "invokedAt": "2023-05-13T20:00:52.312Z"
   }
 ]
