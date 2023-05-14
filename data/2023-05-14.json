@@ -126,5 +126,13 @@
     "username": "biggorilla481",
     "password": "paradigm",
     "invokedAt": "2023-05-14T15:00:48.460Z"
+  },
+  {
+    "firstName": "Nathaniel",
+    "lastName": "Taylor",
+    "email": "nathaniel.taylor@example.com",
+    "username": "lazyswan973",
+    "password": "yzerman",
+    "invokedAt": "2023-05-14T16:00:36.558Z"
   }
 ]
