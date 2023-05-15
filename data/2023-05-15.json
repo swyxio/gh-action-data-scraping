@@ -78,5 +78,13 @@
     "username": "redduck260",
     "password": "casino",
     "invokedAt": "2023-05-15T09:00:36.687Z"
+  },
+  {
+    "firstName": "Beau",
+    "lastName": "Evans",
+    "email": "beau.evans@example.com",
+    "username": "redfrog701",
+    "password": "cabbage",
+    "invokedAt": "2023-05-15T10:00:42.361Z"
   }
 ]
