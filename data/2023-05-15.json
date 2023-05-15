@@ -158,5 +158,13 @@
     "username": "redcat470",
     "password": "tottenham",
     "invokedAt": "2023-05-15T19:00:37.057Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Deschamps",
+    "email": "peter.deschamps@example.com",
+    "username": "crazybear765",
+    "password": "apples",
+    "invokedAt": "2023-05-15T20:00:42.346Z"
   }
 ]
