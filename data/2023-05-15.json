@@ -110,5 +110,13 @@
     "username": "blackelephant616",
     "password": "abnormal",
     "invokedAt": "2023-05-15T13:03:01.212Z"
+  },
+  {
+    "firstName": "Rene",
+    "lastName": "Fields",
+    "email": "rene.fields@example.com",
+    "username": "beautifulfrog575",
+    "password": "sprint",
+    "invokedAt": "2023-05-15T14:00:54.230Z"
   }
 ]
