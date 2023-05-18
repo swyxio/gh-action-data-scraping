@@ -54,5 +54,13 @@
     "username": "silverwolf832",
     "password": "vector",
     "invokedAt": "2023-05-18T06:00:50.830Z"
+  },
+  {
+    "firstName": "Bastien",
+    "lastName": "Gautier",
+    "email": "bastien.gautier@example.com",
+    "username": "lazygorilla779",
+    "password": "topher",
+    "invokedAt": "2023-05-18T07:00:44.158Z"
   }
 ]
