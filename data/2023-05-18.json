@@ -110,5 +110,13 @@
     "username": "brownfish447",
     "password": "1x2zkg8w",
     "invokedAt": "2023-05-18T13:02:24.612Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Børresen",
+    "email": "tobias.borresen@example.com",
+    "username": "purplebear762",
+    "password": "byteme",
+    "invokedAt": "2023-05-18T14:00:42.258Z"
   }
 ]
