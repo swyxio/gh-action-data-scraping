@@ -46,5 +46,13 @@
     "username": "heavycat971",
     "password": "michel",
     "invokedAt": "2023-05-18T05:00:37.050Z"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Van Wolfswinkel",
+    "email": "nikola.vanwolfswinkel@example.com",
+    "username": "silverwolf832",
+    "password": "vector",
+    "invokedAt": "2023-05-18T06:00:50.830Z"
   }
 ]
