@@ -78,5 +78,13 @@
     "username": "happydog388",
     "password": "doofus",
     "invokedAt": "2023-05-18T09:00:42.263Z"
+  },
+  {
+    "firstName": "Daksh",
+    "lastName": "Shetty",
+    "email": "daksh.shetty@example.com",
+    "username": "brownzebra246",
+    "password": "crazybab",
+    "invokedAt": "2023-05-18T10:00:42.082Z"
   }
 ]
