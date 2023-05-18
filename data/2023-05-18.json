@@ -118,5 +118,13 @@
     "username": "purplebear762",
     "password": "byteme",
     "invokedAt": "2023-05-18T14:00:42.258Z"
+  },
+  {
+    "firstName": "Joaquin",
+    "lastName": "López",
+    "email": "joaquin.lopez@example.com",
+    "username": "yellowostrich964",
+    "password": "aries",
+    "invokedAt": "2023-05-18T15:00:39.056Z"
   }
 ]
