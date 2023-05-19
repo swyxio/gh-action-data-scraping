@@ -94,5 +94,13 @@
     "username": "smallladybug904",
     "password": "yankees2",
     "invokedAt": "2023-05-19T11:00:43.832Z"
+  },
+  {
+    "firstName": "Rocío",
+    "lastName": "Alonso",
+    "email": "rocio.alonso@example.com",
+    "username": "purpletiger369",
+    "password": "splinter",
+    "invokedAt": "2023-05-19T12:00:38.456Z"
   }
 ]
