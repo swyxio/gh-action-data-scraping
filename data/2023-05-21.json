@@ -54,5 +54,13 @@
     "username": "redelephant943",
     "password": "guest",
     "invokedAt": "2023-05-21T06:00:42.722Z"
+  },
+  {
+    "firstName": "Jerom",
+    "lastName": "Te Boekhorst",
+    "email": "jerom.teboekhorst@example.com",
+    "username": "bigpanda725",
+    "password": "trick",
+    "invokedAt": "2023-05-21T07:00:43.144Z"
   }
 ]
