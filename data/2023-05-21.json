@@ -126,5 +126,13 @@
     "username": "crazytiger389",
     "password": "cooper",
     "invokedAt": "2023-05-21T15:00:47.425Z"
+  },
+  {
+    "firstName": "Zlatan",
+    "lastName": "Lapčević",
+    "email": "zlatan.lapcevic@example.com",
+    "username": "goldenmeercat739",
+    "password": "crazy",
+    "invokedAt": "2023-05-21T16:00:43.730Z"
   }
 ]
