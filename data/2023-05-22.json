@@ -134,5 +134,13 @@
     "username": "crazysnake625",
     "password": "cookie1",
     "invokedAt": "2023-05-22T16:00:42.970Z"
+  },
+  {
+    "firstName": "Mildred",
+    "lastName": "Barrett",
+    "email": "mildred.barrett@example.com",
+    "username": "purplekoala725",
+    "password": "twinkle",
+    "invokedAt": "2023-05-22T17:00:38.501Z"
   }
 ]
