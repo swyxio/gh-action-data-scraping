@@ -158,5 +158,13 @@
     "username": "whitepanda863",
     "password": "shower",
     "invokedAt": "2023-05-22T19:00:45.920Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Navarro",
+    "email": "pablo.navarro@example.com",
+    "username": "bigladybug619",
+    "password": "blondes",
+    "invokedAt": "2023-05-22T20:00:40.294Z"
   }
 ]
