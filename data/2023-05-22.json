@@ -102,5 +102,13 @@
     "username": "bluefrog282",
     "password": "booboo",
     "invokedAt": "2023-05-22T12:00:47.266Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Lam",
+    "email": "alexis.lam@example.com",
+    "username": "tinyswan542",
+    "password": "anchor",
+    "invokedAt": "2023-05-22T13:02:23.192Z"
   }
 ]
