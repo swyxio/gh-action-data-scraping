@@ -142,5 +142,13 @@
     "username": "sadzebra650",
     "password": "favorite",
     "invokedAt": "2023-05-23T17:00:49.118Z"
+  },
+  {
+    "firstName": "Isaí",
+    "lastName": "Nunes",
+    "email": "isai.nunes@example.com",
+    "username": "blackgoose285",
+    "password": "blast",
+    "invokedAt": "2023-05-23T18:00:37.862Z"
   }
 ]
