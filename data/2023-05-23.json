@@ -94,5 +94,13 @@
     "username": "bluegoose688",
     "password": "cascade",
     "invokedAt": "2023-05-23T11:00:35.999Z"
+  },
+  {
+    "firstName": "Biljana",
+    "lastName": "Stojaković",
+    "email": "biljana.stojakovic@example.com",
+    "username": "purpledog581",
+    "password": "kokoko",
+    "invokedAt": "2023-05-23T12:00:35.193Z"
   }
 ]
