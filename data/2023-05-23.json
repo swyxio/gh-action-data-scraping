@@ -118,5 +118,13 @@
     "username": "yellowgoose980",
     "password": "bigjim",
     "invokedAt": "2023-05-23T14:00:36.260Z"
+  },
+  {
+    "firstName": "Cory",
+    "lastName": "Johnson",
+    "email": "cory.johnson@example.com",
+    "username": "blueelephant155",
+    "password": "nirvana",
+    "invokedAt": "2023-05-23T15:00:48.651Z"
   }
 ]
