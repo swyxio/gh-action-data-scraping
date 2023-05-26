@@ -182,5 +182,13 @@
     "username": "sadrabbit503",
     "password": "saigon",
     "invokedAt": "2023-05-26T22:00:33.567Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Salminen",
+    "email": "arttu.salminen@example.com",
+    "username": "greenleopard853",
+    "password": "madman",
+    "invokedAt": "2023-05-26T23:00:47.243Z"
   }
 ]
