@@ -174,5 +174,13 @@
     "username": "angryelephant261",
     "password": "big1",
     "invokedAt": "2023-05-26T21:00:54.369Z"
+  },
+  {
+    "firstName": "Kuzman",
+    "lastName": "Ninković",
+    "email": "kuzman.ninkovic@example.com",
+    "username": "sadrabbit503",
+    "password": "saigon",
+    "invokedAt": "2023-05-26T22:00:33.567Z"
   }
 ]
