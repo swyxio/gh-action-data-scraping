@@ -86,5 +86,13 @@
     "username": "orangefish878",
     "password": "honda",
     "invokedAt": "2023-05-26T10:00:45.766Z"
+  },
+  {
+    "firstName": "Duško",
+    "lastName": "Radović",
+    "email": "dusko.radovic@example.com",
+    "username": "crazyzebra711",
+    "password": "piazza",
+    "invokedAt": "2023-05-26T11:00:54.851Z"
   }
 ]
