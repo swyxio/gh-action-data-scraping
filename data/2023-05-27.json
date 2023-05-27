@@ -118,5 +118,13 @@
     "username": "ticklishladybug776",
     "password": "slider",
     "invokedAt": "2023-05-27T14:00:48.400Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Wade",
+    "email": "lisa.wade@example.com",
+    "username": "happyfish502",
+    "password": "alfredo",
+    "invokedAt": "2023-05-27T15:00:40.869Z"
   }
 ]
