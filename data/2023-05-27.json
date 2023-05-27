@@ -102,5 +102,13 @@
     "username": "crazywolf840",
     "password": "asdfghjk",
     "invokedAt": "2023-05-27T12:01:05.812Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Harcourt",
+    "email": "zoe.harcourt@example.com",
+    "username": "blackzebra213",
+    "password": "garbage",
+    "invokedAt": "2023-05-27T13:01:16.649Z"
   }
 ]
