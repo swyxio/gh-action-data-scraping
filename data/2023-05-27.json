@@ -46,5 +46,13 @@
     "username": "smallgoose311",
     "password": "nathan1",
     "invokedAt": "2023-05-27T05:00:40.456Z"
+  },
+  {
+    "firstName": "Svetlana",
+    "lastName": "Živanović",
+    "email": "svetlana.zivanovic@example.com",
+    "username": "purpleostrich155",
+    "password": "misty1",
+    "invokedAt": "2023-05-27T06:00:44.516Z"
   }
 ]
