@@ -54,5 +54,13 @@
     "username": "purpleostrich155",
     "password": "misty1",
     "invokedAt": "2023-05-27T06:00:44.516Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Walker",
+    "email": "matthew.walker@example.com",
+    "username": "ticklishbutterfly114",
+    "password": "bikini",
+    "invokedAt": "2023-05-27T07:00:33.284Z"
   }
 ]
