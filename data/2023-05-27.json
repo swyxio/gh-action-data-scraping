@@ -70,5 +70,13 @@
     "username": "heavyleopard738",
     "password": "quebec",
     "invokedAt": "2023-05-27T08:00:36.209Z"
+  },
+  {
+    "firstName": "Frøya",
+    "lastName": "Frøland",
+    "email": "froya.froland@example.com",
+    "username": "crazylion724",
+    "password": "elvis",
+    "invokedAt": "2023-05-27T09:00:44.187Z"
   }
 ]
