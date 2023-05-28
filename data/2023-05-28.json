@@ -70,5 +70,13 @@
     "username": "brownlion648",
     "password": "cupoi",
     "invokedAt": "2023-05-28T08:00:39.481Z"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Cunningham",
+    "email": "linda.cunningham@example.com",
+    "username": "angrymouse712",
+    "password": "better",
+    "invokedAt": "2023-05-28T09:00:47.211Z"
   }
 ]
