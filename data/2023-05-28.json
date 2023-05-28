@@ -94,5 +94,13 @@
     "username": "beautifulbird902",
     "password": "panama",
     "invokedAt": "2023-05-28T11:00:33.412Z"
+  },
+  {
+    "firstName": "Ashley",
+    "lastName": "Vasquez",
+    "email": "ashley.vasquez@example.com",
+    "username": "whitecat478",
+    "password": "monkey",
+    "invokedAt": "2023-05-28T12:00:36.058Z"
   }
 ]
