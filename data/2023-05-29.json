@@ -158,5 +158,13 @@
     "username": "purplemouse525",
     "password": "wxcvbn",
     "invokedAt": "2023-05-29T19:00:36.514Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Henry",
+    "email": "charlie.henry@example.com",
+    "username": "lazyrabbit757",
+    "password": "softball",
+    "invokedAt": "2023-05-29T20:00:48.050Z"
   }
 ]
