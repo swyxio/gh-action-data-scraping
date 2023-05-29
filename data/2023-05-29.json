@@ -86,5 +86,13 @@
     "username": "sadbutterfly608",
     "password": "noway",
     "invokedAt": "2023-05-29T10:00:32.611Z"
+  },
+  {
+    "firstName": "Julius",
+    "lastName": "Saarela",
+    "email": "julius.saarela@example.com",
+    "username": "blackbird464",
+    "password": "station",
+    "invokedAt": "2023-05-29T11:00:39.481Z"
   }
 ]
