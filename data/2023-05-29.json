@@ -166,5 +166,13 @@
     "username": "lazyrabbit757",
     "password": "softball",
     "invokedAt": "2023-05-29T20:00:48.050Z"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Evans",
+    "email": "isabella.evans@example.com",
+    "username": "smallladybug531",
+    "password": "vacation",
+    "invokedAt": "2023-05-29T21:00:44.908Z"
   }
 ]
