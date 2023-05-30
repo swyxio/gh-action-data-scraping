@@ -94,5 +94,13 @@
     "username": "orangecat849",
     "password": "vancouve",
     "invokedAt": "2023-05-30T11:00:46.125Z"
+  },
+  {
+    "firstName": "Bently",
+    "lastName": "Liu",
+    "email": "bently.liu@example.com",
+    "username": "crazygorilla679",
+    "password": "cowgirl",
+    "invokedAt": "2023-05-30T12:00:50.045Z"
   }
 ]
