@@ -102,5 +102,13 @@
     "username": "crazygorilla679",
     "password": "cowgirl",
     "invokedAt": "2023-05-30T12:00:50.045Z"
+  },
+  {
+    "firstName": "Sonja",
+    "lastName": "Perrin",
+    "email": "sonja.perrin@example.com",
+    "username": "silverswan681",
+    "password": "writer",
+    "invokedAt": "2023-05-30T13:02:49.210Z"
   }
 ]
