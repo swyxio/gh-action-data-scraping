@@ -126,5 +126,13 @@
     "username": "saddog533",
     "password": "mike1",
     "invokedAt": "2023-05-30T15:00:38.655Z"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Nieto",
+    "email": "olivia.nieto@example.com",
+    "username": "beautifulbutterfly479",
+    "password": "bounce",
+    "invokedAt": "2023-05-30T16:00:37.584Z"
   }
 ]
