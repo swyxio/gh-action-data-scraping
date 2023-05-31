@@ -158,5 +158,13 @@
     "username": "greenswan765",
     "password": "bingo1",
     "invokedAt": "2023-05-31T19:00:41.798Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Mortensen",
+    "email": "julie.mortensen@example.com",
+    "username": "purplemeercat592",
+    "password": "dodger",
+    "invokedAt": "2023-05-31T20:00:45.288Z"
   }
 ]
