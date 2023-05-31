@@ -102,5 +102,13 @@
     "username": "bluecat533",
     "password": "skip",
     "invokedAt": "2023-05-31T12:00:51.128Z"
+  },
+  {
+    "firstName": "Freddie",
+    "lastName": "Adams",
+    "email": "freddie.adams@example.com",
+    "username": "whiteostrich470",
+    "password": "snapon",
+    "invokedAt": "2023-05-31T13:02:50.241Z"
   }
 ]
