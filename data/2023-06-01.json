@@ -102,5 +102,13 @@
     "username": "goldenfish998",
     "password": "gizmodo",
     "invokedAt": "2023-06-01T12:00:34.124Z"
+  },
+  {
+    "firstName": "Amalie",
+    "lastName": "Christiansen",
+    "email": "amalie.christiansen@example.com",
+    "username": "beautifulzebra543",
+    "password": "biteme1",
+    "invokedAt": "2023-06-01T13:02:51.330Z"
   }
 ]
