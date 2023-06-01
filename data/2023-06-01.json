@@ -94,5 +94,13 @@
     "username": "smallrabbit610",
     "password": "salsero",
     "invokedAt": "2023-06-01T11:00:44.565Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Reurink",
+    "email": "daniel.reurink@example.com",
+    "username": "goldenfish998",
+    "password": "gizmodo",
+    "invokedAt": "2023-06-01T12:00:34.124Z"
   }
 ]
