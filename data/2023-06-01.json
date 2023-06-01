@@ -30,5 +30,13 @@
     "username": "crazylion296",
     "password": "tinkerbe",
     "invokedAt": "2023-06-01T03:15:30.628Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Okumuş",
+    "email": "kenan.okumus@example.com",
+    "username": "whitefish196",
+    "password": "kerouac",
+    "invokedAt": "2023-06-01T04:00:50.590Z"
   }
 ]
