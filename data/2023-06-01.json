@@ -142,5 +142,13 @@
     "username": "brownpanda130",
     "password": "pantera1",
     "invokedAt": "2023-06-01T17:00:53.527Z"
+  },
+  {
+    "firstName": "Juan Manuel",
+    "lastName": "Guajardo",
+    "email": "juanmanuel.guajardo@example.com",
+    "username": "orangepeacock880",
+    "password": "great",
+    "invokedAt": "2023-06-01T18:00:43.971Z"
   }
 ]
