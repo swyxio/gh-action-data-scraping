@@ -182,5 +182,13 @@
     "username": "crazybutterfly345",
     "password": "mahler",
     "invokedAt": "2023-06-02T22:00:42.196Z"
+  },
+  {
+    "firstName": "Stanoje",
+    "lastName": "Ninković",
+    "email": "stanoje.ninkovic@example.com",
+    "username": "orangewolf367",
+    "password": "polopolo",
+    "invokedAt": "2023-06-02T23:00:43.140Z"
   }
 ]
