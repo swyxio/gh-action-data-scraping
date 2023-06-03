@@ -182,5 +182,13 @@
     "username": "brownpeacock304",
     "password": "haggis",
     "invokedAt": "2023-06-03T22:00:33.296Z"
+  },
+  {
+    "firstName": "Aleksa",
+    "lastName": "Rakić",
+    "email": "aleksa.rakic@example.com",
+    "username": "blackfish443",
+    "password": "comics",
+    "invokedAt": "2023-06-03T23:00:45.997Z"
   }
 ]
