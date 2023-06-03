@@ -46,5 +46,13 @@
     "username": "bluepanda962",
     "password": "paramedi",
     "invokedAt": "2023-06-03T05:00:43.018Z"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Claire",
+    "email": "isabella.claire@example.com",
+    "username": "goldenfish856",
+    "password": "foobar",
+    "invokedAt": "2023-06-03T06:00:46.348Z"
   }
 ]
