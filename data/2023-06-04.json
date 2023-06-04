@@ -102,5 +102,13 @@
     "username": "bluefish477",
     "password": "dealer",
     "invokedAt": "2023-06-04T12:00:37.585Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Côté",
+    "email": "tristan.cote@example.com",
+    "username": "yellowpanda238",
+    "password": "5454",
+    "invokedAt": "2023-06-04T13:01:29.256Z"
   }
 ]
