@@ -158,5 +158,13 @@
     "username": "whitetiger475",
     "password": "shell",
     "invokedAt": "2023-06-04T19:00:34.228Z"
+  },
+  {
+    "firstName": "Lilli",
+    "lastName": "Olivier",
+    "email": "lilli.olivier@example.com",
+    "username": "blueelephant186",
+    "password": "derf",
+    "invokedAt": "2023-06-04T20:00:40.065Z"
   }
 ]
