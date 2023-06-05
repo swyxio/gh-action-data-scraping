@@ -134,5 +134,13 @@
     "username": "crazytiger784",
     "password": "pack",
     "invokedAt": "2023-06-05T16:00:44.378Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Vázquez",
+    "email": "pedro.vazquez@example.com",
+    "username": "purplerabbit667",
+    "password": "darkstar",
+    "invokedAt": "2023-06-05T17:00:40.333Z"
   }
 ]
