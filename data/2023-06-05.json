@@ -182,5 +182,13 @@
     "username": "brownleopard667",
     "password": "triangle",
     "invokedAt": "2023-06-05T22:00:40.527Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Bergeron",
+    "email": "blake.bergeron@example.com",
+    "username": "yellowpanda444",
+    "password": "allsop",
+    "invokedAt": "2023-06-05T23:00:38.105Z"
   }
 ]
