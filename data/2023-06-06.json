@@ -142,5 +142,13 @@
     "username": "crazylion809",
     "password": "atlas",
     "invokedAt": "2023-06-06T17:00:40.254Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Reed",
+    "email": "emma.reed@example.com",
+    "username": "orangewolf345",
+    "password": "scream",
+    "invokedAt": "2023-06-06T18:00:42.258Z"
   }
 ]
