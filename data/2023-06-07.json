@@ -78,5 +78,13 @@
     "username": "heavyfrog426",
     "password": "channel",
     "invokedAt": "2023-06-07T09:00:37.477Z"
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Hunt",
+    "email": "kim.hunt@example.com",
+    "username": "crazygorilla292",
+    "password": "newton",
+    "invokedAt": "2023-06-07T10:00:40.177Z"
   }
 ]
