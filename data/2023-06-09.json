@@ -94,5 +94,13 @@
     "username": "goldengoose779",
     "password": "kitkat",
     "invokedAt": "2023-06-09T11:01:03.192Z"
+  },
+  {
+    "firstName": "Hanane",
+    "lastName": "Van Aalderen",
+    "email": "hanane.vanaalderen@example.com",
+    "username": "sadgoose312",
+    "password": "easter",
+    "invokedAt": "2023-06-09T12:01:02.608Z"
   }
 ]
