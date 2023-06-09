@@ -118,5 +118,13 @@
     "username": "yellowelephant364",
     "password": "denmark",
     "invokedAt": "2023-06-09T14:00:50.473Z"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Owens",
+    "email": "tyler.owens@example.com",
+    "username": "purplemeercat590",
+    "password": "qwertyu",
+    "invokedAt": "2023-06-09T15:00:39.308Z"
   }
 ]
