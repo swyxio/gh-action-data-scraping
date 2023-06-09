@@ -70,5 +70,13 @@
     "username": "bluezebra489",
     "password": "fortress",
     "invokedAt": "2023-06-09T08:00:39.082Z"
+  },
+  {
+    "firstName": "Lewis",
+    "lastName": "Wood",
+    "email": "lewis.wood@example.com",
+    "username": "happyfrog960",
+    "password": "england",
+    "invokedAt": "2023-06-09T09:00:39.792Z"
   }
 ]
