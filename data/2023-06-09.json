@@ -86,5 +86,13 @@
     "username": "yellowcat879",
     "password": "letsgo",
     "invokedAt": "2023-06-09T10:00:40.256Z"
+  },
+  {
+    "firstName": "André",
+    "lastName": "Faust",
+    "email": "andre.faust@example.com",
+    "username": "goldengoose779",
+    "password": "kitkat",
+    "invokedAt": "2023-06-09T11:01:03.192Z"
   }
 ]
