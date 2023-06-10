@@ -158,5 +158,13 @@
     "username": "heavyzebra511",
     "password": "everest",
     "invokedAt": "2023-06-10T19:00:47.183Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Lauri",
+    "email": "aleksi.lauri@example.com",
+    "username": "whiteleopard331",
+    "password": "rotten",
+    "invokedAt": "2023-06-10T20:00:43.419Z"
   }
 ]
