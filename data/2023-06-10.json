@@ -110,5 +110,13 @@
     "username": "redrabbit880",
     "password": "truck1",
     "invokedAt": "2023-06-10T13:00:58.242Z"
+  },
+  {
+    "firstName": "Tanja",
+    "lastName": "Pejaković",
+    "email": "tanja.pejakovic@example.com",
+    "username": "crazymouse833",
+    "password": "boomer",
+    "invokedAt": "2023-06-10T14:00:38.109Z"
   }
 ]
