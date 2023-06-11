@@ -38,5 +38,13 @@
     "username": "brownsnake101",
     "password": "tipper",
     "invokedAt": "2023-06-11T04:00:48.765Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Guldberg",
+    "email": "leo.guldberg@example.com",
+    "username": "redladybug532",
+    "password": "flyer",
+    "invokedAt": "2023-06-11T05:00:51.249Z"
   }
 ]
