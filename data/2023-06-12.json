@@ -126,5 +126,13 @@
     "username": "heavybear831",
     "password": "eclipse",
     "invokedAt": "2023-06-12T15:00:38.200Z"
+  },
+  {
+    "firstName": "Ralf-Peter",
+    "lastName": "Habel",
+    "email": "ralf-peter.habel@example.com",
+    "username": "bluefish452",
+    "password": "voyager",
+    "invokedAt": "2023-06-12T16:00:52.346Z"
   }
 ]
