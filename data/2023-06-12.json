@@ -30,5 +30,13 @@
     "username": "greengoose355",
     "password": "macbeth",
     "invokedAt": "2023-06-12T03:06:42.824Z"
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Olsen",
+    "email": "signe.olsen@example.com",
+    "username": "sadladybug887",
+    "password": "dracula",
+    "invokedAt": "2023-06-12T04:00:44.471Z"
   }
 ]
