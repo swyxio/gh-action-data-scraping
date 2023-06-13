@@ -118,5 +118,13 @@
     "username": "orangefrog538",
     "password": "harpoon",
     "invokedAt": "2023-06-13T14:00:41.401Z"
+  },
+  {
+    "firstName": "Barış",
+    "lastName": "Tuğlu",
+    "email": "baris.tuglu@example.com",
+    "username": "blueswan417",
+    "password": "reader",
+    "invokedAt": "2023-06-13T15:00:49.197Z"
   }
 ]
