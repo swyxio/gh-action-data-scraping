@@ -174,5 +174,13 @@
     "username": "crazybutterfly313",
     "password": "bridge",
     "invokedAt": "2023-06-13T21:00:41.041Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Christiansen",
+    "email": "nikolaj.christiansen@example.com",
+    "username": "smallbear528",
+    "password": "skinner",
+    "invokedAt": "2023-06-13T22:01:01.424Z"
   }
 ]
