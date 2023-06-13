@@ -94,5 +94,13 @@
     "username": "crazysnake999",
     "password": "farside",
     "invokedAt": "2023-06-13T11:00:43.238Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Olson",
+    "email": "ralph.olson@example.com",
+    "username": "goldenpeacock348",
+    "password": "oreo",
+    "invokedAt": "2023-06-13T12:00:32.117Z"
   }
 ]
