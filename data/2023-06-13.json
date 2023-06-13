@@ -102,5 +102,13 @@
     "username": "goldenpeacock348",
     "password": "oreo",
     "invokedAt": "2023-06-13T12:00:32.117Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Olsen",
+    "email": "laura.olsen@example.com",
+    "username": "blueelephant249",
+    "password": "blues",
+    "invokedAt": "2023-06-13T13:02:47.193Z"
   }
 ]
