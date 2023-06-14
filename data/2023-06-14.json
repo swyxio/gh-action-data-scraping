@@ -78,5 +78,13 @@
     "username": "biglion150",
     "password": "smitty",
     "invokedAt": "2023-06-14T09:00:49.120Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Demirel",
+    "email": "adem.demirel@example.com",
+    "username": "goldenlion860",
+    "password": "poopoo",
+    "invokedAt": "2023-06-14T10:00:41.541Z"
   }
 ]
