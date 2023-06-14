@@ -182,5 +182,13 @@
     "username": "lazybutterfly863",
     "password": "manowar",
     "invokedAt": "2023-06-14T22:00:45.316Z"
+  },
+  {
+    "firstName": "Shreya",
+    "lastName": "Anand",
+    "email": "shreya.anand@example.com",
+    "username": "happyduck121",
+    "password": "napoleon",
+    "invokedAt": "2023-06-14T23:00:41.168Z"
   }
 ]
