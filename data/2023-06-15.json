@@ -102,5 +102,13 @@
     "username": "whitewolf239",
     "password": "stick",
     "invokedAt": "2023-06-15T12:00:47.792Z"
+  },
+  {
+    "firstName": "Gorete",
+    "lastName": "Caldeira",
+    "email": "gorete.caldeira@example.com",
+    "username": "silvercat904",
+    "password": "monty",
+    "invokedAt": "2023-06-15T13:03:27.869Z"
   }
 ]
