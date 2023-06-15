@@ -158,5 +158,13 @@
     "username": "orangegoose981",
     "password": "cigar",
     "invokedAt": "2023-06-15T19:00:40.006Z"
+  },
+  {
+    "firstName": "Tino",
+    "lastName": "Le Gall",
+    "email": "tino.legall@example.com",
+    "username": "beautifulmouse116",
+    "password": "duck",
+    "invokedAt": "2023-06-15T20:00:36.101Z"
   }
 ]
