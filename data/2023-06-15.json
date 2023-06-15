@@ -166,5 +166,13 @@
     "username": "beautifulmouse116",
     "password": "duck",
     "invokedAt": "2023-06-15T20:00:36.101Z"
+  },
+  {
+    "firstName": "Vallery",
+    "lastName": "Van Batenburg",
+    "email": "vallery.vanbatenburg@example.com",
+    "username": "happyswan869",
+    "password": "nancy1",
+    "invokedAt": "2023-06-15T21:00:52.866Z"
   }
 ]
