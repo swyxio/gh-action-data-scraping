@@ -174,5 +174,13 @@
     "username": "goldenlion493",
     "password": "durango",
     "invokedAt": "2023-06-16T21:00:38.405Z"
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Petersen",
+    "email": "freja.petersen@example.com",
+    "username": "sadmeercat305",
+    "password": "verbatim",
+    "invokedAt": "2023-06-16T22:00:39.161Z"
   }
 ]
