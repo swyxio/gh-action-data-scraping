@@ -166,5 +166,13 @@
     "username": "bigostrich713",
     "password": "razor",
     "invokedAt": "2023-06-17T20:00:41.182Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Lévesque",
+    "email": "olivier.levesque@example.com",
+    "username": "brownmouse467",
+    "password": "oooooo",
+    "invokedAt": "2023-06-17T21:00:39.466Z"
   }
 ]
