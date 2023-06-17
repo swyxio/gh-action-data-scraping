@@ -142,5 +142,13 @@
     "username": "sadwolf259",
     "password": "tequila",
     "invokedAt": "2023-06-17T17:00:36.309Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Dağdaş",
+    "email": "babur.dagdas@example.com",
+    "username": "happycat567",
+    "password": "happy1",
+    "invokedAt": "2023-06-17T18:00:46.327Z"
   }
 ]
