@@ -182,5 +182,13 @@
     "username": "bigdog630",
     "password": "macbeth",
     "invokedAt": "2023-06-17T22:00:55.459Z"
+  },
+  {
+    "firstName": "Ronnie",
+    "lastName": "Anderson",
+    "email": "ronnie.anderson@example.com",
+    "username": "goldenswan711",
+    "password": "universe",
+    "invokedAt": "2023-06-17T23:00:38.160Z"
   }
 ]
