@@ -94,5 +94,13 @@
     "username": "orangeduck280",
     "password": "malone",
     "invokedAt": "2023-06-17T11:00:40.968Z"
+  },
+  {
+    "firstName": "Beatriz",
+    "lastName": "Valencia",
+    "email": "beatriz.valencia@example.com",
+    "username": "lazyrabbit196",
+    "password": "tacoma",
+    "invokedAt": "2023-06-17T12:00:53.324Z"
   }
 ]
