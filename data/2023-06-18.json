@@ -78,5 +78,13 @@
     "username": "heavyfish444",
     "password": "native",
     "invokedAt": "2023-06-18T09:00:53.133Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Christensen",
+    "email": "simon.christensen@example.com",
+    "username": "purplemouse487",
+    "password": "redbaron",
+    "invokedAt": "2023-06-18T10:00:40.627Z"
   }
 ]
