@@ -182,5 +182,13 @@
     "username": "tinyrabbit301",
     "password": "soccer",
     "invokedAt": "2023-06-18T22:00:39.582Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Gauthier",
+    "email": "olivier.gauthier@example.com",
+    "username": "greenladybug583",
+    "password": "cross",
+    "invokedAt": "2023-06-18T23:00:32.626Z"
   }
 ]
