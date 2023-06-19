@@ -78,5 +78,13 @@
     "username": "yellowkoala839",
     "password": "jagger",
     "invokedAt": "2023-06-19T09:00:45.339Z"
+  },
+  {
+    "firstName": "Nico",
+    "lastName": "Menard",
+    "email": "nico.menard@example.com",
+    "username": "angrycat644",
+    "password": "start1",
+    "invokedAt": "2023-06-19T10:00:46.160Z"
   }
 ]
