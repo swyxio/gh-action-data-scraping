@@ -166,5 +166,13 @@
     "username": "goldengoose886",
     "password": "winston1",
     "invokedAt": "2023-06-20T20:00:56.656Z"
+  },
+  {
+    "firstName": "Mestan",
+    "lastName": "Bolatlı",
+    "email": "mestan.bolatli@example.com",
+    "username": "redlion734",
+    "password": "animal",
+    "invokedAt": "2023-06-20T21:00:52.263Z"
   }
 ]
