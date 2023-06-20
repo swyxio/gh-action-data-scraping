@@ -54,5 +54,13 @@
     "username": "brownbear799",
     "password": "safari",
     "invokedAt": "2023-06-20T06:00:49.384Z"
+  },
+  {
+    "firstName": "Vincenzo",
+    "lastName": "Pütz",
+    "email": "vincenzo.putz@example.com",
+    "username": "bluebird819",
+    "password": "phish1",
+    "invokedAt": "2023-06-20T07:00:42.578Z"
   }
 ]
