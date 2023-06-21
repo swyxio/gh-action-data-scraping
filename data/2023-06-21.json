@@ -62,5 +62,13 @@
     "username": "beautifultiger523",
     "password": "silvia",
     "invokedAt": "2023-06-21T07:00:52.013Z"
+  },
+  {
+    "firstName": "Matias",
+    "lastName": "Raisanen",
+    "email": "matias.raisanen@example.com",
+    "username": "happytiger741",
+    "password": "bear",
+    "invokedAt": "2023-06-21T08:00:44.378Z"
   }
 ]
