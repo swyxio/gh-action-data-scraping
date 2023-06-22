@@ -182,5 +182,13 @@
     "username": "blackbird192",
     "password": "pa55w0rd",
     "invokedAt": "2023-06-22T22:00:48.731Z"
+  },
+  {
+    "firstName": "Ümit",
+    "lastName": "Çatalbaş",
+    "email": "umit.catalbas@example.com",
+    "username": "bluekoala872",
+    "password": "iscool",
+    "invokedAt": "2023-06-22T23:00:37.403Z"
   }
 ]
