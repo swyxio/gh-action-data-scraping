@@ -46,5 +46,13 @@
     "username": "blackbird136",
     "password": "longhorn",
     "invokedAt": "2023-06-22T05:00:54.499Z"
+  },
+  {
+    "firstName": "Pamela",
+    "lastName": "Gray",
+    "email": "pamela.gray@example.com",
+    "username": "angryswan652",
+    "password": "preacher",
+    "invokedAt": "2023-06-22T06:00:34.141Z"
   }
 ]
