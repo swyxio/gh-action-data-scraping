@@ -174,5 +174,13 @@
     "username": "bigduck963",
     "password": "wwww",
     "invokedAt": "2023-06-22T21:00:45.321Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Johansen",
+    "email": "carl.johansen@example.com",
+    "username": "blackbird192",
+    "password": "pa55w0rd",
+    "invokedAt": "2023-06-22T22:00:48.731Z"
   }
 ]
