@@ -38,5 +38,13 @@
     "username": "goldenlion205",
     "password": "vietnam",
     "invokedAt": "2023-06-23T04:00:44.915Z"
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "Wheeler",
+    "email": "cameron.wheeler@example.com",
+    "username": "crazyswan900",
+    "password": "germany",
+    "invokedAt": "2023-06-23T05:00:46.057Z"
   }
 ]
