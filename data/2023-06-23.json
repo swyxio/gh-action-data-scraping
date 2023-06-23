@@ -94,5 +94,13 @@
     "username": "heavytiger605",
     "password": "busted",
     "invokedAt": "2023-06-23T11:00:39.128Z"
+  },
+  {
+    "firstName": "Eren",
+    "lastName": "Berberoğlu",
+    "email": "eren.berberoglu@example.com",
+    "username": "tinyostrich832",
+    "password": "larkin",
+    "invokedAt": "2023-06-23T12:00:37.620Z"
   }
 ]
