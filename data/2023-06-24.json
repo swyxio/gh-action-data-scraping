@@ -142,5 +142,13 @@
     "username": "purpleduck437",
     "password": "asdf12",
     "invokedAt": "2023-06-24T17:00:43.567Z"
+  },
+  {
+    "firstName": "Rebeca",
+    "lastName": "Nazario",
+    "email": "rebeca.nazario@example.com",
+    "username": "blackduck692",
+    "password": "handball",
+    "invokedAt": "2023-06-24T18:00:32.124Z"
   }
 ]
