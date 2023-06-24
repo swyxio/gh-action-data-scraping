@@ -150,5 +150,13 @@
     "username": "blackduck692",
     "password": "handball",
     "invokedAt": "2023-06-24T18:00:32.124Z"
+  },
+  {
+    "firstName": "Lice",
+    "lastName": "Caldeira",
+    "email": "lice.caldeira@example.com",
+    "username": "whitefrog195",
+    "password": "nuclear",
+    "invokedAt": "2023-06-24T19:00:43.531Z"
   }
 ]
