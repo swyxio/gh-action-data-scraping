@@ -38,5 +38,13 @@
     "username": "redostrich492",
     "password": "dynamite",
     "invokedAt": "2023-06-25T04:00:52.283Z"
+  },
+  {
+    "firstName": "Wai",
+    "lastName": "Pesch",
+    "email": "wai.pesch@example.com",
+    "username": "bigfish702",
+    "password": "redone",
+    "invokedAt": "2023-06-25T05:00:45.920Z"
   }
 ]
