@@ -46,5 +46,13 @@
     "username": "bigfish702",
     "password": "redone",
     "invokedAt": "2023-06-25T05:00:45.920Z"
+  },
+  {
+    "firstName": "Martyna",
+    "lastName": "Underhaug",
+    "email": "martyna.underhaug@example.com",
+    "username": "greenpanda214",
+    "password": "having",
+    "invokedAt": "2023-06-25T06:00:40.315Z"
   }
 ]
