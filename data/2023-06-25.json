@@ -102,5 +102,13 @@
     "username": "angryfish194",
     "password": "army",
     "invokedAt": "2023-06-25T12:00:56.846Z"
+  },
+  {
+    "firstName": "Abbie",
+    "lastName": "Romero",
+    "email": "abbie.romero@example.com",
+    "username": "crazydog593",
+    "password": "whiplash",
+    "invokedAt": "2023-06-25T13:04:49.409Z"
   }
 ]
