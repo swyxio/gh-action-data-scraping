@@ -86,5 +86,13 @@
     "username": "heavyladybug402",
     "password": "workout",
     "invokedAt": "2023-06-26T10:00:50.104Z"
+  },
+  {
+    "firstName": "Kirilo",
+    "lastName": "Pantić",
+    "email": "kirilo.pantic@example.com",
+    "username": "brownostrich950",
+    "password": "account",
+    "invokedAt": "2023-06-26T11:00:46.199Z"
   }
 ]
