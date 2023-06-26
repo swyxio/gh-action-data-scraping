@@ -22,5 +22,13 @@
     "username": "bluebear620",
     "password": "thecrow",
     "invokedAt": "2023-06-26T02:29:43.910Z"
+  },
+  {
+    "firstName": "Petko",
+    "lastName": "Živojinović",
+    "email": "petko.zivojinovic@example.com",
+    "username": "crazytiger557",
+    "password": "glory",
+    "invokedAt": "2023-06-26T03:14:26.176Z"
   }
 ]
