@@ -78,5 +78,13 @@
     "username": "beautifulwolf167",
     "password": "nope",
     "invokedAt": "2023-06-26T09:00:35.620Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Burton",
+    "email": "greg.burton@example.com",
+    "username": "heavyladybug402",
+    "password": "workout",
+    "invokedAt": "2023-06-26T10:00:50.104Z"
   }
 ]
