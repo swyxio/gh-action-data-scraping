@@ -62,5 +62,13 @@
     "username": "redfish370",
     "password": "pinnacle",
     "invokedAt": "2023-06-27T07:00:47.596Z"
+  },
+  {
+    "firstName": "Elena",
+    "lastName": "Borojević",
+    "email": "elena.borojevic@example.com",
+    "username": "purplebear218",
+    "password": "ffffffff",
+    "invokedAt": "2023-06-27T08:00:59.594Z"
   }
 ]
