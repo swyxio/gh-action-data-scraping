@@ -102,5 +102,13 @@
     "username": "bigcat458",
     "password": "theforce",
     "invokedAt": "2023-06-28T12:01:01.781Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Olsen",
+    "email": "christian.olsen@example.com",
+    "username": "purpletiger234",
+    "password": "applepie",
+    "invokedAt": "2023-06-28T13:06:10.602Z"
   }
 ]
