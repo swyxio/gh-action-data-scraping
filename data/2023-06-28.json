@@ -174,5 +174,13 @@
     "username": "heavysnake877",
     "password": "liang",
     "invokedAt": "2023-06-28T21:00:42.418Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Vega",
+    "email": "andres.vega@example.com",
+    "username": "redfish764",
+    "password": "sealteam",
+    "invokedAt": "2023-06-28T22:00:44.671Z"
   }
 ]
