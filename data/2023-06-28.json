@@ -110,5 +110,13 @@
     "username": "purpletiger234",
     "password": "applepie",
     "invokedAt": "2023-06-28T13:06:10.602Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Rasmussen",
+    "email": "mathilde.rasmussen@example.com",
+    "username": "crazytiger251",
+    "password": "newport",
+    "invokedAt": "2023-06-28T14:00:53.468Z"
   }
 ]
