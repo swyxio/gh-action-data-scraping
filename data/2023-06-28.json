@@ -182,5 +182,13 @@
     "username": "redfish764",
     "password": "sealteam",
     "invokedAt": "2023-06-28T22:00:44.671Z"
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Ellis",
+    "email": "kim.ellis@example.com",
+    "username": "smallwolf782",
+    "password": "switch",
+    "invokedAt": "2023-06-28T23:00:40.632Z"
   }
 ]
