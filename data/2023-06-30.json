@@ -94,5 +94,13 @@
     "username": "blackduck597",
     "password": "bullet",
     "invokedAt": "2023-06-30T11:00:47.009Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Poulsen",
+    "email": "alfred.poulsen@example.com",
+    "username": "orangefrog633",
+    "password": "ggggggg",
+    "invokedAt": "2023-06-30T12:00:49.081Z"
   }
 ]
