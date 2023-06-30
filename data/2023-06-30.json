@@ -126,5 +126,13 @@
     "username": "heavymeercat875",
     "password": "indy",
     "invokedAt": "2023-06-30T15:00:50.691Z"
+  },
+  {
+    "firstName": "Jesús",
+    "lastName": "Fuentes",
+    "email": "jesus.fuentes@example.com",
+    "username": "purplezebra659",
+    "password": "abcde",
+    "invokedAt": "2023-06-30T16:00:34.394Z"
   }
 ]
