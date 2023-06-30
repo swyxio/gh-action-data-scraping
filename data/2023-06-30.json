@@ -70,5 +70,13 @@
     "username": "whiterabbit224",
     "password": "finance",
     "invokedAt": "2023-06-30T08:00:41.491Z"
+  },
+  {
+    "firstName": "Leevi",
+    "lastName": "Nevala",
+    "email": "leevi.nevala@example.com",
+    "username": "blackswan896",
+    "password": "redsox1",
+    "invokedAt": "2023-06-30T09:00:37.781Z"
   }
 ]
