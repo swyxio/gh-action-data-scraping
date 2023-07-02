@@ -182,5 +182,13 @@
     "username": "silvercat397",
     "password": "citadel",
     "invokedAt": "2023-07-02T22:00:40.591Z"
+  },
+  {
+    "firstName": "Shraddha",
+    "lastName": "Shet",
+    "email": "shraddha.shet@example.com",
+    "username": "brownsnake340",
+    "password": "changeme",
+    "invokedAt": "2023-07-02T23:00:42.185Z"
   }
 ]
