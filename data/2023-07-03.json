@@ -118,5 +118,13 @@
     "username": "crazybird405",
     "password": "dirtbike",
     "invokedAt": "2023-07-03T14:00:39.350Z"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Long",
+    "email": "antonio.long@example.com",
+    "username": "crazyladybug846",
+    "password": "twinkle",
+    "invokedAt": "2023-07-03T15:00:40.399Z"
   }
 ]
