@@ -110,5 +110,13 @@
     "username": "tinymeercat319",
     "password": "pavilion",
     "invokedAt": "2023-07-04T13:06:14.278Z"
+  },
+  {
+    "firstName": "Léonard",
+    "lastName": "Gonzalez",
+    "email": "leonard.gonzalez@example.com",
+    "username": "heavyfrog292",
+    "password": "talbot",
+    "invokedAt": "2023-07-04T14:00:40.303Z"
   }
 ]
