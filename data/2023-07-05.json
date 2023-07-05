@@ -86,5 +86,13 @@
     "username": "silverdog317",
     "password": "spice",
     "invokedAt": "2023-07-05T10:00:50.016Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Geisler",
+    "email": "julia.geisler@example.com",
+    "username": "goldenduck998",
+    "password": "dolemite",
+    "invokedAt": "2023-07-05T11:00:42.344Z"
   }
 ]
