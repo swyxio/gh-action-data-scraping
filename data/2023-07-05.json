@@ -118,5 +118,13 @@
     "username": "orangelion225",
     "password": "labtec",
     "invokedAt": "2023-07-05T14:00:46.485Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Wang",
+    "email": "alexis.wang@example.com",
+    "username": "beautifulduck458",
+    "password": "cameron",
+    "invokedAt": "2023-07-05T15:00:36.346Z"
   }
 ]
