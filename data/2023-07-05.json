@@ -166,5 +166,13 @@
     "username": "crazycat969",
     "password": "dimples",
     "invokedAt": "2023-07-05T20:00:41.239Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Mortensen",
+    "email": "sebastian.mortensen@example.com",
+    "username": "ticklishcat666",
+    "password": "leeds",
+    "invokedAt": "2023-07-05T21:00:38.571Z"
   }
 ]
