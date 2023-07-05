@@ -94,5 +94,13 @@
     "username": "goldenduck998",
     "password": "dolemite",
     "invokedAt": "2023-07-05T11:00:42.344Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Edwards",
+    "email": "amanda.edwards@example.com",
+    "username": "silverlion369",
+    "password": "oxford",
+    "invokedAt": "2023-07-05T12:00:55.239Z"
   }
 ]
