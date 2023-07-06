@@ -86,5 +86,13 @@
     "username": "happylion539",
     "password": "cobras",
     "invokedAt": "2023-07-06T10:00:47.577Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Tütüncü",
+    "email": "vildan.tutuncu@example.com",
+    "username": "goldenostrich665",
+    "password": "a1234567",
+    "invokedAt": "2023-07-06T11:00:35.933Z"
   }
 ]
