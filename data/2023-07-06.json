@@ -182,5 +182,13 @@
     "username": "beautifulbird114",
     "password": "nuan",
     "invokedAt": "2023-07-06T22:00:38.001Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Haapala",
+    "email": "julia.haapala@example.com",
+    "username": "bluefrog308",
+    "password": "mahler",
+    "invokedAt": "2023-07-06T23:00:37.132Z"
   }
 ]
