@@ -38,5 +38,13 @@
     "username": "brownelephant721",
     "password": "cloud",
     "invokedAt": "2023-07-08T04:00:56.654Z"
+  },
+  {
+    "firstName": "María Luisa",
+    "lastName": "Ulloa",
+    "email": "marialuisa.ulloa@example.com",
+    "username": "orangefish811",
+    "password": "treefrog",
+    "invokedAt": "2023-07-08T05:00:46.137Z"
   }
 ]
