@@ -102,5 +102,13 @@
     "username": "goldendog765",
     "password": "reddwarf",
     "invokedAt": "2023-07-08T12:00:39.183Z"
+  },
+  {
+    "firstName": "Marco",
+    "lastName": "Blanc",
+    "email": "marco.blanc@example.com",
+    "username": "lazypanda639",
+    "password": "gateway1",
+    "invokedAt": "2023-07-08T13:04:19.075Z"
   }
 ]
