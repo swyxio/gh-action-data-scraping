@@ -182,5 +182,13 @@
     "username": "tinyostrich555",
     "password": "swedish",
     "invokedAt": "2023-07-10T22:00:44.912Z"
+  },
+  {
+    "firstName": "Felicia",
+    "lastName": "Mills",
+    "email": "felicia.mills@example.com",
+    "username": "goldenzebra490",
+    "password": "secret",
+    "invokedAt": "2023-07-10T23:00:41.385Z"
   }
 ]
