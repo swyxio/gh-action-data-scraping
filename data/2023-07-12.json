@@ -110,5 +110,13 @@
     "username": "ticklishkoala150",
     "password": "sailboat",
     "invokedAt": "2023-07-12T13:06:21.182Z"
+  },
+  {
+    "firstName": "Mirjana",
+    "lastName": "Kojić",
+    "email": "mirjana.kojic@example.com",
+    "username": "redcat650",
+    "password": "duffer",
+    "invokedAt": "2023-07-12T14:00:46.418Z"
   }
 ]
