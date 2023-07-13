@@ -86,5 +86,13 @@
     "username": "silverbear582",
     "password": "foobar",
     "invokedAt": "2023-07-13T10:00:42.262Z"
+  },
+  {
+    "firstName": "Dragoljub",
+    "lastName": "Branković",
+    "email": "dragoljub.brankovic@example.com",
+    "username": "silvergoose374",
+    "password": "christin",
+    "invokedAt": "2023-07-13T11:00:51.232Z"
   }
 ]
