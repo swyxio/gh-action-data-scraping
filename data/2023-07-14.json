@@ -166,5 +166,13 @@
     "username": "greenrabbit315",
     "password": "desert",
     "invokedAt": "2023-07-14T20:00:47.478Z"
+  },
+  {
+    "firstName": "Tina",
+    "lastName": "Vujić",
+    "email": "tina.vujic@example.com",
+    "username": "yellowrabbit823",
+    "password": "marlene",
+    "invokedAt": "2023-07-14T21:00:38.488Z"
   }
 ]
