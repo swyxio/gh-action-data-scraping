@@ -158,5 +158,13 @@
     "username": "tinyrabbit393",
     "password": "spider1",
     "invokedAt": "2023-07-15T19:00:34.291Z"
+  },
+  {
+    "firstName": "Michaël",
+    "lastName": "Rolland",
+    "email": "michael.rolland@example.com",
+    "username": "heavyswan743",
+    "password": "driver",
+    "invokedAt": "2023-07-15T20:00:42.333Z"
   }
 ]
