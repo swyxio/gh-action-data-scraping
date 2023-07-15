@@ -142,5 +142,13 @@
     "username": "smallpanda602",
     "password": "bonbon",
     "invokedAt": "2023-07-15T17:00:37.838Z"
+  },
+  {
+    "firstName": "Şevval",
+    "lastName": "Bergman",
+    "email": "sevval.bergman@example.com",
+    "username": "crazyleopard942",
+    "password": "thegame",
+    "invokedAt": "2023-07-15T18:00:41.551Z"
   }
 ]
