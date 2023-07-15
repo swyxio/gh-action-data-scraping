@@ -38,5 +38,13 @@
     "username": "redkoala300",
     "password": "mark1",
     "invokedAt": "2023-07-15T04:00:45.529Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Arslanoğlu",
+    "email": "esat.arslanoglu@example.com",
+    "username": "brownfish140",
+    "password": "rolling",
+    "invokedAt": "2023-07-15T05:00:45.213Z"
   }
 ]
