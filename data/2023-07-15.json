@@ -166,5 +166,13 @@
     "username": "heavyswan743",
     "password": "driver",
     "invokedAt": "2023-07-15T20:00:42.333Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Ferrer",
+    "email": "alberto.ferrer@example.com",
+    "username": "biggoose282",
+    "password": "screwy",
+    "invokedAt": "2023-07-15T21:00:31.482Z"
   }
 ]
