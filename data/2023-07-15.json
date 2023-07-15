@@ -54,5 +54,13 @@
     "username": "orangegoose965",
     "password": "peabody",
     "invokedAt": "2023-07-15T06:00:57.537Z"
+  },
+  {
+    "firstName": "Ishaan",
+    "lastName": "Naik",
+    "email": "ishaan.naik@example.com",
+    "username": "angrygoose143",
+    "password": "blanche",
+    "invokedAt": "2023-07-15T07:00:45.056Z"
   }
 ]
