@@ -86,5 +86,13 @@
     "username": "redwolf156",
     "password": "virginie",
     "invokedAt": "2023-07-16T10:00:35.506Z"
+  },
+  {
+    "firstName": "Anja",
+    "lastName": "Ristović",
+    "email": "anja.ristovic@example.com",
+    "username": "orangepeacock958",
+    "password": "picard",
+    "invokedAt": "2023-07-16T11:00:35.304Z"
   }
 ]
