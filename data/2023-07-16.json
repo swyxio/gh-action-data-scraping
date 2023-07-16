@@ -46,5 +46,13 @@
     "username": "browntiger280",
     "password": "slipper",
     "invokedAt": "2023-07-16T05:00:46.609Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Nazario",
+    "email": "miguel.nazario@example.com",
+    "username": "organiccat681",
+    "password": "goalie",
+    "invokedAt": "2023-07-16T06:00:52.031Z"
   }
 ]
