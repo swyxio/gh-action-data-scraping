@@ -70,5 +70,13 @@
     "username": "ticklishtiger160",
     "password": "hotdog",
     "invokedAt": "2023-07-17T09:00:37.632Z"
+  },
+  {
+    "firstName": "Aldo",
+    "lastName": "Meraz",
+    "email": "aldo.meraz@example.com",
+    "username": "crazycat525",
+    "password": "audio",
+    "invokedAt": "2023-07-17T10:00:46.447Z"
   }
 ]
