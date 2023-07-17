@@ -38,5 +38,13 @@
     "username": "purpleleopard614",
     "password": "chip",
     "invokedAt": "2023-07-17T04:00:46.522Z"
+  },
+  {
+    "firstName": "Byron",
+    "lastName": "Fletcher",
+    "email": "byron.fletcher@example.com",
+    "username": "angrybutterfly210",
+    "password": "wing",
+    "invokedAt": "2023-07-17T05:00:30.397Z"
   }
 ]
