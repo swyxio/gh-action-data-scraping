@@ -46,5 +46,13 @@
     "username": "angrybutterfly210",
     "password": "wing",
     "invokedAt": "2023-07-17T05:00:30.397Z"
+  },
+  {
+    "firstName": "Zvenimir",
+    "lastName": "Kozmenko",
+    "email": "zvenimir.kozmenko@example.com",
+    "username": "lazyostrich706",
+    "password": "muffin",
+    "invokedAt": "2023-07-17T06:00:37.161Z"
   }
 ]
