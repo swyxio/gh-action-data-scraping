@@ -182,5 +182,13 @@
     "username": "silverwolf384",
     "password": "generic",
     "invokedAt": "2023-07-18T22:00:56.076Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Suarez",
+    "email": "mario.suarez@example.com",
+    "username": "bigduck373",
+    "password": "dogbert",
+    "invokedAt": "2023-07-18T23:00:31.024Z"
   }
 ]
