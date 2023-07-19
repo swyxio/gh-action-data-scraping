@@ -54,5 +54,13 @@
     "username": "lazybird276",
     "password": "chat",
     "invokedAt": "2023-07-19T06:00:41.903Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Thompson",
+    "email": "daniel.thompson@example.com",
+    "username": "redkoala590",
+    "password": "carson",
+    "invokedAt": "2023-07-19T07:00:50.388Z"
   }
 ]
