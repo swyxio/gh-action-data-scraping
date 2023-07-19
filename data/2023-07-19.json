@@ -102,5 +102,13 @@
     "username": "happygorilla225",
     "password": "bubble",
     "invokedAt": "2023-07-19T12:00:42.511Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Christiansen",
+    "email": "magnus.christiansen@example.com",
+    "username": "crazywolf266",
+    "password": "smoking",
+    "invokedAt": "2023-07-19T13:03:28.734Z"
   }
 ]
