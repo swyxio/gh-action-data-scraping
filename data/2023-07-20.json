@@ -182,5 +182,13 @@
     "username": "organicpanda115",
     "password": "taurus",
     "invokedAt": "2023-07-20T22:00:48.839Z"
+  },
+  {
+    "firstName": "Bilomir",
+    "lastName": "Shchegelskiy",
+    "email": "bilomir.shchegelskiy@example.com",
+    "username": "lazycat560",
+    "password": "santiago",
+    "invokedAt": "2023-07-20T23:00:32.466Z"
   }
 ]
