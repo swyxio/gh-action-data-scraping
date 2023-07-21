@@ -134,5 +134,13 @@
     "username": "happygoose344",
     "password": "gotcha",
     "invokedAt": "2023-07-21T16:00:43.526Z"
+  },
+  {
+    "firstName": "Katie",
+    "lastName": "Sullivan",
+    "email": "katie.sullivan@example.com",
+    "username": "angryduck271",
+    "password": "jezebel",
+    "invokedAt": "2023-07-21T17:00:34.581Z"
   }
 ]
