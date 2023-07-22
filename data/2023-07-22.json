@@ -126,5 +126,13 @@
     "username": "greenkoala344",
     "password": "mortgage",
     "invokedAt": "2023-07-22T15:00:31.338Z"
+  },
+  {
+    "firstName": "Piper",
+    "lastName": "Chen",
+    "email": "piper.chen@example.com",
+    "username": "organiccat301",
+    "password": "billbill",
+    "invokedAt": "2023-07-22T16:00:46.613Z"
   }
 ]
