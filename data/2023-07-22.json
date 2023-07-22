@@ -46,5 +46,13 @@
     "username": "lazypanda239",
     "password": "compton",
     "invokedAt": "2023-07-22T05:00:42.733Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Tanrıkulu",
+    "email": "vedat.tanrikulu@example.com",
+    "username": "redbear314",
+    "password": "azzer",
+    "invokedAt": "2023-07-22T06:00:49.826Z"
   }
 ]
