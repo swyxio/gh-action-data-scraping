@@ -62,5 +62,13 @@
     "username": "yellowbird848",
     "password": "maxima",
     "invokedAt": "2023-07-23T07:00:56.867Z"
+  },
+  {
+    "firstName": "Kika",
+    "lastName": "Romijn",
+    "email": "kika.romijn@example.com",
+    "username": "blackbear511",
+    "password": "riddle",
+    "invokedAt": "2023-07-23T08:00:47.751Z"
   }
 ]
