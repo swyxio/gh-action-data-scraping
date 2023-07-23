@@ -166,5 +166,13 @@
     "username": "heavygorilla100",
     "password": "reddevil",
     "invokedAt": "2023-07-23T20:00:40.500Z"
+  },
+  {
+    "firstName": "Naël",
+    "lastName": "Renaud",
+    "email": "nael.renaud@example.com",
+    "username": "angrybird579",
+    "password": "goodman",
+    "invokedAt": "2023-07-23T21:00:44.375Z"
   }
 ]
