@@ -102,5 +102,13 @@
     "username": "bigkoala577",
     "password": "hard",
     "invokedAt": "2023-07-24T12:00:41.426Z"
+  },
+  {
+    "firstName": "Ljubica",
+    "lastName": "Ćirić",
+    "email": "ljubica.ciric@example.com",
+    "username": "silverpeacock595",
+    "password": "mentor",
+    "invokedAt": "2023-07-24T13:03:48.153Z"
   }
 ]
