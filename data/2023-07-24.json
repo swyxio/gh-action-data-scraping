@@ -62,5 +62,13 @@
     "username": "bigrabbit596",
     "password": "hotbox",
     "invokedAt": "2023-07-24T07:00:57.814Z"
+  },
+  {
+    "firstName": "Phillip",
+    "lastName": "Lambert",
+    "email": "phillip.lambert@example.com",
+    "username": "blackbear516",
+    "password": "1942",
+    "invokedAt": "2023-07-24T08:00:53.397Z"
   }
 ]
