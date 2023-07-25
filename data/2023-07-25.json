@@ -86,5 +86,13 @@
     "username": "orangeswan973",
     "password": "davidson",
     "invokedAt": "2023-07-25T10:00:48.703Z"
+  },
+  {
+    "firstName": "Brankica",
+    "lastName": "Topić",
+    "email": "brankica.topic@example.com",
+    "username": "happysnake762",
+    "password": "park",
+    "invokedAt": "2023-07-25T11:00:35.276Z"
   }
 ]
