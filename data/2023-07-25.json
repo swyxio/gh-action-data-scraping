@@ -182,5 +182,13 @@
     "username": "redgorilla555",
     "password": "24680",
     "invokedAt": "2023-07-25T22:00:33.245Z"
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Kılıççı",
+    "email": "onur.kilicci@example.com",
+    "username": "blueswan214",
+    "password": "pascal",
+    "invokedAt": "2023-07-25T23:00:44.321Z"
   }
 ]
