@@ -54,5 +54,13 @@
     "username": "goldentiger903",
     "password": "aries",
     "invokedAt": "2023-07-25T06:00:49.651Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Singh",
+    "email": "thomas.singh@example.com",
+    "username": "ticklishtiger910",
+    "password": "berry",
+    "invokedAt": "2023-07-25T07:00:43.550Z"
   }
 ]
