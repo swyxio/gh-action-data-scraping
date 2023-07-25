@@ -94,5 +94,13 @@
     "username": "happysnake762",
     "password": "park",
     "invokedAt": "2023-07-25T11:00:35.276Z"
+  },
+  {
+    "firstName": "Nadja",
+    "lastName": "Rukavina",
+    "email": "nadja.rukavina@example.com",
+    "username": "organicelephant382",
+    "password": "golden1",
+    "invokedAt": "2023-07-25T12:00:40.762Z"
   }
 ]
