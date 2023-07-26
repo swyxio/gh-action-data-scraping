@@ -94,5 +94,13 @@
     "username": "happybird679",
     "password": "1245",
     "invokedAt": "2023-07-26T11:00:38.209Z"
+  },
+  {
+    "firstName": "Anica",
+    "lastName": "Radojičić",
+    "email": "anica.radojicic@example.com",
+    "username": "orangegoose250",
+    "password": "basketba",
+    "invokedAt": "2023-07-26T12:01:01.616Z"
   }
 ]
