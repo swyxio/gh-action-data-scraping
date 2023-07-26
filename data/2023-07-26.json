@@ -158,5 +158,13 @@
     "username": "happysnake454",
     "password": "conway",
     "invokedAt": "2023-07-26T19:00:41.600Z"
+  },
+  {
+    "firstName": "Bernadette",
+    "lastName": "Garnier",
+    "email": "bernadette.garnier@example.com",
+    "username": "whitewolf279",
+    "password": "kenworth",
+    "invokedAt": "2023-07-26T20:00:40.528Z"
   }
 ]
