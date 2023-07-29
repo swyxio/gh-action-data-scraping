@@ -62,5 +62,13 @@
     "username": "orangegorilla744",
     "password": "titanium",
     "invokedAt": "2023-07-29T07:00:54.712Z"
+  },
+  {
+    "firstName": "Dušan",
+    "lastName": "Santrač",
+    "email": "dusan.santrac@example.com",
+    "username": "yellowpanda231",
+    "password": "jasmin",
+    "invokedAt": "2023-07-29T08:00:47.312Z"
   }
 ]
