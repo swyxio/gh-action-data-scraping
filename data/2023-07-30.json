@@ -150,5 +150,13 @@
     "username": "redbird132",
     "password": "storys",
     "invokedAt": "2023-07-30T18:00:46.751Z"
+  },
+  {
+    "firstName": "Gonca",
+    "lastName": "Yıldırım",
+    "email": "gonca.yildirim@example.com",
+    "username": "redladybug501",
+    "password": "panic",
+    "invokedAt": "2023-07-30T19:00:43.597Z"
   }
 ]
