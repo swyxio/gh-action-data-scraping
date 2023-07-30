@@ -158,5 +158,13 @@
     "username": "redladybug501",
     "password": "panic",
     "invokedAt": "2023-07-30T19:00:43.597Z"
+  },
+  {
+    "firstName": "Adrián",
+    "lastName": "Álvarez",
+    "email": "adrian.alvarez@example.com",
+    "username": "blackfrog226",
+    "password": "ferrari",
+    "invokedAt": "2023-07-30T20:00:41.321Z"
   }
 ]
