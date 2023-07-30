@@ -54,5 +54,13 @@
     "username": "happylion507",
     "password": "rabbits",
     "invokedAt": "2023-07-30T06:00:44.213Z"
+  },
+  {
+    "firstName": "Concepción",
+    "lastName": "Ferrer",
+    "email": "concepcion.ferrer@example.com",
+    "username": "orangegorilla211",
+    "password": "studly",
+    "invokedAt": "2023-07-30T07:00:33.147Z"
   }
 ]
