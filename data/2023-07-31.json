@@ -174,5 +174,13 @@
     "username": "lazykoala777",
     "password": "gamma",
     "invokedAt": "2023-07-31T21:01:05.218Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Williamson",
+    "email": "thomas.williamson@example.com",
+    "username": "goldenlion399",
+    "password": "applepie",
+    "invokedAt": "2023-07-31T22:00:50.965Z"
   }
 ]
