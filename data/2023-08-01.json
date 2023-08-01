@@ -94,5 +94,13 @@
     "username": "crazyswan555",
     "password": "music",
     "invokedAt": "2023-08-01T11:00:38.430Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Kari",
+    "email": "joel.kari@example.com",
+    "username": "tinyelephant263",
+    "password": "avatar",
+    "invokedAt": "2023-08-01T12:00:42.214Z"
   }
 ]
