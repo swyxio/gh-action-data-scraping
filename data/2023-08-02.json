@@ -110,5 +110,13 @@
     "username": "tinymouse479",
     "password": "sidekick",
     "invokedAt": "2023-08-02T13:03:00.417Z"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Taylor",
+    "email": "scott.taylor@example.com",
+    "username": "bigbird516",
+    "password": "kingdom",
+    "invokedAt": "2023-08-02T14:00:43.829Z"
   }
 ]
