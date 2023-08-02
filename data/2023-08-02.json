@@ -30,5 +30,13 @@
     "username": "heavydog124",
     "password": "easy",
     "invokedAt": "2023-08-02T03:00:45.160Z"
+  },
+  {
+    "firstName": "Anica",
+    "lastName": "Dokić",
+    "email": "anica.dokic@example.com",
+    "username": "silverzebra629",
+    "password": "mary",
+    "invokedAt": "2023-08-02T04:00:46.182Z"
   }
 ]
