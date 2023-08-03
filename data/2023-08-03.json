@@ -78,5 +78,13 @@
     "username": "ticklishbear315",
     "password": "errors",
     "invokedAt": "2023-08-03T09:00:57.822Z"
+  },
+  {
+    "firstName": "Dorico",
+    "lastName": "da Mata",
+    "email": "dorico.damata@example.com",
+    "username": "bluesnake801",
+    "password": "easter",
+    "invokedAt": "2023-08-03T10:00:39.789Z"
   }
 ]
