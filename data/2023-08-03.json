@@ -142,5 +142,13 @@
     "username": "whitewolf451",
     "password": "preacher",
     "invokedAt": "2023-08-03T17:00:36.783Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Moreau",
+    "email": "jose.moreau@example.com",
+    "username": "redleopard520",
+    "password": "bigmac",
+    "invokedAt": "2023-08-03T18:00:44.521Z"
   }
 ]
