@@ -158,5 +158,13 @@
     "username": "happydog301",
     "password": "saturn",
     "invokedAt": "2023-08-03T19:00:34.419Z"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Boyer",
+    "email": "marko.boyer@example.com",
+    "username": "yellowbear280",
+    "password": "kingdom",
+    "invokedAt": "2023-08-03T20:00:41.301Z"
   }
 ]
