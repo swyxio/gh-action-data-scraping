@@ -174,5 +174,13 @@
     "username": "lazypanda235",
     "password": "paris",
     "invokedAt": "2023-08-05T21:00:33.117Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Morgan",
+    "email": "samuel.morgan@example.com",
+    "username": "blueswan721",
+    "password": "lambda",
+    "invokedAt": "2023-08-05T22:00:40.384Z"
   }
 ]
