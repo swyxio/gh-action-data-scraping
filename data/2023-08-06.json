@@ -86,5 +86,13 @@
     "username": "happyrabbit433",
     "password": "trident",
     "invokedAt": "2023-08-06T10:00:34.533Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Harris",
+    "email": "adam.harris@example.com",
+    "username": "heavyrabbit572",
+    "password": "goalie",
+    "invokedAt": "2023-08-06T11:00:37.314Z"
   }
 ]
