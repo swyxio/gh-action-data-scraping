@@ -102,5 +102,13 @@
     "username": "greenmeercat385",
     "password": "gamma",
     "invokedAt": "2023-08-06T12:00:32.344Z"
+  },
+  {
+    "firstName": "Kyo",
+    "lastName": "Ateş",
+    "email": "kyo.ates@example.com",
+    "username": "beautifulfish344",
+    "password": "clock",
+    "invokedAt": "2023-08-06T13:00:47.456Z"
   }
 ]
