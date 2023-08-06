@@ -166,5 +166,13 @@
     "username": "crazyostrich970",
     "password": "isabella",
     "invokedAt": "2023-08-06T20:00:34.875Z"
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Drevland",
+    "email": "luna.drevland@example.com",
+    "username": "purplewolf277",
+    "password": "forever",
+    "invokedAt": "2023-08-06T21:00:41.231Z"
   }
 ]
