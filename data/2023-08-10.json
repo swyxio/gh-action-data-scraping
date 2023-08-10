@@ -102,5 +102,13 @@
     "username": "bigkoala440",
     "password": "ncc1701e",
     "invokedAt": "2023-08-10T12:00:40.198Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Carmona",
+    "email": "alex.carmona@example.com",
+    "username": "brownsnake168",
+    "password": "iverson3",
+    "invokedAt": "2023-08-10T13:03:47.042Z"
   }
 ]
