@@ -38,5 +38,13 @@
     "username": "lazyfish123",
     "password": "lock",
     "invokedAt": "2023-08-12T04:00:23.442Z"
+  },
+  {
+    "firstName": "Jasper",
+    "lastName": "Chen",
+    "email": "jasper.chen@example.com",
+    "username": "lazypanda983",
+    "password": "1231",
+    "invokedAt": "2023-08-12T05:00:24.097Z"
   }
 ]
