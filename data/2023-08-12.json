@@ -62,5 +62,13 @@
     "username": "blueswan936",
     "password": "spitfire",
     "invokedAt": "2023-08-12T07:00:24.252Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Balcı",
+    "email": "ozkan.balci@example.com",
+    "username": "happyfish774",
+    "password": "gremlin",
+    "invokedAt": "2023-08-12T08:00:23.412Z"
   }
 ]
