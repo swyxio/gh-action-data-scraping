@@ -182,5 +182,13 @@
     "username": "brownlion912",
     "password": "nation",
     "invokedAt": "2023-08-13T22:00:24.997Z"
+  },
+  {
+    "firstName": "Ryder",
+    "lastName": "Grewal",
+    "email": "ryder.grewal@example.com",
+    "username": "yellowbear364",
+    "password": "brain",
+    "invokedAt": "2023-08-13T23:00:21.378Z"
   }
 ]
