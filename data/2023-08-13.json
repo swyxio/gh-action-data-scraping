@@ -38,5 +38,13 @@
     "username": "crazyduck903",
     "password": "starter",
     "invokedAt": "2023-08-13T04:00:43.471Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Kurutluoğlu",
+    "email": "gokhan.kurutluoglu@example.com",
+    "username": "brownrabbit141",
+    "password": "madman",
+    "invokedAt": "2023-08-13T05:00:28.281Z"
   }
 ]
