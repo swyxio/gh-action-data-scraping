@@ -142,5 +142,13 @@
     "username": "lazyleopard719",
     "password": "jarhead",
     "invokedAt": "2023-08-13T17:00:23.089Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Park",
+    "email": "liam.park@example.com",
+    "username": "orangeleopard379",
+    "password": "florian",
+    "invokedAt": "2023-08-13T18:00:23.984Z"
   }
 ]
