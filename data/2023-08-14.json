@@ -166,5 +166,13 @@
     "username": "redzebra184",
     "password": "compaq1",
     "invokedAt": "2023-08-14T20:00:31.368Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Keseroğlu",
+    "email": "onal.keseroglu@example.com",
+    "username": "bluedog415",
+    "password": "test1",
+    "invokedAt": "2023-08-14T21:00:27.138Z"
   }
 ]
