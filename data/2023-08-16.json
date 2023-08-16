@@ -142,5 +142,13 @@
     "username": "smallrabbit252",
     "password": "shanghai",
     "invokedAt": "2023-08-16T17:00:28.069Z"
+  },
+  {
+    "firstName": "Kerttu",
+    "lastName": "Lampi",
+    "email": "kerttu.lampi@example.com",
+    "username": "lazywolf291",
+    "password": "forever",
+    "invokedAt": "2023-08-16T18:00:29.138Z"
   }
 ]
