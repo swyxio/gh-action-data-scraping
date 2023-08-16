@@ -86,5 +86,13 @@
     "username": "redpeacock197",
     "password": "pa55w0rd",
     "invokedAt": "2023-08-16T10:00:26.313Z"
+  },
+  {
+    "firstName": "Joanne",
+    "lastName": "Mills",
+    "email": "joanne.mills@example.com",
+    "username": "greenladybug847",
+    "password": "blanked",
+    "invokedAt": "2023-08-16T11:00:24.767Z"
   }
 ]
