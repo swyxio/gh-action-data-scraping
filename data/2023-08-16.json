@@ -118,5 +118,13 @@
     "username": "blacksnake415",
     "password": "vbnm",
     "invokedAt": "2023-08-16T14:00:28.480Z"
+  },
+  {
+    "firstName": "Katherine",
+    "lastName": "Holmes",
+    "email": "katherine.holmes@example.com",
+    "username": "crazyleopard409",
+    "password": "something",
+    "invokedAt": "2023-08-16T15:00:24.187Z"
   }
 ]
