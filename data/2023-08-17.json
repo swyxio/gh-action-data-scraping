@@ -166,5 +166,13 @@
     "username": "heavyelephant592",
     "password": "bbking",
     "invokedAt": "2023-08-17T20:00:27.084Z"
+  },
+  {
+    "firstName": "Daisy",
+    "lastName": "Murray",
+    "email": "daisy.murray@example.com",
+    "username": "goldenbird742",
+    "password": "number",
+    "invokedAt": "2023-08-17T21:00:28.050Z"
   }
 ]
