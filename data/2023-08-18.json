@@ -78,5 +78,13 @@
     "username": "greenelephant607",
     "password": "smithers",
     "invokedAt": "2023-08-18T09:00:22.701Z"
+  },
+  {
+    "firstName": "Jeanne",
+    "lastName": "Wong",
+    "email": "jeanne.wong@example.com",
+    "username": "heavyelephant406",
+    "password": "indy",
+    "invokedAt": "2023-08-18T10:00:25.732Z"
   }
 ]
