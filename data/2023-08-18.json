@@ -46,5 +46,13 @@
     "username": "sadgorilla508",
     "password": "glacier",
     "invokedAt": "2023-08-18T05:00:20.054Z"
+  },
+  {
+    "firstName": "Fabio",
+    "lastName": "Lemaire",
+    "email": "fabio.lemaire@example.com",
+    "username": "sadgoose270",
+    "password": "safari",
+    "invokedAt": "2023-08-18T06:00:28.443Z"
   }
 ]
