@@ -70,5 +70,13 @@
     "username": "blackcat263",
     "password": "delta1",
     "invokedAt": "2023-08-19T08:00:28.158Z"
+  },
+  {
+    "firstName": "Ayse",
+    "lastName": "Schreiner",
+    "email": "ayse.schreiner@example.com",
+    "username": "brownbutterfly103",
+    "password": "visa",
+    "invokedAt": "2023-08-19T09:00:22.355Z"
   }
 ]
