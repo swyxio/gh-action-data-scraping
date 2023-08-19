@@ -118,5 +118,13 @@
     "username": "happyleopard351",
     "password": "citizen",
     "invokedAt": "2023-08-19T14:00:30.434Z"
+  },
+  {
+    "firstName": "Jeanne",
+    "lastName": "Morin",
+    "email": "jeanne.morin@example.com",
+    "username": "happyswan283",
+    "password": "magellan",
+    "invokedAt": "2023-08-19T15:00:23.221Z"
   }
 ]
