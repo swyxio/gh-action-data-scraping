@@ -14,5 +14,13 @@
     "username": "bigfish163",
     "password": "printing",
     "invokedAt": "2023-08-19T01:17:45.024Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Williams",
+    "email": "marcus.williams@example.com",
+    "username": "silverbutterfly853",
+    "password": "vertigo",
+    "invokedAt": "2023-08-19T02:02:24.128Z"
   }
 ]
