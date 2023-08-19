@@ -110,5 +110,13 @@
     "username": "happywolf333",
     "password": "fender",
     "invokedAt": "2023-08-19T13:00:41.929Z"
+  },
+  {
+    "firstName": "Marguerite",
+    "lastName": "Caron",
+    "email": "marguerite.caron@example.com",
+    "username": "happyleopard351",
+    "password": "citizen",
+    "invokedAt": "2023-08-19T14:00:30.434Z"
   }
 ]
