@@ -174,5 +174,13 @@
     "username": "orangebear916",
     "password": "treble",
     "invokedAt": "2023-08-20T21:00:21.386Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Lehto",
+    "email": "arttu.lehto@example.com",
+    "username": "blackbird639",
+    "password": "insert",
+    "invokedAt": "2023-08-20T22:00:21.318Z"
   }
 ]
