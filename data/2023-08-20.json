@@ -110,5 +110,13 @@
     "username": "sadgorilla722",
     "password": "lewis",
     "invokedAt": "2023-08-20T13:00:34.928Z"
+  },
+  {
+    "firstName": "Vesna",
+    "lastName": "Topić",
+    "email": "vesna.topic@example.com",
+    "username": "redduck151",
+    "password": "watford",
+    "invokedAt": "2023-08-20T14:00:20.414Z"
   }
 ]
