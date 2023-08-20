@@ -182,5 +182,13 @@
     "username": "blackbird639",
     "password": "insert",
     "invokedAt": "2023-08-20T22:00:21.318Z"
+  },
+  {
+    "firstName": "Akash",
+    "lastName": "Anchan",
+    "email": "akash.anchan@example.com",
+    "username": "happydog597",
+    "password": "thunder1",
+    "invokedAt": "2023-08-20T23:00:21.648Z"
   }
 ]
