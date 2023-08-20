@@ -22,5 +22,13 @@
     "username": "happygorilla906",
     "password": "loud",
     "invokedAt": "2023-08-20T02:04:42.480Z"
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Chow",
+    "email": "camille.chow@example.com",
+    "username": "sadcat580",
+    "password": "bloody",
+    "invokedAt": "2023-08-20T03:00:28.773Z"
   }
 ]
