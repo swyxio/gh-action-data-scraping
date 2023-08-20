@@ -166,5 +166,13 @@
     "username": "redswan152",
     "password": "guiness",
     "invokedAt": "2023-08-20T20:00:23.503Z"
+  },
+  {
+    "firstName": "Devansh",
+    "lastName": "Patil",
+    "email": "devansh.patil@example.com",
+    "username": "orangebear916",
+    "password": "treble",
+    "invokedAt": "2023-08-20T21:00:21.386Z"
   }
 ]
