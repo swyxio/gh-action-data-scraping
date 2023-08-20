@@ -158,5 +158,13 @@
     "username": "smallostrich825",
     "password": "olemiss",
     "invokedAt": "2023-08-20T19:00:29.467Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Korpi",
+    "email": "valtteri.korpi@example.com",
+    "username": "redswan152",
+    "password": "guiness",
+    "invokedAt": "2023-08-20T20:00:23.503Z"
   }
 ]
