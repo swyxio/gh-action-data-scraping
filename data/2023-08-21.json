@@ -158,5 +158,13 @@
     "username": "crazybear522",
     "password": "jagger",
     "invokedAt": "2023-08-21T19:00:19.574Z"
+  },
+  {
+    "firstName": "Léo",
+    "lastName": "Arnaud",
+    "email": "leo.arnaud@example.com",
+    "username": "purpleelephant263",
+    "password": "bluejay",
+    "invokedAt": "2023-08-21T20:00:25.243Z"
   }
 ]
