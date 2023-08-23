@@ -126,5 +126,13 @@
     "username": "purplefrog876",
     "password": "ncc74656",
     "invokedAt": "2023-08-23T15:00:27.947Z"
+  },
+  {
+    "firstName": "Cris",
+    "lastName": "da Cruz",
+    "email": "cris.dacruz@example.com",
+    "username": "greenelephant712",
+    "password": "dandfa",
+    "invokedAt": "2023-08-23T16:00:23.156Z"
   }
 ]
