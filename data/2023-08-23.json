@@ -54,5 +54,13 @@
     "username": "goldengoose382",
     "password": "guinness",
     "invokedAt": "2023-08-23T06:00:30.614Z"
+  },
+  {
+    "firstName": "Léo",
+    "lastName": "Berger",
+    "email": "leo.berger@example.com",
+    "username": "lazybutterfly756",
+    "password": "girfriend",
+    "invokedAt": "2023-08-23T07:00:31.148Z"
   }
 ]
