@@ -62,5 +62,13 @@
     "username": "organicfish845",
     "password": "sheng",
     "invokedAt": "2023-08-24T07:00:33.404Z"
+  },
+  {
+    "firstName": "Gordon",
+    "lastName": "Thompson",
+    "email": "gordon.thompson@example.com",
+    "username": "purplekoala101",
+    "password": "phillies",
+    "invokedAt": "2023-08-24T08:00:27.183Z"
   }
 ]
