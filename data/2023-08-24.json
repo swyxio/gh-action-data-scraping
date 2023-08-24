@@ -142,5 +142,13 @@
     "username": "happybird788",
     "password": "southern",
     "invokedAt": "2023-08-24T17:00:29.952Z"
+  },
+  {
+    "firstName": "Đuraš",
+    "lastName": "Šarić",
+    "email": "duras.saric@example.com",
+    "username": "blackswan937",
+    "password": "kahlua",
+    "invokedAt": "2023-08-24T18:00:24.388Z"
   }
 ]
