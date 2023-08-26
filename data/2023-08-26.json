@@ -150,5 +150,13 @@
     "username": "yellowostrich767",
     "password": "newpass6",
     "invokedAt": "2023-08-26T18:00:20.265Z"
+  },
+  {
+    "firstName": "Milovan",
+    "lastName": "Đokić",
+    "email": "milovan.dokic@example.com",
+    "username": "tinyladybug987",
+    "password": "reason",
+    "invokedAt": "2023-08-26T19:00:27.607Z"
   }
 ]
