@@ -158,5 +158,13 @@
     "username": "tinyladybug987",
     "password": "reason",
     "invokedAt": "2023-08-26T19:00:27.607Z"
+  },
+  {
+    "firstName": "Živan",
+    "lastName": "Ivanić",
+    "email": "zivan.ivanic@example.com",
+    "username": "ticklishbird844",
+    "password": "wassup",
+    "invokedAt": "2023-08-26T20:00:31.453Z"
   }
 ]
