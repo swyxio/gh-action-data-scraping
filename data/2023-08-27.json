@@ -142,5 +142,13 @@
     "username": "greenrabbit960",
     "password": "pass123",
     "invokedAt": "2023-08-27T17:00:27.304Z"
+  },
+  {
+    "firstName": "José Manuél",
+    "lastName": "Rivas",
+    "email": "josemanuel.rivas@example.com",
+    "username": "redbird414",
+    "password": "1200",
+    "invokedAt": "2023-08-27T18:00:23.242Z"
   }
 ]
