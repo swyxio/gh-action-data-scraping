@@ -94,5 +94,13 @@
     "username": "organicfish687",
     "password": "dixie1",
     "invokedAt": "2023-08-28T11:00:27.607Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Jarvela",
+    "email": "rasmus.jarvela@example.com",
+    "username": "crazyfish127",
+    "password": "haggis",
+    "invokedAt": "2023-08-28T12:00:34.136Z"
   }
 ]
