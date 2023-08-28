@@ -54,5 +54,13 @@
     "username": "redwolf317",
     "password": "fringe",
     "invokedAt": "2023-08-28T06:00:30.472Z"
+  },
+  {
+    "firstName": "Lorenz",
+    "lastName": "Kühnert",
+    "email": "lorenz.kuhnert@example.com",
+    "username": "angrymeercat226",
+    "password": "bones",
+    "invokedAt": "2023-08-28T07:00:26.513Z"
   }
 ]
