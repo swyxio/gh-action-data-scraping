@@ -158,5 +158,13 @@
     "username": "sadgoose255",
     "password": "callisto",
     "invokedAt": "2023-08-28T19:00:24.071Z"
+  },
+  {
+    "firstName": "Baltasar",
+    "lastName": "da Mata",
+    "email": "baltasar.damata@example.com",
+    "username": "heavyleopard623",
+    "password": "arthur",
+    "invokedAt": "2023-08-28T20:00:28.335Z"
   }
 ]
