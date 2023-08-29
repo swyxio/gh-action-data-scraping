@@ -62,5 +62,13 @@
     "username": "organicmeercat265",
     "password": "lord",
     "invokedAt": "2023-08-29T07:00:30.220Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Petersen",
+    "email": "daniel.petersen@example.com",
+    "username": "orangegoose236",
+    "password": "virtual",
+    "invokedAt": "2023-08-29T08:00:30.927Z"
   }
 ]
