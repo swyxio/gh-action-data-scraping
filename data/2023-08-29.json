@@ -46,5 +46,13 @@
     "username": "lazycat707",
     "password": "slowhand",
     "invokedAt": "2023-08-29T05:00:32.391Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Larsen",
+    "email": "anton.larsen@example.com",
+    "username": "sadcat702",
+    "password": "johnny",
+    "invokedAt": "2023-08-29T06:00:23.600Z"
   }
 ]
