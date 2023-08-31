@@ -78,5 +78,13 @@
     "username": "sadbird724",
     "password": "skyler",
     "invokedAt": "2023-08-31T09:00:25.169Z"
+  },
+  {
+    "firstName": "Servaas",
+    "lastName": "De Block",
+    "email": "servaas.deblock@example.com",
+    "username": "reddog106",
+    "password": "123456a",
+    "invokedAt": "2023-08-31T10:00:28.466Z"
   }
 ]
