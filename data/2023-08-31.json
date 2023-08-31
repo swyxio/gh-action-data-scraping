@@ -118,5 +118,13 @@
     "username": "tinyfish330",
     "password": "rocker",
     "invokedAt": "2023-08-31T14:00:26.649Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Moore",
+    "email": "james.moore@example.com",
+    "username": "bigelephant901",
+    "password": "lobo",
+    "invokedAt": "2023-08-31T15:00:23.048Z"
   }
 ]
