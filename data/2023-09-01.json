@@ -182,5 +182,13 @@
     "username": "sadsnake178",
     "password": "pacific",
     "invokedAt": "2023-09-01T22:00:27.322Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Körmükçü",
+    "email": "vedat.kormukcu@example.com",
+    "username": "beautifulbird521",
+    "password": "fireball",
+    "invokedAt": "2023-09-01T23:00:20.412Z"
   }
 ]
