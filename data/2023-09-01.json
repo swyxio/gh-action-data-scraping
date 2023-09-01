@@ -38,5 +38,13 @@
     "username": "redbird748",
     "password": "mailman",
     "invokedAt": "2023-09-01T04:00:30.365Z"
+  },
+  {
+    "firstName": "Juliette",
+    "lastName": "Clark",
+    "email": "juliette.clark@example.com",
+    "username": "beautifultiger969",
+    "password": "secrets",
+    "invokedAt": "2023-09-01T05:00:28.556Z"
   }
 ]
