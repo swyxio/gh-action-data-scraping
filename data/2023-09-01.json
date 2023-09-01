@@ -30,5 +30,13 @@
     "username": "smallswan974",
     "password": "head",
     "invokedAt": "2023-09-01T03:00:21.670Z"
+  },
+  {
+    "firstName": "Oya",
+    "lastName": "Polat",
+    "email": "oya.polat@example.com",
+    "username": "redbird748",
+    "password": "mailman",
+    "invokedAt": "2023-09-01T04:00:30.365Z"
   }
 ]
