@@ -6,5 +6,13 @@
     "username": "goldenwolf400",
     "password": "helium",
     "invokedAt": "2023-09-01T00:00:31.407Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Lowe",
+    "email": "ivan.lowe@example.com",
+    "username": "beautifulbutterfly994",
+    "password": "12344321",
+    "invokedAt": "2023-09-01T01:23:32.422Z"
   }
 ]
