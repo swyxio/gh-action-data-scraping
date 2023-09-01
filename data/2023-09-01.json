@@ -158,5 +158,13 @@
     "username": "bigswan622",
     "password": "woohoo",
     "invokedAt": "2023-09-01T19:00:22.476Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Poulsen",
+    "email": "sara.poulsen@example.com",
+    "username": "angrybutterfly624",
+    "password": "kayleigh",
+    "invokedAt": "2023-09-01T20:00:21.281Z"
   }
 ]
