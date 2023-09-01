@@ -118,5 +118,13 @@
     "username": "crazyduck204",
     "password": "pokemon",
     "invokedAt": "2023-09-01T14:00:29.920Z"
+  },
+  {
+    "firstName": "Esparta",
+    "lastName": "Quintanilla",
+    "email": "esparta.quintanilla@example.com",
+    "username": "lazybutterfly234",
+    "password": "qwerty7",
+    "invokedAt": "2023-09-01T15:00:30.728Z"
   }
 ]
