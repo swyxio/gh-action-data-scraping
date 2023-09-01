@@ -110,5 +110,13 @@
     "username": "smallelephant310",
     "password": "amazing",
     "invokedAt": "2023-09-01T13:01:28.228Z"
+  },
+  {
+    "firstName": "Maeve",
+    "lastName": "Van Harten",
+    "email": "maeve.vanharten@example.com",
+    "username": "crazyduck204",
+    "password": "pokemon",
+    "invokedAt": "2023-09-01T14:00:29.920Z"
   }
 ]
