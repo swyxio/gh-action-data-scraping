@@ -102,5 +102,13 @@
     "username": "whiteelephant125",
     "password": "tardis",
     "invokedAt": "2023-09-01T12:00:23.591Z"
+  },
+  {
+    "firstName": "Helmtrud",
+    "lastName": "Henn",
+    "email": "helmtrud.henn@example.com",
+    "username": "smallelephant310",
+    "password": "amazing",
+    "invokedAt": "2023-09-01T13:01:28.228Z"
   }
 ]
