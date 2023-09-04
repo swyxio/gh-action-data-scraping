@@ -166,5 +166,13 @@
     "username": "angryfish925",
     "password": "rrrr",
     "invokedAt": "2023-09-04T20:00:20.277Z"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Freeman",
+    "email": "tim.freeman@example.com",
+    "username": "happymeercat789",
+    "password": "pitchers",
+    "invokedAt": "2023-09-04T21:00:21.020Z"
   }
 ]
