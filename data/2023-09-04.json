@@ -102,5 +102,13 @@
     "username": "heavyduck777",
     "password": "hello",
     "invokedAt": "2023-09-04T12:00:24.534Z"
+  },
+  {
+    "firstName": "Clemens",
+    "lastName": "Pfennig",
+    "email": "clemens.pfennig@example.com",
+    "username": "heavybird188",
+    "password": "jiang",
+    "invokedAt": "2023-09-04T13:01:52.256Z"
   }
 ]
