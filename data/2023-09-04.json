@@ -54,5 +54,13 @@
     "username": "blueladybug489",
     "password": "paradox",
     "invokedAt": "2023-09-04T06:00:35.659Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Christensen",
+    "email": "valdemar.christensen@example.com",
+    "username": "greenbird908",
+    "password": "ready",
+    "invokedAt": "2023-09-04T07:00:21.011Z"
   }
 ]
