@@ -126,5 +126,13 @@
     "username": "silverostrich157",
     "password": "cyrano",
     "invokedAt": "2023-09-04T15:00:28.154Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Hill",
+    "email": "luke.hill@example.com",
+    "username": "tinyswan302",
+    "password": "zxcv",
+    "invokedAt": "2023-09-04T16:00:22.216Z"
   }
 ]
