@@ -46,5 +46,13 @@
     "username": "blackgorilla476",
     "password": "blackjac",
     "invokedAt": "2023-09-05T06:00:28.288Z"
+  },
+  {
+    "firstName": "Indra",
+    "lastName": "Van Genderen",
+    "email": "indra.vangenderen@example.com",
+    "username": "whitegoose486",
+    "password": "xfiles",
+    "invokedAt": "2023-09-05T08:00:22.179Z"
   }
 ]
