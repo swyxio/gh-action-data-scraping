@@ -22,5 +22,13 @@
     "username": "blackgoose335",
     "password": "morning",
     "invokedAt": "2023-09-06T02:05:55.605Z"
+  },
+  {
+    "firstName": "Akseli",
+    "lastName": "Korpi",
+    "email": "akseli.korpi@example.com",
+    "username": "lazypanda809",
+    "password": "zoom",
+    "invokedAt": "2023-09-06T03:00:22.462Z"
   }
 ]
