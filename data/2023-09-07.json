@@ -102,5 +102,13 @@
     "username": "happyleopard219",
     "password": "chocolate",
     "invokedAt": "2023-09-07T12:00:29.060Z"
+  },
+  {
+    "firstName": "Friedlinde",
+    "lastName": "Thamm",
+    "email": "friedlinde.thamm@example.com",
+    "username": "redpanda375",
+    "password": "forum",
+    "invokedAt": "2023-09-07T13:01:37.940Z"
   }
 ]
