@@ -174,5 +174,13 @@
     "username": "sadpeacock934",
     "password": "moneys",
     "invokedAt": "2023-09-07T21:00:28.234Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Moore",
+    "email": "edward.moore@example.com",
+    "username": "bluedog794",
+    "password": "helium",
+    "invokedAt": "2023-09-07T22:00:25.238Z"
   }
 ]
