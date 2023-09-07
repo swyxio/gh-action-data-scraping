@@ -142,5 +142,13 @@
     "username": "heavyelephant687",
     "password": "hemlock",
     "invokedAt": "2023-09-07T17:00:32.082Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Williams",
+    "email": "david.williams@example.com",
+    "username": "beautifulfrog261",
+    "password": "rotten",
+    "invokedAt": "2023-09-07T18:00:27.495Z"
   }
 ]
