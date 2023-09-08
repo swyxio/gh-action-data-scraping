@@ -142,5 +142,13 @@
     "username": "heavygoose913",
     "password": "catfish",
     "invokedAt": "2023-09-08T17:00:31.435Z"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Meunier",
+    "email": "linda.meunier@example.com",
+    "username": "lazybird758",
+    "password": "xxxxxxx",
+    "invokedAt": "2023-09-08T18:00:25.808Z"
   }
 ]
