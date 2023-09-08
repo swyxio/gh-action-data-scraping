@@ -166,5 +166,13 @@
     "username": "whitefrog280",
     "password": "bogart",
     "invokedAt": "2023-09-08T20:00:24.255Z"
+  },
+  {
+    "firstName": "Nathaniel",
+    "lastName": "Fletcher",
+    "email": "nathaniel.fletcher@example.com",
+    "username": "yellowkoala762",
+    "password": "concrete",
+    "invokedAt": "2023-09-08T21:00:22.645Z"
   }
 ]
