@@ -134,5 +134,13 @@
     "username": "saddog598",
     "password": "broncos",
     "invokedAt": "2023-09-08T16:00:23.249Z"
+  },
+  {
+    "firstName": "Lawrence",
+    "lastName": "Vargas",
+    "email": "lawrence.vargas@example.com",
+    "username": "heavygoose913",
+    "password": "catfish",
+    "invokedAt": "2023-09-08T17:00:31.435Z"
   }
 ]
