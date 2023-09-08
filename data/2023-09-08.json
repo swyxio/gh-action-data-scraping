@@ -78,5 +78,13 @@
     "username": "tinytiger789",
     "password": "kennedy",
     "invokedAt": "2023-09-08T09:00:23.090Z"
+  },
+  {
+    "firstName": "Abelardo",
+    "lastName": "Ocasio",
+    "email": "abelardo.ocasio@example.com",
+    "username": "goldenostrich374",
+    "password": "godzilla",
+    "invokedAt": "2023-09-08T10:00:26.453Z"
   }
 ]
