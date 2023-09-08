@@ -86,5 +86,13 @@
     "username": "goldenostrich374",
     "password": "godzilla",
     "invokedAt": "2023-09-08T10:00:26.453Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Crespo",
+    "email": "jose.crespo@example.com",
+    "username": "bluepeacock451",
+    "password": "jumper",
+    "invokedAt": "2023-09-08T11:00:24.353Z"
   }
 ]
