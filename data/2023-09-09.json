@@ -182,5 +182,13 @@
     "username": "sadostrich785",
     "password": "isaac",
     "invokedAt": "2023-09-09T22:00:28.478Z"
+  },
+  {
+    "firstName": "Obrad",
+    "lastName": "Jović",
+    "email": "obrad.jovic@example.com",
+    "username": "happycat503",
+    "password": "whatever",
+    "invokedAt": "2023-09-09T23:00:21.057Z"
   }
 ]
