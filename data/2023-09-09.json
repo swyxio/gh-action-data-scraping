@@ -94,5 +94,13 @@
     "username": "blackbird438",
     "password": "rusty",
     "invokedAt": "2023-09-09T11:00:25.604Z"
+  },
+  {
+    "firstName": "Kaya",
+    "lastName": "Aşıkoğlu",
+    "email": "kaya.asikoglu@example.com",
+    "username": "greenmouse869",
+    "password": "doris",
+    "invokedAt": "2023-09-09T12:00:19.545Z"
   }
 ]
