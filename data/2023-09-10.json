@@ -70,5 +70,13 @@
     "username": "organicpanda105",
     "password": "buckshot",
     "invokedAt": "2023-09-10T08:00:28.301Z"
+  },
+  {
+    "firstName": "Natalia",
+    "lastName": "Anđelković",
+    "email": "natalia.andelkovic@example.com",
+    "username": "lazyfrog807",
+    "password": "froggy",
+    "invokedAt": "2023-09-10T09:00:24.146Z"
   }
 ]
