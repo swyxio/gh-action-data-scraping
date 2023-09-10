@@ -126,5 +126,13 @@
     "username": "purplelion311",
     "password": "intel",
     "invokedAt": "2023-09-10T15:00:27.180Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Mercier",
+    "email": "joel.mercier@example.com",
+    "username": "goldenostrich411",
+    "password": "pisces",
+    "invokedAt": "2023-09-10T16:00:24.921Z"
   }
 ]
