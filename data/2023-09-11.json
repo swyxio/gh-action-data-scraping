@@ -30,5 +30,13 @@
     "username": "yellowsnake591",
     "password": "77777",
     "invokedAt": "2023-09-11T03:00:22.942Z"
+  },
+  {
+    "firstName": "Djoko",
+    "lastName": "Karanović",
+    "email": "djoko.karanovic@example.com",
+    "username": "bigelephant200",
+    "password": "1112",
+    "invokedAt": "2023-09-11T04:00:20.372Z"
   }
 ]
