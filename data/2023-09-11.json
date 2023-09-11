@@ -78,5 +78,13 @@
     "username": "silverdog107",
     "password": "redsox1",
     "invokedAt": "2023-09-11T09:00:24.244Z"
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Arguello",
+    "email": "teresa.arguello@example.com",
+    "username": "sadbear288",
+    "password": "shocker",
+    "invokedAt": "2023-09-11T10:00:23.805Z"
   }
 ]
