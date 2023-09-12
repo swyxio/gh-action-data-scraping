@@ -158,5 +158,13 @@
     "username": "purplesnake433",
     "password": "australia",
     "invokedAt": "2023-09-12T19:00:21.726Z"
+  },
+  {
+    "firstName": "Lorenzo",
+    "lastName": "Robin",
+    "email": "lorenzo.robin@example.com",
+    "username": "ticklishpanda654",
+    "password": "seymour",
+    "invokedAt": "2023-09-12T20:00:20.490Z"
   }
 ]
