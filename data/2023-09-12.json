@@ -142,5 +142,13 @@
     "username": "happypeacock563",
     "password": "abcd1234",
     "invokedAt": "2023-09-12T17:00:24.790Z"
+  },
+  {
+    "firstName": "Vladimir",
+    "lastName": "Zelenović",
+    "email": "vladimir.zelenovic@example.com",
+    "username": "silvergoose118",
+    "password": "secure",
+    "invokedAt": "2023-09-12T18:00:26.002Z"
   }
 ]
