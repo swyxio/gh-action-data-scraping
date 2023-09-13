@@ -158,5 +158,13 @@
     "username": "redwolf143",
     "password": "protect",
     "invokedAt": "2023-09-13T19:00:21.228Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Edwards",
+    "email": "eva.edwards@example.com",
+    "username": "happyladybug810",
+    "password": "testtest",
+    "invokedAt": "2023-09-13T20:00:26.179Z"
   }
 ]
