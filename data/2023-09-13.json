@@ -54,5 +54,13 @@
     "username": "whiteostrich116",
     "password": "gateway",
     "invokedAt": "2023-09-13T06:00:26.754Z"
+  },
+  {
+    "firstName": "Gautam",
+    "lastName": "Tipparti",
+    "email": "gautam.tipparti@example.com",
+    "username": "orangebird240",
+    "password": "woofwoof",
+    "invokedAt": "2023-09-13T07:00:23.601Z"
   }
 ]
