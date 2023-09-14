@@ -94,5 +94,13 @@
     "username": "yellowsnake162",
     "password": "homepage-",
     "invokedAt": "2023-09-14T11:00:32.706Z"
+  },
+  {
+    "firstName": "Michel",
+    "lastName": "Vincent",
+    "email": "michel.vincent@example.com",
+    "username": "bluesnake244",
+    "password": "mega",
+    "invokedAt": "2023-09-14T12:00:25.523Z"
   }
 ]
