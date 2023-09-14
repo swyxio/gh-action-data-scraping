@@ -110,5 +110,13 @@
     "username": "whitelion315",
     "password": "builder",
     "invokedAt": "2023-09-14T13:01:55.960Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Petersen",
+    "email": "astrid.petersen@example.com",
+    "username": "bluegorilla942",
+    "password": "clips",
+    "invokedAt": "2023-09-14T14:00:29.732Z"
   }
 ]
