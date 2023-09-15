@@ -102,5 +102,13 @@
     "username": "greenladybug240",
     "password": "yahooo",
     "invokedAt": "2023-09-15T12:00:24.735Z"
+  },
+  {
+    "firstName": "Anirudh",
+    "lastName": "Patil",
+    "email": "anirudh.patil@example.com",
+    "username": "bigladybug260",
+    "password": "alfredo",
+    "invokedAt": "2023-09-15T13:01:44.365Z"
   }
 ]
