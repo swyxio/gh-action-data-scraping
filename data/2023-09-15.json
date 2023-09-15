@@ -126,5 +126,13 @@
     "username": "smallostrich773",
     "password": "helper",
     "invokedAt": "2023-09-15T15:00:33.555Z"
+  },
+  {
+    "firstName": "Ron",
+    "lastName": "Jordan",
+    "email": "ron.jordan@example.com",
+    "username": "lazybird466",
+    "password": "vegas",
+    "invokedAt": "2023-09-15T16:00:24.595Z"
   }
 ]
