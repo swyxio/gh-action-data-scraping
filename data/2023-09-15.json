@@ -22,5 +22,13 @@
     "username": "orangefish148",
     "password": "pa55word",
     "invokedAt": "2023-09-15T02:07:04.397Z"
+  },
+  {
+    "firstName": "Ernesto",
+    "lastName": "Campos",
+    "email": "ernesto.campos@example.com",
+    "username": "blackbutterfly559",
+    "password": "chicken",
+    "invokedAt": "2023-09-15T03:00:24.595Z"
   }
 ]
