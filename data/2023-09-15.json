@@ -134,5 +134,13 @@
     "username": "lazybird466",
     "password": "vegas",
     "invokedAt": "2023-09-15T16:00:24.595Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Mitrović",
+    "email": "andrea.mitrovic@example.com",
+    "username": "lazyswan157",
+    "password": "weasel",
+    "invokedAt": "2023-09-15T17:00:24.298Z"
   }
 ]
