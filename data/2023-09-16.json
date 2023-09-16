@@ -70,5 +70,13 @@
     "username": "heavykoala617",
     "password": "force",
     "invokedAt": "2023-09-16T08:00:20.291Z"
+  },
+  {
+    "firstName": "Nebojša",
+    "lastName": "Lončarević",
+    "email": "nebojsa.loncarevic@example.com",
+    "username": "crazyfrog804",
+    "password": "amazing",
+    "invokedAt": "2023-09-16T09:00:26.756Z"
   }
 ]
