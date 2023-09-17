@@ -126,5 +126,13 @@
     "username": "brownpanda773",
     "password": "outside",
     "invokedAt": "2023-09-17T15:00:26.432Z"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Çamdalı",
+    "email": "ayse.camdali@example.com",
+    "username": "beautifulladybug888",
+    "password": "machine",
+    "invokedAt": "2023-09-17T16:00:25.622Z"
   }
 ]
