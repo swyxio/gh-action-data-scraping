@@ -142,5 +142,13 @@
     "username": "whitecat200",
     "password": "bouncer",
     "invokedAt": "2023-09-17T17:00:22.238Z"
+  },
+  {
+    "firstName": "Ashley",
+    "lastName": "Burns",
+    "email": "ashley.burns@example.com",
+    "username": "blueswan417",
+    "password": "roadkill",
+    "invokedAt": "2023-09-17T18:00:32.219Z"
   }
 ]
