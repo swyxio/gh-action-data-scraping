@@ -182,5 +182,13 @@
     "username": "sadtiger298",
     "password": "inter",
     "invokedAt": "2023-09-17T22:00:23.189Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Korpi",
+    "email": "lauri.korpi@example.com",
+    "username": "silverladybug371",
+    "password": "fitness",
+    "invokedAt": "2023-09-17T23:00:19.130Z"
   }
 ]
