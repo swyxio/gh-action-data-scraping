@@ -174,5 +174,13 @@
     "username": "tinypanda900",
     "password": "chambers",
     "invokedAt": "2023-09-19T21:00:29.134Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Gutierrez",
+    "email": "dave.gutierrez@example.com",
+    "username": "bluetiger751",
+    "password": "married",
+    "invokedAt": "2023-09-19T22:00:29.415Z"
   }
 ]
