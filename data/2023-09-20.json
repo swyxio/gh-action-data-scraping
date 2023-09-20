@@ -118,5 +118,13 @@
     "username": "brownduck166",
     "password": "drum",
     "invokedAt": "2023-09-20T14:00:27.298Z"
+  },
+  {
+    "firstName": "Noora",
+    "lastName": "Opsahl",
+    "email": "noora.opsahl@example.com",
+    "username": "angrybear278",
+    "password": "daemon",
+    "invokedAt": "2023-09-20T15:00:35.078Z"
   }
 ]
