@@ -166,5 +166,13 @@
     "username": "smalltiger969",
     "password": "michele",
     "invokedAt": "2023-09-20T20:00:21.100Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Lausund",
+    "email": "abigail.lausund@example.com",
+    "username": "heavyleopard753",
+    "password": "hornet",
+    "invokedAt": "2023-09-20T21:00:24.857Z"
   }
 ]
