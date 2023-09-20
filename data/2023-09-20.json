@@ -182,5 +182,13 @@
     "username": "whiteduck703",
     "password": "tribe",
     "invokedAt": "2023-09-20T22:00:21.224Z"
+  },
+  {
+    "firstName": "Musab",
+    "lastName": "Berstad",
+    "email": "musab.berstad@example.com",
+    "username": "heavybird101",
+    "password": "sims",
+    "invokedAt": "2023-09-20T23:00:19.190Z"
   }
 ]
