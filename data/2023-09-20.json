@@ -94,5 +94,13 @@
     "username": "angrymouse710",
     "password": "virus",
     "invokedAt": "2023-09-20T11:00:25.419Z"
+  },
+  {
+    "firstName": "Pavel",
+    "lastName": "Lauber",
+    "email": "pavel.lauber@example.com",
+    "username": "bluebird630",
+    "password": "magazine",
+    "invokedAt": "2023-09-20T12:00:29.981Z"
   }
 ]
