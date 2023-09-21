@@ -182,5 +182,13 @@
     "username": "redwolf786",
     "password": "club",
     "invokedAt": "2023-09-21T22:00:22.957Z"
+  },
+  {
+    "firstName": "Nevena",
+    "lastName": "Stojaković",
+    "email": "nevena.stojakovic@example.com",
+    "username": "tinykoala433",
+    "password": "real",
+    "invokedAt": "2023-09-21T23:00:20.484Z"
   }
 ]
