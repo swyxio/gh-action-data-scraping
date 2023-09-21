@@ -134,5 +134,13 @@
     "username": "organiczebra570",
     "password": "mulder",
     "invokedAt": "2023-09-21T16:00:33.375Z"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Jacobs",
+    "email": "robert.jacobs@example.com",
+    "username": "greenmeercat243",
+    "password": "deacon",
+    "invokedAt": "2023-09-21T17:00:26.492Z"
   }
 ]
