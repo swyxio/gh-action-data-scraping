@@ -158,5 +158,13 @@
     "username": "angryfish320",
     "password": "santafe",
     "invokedAt": "2023-09-21T19:00:23.844Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Santana",
+    "email": "andres.santana@example.com",
+    "username": "blackzebra297",
+    "password": "pilot",
+    "invokedAt": "2023-09-21T20:00:20.304Z"
   }
 ]
