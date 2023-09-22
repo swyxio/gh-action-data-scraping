@@ -166,5 +166,13 @@
     "username": "greenfish422",
     "password": "samurai",
     "invokedAt": "2023-09-22T20:00:26.940Z"
+  },
+  {
+    "firstName": "Luciano",
+    "lastName": "Lambert",
+    "email": "luciano.lambert@example.com",
+    "username": "goldenbutterfly841",
+    "password": "flame",
+    "invokedAt": "2023-09-22T21:00:23.627Z"
   }
 ]
