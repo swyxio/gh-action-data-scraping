@@ -158,5 +158,13 @@
     "username": "heavyfish455",
     "password": "cat123",
     "invokedAt": "2023-09-22T19:00:23.390Z"
+  },
+  {
+    "firstName": "Branko",
+    "lastName": "Orlić",
+    "email": "branko.orlic@example.com",
+    "username": "greenfish422",
+    "password": "samurai",
+    "invokedAt": "2023-09-22T20:00:26.940Z"
   }
 ]
