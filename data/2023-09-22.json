@@ -174,5 +174,13 @@
     "username": "goldenbutterfly841",
     "password": "flame",
     "invokedAt": "2023-09-22T21:00:23.627Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Roy",
+    "email": "thomas.roy@example.com",
+    "username": "blackbird333",
+    "password": "iwantu",
+    "invokedAt": "2023-09-22T22:00:34.027Z"
   }
 ]
