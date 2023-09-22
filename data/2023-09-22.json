@@ -94,5 +94,13 @@
     "username": "happypanda539",
     "password": "ladybug",
     "invokedAt": "2023-09-22T11:00:25.548Z"
+  },
+  {
+    "firstName": "Juliette",
+    "lastName": "Young",
+    "email": "juliette.young@example.com",
+    "username": "lazydog305",
+    "password": "spanker",
+    "invokedAt": "2023-09-22T12:00:30.054Z"
   }
 ]
