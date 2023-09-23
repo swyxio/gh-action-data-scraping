@@ -102,5 +102,13 @@
     "username": "crazygorilla277",
     "password": "geheim",
     "invokedAt": "2023-09-23T12:00:38.017Z"
+  },
+  {
+    "firstName": "Mathéo",
+    "lastName": "Brun",
+    "email": "matheo.brun@example.com",
+    "username": "brownbear478",
+    "password": "reflex",
+    "invokedAt": "2023-09-23T13:00:40.010Z"
   }
 ]
