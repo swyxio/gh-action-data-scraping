@@ -174,5 +174,13 @@
     "username": "orangefish117",
     "password": "tabitha",
     "invokedAt": "2023-09-23T21:00:25.390Z"
+  },
+  {
+    "firstName": "Živan",
+    "lastName": "Vujčić",
+    "email": "zivan.vujcic@example.com",
+    "username": "redostrich901",
+    "password": "paulie",
+    "invokedAt": "2023-09-23T22:00:23.141Z"
   }
 ]
