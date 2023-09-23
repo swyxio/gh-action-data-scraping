@@ -78,5 +78,13 @@
     "username": "goldenswan493",
     "password": "111222",
     "invokedAt": "2023-09-23T09:00:21.103Z"
+  },
+  {
+    "firstName": "Alfredo",
+    "lastName": "Vidal",
+    "email": "alfredo.vidal@example.com",
+    "username": "greenlion804",
+    "password": "crunch",
+    "invokedAt": "2023-09-23T10:00:22.986Z"
   }
 ]
