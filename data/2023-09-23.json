@@ -86,5 +86,13 @@
     "username": "greenlion804",
     "password": "crunch",
     "invokedAt": "2023-09-23T10:00:22.986Z"
+  },
+  {
+    "firstName": "Emilian",
+    "lastName": "Ånensen",
+    "email": "emilian.anensen@example.com",
+    "username": "happybird570",
+    "password": "digger",
+    "invokedAt": "2023-09-23T11:00:22.750Z"
   }
 ]
