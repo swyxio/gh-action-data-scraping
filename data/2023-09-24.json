@@ -118,5 +118,13 @@
     "username": "blackbird613",
     "password": "sanford",
     "invokedAt": "2023-09-24T14:00:23.736Z"
+  },
+  {
+    "firstName": "Murat",
+    "lastName": "Çapanoğlu",
+    "email": "murat.capanoglu@example.com",
+    "username": "silverladybug750",
+    "password": "chick",
+    "invokedAt": "2023-09-24T15:00:19.024Z"
   }
 ]
