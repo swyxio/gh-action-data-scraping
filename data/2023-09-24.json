@@ -78,5 +78,13 @@
     "username": "browntiger327",
     "password": "dirtbike",
     "invokedAt": "2023-09-24T09:00:23.326Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Mortensen",
+    "email": "magnus.mortensen@example.com",
+    "username": "heavypeacock881",
+    "password": "cobain",
+    "invokedAt": "2023-09-24T10:00:23.678Z"
   }
 ]
