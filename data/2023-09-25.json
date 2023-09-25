@@ -62,5 +62,13 @@
     "username": "ticklishfish925",
     "password": "bomber",
     "invokedAt": "2023-09-25T07:00:27.205Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Andersen",
+    "email": "astrid.andersen@example.com",
+    "username": "ticklishduck185",
+    "password": "abcd",
+    "invokedAt": "2023-09-25T08:00:24.038Z"
   }
 ]
