@@ -158,5 +158,13 @@
     "username": "goldenbird141",
     "password": "bcfields",
     "invokedAt": "2023-09-25T19:00:26.091Z"
+  },
+  {
+    "firstName": "Begüm",
+    "lastName": "Özdoğan",
+    "email": "begum.ozdogan@example.com",
+    "username": "lazysnake406",
+    "password": "shua",
+    "invokedAt": "2023-09-25T20:00:21.449Z"
   }
 ]
