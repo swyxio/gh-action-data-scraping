@@ -46,5 +46,13 @@
     "username": "sadbutterfly758",
     "password": "424242",
     "invokedAt": "2023-09-25T05:00:21.142Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Mai",
+    "email": "max.mai@example.com",
+    "username": "yellowbutterfly906",
+    "password": "post",
+    "invokedAt": "2023-09-25T06:00:26.040Z"
   }
 ]
