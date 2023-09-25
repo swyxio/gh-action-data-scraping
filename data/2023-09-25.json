@@ -118,5 +118,13 @@
     "username": "orangefish742",
     "password": "gerbil",
     "invokedAt": "2023-09-25T14:00:35.075Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Peeters",
+    "email": "sergio.peeters@example.com",
+    "username": "smallfish863",
+    "password": "guiness",
+    "invokedAt": "2023-09-25T15:00:30.169Z"
   }
 ]
