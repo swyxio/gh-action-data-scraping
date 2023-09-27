@@ -46,5 +46,13 @@
     "username": "smallfrog434",
     "password": "flight",
     "invokedAt": "2023-09-27T05:00:20.310Z"
+  },
+  {
+    "firstName": "Genesis",
+    "lastName": "Carpenter",
+    "email": "genesis.carpenter@example.com",
+    "username": "bigmeercat878",
+    "password": "nuggets",
+    "invokedAt": "2023-09-27T06:00:27.091Z"
   }
 ]
