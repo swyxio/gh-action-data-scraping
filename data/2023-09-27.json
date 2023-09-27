@@ -38,5 +38,13 @@
     "username": "bigelephant703",
     "password": "house",
     "invokedAt": "2023-09-27T04:00:29.536Z"
+  },
+  {
+    "firstName": "Aurore",
+    "lastName": "Renard",
+    "email": "aurore.renard@example.com",
+    "username": "smallfrog434",
+    "password": "flight",
+    "invokedAt": "2023-09-27T05:00:20.310Z"
   }
 ]
