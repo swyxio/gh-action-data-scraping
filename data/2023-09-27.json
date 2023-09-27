@@ -158,5 +158,13 @@
     "username": "blacktiger870",
     "password": "aaaaaa1",
     "invokedAt": "2023-09-27T19:00:31.498Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Serrano",
+    "email": "daniel.serrano@example.com",
+    "username": "goldensnake264",
+    "password": "more",
+    "invokedAt": "2023-09-27T20:00:25.441Z"
   }
 ]
