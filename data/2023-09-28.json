@@ -166,5 +166,13 @@
     "username": "organicbird842",
     "password": "spock",
     "invokedAt": "2023-09-28T20:00:46.844Z"
+  },
+  {
+    "firstName": "Slavko",
+    "lastName": "Damjanović",
+    "email": "slavko.damjanovic@example.com",
+    "username": "silverbird342",
+    "password": "goliath",
+    "invokedAt": "2023-09-28T21:00:24.367Z"
   }
 ]
