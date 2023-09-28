@@ -94,5 +94,13 @@
     "username": "whitefrog973",
     "password": "music",
     "invokedAt": "2023-09-28T11:00:26.465Z"
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Meyer",
+    "email": "axel.meyer@example.com",
+    "username": "whiteladybug384",
+    "password": "short",
+    "invokedAt": "2023-09-28T12:00:25.922Z"
   }
 ]
