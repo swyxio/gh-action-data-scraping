@@ -166,5 +166,13 @@
     "username": "sadelephant499",
     "password": "navajo",
     "invokedAt": "2023-09-29T20:00:21.371Z"
+  },
+  {
+    "firstName": "Dora",
+    "lastName": "Wallace",
+    "email": "dora.wallace@example.com",
+    "username": "silverzebra174",
+    "password": "woof",
+    "invokedAt": "2023-09-29T21:00:23.644Z"
   }
 ]
