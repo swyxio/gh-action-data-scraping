@@ -158,5 +158,13 @@
     "username": "heavymouse191",
     "password": "walmart",
     "invokedAt": "2023-09-29T19:00:22.005Z"
+  },
+  {
+    "firstName": "Barb",
+    "lastName": "Carter",
+    "email": "barb.carter@example.com",
+    "username": "sadelephant499",
+    "password": "navajo",
+    "invokedAt": "2023-09-29T20:00:21.371Z"
   }
 ]
