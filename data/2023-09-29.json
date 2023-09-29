@@ -142,5 +142,13 @@
     "username": "crazyleopard107",
     "password": "grandma",
     "invokedAt": "2023-09-29T17:00:21.916Z"
+  },
+  {
+    "firstName": "Gina",
+    "lastName": "Sanders",
+    "email": "gina.sanders@example.com",
+    "username": "whiteleopard709",
+    "password": "fishy",
+    "invokedAt": "2023-09-29T18:00:26.690Z"
   }
 ]
