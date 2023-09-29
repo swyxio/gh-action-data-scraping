@@ -94,5 +94,13 @@
     "username": "silverfrog539",
     "password": "chan",
     "invokedAt": "2023-09-29T11:00:22.425Z"
+  },
+  {
+    "firstName": "Asunción",
+    "lastName": "Mora",
+    "email": "asuncion.mora@example.com",
+    "username": "happycat875",
+    "password": "jumper",
+    "invokedAt": "2023-09-29T12:00:23.443Z"
   }
 ]
