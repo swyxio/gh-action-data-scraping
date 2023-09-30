@@ -118,5 +118,13 @@
     "username": "tinypeacock902",
     "password": "shazam",
     "invokedAt": "2023-09-30T14:00:25.680Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Morel",
+    "email": "noah.morel@example.com",
+    "username": "bluegorilla187",
+    "password": "toon",
+    "invokedAt": "2023-09-30T15:00:24.506Z"
   }
 ]
