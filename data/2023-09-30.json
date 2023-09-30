@@ -62,5 +62,13 @@
     "username": "lazymouse379",
     "password": "transam",
     "invokedAt": "2023-09-30T07:00:26.810Z"
+  },
+  {
+    "firstName": "Karl-Ernst",
+    "lastName": "Mann",
+    "email": "karl-ernst.mann@example.com",
+    "username": "blacktiger992",
+    "password": "kitten",
+    "invokedAt": "2023-09-30T08:00:24.808Z"
   }
 ]
