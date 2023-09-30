@@ -46,5 +46,13 @@
     "username": "lazytiger154",
     "password": "polly",
     "invokedAt": "2023-09-30T05:00:22.734Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Öztürk",
+    "email": "efe.ozturk@example.com",
+    "username": "greenpanda879",
+    "password": "moneyman",
+    "invokedAt": "2023-09-30T06:00:30.280Z"
   }
 ]
