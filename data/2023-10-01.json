@@ -86,5 +86,13 @@
     "username": "biggorilla862",
     "password": "arkansas",
     "invokedAt": "2023-10-01T10:00:31.778Z"
+  },
+  {
+    "firstName": "Catherine",
+    "lastName": "Miles",
+    "email": "catherine.miles@example.com",
+    "username": "silverfrog478",
+    "password": "cancel",
+    "invokedAt": "2023-10-01T11:00:21.502Z"
   }
 ]
