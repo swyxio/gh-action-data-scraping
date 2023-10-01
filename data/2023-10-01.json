@@ -174,5 +174,13 @@
     "username": "purpledog466",
     "password": "together",
     "invokedAt": "2023-10-01T21:00:30.644Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Christiansen",
+    "email": "marie.christiansen@example.com",
+    "username": "blackkoala844",
+    "password": "patriot",
+    "invokedAt": "2023-10-01T22:00:25.301Z"
   }
 ]
