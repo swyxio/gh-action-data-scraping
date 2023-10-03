@@ -118,5 +118,13 @@
     "username": "redbird696",
     "password": "ambrosia",
     "invokedAt": "2023-10-03T14:00:26.753Z"
+  },
+  {
+    "firstName": "Djoko",
+    "lastName": "Orlić",
+    "email": "djoko.orlic@example.com",
+    "username": "crazygorilla635",
+    "password": "smithers",
+    "invokedAt": "2023-10-03T15:00:30.851Z"
   }
 ]
