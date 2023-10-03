@@ -182,5 +182,13 @@
     "username": "goldencat231",
     "password": "kojak",
     "invokedAt": "2023-10-03T22:00:28.976Z"
+  },
+  {
+    "firstName": "Sevda",
+    "lastName": "Thakoer",
+    "email": "sevda.thakoer@example.com",
+    "username": "sadfrog278",
+    "password": "gladiato",
+    "invokedAt": "2023-10-03T23:00:20.337Z"
   }
 ]
