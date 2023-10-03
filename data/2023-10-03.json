@@ -38,5 +38,13 @@
     "username": "orangebird319",
     "password": "bigtime",
     "invokedAt": "2023-10-03T04:00:21.472Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Christiansen",
+    "email": "carl.christiansen@example.com",
+    "username": "bluerabbit142",
+    "password": "johnny5",
+    "invokedAt": "2023-10-03T05:00:24.911Z"
   }
 ]
