@@ -158,5 +158,13 @@
     "username": "bluelion401",
     "password": "openup",
     "invokedAt": "2023-10-04T19:00:22.599Z"
+  },
+  {
+    "firstName": "مهراد",
+    "lastName": "صدر",
+    "email": "mhrd.sdr@example.com",
+    "username": "brownostrich371",
+    "password": "john",
+    "invokedAt": "2023-10-04T20:00:26.190Z"
   }
 ]
