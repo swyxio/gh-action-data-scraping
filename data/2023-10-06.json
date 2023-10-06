@@ -38,5 +38,13 @@
     "username": "purplebear959",
     "password": "rrpass1",
     "invokedAt": "2023-10-06T04:00:23.618Z"
+  },
+  {
+    "firstName": "Ostoja",
+    "lastName": "Rodić",
+    "email": "ostoja.rodic@example.com",
+    "username": "blacklion409",
+    "password": "huskers",
+    "invokedAt": "2023-10-06T05:00:26.080Z"
   }
 ]
