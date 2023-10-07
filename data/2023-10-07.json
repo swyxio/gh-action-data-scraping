@@ -102,5 +102,13 @@
     "username": "lazyladybug271",
     "password": "busted",
     "invokedAt": "2023-10-07T12:00:26.080Z"
+  },
+  {
+    "firstName": "Olav",
+    "lastName": "Toverud",
+    "email": "olav.toverud@example.com",
+    "username": "redbear724",
+    "password": "11235813",
+    "invokedAt": "2023-10-07T13:00:34.955Z"
   }
 ]
