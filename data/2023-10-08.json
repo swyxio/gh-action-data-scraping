@@ -166,5 +166,13 @@
     "username": "orangetiger622",
     "password": "nana",
     "invokedAt": "2023-10-08T20:00:20.866Z"
+  },
+  {
+    "firstName": "Camilo",
+    "lastName": "Ibarra",
+    "email": "camilo.ibarra@example.com",
+    "username": "brownswan549",
+    "password": "groove",
+    "invokedAt": "2023-10-08T21:00:24.274Z"
   }
 ]
