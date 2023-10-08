@@ -78,5 +78,13 @@
     "username": "whiterabbit192",
     "password": "cheeks",
     "invokedAt": "2023-10-08T09:00:22.149Z"
+  },
+  {
+    "firstName": "Gülsen",
+    "lastName": "Gerstner",
+    "email": "gulsen.gerstner@example.com",
+    "username": "goldenbird255",
+    "password": "gretzky",
+    "invokedAt": "2023-10-08T10:00:22.735Z"
   }
 ]
