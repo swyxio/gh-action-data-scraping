@@ -118,5 +118,13 @@
     "username": "silverbear503",
     "password": "high",
     "invokedAt": "2023-10-08T14:00:28.492Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "Gautier",
+    "email": "antoine.gautier@example.com",
+    "username": "bluebear580",
+    "password": "bogart",
+    "invokedAt": "2023-10-08T15:00:32.537Z"
   }
 ]
