@@ -70,5 +70,13 @@
     "username": "happybutterfly928",
     "password": "lambda",
     "invokedAt": "2023-10-08T08:00:22.546Z"
+  },
+  {
+    "firstName": "Rosemary",
+    "lastName": "Barnes",
+    "email": "rosemary.barnes@example.com",
+    "username": "whiterabbit192",
+    "password": "cheeks",
+    "invokedAt": "2023-10-08T09:00:22.149Z"
   }
 ]
