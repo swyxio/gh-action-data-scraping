@@ -118,5 +118,13 @@
     "username": "purplepeacock241",
     "password": "madison1",
     "invokedAt": "2023-10-09T14:00:25.130Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Türkyılmaz",
+    "email": "ali.turkyilmaz@example.com",
+    "username": "silverbird992",
+    "password": "paradox",
+    "invokedAt": "2023-10-09T15:00:25.261Z"
   }
 ]
