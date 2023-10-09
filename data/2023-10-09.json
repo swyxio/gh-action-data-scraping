@@ -102,5 +102,13 @@
     "username": "orangebear519",
     "password": "whale",
     "invokedAt": "2023-10-09T12:00:29.827Z"
+  },
+  {
+    "firstName": "Martine",
+    "lastName": "Malmedal",
+    "email": "martine.malmedal@example.com",
+    "username": "whitebear183",
+    "password": "gordon24",
+    "invokedAt": "2023-10-09T13:03:09.786Z"
   }
 ]
