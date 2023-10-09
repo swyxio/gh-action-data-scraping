@@ -94,5 +94,13 @@
     "username": "sadmouse905",
     "password": "cannabis",
     "invokedAt": "2023-10-09T11:00:24.906Z"
+  },
+  {
+    "firstName": "Luisa",
+    "lastName": "de la Fuente",
+    "email": "luisa.delafuente@example.com",
+    "username": "orangebear519",
+    "password": "whale",
+    "invokedAt": "2023-10-09T12:00:29.827Z"
   }
 ]
