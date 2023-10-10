@@ -86,5 +86,13 @@
     "username": "heavyzebra625",
     "password": "wishbone",
     "invokedAt": "2023-10-10T10:00:24.476Z"
+  },
+  {
+    "firstName": "Brittany",
+    "lastName": "Hale",
+    "email": "brittany.hale@example.com",
+    "username": "silverfrog905",
+    "password": "here",
+    "invokedAt": "2023-10-10T11:00:25.066Z"
   }
 ]
