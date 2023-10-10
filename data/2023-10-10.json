@@ -158,5 +158,13 @@
     "username": "silverkoala606",
     "password": "viper1",
     "invokedAt": "2023-10-10T19:00:26.964Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Serrano",
+    "email": "jonathan.serrano@example.com",
+    "username": "beautifulduck251",
+    "password": "point",
+    "invokedAt": "2023-10-10T20:00:41.417Z"
   }
 ]
