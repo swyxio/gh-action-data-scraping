@@ -62,5 +62,13 @@
     "username": "whitekoala330",
     "password": "foobar",
     "invokedAt": "2023-10-10T07:00:25.510Z"
+  },
+  {
+    "firstName": "Rosalinde",
+    "lastName": "Elsner",
+    "email": "rosalinde.elsner@example.com",
+    "username": "ticklishelephant415",
+    "password": "515000",
+    "invokedAt": "2023-10-10T08:00:24.640Z"
   }
 ]
