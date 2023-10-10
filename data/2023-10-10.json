@@ -54,5 +54,13 @@
     "username": "whitebear342",
     "password": "vgirl",
     "invokedAt": "2023-10-10T06:00:21.864Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Barnes",
+    "email": "ethan.barnes@example.com",
+    "username": "whitekoala330",
+    "password": "foobar",
+    "invokedAt": "2023-10-10T07:00:25.510Z"
   }
 ]
