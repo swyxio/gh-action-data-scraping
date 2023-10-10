@@ -110,5 +110,13 @@
     "username": "purplepanda314",
     "password": "counter",
     "invokedAt": "2023-10-10T13:02:24.541Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Kasapoğlu",
+    "email": "okan.kasapoglu@example.com",
+    "username": "brownkoala727",
+    "password": "monday",
+    "invokedAt": "2023-10-10T14:00:25.551Z"
   }
 ]
