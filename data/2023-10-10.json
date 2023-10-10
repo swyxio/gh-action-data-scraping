@@ -94,5 +94,13 @@
     "username": "silverfrog905",
     "password": "here",
     "invokedAt": "2023-10-10T11:00:25.066Z"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Hunter",
+    "email": "steven.hunter@example.com",
+    "username": "bluebutterfly227",
+    "password": "judy",
+    "invokedAt": "2023-10-10T12:00:24.881Z"
   }
 ]
