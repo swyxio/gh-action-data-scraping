@@ -166,5 +166,13 @@
     "username": "beautifulduck251",
     "password": "point",
     "invokedAt": "2023-10-10T20:00:41.417Z"
+  },
+  {
+    "firstName": "Paige",
+    "lastName": "Taylor",
+    "email": "paige.taylor@example.com",
+    "username": "purpleleopard564",
+    "password": "raiders1",
+    "invokedAt": "2023-10-10T21:00:31.950Z"
   }
 ]
