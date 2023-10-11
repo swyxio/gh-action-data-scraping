@@ -118,5 +118,13 @@
     "username": "greenrabbit523",
     "password": "guitar",
     "invokedAt": "2023-10-11T14:00:29.459Z"
+  },
+  {
+    "firstName": "Ashwini",
+    "lastName": "Chatterjee",
+    "email": "ashwini.chatterjee@example.com",
+    "username": "lazygoose386",
+    "password": "ramrod",
+    "invokedAt": "2023-10-11T15:00:23.880Z"
   }
 ]
