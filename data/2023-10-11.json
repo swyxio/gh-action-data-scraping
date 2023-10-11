@@ -102,5 +102,13 @@
     "username": "sadpanda212",
     "password": "munich",
     "invokedAt": "2023-10-11T12:00:32.861Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Kumar",
+    "email": "ruby.kumar@example.com",
+    "username": "blackmeercat737",
+    "password": "django",
+    "invokedAt": "2023-10-11T13:02:26.016Z"
   }
 ]
