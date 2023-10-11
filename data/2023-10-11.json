@@ -62,5 +62,13 @@
     "username": "angrypanda553",
     "password": "drums",
     "invokedAt": "2023-10-11T07:00:22.904Z"
+  },
+  {
+    "firstName": "Allan",
+    "lastName": "Lee",
+    "email": "allan.lee@example.com",
+    "username": "goldenfrog367",
+    "password": "kamikaze",
+    "invokedAt": "2023-10-11T08:00:28.249Z"
   }
 ]
