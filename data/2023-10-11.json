@@ -70,5 +70,13 @@
     "username": "goldenfrog367",
     "password": "kamikaze",
     "invokedAt": "2023-10-11T08:00:28.249Z"
+  },
+  {
+    "firstName": "Boško",
+    "lastName": "Simić",
+    "email": "bosko.simic@example.com",
+    "username": "blueladybug888",
+    "password": "hilton",
+    "invokedAt": "2023-10-11T09:00:29.799Z"
   }
 ]
