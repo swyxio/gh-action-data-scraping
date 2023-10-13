@@ -62,5 +62,13 @@
     "username": "blackgorilla842",
     "password": "lestat",
     "invokedAt": "2023-10-13T07:00:29.238Z"
+  },
+  {
+    "firstName": "Pauline",
+    "lastName": "Fox",
+    "email": "pauline.fox@example.com",
+    "username": "organicswan589",
+    "password": "hotdog",
+    "invokedAt": "2023-10-13T08:00:29.555Z"
   }
 ]
