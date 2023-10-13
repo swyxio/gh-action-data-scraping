@@ -54,5 +54,13 @@
     "username": "goldenkoala206",
     "password": "shaman",
     "invokedAt": "2023-10-13T06:00:20.856Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Petersen",
+    "email": "silas.petersen@example.com",
+    "username": "blackgorilla842",
+    "password": "lestat",
+    "invokedAt": "2023-10-13T07:00:29.238Z"
   }
 ]
