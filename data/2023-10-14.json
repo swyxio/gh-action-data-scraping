@@ -46,5 +46,13 @@
     "username": "sadkoala311",
     "password": "children",
     "invokedAt": "2023-10-14T05:00:22.364Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Miller",
+    "email": "ryan.miller@example.com",
+    "username": "ticklishsnake764",
+    "password": "toast",
+    "invokedAt": "2023-10-14T06:00:21.787Z"
   }
 ]
