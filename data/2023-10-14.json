@@ -86,5 +86,13 @@
     "username": "greenladybug151",
     "password": "super",
     "invokedAt": "2023-10-14T10:00:26.718Z"
+  },
+  {
+    "firstName": "Óscar",
+    "lastName": "Domínguez",
+    "email": "oscar.dominguez@example.com",
+    "username": "crazygoose935",
+    "password": "spider1",
+    "invokedAt": "2023-10-14T11:00:29.419Z"
   }
 ]
