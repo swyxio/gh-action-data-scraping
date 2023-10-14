@@ -102,5 +102,13 @@
     "username": "yellowdog962",
     "password": "ladder",
     "invokedAt": "2023-10-14T12:00:22.043Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Patel",
+    "email": "simon.patel@example.com",
+    "username": "heavyrabbit912",
+    "password": "lookout",
+    "invokedAt": "2023-10-14T13:00:38.911Z"
   }
 ]
