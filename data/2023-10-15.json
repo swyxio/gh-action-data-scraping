@@ -86,5 +86,13 @@
     "username": "lazybird388",
     "password": "butcher",
     "invokedAt": "2023-10-15T10:00:44.494Z"
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Deschamps",
+    "email": "camille.deschamps@example.com",
+    "username": "bluezebra558",
+    "password": "gabriel",
+    "invokedAt": "2023-10-15T11:00:21.065Z"
   }
 ]
