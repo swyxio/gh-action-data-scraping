@@ -118,5 +118,13 @@
     "username": "happytiger778",
     "password": "jiao",
     "invokedAt": "2023-10-15T14:00:25.269Z"
+  },
+  {
+    "firstName": "Firmino",
+    "lastName": "Alves",
+    "email": "firmino.alves@example.com",
+    "username": "bluekoala636",
+    "password": "chess",
+    "invokedAt": "2023-10-15T15:00:22.025Z"
   }
 ]
