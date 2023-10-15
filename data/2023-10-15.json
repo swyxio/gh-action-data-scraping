@@ -102,5 +102,13 @@
     "username": "angryfish569",
     "password": "siobhan",
     "invokedAt": "2023-10-15T12:00:42.766Z"
+  },
+  {
+    "firstName": "Zackary",
+    "lastName": "Côté",
+    "email": "zackary.cote@example.com",
+    "username": "redfish176",
+    "password": "model",
+    "invokedAt": "2023-10-15T13:00:43.852Z"
   }
 ]
