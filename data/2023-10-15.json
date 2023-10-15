@@ -78,5 +78,13 @@
     "username": "blacksnake703",
     "password": "dnsadm",
     "invokedAt": "2023-10-15T09:00:26.785Z"
+  },
+  {
+    "firstName": "Konsta",
+    "lastName": "Rajala",
+    "email": "konsta.rajala@example.com",
+    "username": "lazybird388",
+    "password": "butcher",
+    "invokedAt": "2023-10-15T10:00:44.494Z"
   }
 ]
