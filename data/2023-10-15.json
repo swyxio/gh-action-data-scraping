@@ -158,5 +158,13 @@
     "username": "crazywolf749",
     "password": "request",
     "invokedAt": "2023-10-15T19:00:27.590Z"
+  },
+  {
+    "firstName": "Flavio",
+    "lastName": "Saldivar",
+    "email": "flavio.saldivar@example.com",
+    "username": "purpleleopard419",
+    "password": "dingle",
+    "invokedAt": "2023-10-15T20:00:26.776Z"
   }
 ]
