@@ -110,5 +110,13 @@
     "username": "redfish176",
     "password": "model",
     "invokedAt": "2023-10-15T13:00:43.852Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Tekelioğlu",
+    "email": "davut.tekelioglu@example.com",
+    "username": "happytiger778",
+    "password": "jiao",
+    "invokedAt": "2023-10-15T14:00:25.269Z"
   }
 ]
