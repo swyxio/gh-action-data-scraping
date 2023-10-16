@@ -46,5 +46,13 @@
     "username": "redrabbit408",
     "password": "chaos",
     "invokedAt": "2023-10-16T05:00:26.576Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Marchand",
+    "email": "marc.marchand@example.com",
+    "username": "orangeladybug139",
+    "password": "jabber",
+    "invokedAt": "2023-10-16T06:00:20.098Z"
   }
 ]
