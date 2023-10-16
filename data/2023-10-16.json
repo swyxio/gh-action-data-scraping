@@ -174,5 +174,13 @@
     "username": "redlion428",
     "password": "jenny",
     "invokedAt": "2023-10-16T21:00:29.624Z"
+  },
+  {
+    "firstName": "Giray",
+    "lastName": "Erginsoy",
+    "email": "giray.erginsoy@example.com",
+    "username": "tinypanda162",
+    "password": "123abc",
+    "invokedAt": "2023-10-16T22:00:30.372Z"
   }
 ]
