@@ -142,5 +142,13 @@
     "username": "sadlion811",
     "password": "1234567",
     "invokedAt": "2023-10-17T17:00:23.397Z"
+  },
+  {
+    "firstName": "Lubomir",
+    "lastName": "Tošić",
+    "email": "lubomir.tosic@example.com",
+    "username": "angryleopard339",
+    "password": "ophelia",
+    "invokedAt": "2023-10-17T18:00:28.266Z"
   }
 ]
