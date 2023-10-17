@@ -86,5 +86,13 @@
     "username": "goldenlion412",
     "password": "native",
     "invokedAt": "2023-10-17T10:00:27.085Z"
+  },
+  {
+    "firstName": "P'ier",
+    "lastName": "Filonenko",
+    "email": "p'ier.filonenko@example.com",
+    "username": "blackdog129",
+    "password": "turkey",
+    "invokedAt": "2023-10-17T11:00:23.948Z"
   }
 ]
