@@ -158,5 +158,13 @@
     "username": "yellowdog882",
     "password": "boxcar",
     "invokedAt": "2023-10-18T19:00:37.455Z"
+  },
+  {
+    "firstName": "Vuk",
+    "lastName": "Pejaković",
+    "email": "vuk.pejakovic@example.com",
+    "username": "ticklishpeacock108",
+    "password": "bowman",
+    "invokedAt": "2023-10-18T20:00:32.969Z"
   }
 ]
