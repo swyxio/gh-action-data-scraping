@@ -86,5 +86,13 @@
     "username": "ticklishdog152",
     "password": "factory",
     "invokedAt": "2023-10-18T10:00:24.069Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Aclan",
+    "email": "ege.aclan@example.com",
+    "username": "yellowdog971",
+    "password": "devo",
+    "invokedAt": "2023-10-18T11:00:23.552Z"
   }
 ]
