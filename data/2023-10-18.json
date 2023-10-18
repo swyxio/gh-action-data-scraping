@@ -174,5 +174,13 @@
     "username": "happypanda205",
     "password": "jenn",
     "invokedAt": "2023-10-18T21:00:23.650Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Montero",
+    "email": "christian.montero@example.com",
+    "username": "orangecat151",
+    "password": "hawkeyes",
+    "invokedAt": "2023-10-18T22:00:23.956Z"
   }
 ]
