@@ -86,5 +86,13 @@
     "username": "brownbird121",
     "password": "paradox",
     "invokedAt": "2023-10-19T10:00:28.085Z"
+  },
+  {
+    "firstName": "Gualter",
+    "lastName": "Silva",
+    "email": "gualter.silva@example.com",
+    "username": "brownleopard675",
+    "password": "232323",
+    "invokedAt": "2023-10-19T11:00:24.409Z"
   }
 ]
