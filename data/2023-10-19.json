@@ -166,5 +166,13 @@
     "username": "tinyostrich912",
     "password": "goldeney",
     "invokedAt": "2023-10-19T20:00:29.150Z"
+  },
+  {
+    "firstName": "Arnd",
+    "lastName": "Siegl",
+    "email": "arnd.siegl@example.com",
+    "username": "purplebutterfly686",
+    "password": "siemens",
+    "invokedAt": "2023-10-19T21:00:26.581Z"
   }
 ]
