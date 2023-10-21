@@ -126,5 +126,13 @@
     "username": "angryleopard643",
     "password": "allstar",
     "invokedAt": "2023-10-21T15:00:22.232Z"
+  },
+  {
+    "firstName": "Zoey",
+    "lastName": "Banks",
+    "email": "zoey.banks@example.com",
+    "username": "tinylion839",
+    "password": "liverpool",
+    "invokedAt": "2023-10-21T16:00:25.468Z"
   }
 ]
