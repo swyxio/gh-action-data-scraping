@@ -38,5 +38,13 @@
     "username": "bigduck975",
     "password": "gidget",
     "invokedAt": "2023-10-21T04:00:28.622Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Martin",
+    "email": "ryan.martin@example.com",
+    "username": "heavyswan115",
+    "password": "aspen",
+    "invokedAt": "2023-10-21T05:00:30.760Z"
   }
 ]
