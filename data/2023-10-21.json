@@ -70,5 +70,13 @@
     "username": "ticklishladybug804",
     "password": "long",
     "invokedAt": "2023-10-21T08:00:27.436Z"
+  },
+  {
+    "firstName": "Léo",
+    "lastName": "Brun",
+    "email": "leo.brun@example.com",
+    "username": "angrybear632",
+    "password": "webmaster",
+    "invokedAt": "2023-10-21T09:00:22.874Z"
   }
 ]
