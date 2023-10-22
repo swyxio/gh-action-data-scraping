@@ -30,5 +30,13 @@
     "username": "bigduck770",
     "password": "bimmer",
     "invokedAt": "2023-10-22T03:00:26.759Z"
+  },
+  {
+    "firstName": "Jean-Luc",
+    "lastName": "Renaud",
+    "email": "jean-luc.renaud@example.com",
+    "username": "redmeercat275",
+    "password": "eddie1",
+    "invokedAt": "2023-10-22T04:00:19.934Z"
   }
 ]
