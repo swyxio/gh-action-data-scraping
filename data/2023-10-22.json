@@ -94,5 +94,13 @@
     "username": "whitegoose997",
     "password": "roll",
     "invokedAt": "2023-10-22T11:00:29.903Z"
+  },
+  {
+    "firstName": "Meindert",
+    "lastName": "Van Giessen",
+    "email": "meindert.vangiessen@example.com",
+    "username": "yellowgoose279",
+    "password": "corinne",
+    "invokedAt": "2023-10-22T12:00:21.620Z"
   }
 ]
