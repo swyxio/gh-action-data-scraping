@@ -126,5 +126,13 @@
     "username": "beautifulmeercat884",
     "password": "priest",
     "invokedAt": "2023-10-23T15:00:27.871Z"
+  },
+  {
+    "firstName": "Bastiaan",
+    "lastName": "Meier",
+    "email": "bastiaan.meier@example.com",
+    "username": "lazyleopard156",
+    "password": "never",
+    "invokedAt": "2023-10-23T16:00:25.802Z"
   }
 ]
