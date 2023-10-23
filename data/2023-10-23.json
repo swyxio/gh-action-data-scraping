@@ -54,5 +54,13 @@
     "username": "orangepanda865",
     "password": "latino",
     "invokedAt": "2023-10-23T06:00:29.069Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Poulsen",
+    "email": "albert.poulsen@example.com",
+    "username": "orangegorilla430",
+    "password": "trans",
+    "invokedAt": "2023-10-23T07:00:28.922Z"
   }
 ]
