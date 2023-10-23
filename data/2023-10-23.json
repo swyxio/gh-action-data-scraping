@@ -86,5 +86,13 @@
     "username": "happybear914",
     "password": "mets",
     "invokedAt": "2023-10-23T10:00:27.783Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Babaoğlu",
+    "email": "sedef.babaoglu@example.com",
+    "username": "angryelephant980",
+    "password": "ultra",
+    "invokedAt": "2023-10-23T11:00:23.787Z"
   }
 ]
