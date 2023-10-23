@@ -78,5 +78,13 @@
     "username": "happyrabbit233",
     "password": "fang",
     "invokedAt": "2023-10-23T09:00:24.238Z"
+  },
+  {
+    "firstName": "Mari",
+    "lastName": "Moreira",
+    "email": "mari.moreira@example.com",
+    "username": "happybear914",
+    "password": "mets",
+    "invokedAt": "2023-10-23T10:00:27.783Z"
   }
 ]
