@@ -102,5 +102,13 @@
     "username": "redbear687",
     "password": "siemens",
     "invokedAt": "2023-10-24T12:00:25.254Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Renard",
+    "email": "william.renard@example.com",
+    "username": "whitegorilla874",
+    "password": "buzzer",
+    "invokedAt": "2023-10-24T13:01:54.013Z"
   }
 ]
