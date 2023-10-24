@@ -166,5 +166,13 @@
     "username": "tinyfrog747",
     "password": "bronco",
     "invokedAt": "2023-10-24T20:00:23.508Z"
+  },
+  {
+    "firstName": "Kenneth",
+    "lastName": "Skovly",
+    "email": "kenneth.skovly@example.com",
+    "username": "goldenpanda866",
+    "password": "chill",
+    "invokedAt": "2023-10-24T21:00:27.309Z"
   }
 ]
