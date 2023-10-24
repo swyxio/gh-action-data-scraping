@@ -78,5 +78,13 @@
     "username": "purplefish774",
     "password": "city",
     "invokedAt": "2023-10-24T09:00:32.596Z"
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Vázquez",
+    "email": "gustavo.vazquez@example.com",
+    "username": "sadgorilla238",
+    "password": "quincy",
+    "invokedAt": "2023-10-24T10:00:22.820Z"
   }
 ]
