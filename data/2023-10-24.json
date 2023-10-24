@@ -38,5 +38,13 @@
     "username": "smallmeercat269",
     "password": "guitar1",
     "invokedAt": "2023-10-24T04:00:20.321Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Nielsen",
+    "email": "noah.nielsen@example.com",
+    "username": "brownostrich789",
+    "password": "vertigo",
+    "invokedAt": "2023-10-24T05:00:32.097Z"
   }
 ]
