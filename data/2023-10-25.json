@@ -174,5 +174,13 @@
     "username": "beautifultiger620",
     "password": "jokers",
     "invokedAt": "2023-10-25T21:00:25.320Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Cunningham",
+    "email": "benjamin.cunningham@example.com",
+    "username": "goldenfrog308",
+    "password": "smegma",
+    "invokedAt": "2023-10-25T22:00:32.779Z"
   }
 ]
