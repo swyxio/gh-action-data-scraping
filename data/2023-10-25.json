@@ -86,5 +86,13 @@
     "username": "smallpeacock897",
     "password": "apple1",
     "invokedAt": "2023-10-25T10:00:24.472Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Bayındır",
+    "email": "gokhan.bayindir@example.com",
+    "username": "goldenmeercat715",
+    "password": "xiao",
+    "invokedAt": "2023-10-25T11:00:24.995Z"
   }
 ]
