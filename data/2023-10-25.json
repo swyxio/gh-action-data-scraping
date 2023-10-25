@@ -142,5 +142,13 @@
     "username": "ticklishfrog490",
     "password": "bottle",
     "invokedAt": "2023-10-25T17:00:23.432Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Bradley",
+    "email": "lucy.bradley@example.com",
+    "username": "redfrog608",
+    "password": "pharmacy",
+    "invokedAt": "2023-10-25T18:00:24.299Z"
   }
 ]
