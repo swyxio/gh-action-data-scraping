@@ -158,5 +158,13 @@
     "username": "organicwolf331",
     "password": "fred",
     "invokedAt": "2023-10-25T19:00:23.324Z"
+  },
+  {
+    "firstName": "Dean",
+    "lastName": "Farragher",
+    "email": "dean.farragher@example.com",
+    "username": "heavybird514",
+    "password": "logitech",
+    "invokedAt": "2023-10-25T20:00:23.004Z"
   }
 ]
