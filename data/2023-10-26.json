@@ -110,5 +110,13 @@
     "username": "purplefish424",
     "password": "gravity",
     "invokedAt": "2023-10-26T13:01:25.102Z"
+  },
+  {
+    "firstName": "Marianne",
+    "lastName": "Bélanger",
+    "email": "marianne.belanger@example.com",
+    "username": "redladybug441",
+    "password": "subaru",
+    "invokedAt": "2023-10-26T14:00:23.252Z"
   }
 ]
