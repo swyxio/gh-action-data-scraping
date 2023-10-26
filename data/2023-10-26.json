@@ -158,5 +158,13 @@
     "username": "bigcat537",
     "password": "nurses",
     "invokedAt": "2023-10-26T19:00:32.729Z"
+  },
+  {
+    "firstName": "Rebekka",
+    "lastName": "Homme",
+    "email": "rebekka.homme@example.com",
+    "username": "goldenladybug733",
+    "password": "lost",
+    "invokedAt": "2023-10-26T20:00:23.653Z"
   }
 ]
