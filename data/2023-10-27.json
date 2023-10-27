@@ -182,5 +182,13 @@
     "username": "goldentiger357",
     "password": "charger",
     "invokedAt": "2023-10-27T22:00:28.146Z"
+  },
+  {
+    "firstName": "Ömür",
+    "lastName": "Balaban",
+    "email": "omur.balaban@example.com",
+    "username": "whitefrog817",
+    "password": "loose",
+    "invokedAt": "2023-10-27T23:00:22.642Z"
   }
 ]
