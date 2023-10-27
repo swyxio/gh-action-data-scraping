@@ -94,5 +94,13 @@
     "username": "heavyzebra191",
     "password": "prayers",
     "invokedAt": "2023-10-27T11:00:28.908Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Pesola",
+    "email": "siiri.pesola@example.com",
+    "username": "biggorilla131",
+    "password": "shodan",
+    "invokedAt": "2023-10-27T12:00:29.409Z"
   }
 ]
