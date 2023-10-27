@@ -78,5 +78,13 @@
     "username": "orangedog142",
     "password": "cookies",
     "invokedAt": "2023-10-27T09:00:23.940Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Kocabıyık",
+    "email": "gokhan.kocabiyik@example.com",
+    "username": "organictiger607",
+    "password": "vector",
+    "invokedAt": "2023-10-27T10:00:22.906Z"
   }
 ]
