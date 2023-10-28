@@ -166,5 +166,13 @@
     "username": "heavyrabbit652",
     "password": "misfits",
     "invokedAt": "2023-10-28T20:00:24.633Z"
+  },
+  {
+    "firstName": "Aristóteles",
+    "lastName": "da Mata",
+    "email": "aristoteles.damata@example.com",
+    "username": "sadbird616",
+    "password": "buckshot",
+    "invokedAt": "2023-10-28T21:00:20.236Z"
   }
 ]
