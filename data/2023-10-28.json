@@ -118,5 +118,13 @@
     "username": "whiteduck910",
     "password": "gordo",
     "invokedAt": "2023-10-28T14:00:28.202Z"
+  },
+  {
+    "firstName": "Latife",
+    "lastName": "Demirbaş",
+    "email": "latife.demirbas@example.com",
+    "username": "smallgorilla294",
+    "password": "gagging",
+    "invokedAt": "2023-10-28T15:00:26.743Z"
   }
 ]
