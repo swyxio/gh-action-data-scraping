@@ -94,5 +94,13 @@
     "username": "biglion856",
     "password": "pinball",
     "invokedAt": "2023-10-29T11:00:37.420Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Johnson",
+    "email": "james.johnson@example.com",
+    "username": "angryrabbit405",
+    "password": "camels",
+    "invokedAt": "2023-10-29T12:00:20.970Z"
   }
 ]
