@@ -166,5 +166,13 @@
     "username": "browngorilla337",
     "password": "stevie",
     "invokedAt": "2023-10-29T20:00:22.925Z"
+  },
+  {
+    "firstName": "Moisés",
+    "lastName": "Duarte",
+    "email": "moises.duarte@example.com",
+    "username": "sadbird113",
+    "password": "piano",
+    "invokedAt": "2023-10-29T21:00:22.477Z"
   }
 ]
