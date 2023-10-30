@@ -78,5 +78,13 @@
     "username": "yellowpeacock921",
     "password": "zxcv",
     "invokedAt": "2023-10-30T09:00:30.279Z"
+  },
+  {
+    "firstName": "Dagmar",
+    "lastName": "Streich",
+    "email": "dagmar.streich@example.com",
+    "username": "bluewolf399",
+    "password": "michelle",
+    "invokedAt": "2023-10-30T10:00:27.285Z"
   }
 ]
