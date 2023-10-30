@@ -126,5 +126,13 @@
     "username": "yellowdog638",
     "password": "zaqwsx",
     "invokedAt": "2023-10-30T15:00:22.114Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Çankaya",
+    "email": "ceylan.cankaya@example.com",
+    "username": "crazywolf489",
+    "password": "cheshire",
+    "invokedAt": "2023-10-30T16:00:27.640Z"
   }
 ]
