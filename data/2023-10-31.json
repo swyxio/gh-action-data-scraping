@@ -182,5 +182,13 @@
     "username": "goldenbutterfly975",
     "password": "buckeye",
     "invokedAt": "2023-10-31T22:00:23.603Z"
+  },
+  {
+    "firstName": "Akseli",
+    "lastName": "Rintala",
+    "email": "akseli.rintala@example.com",
+    "username": "crazydog131",
+    "password": "rogers",
+    "invokedAt": "2023-10-31T23:00:20.704Z"
   }
 ]
