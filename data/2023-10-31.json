@@ -102,5 +102,13 @@
     "username": "beautifulbutterfly851",
     "password": "1949",
     "invokedAt": "2023-10-31T12:00:34.223Z"
+  },
+  {
+    "firstName": "Radovan",
+    "lastName": "Vučetić",
+    "email": "radovan.vucetic@example.com",
+    "username": "purpleleopard830",
+    "password": "tetsuo",
+    "invokedAt": "2023-10-31T13:01:34.469Z"
   }
 ]
