@@ -142,5 +142,13 @@
     "username": "goldendog775",
     "password": "oklahoma",
     "invokedAt": "2023-10-31T17:00:29.367Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Deschamps",
+    "email": "rose.deschamps@example.com",
+    "username": "brownfrog628",
+    "password": "grace",
+    "invokedAt": "2023-10-31T18:00:27.359Z"
   }
 ]
