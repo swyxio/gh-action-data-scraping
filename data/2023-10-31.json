@@ -54,5 +54,13 @@
     "username": "smallelephant270",
     "password": "fallout",
     "invokedAt": "2023-10-31T06:00:22.766Z"
+  },
+  {
+    "firstName": "Hedda",
+    "lastName": "Fink",
+    "email": "hedda.fink@example.com",
+    "username": "redgoose123",
+    "password": "cleo",
+    "invokedAt": "2023-10-31T07:00:27.860Z"
   }
 ]
