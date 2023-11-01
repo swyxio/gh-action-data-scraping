@@ -126,5 +126,13 @@
     "username": "sadduck128",
     "password": "spyder",
     "invokedAt": "2023-11-01T15:00:29.761Z"
+  },
+  {
+    "firstName": "Toledo",
+    "lastName": "da Mota",
+    "email": "toledo.damota@example.com",
+    "username": "tinyleopard600",
+    "password": "lebowski",
+    "invokedAt": "2023-11-01T16:00:29.234Z"
   }
 ]
