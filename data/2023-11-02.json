@@ -182,5 +182,13 @@
     "username": "purpledog736",
     "password": "merlot",
     "invokedAt": "2023-11-02T22:00:23.136Z"
+  },
+  {
+    "firstName": "Flenn",
+    "lastName": "Tucker",
+    "email": "flenn.tucker@example.com",
+    "username": "bigpeacock246",
+    "password": "kilroy",
+    "invokedAt": "2023-11-02T23:00:26.511Z"
   }
 ]
