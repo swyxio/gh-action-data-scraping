@@ -54,5 +54,13 @@
     "username": "blueduck860",
     "password": "bridge",
     "invokedAt": "2023-11-03T06:00:23.350Z"
+  },
+  {
+    "firstName": "Suzy",
+    "lastName": "Doodeman",
+    "email": "suzy.doodeman@example.com",
+    "username": "lazyrabbit601",
+    "password": "snooker",
+    "invokedAt": "2023-11-03T07:00:21.785Z"
   }
 ]
