@@ -158,5 +158,13 @@
     "username": "sadfish901",
     "password": "surfer",
     "invokedAt": "2023-11-03T20:00:31.681Z"
+  },
+  {
+    "firstName": "Pål",
+    "lastName": "Natland",
+    "email": "pal.natland@example.com",
+    "username": "heavyladybug170",
+    "password": "kelley",
+    "invokedAt": "2023-11-03T21:00:23.412Z"
   }
 ]
