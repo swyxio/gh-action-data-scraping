@@ -142,5 +142,13 @@
     "username": "redfish732",
     "password": "legend",
     "invokedAt": "2023-11-04T17:00:20.324Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Balcı",
+    "email": "gul.balci@example.com",
+    "username": "goldenkoala284",
+    "password": "bones",
+    "invokedAt": "2023-11-04T18:00:30.914Z"
   }
 ]
