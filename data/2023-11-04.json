@@ -174,5 +174,13 @@
     "username": "purplefish915",
     "password": "dewalt",
     "invokedAt": "2023-11-04T21:00:25.072Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Sims",
+    "email": "martha.sims@example.com",
+    "username": "ticklishcat728",
+    "password": "cookies",
+    "invokedAt": "2023-11-04T22:00:24.290Z"
   }
 ]
