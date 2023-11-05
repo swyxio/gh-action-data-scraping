@@ -86,5 +86,13 @@
     "username": "crazykoala141",
     "password": "quality",
     "invokedAt": "2023-11-05T10:00:21.327Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Andersen",
+    "email": "christoffer.andersen@example.com",
+    "username": "crazybutterfly824",
+    "password": "techno",
+    "invokedAt": "2023-11-05T11:00:24.913Z"
   }
 ]
