@@ -94,5 +94,13 @@
     "username": "blackduck588",
     "password": "novell",
     "invokedAt": "2023-11-06T11:00:23.605Z"
+  },
+  {
+    "firstName": "Yuliy",
+    "lastName": "Iemelyanenko",
+    "email": "yuliy.iemelyanenko@example.com",
+    "username": "yellowwolf740",
+    "password": "keyboard",
+    "invokedAt": "2023-11-06T12:00:32.444Z"
   }
 ]
