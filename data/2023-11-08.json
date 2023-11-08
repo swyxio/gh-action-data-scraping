@@ -150,5 +150,13 @@
     "username": "bluefrog875",
     "password": "clock",
     "invokedAt": "2023-11-08T18:00:25.360Z"
+  },
+  {
+    "firstName": "Aubree",
+    "lastName": "Lévesque",
+    "email": "aubree.levesque@example.com",
+    "username": "bluefrog473",
+    "password": "blondie",
+    "invokedAt": "2023-11-08T19:00:21.558Z"
   }
 ]
