@@ -134,5 +134,13 @@
     "username": "beautifulsnake867",
     "password": "chaos1",
     "invokedAt": "2023-11-08T16:00:25.048Z"
+  },
+  {
+    "firstName": "Aljoša",
+    "lastName": "Ivić",
+    "email": "aljosa.ivic@example.com",
+    "username": "brownduck287",
+    "password": "peterpan",
+    "invokedAt": "2023-11-08T17:00:25.104Z"
   }
 ]
