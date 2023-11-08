@@ -70,5 +70,13 @@
     "username": "heavymeercat810",
     "password": "party",
     "invokedAt": "2023-11-08T08:00:21.073Z"
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Moreau",
+    "email": "nora.moreau@example.com",
+    "username": "ticklishbutterfly237",
+    "password": "",
+    "invokedAt": "2023-11-08T09:00:22.107Z"
   }
 ]
