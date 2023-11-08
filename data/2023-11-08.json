@@ -94,5 +94,13 @@
     "username": "bigdog696",
     "password": "saturn",
     "invokedAt": "2023-11-08T11:00:26.649Z"
+  },
+  {
+    "firstName": "Tara",
+    "lastName": "Lee",
+    "email": "tara.lee@example.com",
+    "username": "organiccat852",
+    "password": "stoner",
+    "invokedAt": "2023-11-08T12:00:22.732Z"
   }
 ]
