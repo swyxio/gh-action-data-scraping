@@ -46,5 +46,13 @@
     "username": "beautifulfrog443",
     "password": "coldbeer",
     "invokedAt": "2023-11-09T05:00:21.418Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Kuzucu",
+    "email": "okan.kuzucu@example.com",
+    "username": "redrabbit709",
+    "password": "dodger",
+    "invokedAt": "2023-11-09T06:00:28.446Z"
   }
 ]
