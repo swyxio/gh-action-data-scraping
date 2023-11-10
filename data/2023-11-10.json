@@ -86,5 +86,13 @@
     "username": "silverbird724",
     "password": "2020",
     "invokedAt": "2023-11-10T10:00:25.502Z"
+  },
+  {
+    "firstName": "Jitendra",
+    "lastName": "Porto",
+    "email": "jitendra.porto@example.com",
+    "username": "smallelephant812",
+    "password": "camp",
+    "invokedAt": "2023-11-10T11:00:26.394Z"
   }
 ]
