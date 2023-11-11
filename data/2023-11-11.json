@@ -46,5 +46,13 @@
     "username": "lazymouse578",
     "password": "ladies",
     "invokedAt": "2023-11-11T05:00:18.581Z"
+  },
+  {
+    "firstName": "Barış",
+    "lastName": "Koçoğlu",
+    "email": "baris.kocoglu@example.com",
+    "username": "lazylion967",
+    "password": "vulcan",
+    "invokedAt": "2023-11-11T06:00:21.479Z"
   }
 ]
