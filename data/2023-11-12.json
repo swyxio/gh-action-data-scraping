@@ -62,5 +62,13 @@
     "username": "yellowmouse393",
     "password": "eskimo",
     "invokedAt": "2023-11-12T07:00:27.049Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Ferguson",
+    "email": "sara.ferguson@example.com",
+    "username": "lazyfish911",
+    "password": "brucelee",
+    "invokedAt": "2023-11-12T08:00:23.966Z"
   }
 ]
