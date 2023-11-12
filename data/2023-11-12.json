@@ -102,5 +102,13 @@
     "username": "bigfish878",
     "password": "sergeant",
     "invokedAt": "2023-11-12T12:00:30.372Z"
+  },
+  {
+    "firstName": "Chatura",
+    "lastName": "Kini",
+    "email": "chatura.kini@example.com",
+    "username": "sadlion332",
+    "password": "aztnm",
+    "invokedAt": "2023-11-12T13:00:42.468Z"
   }
 ]
