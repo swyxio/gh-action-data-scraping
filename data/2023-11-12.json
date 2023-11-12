@@ -94,5 +94,13 @@
     "username": "yellowsnake357",
     "password": "europa",
     "invokedAt": "2023-11-12T11:00:28.878Z"
+  },
+  {
+    "firstName": "Pilar",
+    "lastName": "Crespo",
+    "email": "pilar.crespo@example.com",
+    "username": "bigfish878",
+    "password": "sergeant",
+    "invokedAt": "2023-11-12T12:00:30.372Z"
   }
 ]
