@@ -86,5 +86,13 @@
     "username": "silverpanda818",
     "password": "nugget",
     "invokedAt": "2023-11-13T10:00:57.050Z"
+  },
+  {
+    "firstName": "Michelle",
+    "lastName": "Caron",
+    "email": "michelle.caron@example.com",
+    "username": "angrybird977",
+    "password": "guan",
+    "invokedAt": "2023-11-13T11:00:25.792Z"
   }
 ]
