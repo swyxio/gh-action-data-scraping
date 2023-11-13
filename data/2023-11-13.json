@@ -142,5 +142,13 @@
     "username": "greenfish720",
     "password": "light",
     "invokedAt": "2023-11-13T17:00:20.722Z"
+  },
+  {
+    "firstName": "Reno",
+    "lastName": "Van Deventer",
+    "email": "reno.vandeventer@example.com",
+    "username": "orangegoose959",
+    "password": "welcome",
+    "invokedAt": "2023-11-13T18:00:25.882Z"
   }
 ]
