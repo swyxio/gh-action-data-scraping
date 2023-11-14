@@ -134,5 +134,13 @@
     "username": "blackpanda423",
     "password": "north",
     "invokedAt": "2023-11-14T16:00:21.896Z"
+  },
+  {
+    "firstName": "Dâni",
+    "lastName": "de Souza",
+    "email": "dani.desouza@example.com",
+    "username": "smallleopard782",
+    "password": "second",
+    "invokedAt": "2023-11-14T17:00:31.301Z"
   }
 ]
