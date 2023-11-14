@@ -126,5 +126,13 @@
     "username": "whitecat527",
     "password": "redd",
     "invokedAt": "2023-11-14T15:00:27.847Z"
+  },
+  {
+    "firstName": "Norah",
+    "lastName": "Brun",
+    "email": "norah.brun@example.com",
+    "username": "blackpanda423",
+    "password": "north",
+    "invokedAt": "2023-11-14T16:00:21.896Z"
   }
 ]
