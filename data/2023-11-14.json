@@ -118,5 +118,13 @@
     "username": "organicbear252",
     "password": "bilbo",
     "invokedAt": "2023-11-14T14:00:27.017Z"
+  },
+  {
+    "firstName": "Caitlin",
+    "lastName": "Austin",
+    "email": "caitlin.austin@example.com",
+    "username": "whitecat527",
+    "password": "redd",
+    "invokedAt": "2023-11-14T15:00:27.847Z"
   }
 ]
