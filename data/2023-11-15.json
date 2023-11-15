@@ -102,5 +102,13 @@
     "username": "orangetiger479",
     "password": "grover",
     "invokedAt": "2023-11-15T12:00:22.722Z"
+  },
+  {
+    "firstName": "Vivek",
+    "lastName": "Shetty",
+    "email": "vivek.shetty@example.com",
+    "username": "angryleopard875",
+    "password": "canucks",
+    "invokedAt": "2023-11-15T13:02:26.620Z"
   }
 ]
