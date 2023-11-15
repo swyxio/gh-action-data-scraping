@@ -70,5 +70,13 @@
     "username": "brownrabbit192",
     "password": "titanic",
     "invokedAt": "2023-11-15T08:00:28.548Z"
+  },
+  {
+    "firstName": "Paula",
+    "lastName": "Castro",
+    "email": "paula.castro@example.com",
+    "username": "whitesnake169",
+    "password": "combat",
+    "invokedAt": "2023-11-15T09:00:24.553Z"
   }
 ]
