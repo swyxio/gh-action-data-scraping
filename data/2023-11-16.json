@@ -182,5 +182,13 @@
     "username": "tinyrabbit821",
     "password": "stellar",
     "invokedAt": "2023-11-16T22:00:23.159Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Stewart",
+    "email": "hunter.stewart@example.com",
+    "username": "bigtiger208",
+    "password": "paintbal",
+    "invokedAt": "2023-11-16T23:00:20.991Z"
   }
 ]
