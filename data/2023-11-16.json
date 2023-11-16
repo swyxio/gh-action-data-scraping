@@ -158,5 +158,13 @@
     "username": "whiteswan984",
     "password": "chester1",
     "invokedAt": "2023-11-16T19:00:24.513Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Poyrazoğlu",
+    "email": "ulku.poyrazoglu@example.com",
+    "username": "yellowcat427",
+    "password": "niners",
+    "invokedAt": "2023-11-16T20:00:22.160Z"
   }
 ]
