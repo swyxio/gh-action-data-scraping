@@ -86,5 +86,13 @@
     "username": "lazypanda894",
     "password": "nuclear",
     "invokedAt": "2023-11-17T10:00:28.114Z"
+  },
+  {
+    "firstName": "Nurdan",
+    "lastName": "Koçyiğit",
+    "email": "nurdan.kocyigit@example.com",
+    "username": "crazygorilla144",
+    "password": "rightnow",
+    "invokedAt": "2023-11-17T11:00:26.143Z"
   }
 ]
