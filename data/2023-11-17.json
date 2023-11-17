@@ -62,5 +62,13 @@
     "username": "tinydog421",
     "password": "powers",
     "invokedAt": "2023-11-17T07:00:23.962Z"
+  },
+  {
+    "firstName": "Benas",
+    "lastName": "Venås",
+    "email": "benas.venas@example.com",
+    "username": "heavyswan967",
+    "password": "account",
+    "invokedAt": "2023-11-17T08:00:21.239Z"
   }
 ]
