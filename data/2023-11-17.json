@@ -14,5 +14,13 @@
     "username": "smallelephant659",
     "password": "string",
     "invokedAt": "2023-11-17T01:24:21.381Z"
+  },
+  {
+    "firstName": "Benito",
+    "lastName": "Gutiérrez",
+    "email": "benito.gutierrez@example.com",
+    "username": "smallkoala163",
+    "password": "wave",
+    "invokedAt": "2023-11-17T02:11:10.270Z"
   }
 ]
