@@ -158,5 +158,13 @@
     "username": "bluemeercat179",
     "password": "claymore",
     "invokedAt": "2023-11-17T19:00:20.195Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Petersen",
+    "email": "clara.petersen@example.com",
+    "username": "greenbird102",
+    "password": "griffey",
+    "invokedAt": "2023-11-17T20:00:26.605Z"
   }
 ]
