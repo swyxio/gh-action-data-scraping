@@ -134,5 +134,13 @@
     "username": "tinyzebra907",
     "password": "zurich",
     "invokedAt": "2023-11-18T16:00:23.828Z"
+  },
+  {
+    "firstName": "Dora",
+    "lastName": "Vujičić",
+    "email": "dora.vujicic@example.com",
+    "username": "blackfrog462",
+    "password": "miao",
+    "invokedAt": "2023-11-18T17:00:25.612Z"
   }
 ]
