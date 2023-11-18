@@ -182,5 +182,13 @@
     "username": "redrabbit634",
     "password": "shotgun",
     "invokedAt": "2023-11-18T22:00:32.932Z"
+  },
+  {
+    "firstName": "Megan",
+    "lastName": "Martin",
+    "email": "megan.martin@example.com",
+    "username": "heavyleopard623",
+    "password": "enjoy",
+    "invokedAt": "2023-11-18T23:00:24.209Z"
   }
 ]
