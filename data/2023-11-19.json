@@ -110,5 +110,13 @@
     "username": "bluewolf330",
     "password": "testpass",
     "invokedAt": "2023-11-19T13:00:59.518Z"
+  },
+  {
+    "firstName": "Kuzey",
+    "lastName": "Koçoğlu",
+    "email": "kuzey.kocoglu@example.com",
+    "username": "ticklishgoose310",
+    "password": "7007",
+    "invokedAt": "2023-11-19T14:00:20.006Z"
   }
 ]
