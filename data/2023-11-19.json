@@ -158,5 +158,13 @@
     "username": "tinytiger544",
     "password": "mango",
     "invokedAt": "2023-11-19T19:00:19.009Z"
+  },
+  {
+    "firstName": "Alisa",
+    "lastName": "Salonen",
+    "email": "alisa.salonen@example.com",
+    "username": "blackkoala754",
+    "password": "suzanne",
+    "invokedAt": "2023-11-19T20:00:22.943Z"
   }
 ]
