@@ -70,5 +70,13 @@
     "username": "organiclion374",
     "password": "laura",
     "invokedAt": "2023-11-20T08:00:21.791Z"
+  },
+  {
+    "firstName": "Mathieu",
+    "lastName": "Lefebvre",
+    "email": "mathieu.lefebvre@example.com",
+    "username": "tinygorilla991",
+    "password": "lowell",
+    "invokedAt": "2023-11-20T09:00:20.643Z"
   }
 ]
