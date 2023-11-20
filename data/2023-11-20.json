@@ -166,5 +166,13 @@
     "username": "silverfrog334",
     "password": "gonzales",
     "invokedAt": "2023-11-20T20:00:19.884Z"
+  },
+  {
+    "firstName": "Alvaro",
+    "lastName": "Valladares",
+    "email": "alvaro.valladares@example.com",
+    "username": "bluebutterfly146",
+    "password": "4444",
+    "invokedAt": "2023-11-20T21:00:23.858Z"
   }
 ]
