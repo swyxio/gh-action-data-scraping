@@ -182,5 +182,13 @@
     "username": "bluepeacock591",
     "password": "mallard",
     "invokedAt": "2023-11-21T22:00:20.123Z"
+  },
+  {
+    "firstName": "Maroua",
+    "lastName": "Den Daas",
+    "email": "maroua.dendaas@example.com",
+    "username": "smallzebra443",
+    "password": "bubba1",
+    "invokedAt": "2023-11-21T23:00:25.221Z"
   }
 ]
