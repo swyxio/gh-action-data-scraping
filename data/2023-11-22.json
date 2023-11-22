@@ -166,5 +166,13 @@
     "username": "goldenfish645",
     "password": "biit",
     "invokedAt": "2023-11-22T20:00:23.124Z"
+  },
+  {
+    "firstName": "Gregorio",
+    "lastName": "Nieto",
+    "email": "gregorio.nieto@example.com",
+    "username": "beautifulgoose207",
+    "password": "private1",
+    "invokedAt": "2023-11-22T21:00:26.841Z"
   }
 ]
