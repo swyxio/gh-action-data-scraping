@@ -182,5 +182,13 @@
     "username": "redfish611",
     "password": "times",
     "invokedAt": "2023-11-22T22:00:19.088Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Petersen",
+    "email": "valdemar.petersen@example.com",
+    "username": "greenduck323",
+    "password": "ready",
+    "invokedAt": "2023-11-22T23:00:21.053Z"
   }
 ]
