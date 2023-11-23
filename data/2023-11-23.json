@@ -38,5 +38,13 @@
     "username": "bluecat111",
     "password": "rampage",
     "invokedAt": "2023-11-23T04:00:25.368Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Zúñiga",
+    "email": "carlos.zuniga@example.com",
+    "username": "crazydog474",
+    "password": "milkman",
+    "invokedAt": "2023-11-23T05:00:31.977Z"
   }
 ]
