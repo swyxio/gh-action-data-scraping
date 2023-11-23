@@ -142,5 +142,13 @@
     "username": "blackbear712",
     "password": "salmon",
     "invokedAt": "2023-11-23T17:00:24.208Z"
+  },
+  {
+    "firstName": "Siegward",
+    "lastName": "Sobotta",
+    "email": "siegward.sobotta@example.com",
+    "username": "sadostrich802",
+    "password": "bollocks",
+    "invokedAt": "2023-11-23T18:00:25.060Z"
   }
 ]
