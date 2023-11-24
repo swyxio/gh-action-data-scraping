@@ -166,5 +166,13 @@
     "username": "crazygorilla161",
     "password": "enterprise",
     "invokedAt": "2023-11-24T20:00:19.730Z"
+  },
+  {
+    "firstName": "Archer",
+    "lastName": "Kumar",
+    "email": "archer.kumar@example.com",
+    "username": "sadbird181",
+    "password": "myspace1",
+    "invokedAt": "2023-11-24T21:00:21.175Z"
   }
 ]
