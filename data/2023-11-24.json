@@ -174,5 +174,13 @@
     "username": "sadbird181",
     "password": "myspace1",
     "invokedAt": "2023-11-24T21:00:21.175Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Martin",
+    "email": "rosa.martin@example.com",
+    "username": "brownleopard546",
+    "password": "1234567890",
+    "invokedAt": "2023-11-24T22:00:22.789Z"
   }
 ]
