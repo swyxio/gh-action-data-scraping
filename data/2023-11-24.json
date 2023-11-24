@@ -78,5 +78,13 @@
     "username": "blackkoala252",
     "password": "pegasus",
     "invokedAt": "2023-11-24T09:00:19.556Z"
+  },
+  {
+    "firstName": "Maureen",
+    "lastName": "Roberts",
+    "email": "maureen.roberts@example.com",
+    "username": "blackmouse203",
+    "password": "video",
+    "invokedAt": "2023-11-24T10:00:25.140Z"
   }
 ]
