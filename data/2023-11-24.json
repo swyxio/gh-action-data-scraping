@@ -142,5 +142,13 @@
     "username": "brownbird535",
     "password": "airport",
     "invokedAt": "2023-11-24T17:00:29.270Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Bergeron",
+    "email": "alexandre.bergeron@example.com",
+    "username": "purplefish557",
+    "password": "sprout",
+    "invokedAt": "2023-11-24T18:00:21.129Z"
   }
 ]
