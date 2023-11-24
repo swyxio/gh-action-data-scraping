@@ -134,5 +134,13 @@
     "username": "organictiger659",
     "password": "ocean",
     "invokedAt": "2023-11-24T16:00:29.992Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Walker",
+    "email": "harper.walker@example.com",
+    "username": "brownbird535",
+    "password": "airport",
+    "invokedAt": "2023-11-24T17:00:29.270Z"
   }
 ]
