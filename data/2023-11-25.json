@@ -166,5 +166,13 @@
     "username": "blackleopard173",
     "password": "looking",
     "invokedAt": "2023-11-25T20:00:24.450Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Marrero",
+    "email": "ricardo.marrero@example.com",
+    "username": "lazytiger705",
+    "password": "diane",
+    "invokedAt": "2023-11-25T21:00:21.648Z"
   }
 ]
