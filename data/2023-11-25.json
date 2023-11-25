@@ -118,5 +118,13 @@
     "username": "orangefrog679",
     "password": "muffy",
     "invokedAt": "2023-11-25T14:00:19.558Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Rasmussen",
+    "email": "simon.rasmussen@example.com",
+    "username": "brownkoala481",
+    "password": "coventry",
+    "invokedAt": "2023-11-25T15:00:18.768Z"
   }
 ]
