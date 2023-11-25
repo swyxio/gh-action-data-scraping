@@ -126,5 +126,13 @@
     "username": "brownkoala481",
     "password": "coventry",
     "invokedAt": "2023-11-25T15:00:18.768Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Bélanger",
+    "email": "arnaud.belanger@example.com",
+    "username": "happygorilla146",
+    "password": "dalshe",
+    "invokedAt": "2023-11-25T16:00:21.284Z"
   }
 ]
