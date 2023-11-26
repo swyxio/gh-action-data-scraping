@@ -142,5 +142,13 @@
     "username": "yellowbird157",
     "password": "outback",
     "invokedAt": "2023-11-26T17:00:21.891Z"
+  },
+  {
+    "firstName": "Franca",
+    "lastName": "Perez",
+    "email": "franca.perez@example.com",
+    "username": "smallpanda370",
+    "password": "scorpio",
+    "invokedAt": "2023-11-26T18:00:23.664Z"
   }
 ]
