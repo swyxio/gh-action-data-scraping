@@ -46,5 +46,13 @@
     "username": "yellowsnake503",
     "password": "tucson",
     "invokedAt": "2023-11-26T05:00:19.657Z"
+  },
+  {
+    "firstName": "Edith",
+    "lastName": "Bikker",
+    "email": "edith.bikker@example.com",
+    "username": "bigduck182",
+    "password": "buddha",
+    "invokedAt": "2023-11-26T06:00:20.216Z"
   }
 ]
