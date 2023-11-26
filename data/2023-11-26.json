@@ -62,5 +62,13 @@
     "username": "angrydog180",
     "password": "motion",
     "invokedAt": "2023-11-26T07:00:22.007Z"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Jackson",
+    "email": "jessica.jackson@example.com",
+    "username": "bigpeacock108",
+    "password": "manowar",
+    "invokedAt": "2023-11-26T08:00:21.715Z"
   }
 ]
