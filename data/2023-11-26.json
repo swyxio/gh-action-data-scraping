@@ -166,5 +166,13 @@
     "username": "goldenpeacock555",
     "password": "kipper",
     "invokedAt": "2023-11-26T20:00:22.717Z"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Duncan",
+    "email": "jordan.duncan@example.com",
+    "username": "redladybug294",
+    "password": "stonecol",
+    "invokedAt": "2023-11-26T21:00:29.363Z"
   }
 ]
