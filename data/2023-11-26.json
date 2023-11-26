@@ -94,5 +94,13 @@
     "username": "purpletiger498",
     "password": "3434",
     "invokedAt": "2023-11-26T11:00:28.845Z"
+  },
+  {
+    "firstName": "Dick",
+    "lastName": "Vasquez",
+    "email": "dick.vasquez@example.com",
+    "username": "whitepanda328",
+    "password": "dudedude",
+    "invokedAt": "2023-11-26T12:00:24.976Z"
   }
 ]
