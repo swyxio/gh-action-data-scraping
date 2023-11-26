@@ -78,5 +78,13 @@
     "username": "goldendog635",
     "password": "chevrole",
     "invokedAt": "2023-11-26T09:00:18.632Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Kivi",
+    "email": "samuel.kivi@example.com",
+    "username": "sadfrog559",
+    "password": "bigblock",
+    "invokedAt": "2023-11-26T10:00:19.761Z"
   }
 ]
