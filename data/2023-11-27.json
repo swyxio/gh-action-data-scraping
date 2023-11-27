@@ -78,5 +78,13 @@
     "username": "redrabbit627",
     "password": "simona",
     "invokedAt": "2023-11-27T09:00:24.200Z"
+  },
+  {
+    "firstName": "Jutta",
+    "lastName": "Gödecke",
+    "email": "jutta.godecke@example.com",
+    "username": "bluezebra612",
+    "password": "logitech",
+    "invokedAt": "2023-11-27T10:00:22.312Z"
   }
 ]
