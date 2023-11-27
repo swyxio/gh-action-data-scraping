@@ -142,5 +142,13 @@
     "username": "silverfrog421",
     "password": "indain",
     "invokedAt": "2023-11-27T17:00:32.060Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Sørensen",
+    "email": "nikolaj.sorensen@example.com",
+    "username": "crazypanda168",
+    "password": "palace",
+    "invokedAt": "2023-11-27T18:00:20.458Z"
   }
 ]
