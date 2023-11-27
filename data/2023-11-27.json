@@ -182,5 +182,13 @@
     "username": "greenkoala985",
     "password": "puddin",
     "invokedAt": "2023-11-27T22:00:27.130Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Pedersen",
+    "email": "laura.pedersen@example.com",
+    "username": "whiteostrich833",
+    "password": "kodiak",
+    "invokedAt": "2023-11-27T23:00:19.437Z"
   }
 ]
