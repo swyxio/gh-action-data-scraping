@@ -94,5 +94,13 @@
     "username": "heavysnake628",
     "password": "denver",
     "invokedAt": "2023-11-28T11:00:28.361Z"
+  },
+  {
+    "firstName": "Byron",
+    "lastName": "Hall",
+    "email": "byron.hall@example.com",
+    "username": "brownkoala651",
+    "password": "invis",
+    "invokedAt": "2023-11-28T12:00:21.961Z"
   }
 ]
