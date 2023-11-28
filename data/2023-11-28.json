@@ -166,5 +166,13 @@
     "username": "whitesnake355",
     "password": "freddie",
     "invokedAt": "2023-11-28T20:00:20.975Z"
+  },
+  {
+    "firstName": "Velibor",
+    "lastName": "Kuzmanović",
+    "email": "velibor.kuzmanovic@example.com",
+    "username": "crazymeercat820",
+    "password": "virginia",
+    "invokedAt": "2023-11-28T21:00:24.775Z"
   }
 ]
