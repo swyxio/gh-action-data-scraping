@@ -118,5 +118,13 @@
     "username": "crazymouse742",
     "password": "raider",
     "invokedAt": "2023-11-29T14:00:26.286Z"
+  },
+  {
+    "firstName": "Velichar",
+    "lastName": "Yushnevskiy",
+    "email": "velichar.yushnevskiy@example.com",
+    "username": "crazyfrog596",
+    "password": "internet",
+    "invokedAt": "2023-11-29T15:00:34.224Z"
   }
 ]
