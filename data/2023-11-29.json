@@ -174,5 +174,13 @@
     "username": "bigleopard241",
     "password": "lookout",
     "invokedAt": "2023-11-29T21:00:23.176Z"
+  },
+  {
+    "firstName": "Ashley",
+    "lastName": "Pierce",
+    "email": "ashley.pierce@example.com",
+    "username": "sadladybug181",
+    "password": "mariposa",
+    "invokedAt": "2023-11-29T22:00:19.187Z"
   }
 ]
