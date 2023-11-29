@@ -110,5 +110,13 @@
     "username": "blackleopard600",
     "password": "1992",
     "invokedAt": "2023-11-29T13:02:16.860Z"
+  },
+  {
+    "firstName": "Flip",
+    "lastName": "Van de Putte",
+    "email": "flip.vandeputte@example.com",
+    "username": "crazymouse742",
+    "password": "raider",
+    "invokedAt": "2023-11-29T14:00:26.286Z"
   }
 ]
