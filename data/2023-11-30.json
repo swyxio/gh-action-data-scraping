@@ -62,5 +62,13 @@
     "username": "blackzebra912",
     "password": "holein1",
     "invokedAt": "2023-11-30T07:00:19.128Z"
+  },
+  {
+    "firstName": "Gerardo",
+    "lastName": "Pastor",
+    "email": "gerardo.pastor@example.com",
+    "username": "angrydog423",
+    "password": "hogan",
+    "invokedAt": "2023-11-30T08:00:27.194Z"
   }
 ]
