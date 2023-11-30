@@ -142,5 +142,13 @@
     "username": "smallpanda338",
     "password": "whocares",
     "invokedAt": "2023-11-30T17:00:26.700Z"
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Gojković",
+    "email": "maja.gojkovic@example.com",
+    "username": "heavybird568",
+    "password": "kume",
+    "invokedAt": "2023-11-30T18:00:28.221Z"
   }
 ]
