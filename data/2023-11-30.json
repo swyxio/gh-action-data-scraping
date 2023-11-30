@@ -126,5 +126,13 @@
     "username": "angrytiger261",
     "password": "visual",
     "invokedAt": "2023-11-30T15:00:27.576Z"
+  },
+  {
+    "firstName": "Katarina",
+    "lastName": "Tešić",
+    "email": "katarina.tesic@example.com",
+    "username": "goldenelephant166",
+    "password": "serena",
+    "invokedAt": "2023-11-30T16:00:32.384Z"
   }
 ]
