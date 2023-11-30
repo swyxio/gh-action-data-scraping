@@ -134,5 +134,13 @@
     "username": "goldenelephant166",
     "password": "serena",
     "invokedAt": "2023-11-30T16:00:32.384Z"
+  },
+  {
+    "firstName": "Vishaal",
+    "lastName": "Van der Donk",
+    "email": "vishaal.vanderdonk@example.com",
+    "username": "smallpanda338",
+    "password": "whocares",
+    "invokedAt": "2023-11-30T17:00:26.700Z"
   }
 ]
