@@ -166,5 +166,13 @@
     "username": "tinytiger358",
     "password": "blue22",
     "invokedAt": "2023-12-01T20:00:19.628Z"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Gregory",
+    "email": "kevin.gregory@example.com",
+    "username": "beautifulfish786",
+    "password": "dynamite",
+    "invokedAt": "2023-12-01T21:00:21.797Z"
   }
 ]
