@@ -62,5 +62,13 @@
     "username": "blueostrich255",
     "password": "testpass",
     "invokedAt": "2023-12-02T07:00:20.563Z"
+  },
+  {
+    "firstName": "Slavoljub",
+    "lastName": "Novaković",
+    "email": "slavoljub.novakovic@example.com",
+    "username": "lazyfrog754",
+    "password": "widget",
+    "invokedAt": "2023-12-02T08:00:20.516Z"
   }
 ]
