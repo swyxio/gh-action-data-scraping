@@ -158,5 +158,13 @@
     "username": "lazylion970",
     "password": "sanford",
     "invokedAt": "2023-12-02T19:00:30.641Z"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Lawrence",
+    "email": "cathy.lawrence@example.com",
+    "username": "ticklishfish619",
+    "password": "downtown",
+    "invokedAt": "2023-12-02T20:00:25.898Z"
   }
 ]
