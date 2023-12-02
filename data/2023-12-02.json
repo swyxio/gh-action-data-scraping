@@ -54,5 +54,13 @@
     "username": "bluelion720",
     "password": "cutter",
     "invokedAt": "2023-12-02T06:00:22.371Z"
+  },
+  {
+    "firstName": "Zlatomir",
+    "lastName": "Motrichko",
+    "email": "zlatomir.motrichko@example.com",
+    "username": "blueostrich255",
+    "password": "testpass",
+    "invokedAt": "2023-12-02T07:00:20.563Z"
   }
 ]
