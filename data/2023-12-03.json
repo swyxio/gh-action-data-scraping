@@ -102,5 +102,13 @@
     "username": "smallelephant801",
     "password": "blizzard",
     "invokedAt": "2023-12-03T12:00:20.244Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Walker",
+    "email": "alexander.walker@example.com",
+    "username": "whitegorilla483",
+    "password": "12341234",
+    "invokedAt": "2023-12-03T13:00:56.414Z"
   }
 ]
