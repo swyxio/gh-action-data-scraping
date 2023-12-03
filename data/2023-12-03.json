@@ -94,5 +94,13 @@
     "username": "brownsnake439",
     "password": "dottie",
     "invokedAt": "2023-12-03T11:00:20.385Z"
+  },
+  {
+    "firstName": "Nastasija",
+    "lastName": "Danilović",
+    "email": "nastasija.danilovic@example.com",
+    "username": "smallelephant801",
+    "password": "blizzard",
+    "invokedAt": "2023-12-03T12:00:20.244Z"
   }
 ]
