@@ -78,5 +78,13 @@
     "username": "orangeelephant381",
     "password": "snake1",
     "invokedAt": "2023-12-03T09:00:20.825Z"
+  },
+  {
+    "firstName": "Aćim",
+    "lastName": "Kalinić",
+    "email": "acim.kalinic@example.com",
+    "username": "angrybird722",
+    "password": "zippy",
+    "invokedAt": "2023-12-03T10:00:35.924Z"
   }
 ]
