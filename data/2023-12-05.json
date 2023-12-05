@@ -86,5 +86,13 @@
     "username": "purplecat599",
     "password": "hollow",
     "invokedAt": "2023-12-05T10:00:21.379Z"
+  },
+  {
+    "firstName": "Willard",
+    "lastName": "Medina",
+    "email": "willard.medina@example.com",
+    "username": "yellowzebra413",
+    "password": "scream",
+    "invokedAt": "2023-12-05T11:00:30.580Z"
   }
 ]
