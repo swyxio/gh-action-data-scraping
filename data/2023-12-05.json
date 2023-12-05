@@ -94,5 +94,13 @@
     "username": "yellowzebra413",
     "password": "scream",
     "invokedAt": "2023-12-05T11:00:30.580Z"
+  },
+  {
+    "firstName": "Shravya",
+    "lastName": "Adiga",
+    "email": "shravya.adiga@example.com",
+    "username": "angrycat424",
+    "password": "ghost1",
+    "invokedAt": "2023-12-05T12:00:24.907Z"
   }
 ]
