@@ -118,5 +118,13 @@
     "username": "orangebird597",
     "password": "wibble",
     "invokedAt": "2023-12-05T14:00:19.829Z"
+  },
+  {
+    "firstName": "Brittany",
+    "lastName": "Hunter",
+    "email": "brittany.hunter@example.com",
+    "username": "silverelephant300",
+    "password": "nomad",
+    "invokedAt": "2023-12-05T15:00:21.053Z"
   }
 ]
