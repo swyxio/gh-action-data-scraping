@@ -78,5 +78,13 @@
     "username": "brownelephant411",
     "password": "message",
     "invokedAt": "2023-12-06T09:00:21.193Z"
+  },
+  {
+    "firstName": "Vicenta",
+    "lastName": "Flores",
+    "email": "vicenta.flores@example.com",
+    "username": "happybutterfly282",
+    "password": "guitars",
+    "invokedAt": "2023-12-06T10:00:25.426Z"
   }
 ]
