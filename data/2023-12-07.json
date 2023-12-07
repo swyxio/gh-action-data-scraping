@@ -78,5 +78,13 @@
     "username": "happyfish280",
     "password": "treasure",
     "invokedAt": "2023-12-07T09:00:20.695Z"
+  },
+  {
+    "firstName": "Ümit",
+    "lastName": "Akgül",
+    "email": "umit.akgul@example.com",
+    "username": "angrysnake827",
+    "password": "puck",
+    "invokedAt": "2023-12-07T10:00:22.767Z"
   }
 ]
