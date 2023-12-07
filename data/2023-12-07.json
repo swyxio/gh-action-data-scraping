@@ -166,5 +166,13 @@
     "username": "happybutterfly161",
     "password": "luck",
     "invokedAt": "2023-12-07T20:00:24.176Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Tokatlıoğlu",
+    "email": "sedef.tokatlioglu@example.com",
+    "username": "redtiger581",
+    "password": "united",
+    "invokedAt": "2023-12-07T21:00:20.240Z"
   }
 ]
