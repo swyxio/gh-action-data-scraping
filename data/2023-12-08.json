@@ -174,5 +174,13 @@
     "username": "angryleopard199",
     "password": "zhui",
     "invokedAt": "2023-12-08T21:00:24.756Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Flores",
+    "email": "gabriel.flores@example.com",
+    "username": "browncat222",
+    "password": "commando",
+    "invokedAt": "2023-12-08T22:00:19.726Z"
   }
 ]
