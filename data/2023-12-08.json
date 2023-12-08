@@ -182,5 +182,13 @@
     "username": "browncat222",
     "password": "commando",
     "invokedAt": "2023-12-08T22:00:19.726Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Pearson",
+    "email": "sam.pearson@example.com",
+    "username": "redcat262",
+    "password": "bolitas",
+    "invokedAt": "2023-12-08T23:00:19.325Z"
   }
 ]
