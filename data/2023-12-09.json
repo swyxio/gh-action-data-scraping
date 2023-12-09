@@ -14,5 +14,13 @@
     "username": "orangekoala301",
     "password": "volume",
     "invokedAt": "2023-12-09T01:23:23.835Z"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Freeman",
+    "email": "larry.freeman@example.com",
+    "username": "brownleopard620",
+    "password": "lightning",
+    "invokedAt": "2023-12-09T02:09:20.722Z"
   }
 ]
