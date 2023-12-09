@@ -118,5 +118,13 @@
     "username": "orangeostrich972",
     "password": "french",
     "invokedAt": "2023-12-09T14:00:23.015Z"
+  },
+  {
+    "firstName": "Trym",
+    "lastName": "Ihle",
+    "email": "trym.ihle@example.com",
+    "username": "purplefish609",
+    "password": "1103",
+    "invokedAt": "2023-12-09T15:00:19.715Z"
   }
 ]
