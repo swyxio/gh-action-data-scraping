@@ -182,5 +182,13 @@
     "username": "lazymouse490",
     "password": "playing",
     "invokedAt": "2023-12-09T22:00:22.710Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Tešić",
+    "email": "anton.tesic@example.com",
+    "username": "crazypanda139",
+    "password": "buffalo1",
+    "invokedAt": "2023-12-09T23:00:21.713Z"
   }
 ]
