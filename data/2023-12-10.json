@@ -158,5 +158,13 @@
     "username": "yellowsnake490",
     "password": "videoes",
     "invokedAt": "2023-12-10T19:00:24.780Z"
+  },
+  {
+    "firstName": "Freya",
+    "lastName": "Cooper",
+    "email": "freya.cooper@example.com",
+    "username": "whitebear293",
+    "password": "norris",
+    "invokedAt": "2023-12-10T20:00:21.959Z"
   }
 ]
