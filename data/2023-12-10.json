@@ -118,5 +118,13 @@
     "username": "orangelion453",
     "password": "spud",
     "invokedAt": "2023-12-10T14:00:33.258Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Doyle",
+    "email": "zoe.doyle@example.com",
+    "username": "whitecat415",
+    "password": "rocket",
+    "invokedAt": "2023-12-10T15:00:17.939Z"
   }
 ]
