@@ -158,5 +158,13 @@
     "username": "yellowbird888",
     "password": "paragon",
     "invokedAt": "2023-12-11T19:00:22.924Z"
+  },
+  {
+    "firstName": "Mónica",
+    "lastName": "Collazo",
+    "email": "monica.collazo@example.com",
+    "username": "brownsnake394",
+    "password": "willis",
+    "invokedAt": "2023-12-11T20:00:21.671Z"
   }
 ]
