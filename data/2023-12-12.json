@@ -38,5 +38,13 @@
     "username": "bluesnake747",
     "password": "space",
     "invokedAt": "2023-12-12T04:00:22.120Z"
+  },
+  {
+    "firstName": "Arin",
+    "lastName": "Kibsgaard",
+    "email": "arin.kibsgaard@example.com",
+    "username": "silverkoala863",
+    "password": "studman",
+    "invokedAt": "2023-12-12T05:00:27.824Z"
   }
 ]
