@@ -102,5 +102,13 @@
     "username": "goldenswan479",
     "password": "paradigm",
     "invokedAt": "2023-12-12T12:00:28.870Z"
+  },
+  {
+    "firstName": "Dubravko",
+    "lastName": "Stošić",
+    "email": "dubravko.stosic@example.com",
+    "username": "beautifulbird949",
+    "password": "poopoo",
+    "invokedAt": "2023-12-12T13:02:12.241Z"
   }
 ]
