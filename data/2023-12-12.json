@@ -94,5 +94,13 @@
     "username": "happyostrich556",
     "password": "gohome",
     "invokedAt": "2023-12-12T11:00:25.865Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Van Wilgenburg",
+    "email": "otto.vanwilgenburg@example.com",
+    "username": "goldenswan479",
+    "password": "paradigm",
+    "invokedAt": "2023-12-12T12:00:28.870Z"
   }
 ]
