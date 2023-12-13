@@ -118,5 +118,13 @@
     "username": "whitelion377",
     "password": "delaney",
     "invokedAt": "2023-12-13T14:00:25.375Z"
+  },
+  {
+    "firstName": "Peter-Paul",
+    "lastName": "Rebel",
+    "email": "peter-paul.rebel@example.com",
+    "username": "goldenlion321",
+    "password": "cyclops",
+    "invokedAt": "2023-12-13T15:00:30.363Z"
   }
 ]
