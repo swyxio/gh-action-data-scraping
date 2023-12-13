@@ -102,5 +102,13 @@
     "username": "sadswan595",
     "password": "marcia",
     "invokedAt": "2023-12-13T12:00:34.446Z"
+  },
+  {
+    "firstName": "Dragoljub",
+    "lastName": "Stošić",
+    "email": "dragoljub.stosic@example.com",
+    "username": "lazyswan347",
+    "password": "duchess",
+    "invokedAt": "2023-12-13T13:02:17.338Z"
   }
 ]
