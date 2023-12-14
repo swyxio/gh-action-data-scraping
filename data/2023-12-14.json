@@ -142,5 +142,13 @@
     "username": "smallmeercat615",
     "password": "stretch",
     "invokedAt": "2023-12-14T17:00:24.400Z"
+  },
+  {
+    "firstName": "Wendy",
+    "lastName": "Narváez",
+    "email": "wendy.narvaez@example.com",
+    "username": "greenpeacock229",
+    "password": "temple",
+    "invokedAt": "2023-12-14T18:00:26.243Z"
   }
 ]
