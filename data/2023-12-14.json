@@ -102,5 +102,13 @@
     "username": "beautifulbear707",
     "password": "qwertyui",
     "invokedAt": "2023-12-14T12:00:24.784Z"
+  },
+  {
+    "firstName": "Mitar",
+    "lastName": "Ivanić",
+    "email": "mitar.ivanic@example.com",
+    "username": "beautifuldog909",
+    "password": "jellybea",
+    "invokedAt": "2023-12-14T13:02:06.560Z"
   }
 ]
