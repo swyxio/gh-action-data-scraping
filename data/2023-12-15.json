@@ -142,5 +142,13 @@
     "username": "organicmeercat915",
     "password": "12341234",
     "invokedAt": "2023-12-15T17:00:23.010Z"
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Beşok",
+    "email": "onur.besok@example.com",
+    "username": "bigkoala383",
+    "password": "helper",
+    "invokedAt": "2023-12-15T18:00:26.016Z"
   }
 ]
