@@ -126,5 +126,13 @@
     "username": "bigfrog985",
     "password": "tweety",
     "invokedAt": "2023-12-15T15:00:22.016Z"
+  },
+  {
+    "firstName": "Vuk",
+    "lastName": "Milutinović",
+    "email": "vuk.milutinovic@example.com",
+    "username": "happyduck392",
+    "password": "archer",
+    "invokedAt": "2023-12-15T16:00:20.888Z"
   }
 ]
