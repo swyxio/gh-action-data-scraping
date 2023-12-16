@@ -142,5 +142,13 @@
     "username": "crazyfish192",
     "password": "mortal",
     "invokedAt": "2023-12-16T17:00:23.865Z"
+  },
+  {
+    "firstName": "Katja",
+    "lastName": "Volkmer",
+    "email": "katja.volkmer@example.com",
+    "username": "crazylion523",
+    "password": "club",
+    "invokedAt": "2023-12-16T18:00:22.867Z"
   }
 ]
