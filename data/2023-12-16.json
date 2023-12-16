@@ -166,5 +166,13 @@
     "username": "bluebear499",
     "password": "caliente",
     "invokedAt": "2023-12-16T20:00:23.213Z"
+  },
+  {
+    "firstName": "Chloe",
+    "lastName": "Jackson",
+    "email": "chloe.jackson@example.com",
+    "username": "blackbird202",
+    "password": "pathfind",
+    "invokedAt": "2023-12-16T21:00:22.991Z"
   }
 ]
