@@ -94,5 +94,13 @@
     "username": "angryrabbit407",
     "password": "chips",
     "invokedAt": "2023-12-17T11:00:18.735Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Lončarević",
+    "email": "andrea.loncarevic@example.com",
+    "username": "orangeswan561",
+    "password": "blood",
+    "invokedAt": "2023-12-17T12:00:20.197Z"
   }
 ]
