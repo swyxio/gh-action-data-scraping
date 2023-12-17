@@ -182,5 +182,13 @@
     "username": "tinypanda456",
     "password": "starcraft",
     "invokedAt": "2023-12-17T22:00:31.696Z"
+  },
+  {
+    "firstName": "Paige",
+    "lastName": "Grant",
+    "email": "paige.grant@example.com",
+    "username": "beautifulbird844",
+    "password": "jeeper",
+    "invokedAt": "2023-12-17T23:00:21.286Z"
   }
 ]
