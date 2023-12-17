@@ -134,5 +134,13 @@
     "username": "purpletiger480",
     "password": "donovan",
     "invokedAt": "2023-12-17T16:00:19.885Z"
+  },
+  {
+    "firstName": "Azuma",
+    "lastName": "Benavídez",
+    "email": "azuma.benavidez@example.com",
+    "username": "yellowtiger659",
+    "password": "123456a",
+    "invokedAt": "2023-12-17T17:00:35.195Z"
   }
 ]
