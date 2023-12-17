@@ -86,5 +86,13 @@
     "username": "smalldog622",
     "password": "f00tball",
     "invokedAt": "2023-12-17T10:00:21.147Z"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Newman",
+    "email": "ellie.newman@example.com",
+    "username": "angryrabbit407",
+    "password": "chips",
+    "invokedAt": "2023-12-17T11:00:18.735Z"
   }
 ]
