@@ -182,5 +182,13 @@
     "username": "bluetiger888",
     "password": "nutmeg",
     "invokedAt": "2023-12-18T22:00:27.392Z"
+  },
+  {
+    "firstName": "Nander",
+    "lastName": "Perquin",
+    "email": "nander.perquin@example.com",
+    "username": "tinyfish789",
+    "password": "starcraft",
+    "invokedAt": "2023-12-18T23:00:19.027Z"
   }
 ]
