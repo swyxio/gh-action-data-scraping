@@ -134,5 +134,13 @@
     "username": "happywolf721",
     "password": "utopia",
     "invokedAt": "2023-12-18T16:00:23.680Z"
+  },
+  {
+    "firstName": "Gina",
+    "lastName": "Butler",
+    "email": "gina.butler@example.com",
+    "username": "happybutterfly420",
+    "password": "service",
+    "invokedAt": "2023-12-18T17:00:22.435Z"
   }
 ]
