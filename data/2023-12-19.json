@@ -174,5 +174,13 @@
     "username": "happypeacock276",
     "password": "5050",
     "invokedAt": "2023-12-19T21:00:22.820Z"
+  },
+  {
+    "firstName": "Kerim",
+    "lastName": "Okumuş",
+    "email": "kerim.okumus@example.com",
+    "username": "purpledog378",
+    "password": "blades",
+    "invokedAt": "2023-12-19T22:00:21.338Z"
   }
 ]
