@@ -134,5 +134,13 @@
     "username": "heavydog911",
     "password": "microsoft",
     "invokedAt": "2023-12-20T16:00:23.214Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Faure",
+    "email": "marie.faure@example.com",
+    "username": "blackmouse896",
+    "password": "proxy",
+    "invokedAt": "2023-12-20T17:00:27.433Z"
   }
 ]
