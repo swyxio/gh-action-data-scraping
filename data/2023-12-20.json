@@ -30,5 +30,13 @@
     "username": "bigfish529",
     "password": "confused",
     "invokedAt": "2023-12-20T03:00:22.412Z"
+  },
+  {
+    "firstName": "Cain",
+    "lastName": "Enthoven",
+    "email": "cain.enthoven@example.com",
+    "username": "blackrabbit383",
+    "password": "wrestle",
+    "invokedAt": "2023-12-20T04:00:18.909Z"
   }
 ]
