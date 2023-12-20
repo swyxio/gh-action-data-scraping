@@ -182,5 +182,13 @@
     "username": "yellowladybug996",
     "password": "robotech",
     "invokedAt": "2023-12-20T22:00:20.048Z"
+  },
+  {
+    "firstName": "Hermann",
+    "lastName": "Persen",
+    "email": "hermann.persen@example.com",
+    "username": "greenbear772",
+    "password": "wibble",
+    "invokedAt": "2023-12-20T23:00:25.793Z"
   }
 ]
