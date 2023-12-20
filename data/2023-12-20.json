@@ -126,5 +126,13 @@
     "username": "lazykoala936",
     "password": "lucky",
     "invokedAt": "2023-12-20T15:00:31.711Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Macrae",
+    "email": "leo.macrae@example.com",
+    "username": "heavydog911",
+    "password": "microsoft",
+    "invokedAt": "2023-12-20T16:00:23.214Z"
   }
 ]
