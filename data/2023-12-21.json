@@ -78,5 +78,13 @@
     "username": "smalllion827",
     "password": "chinook",
     "invokedAt": "2023-12-21T09:00:18.862Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Ustad",
+    "email": "leo.ustad@example.com",
+    "username": "orangefish320",
+    "password": "stiletto",
+    "invokedAt": "2023-12-21T10:00:23.147Z"
   }
 ]
