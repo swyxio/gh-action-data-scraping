@@ -166,5 +166,13 @@
     "username": "lazysnake671",
     "password": "0420",
     "invokedAt": "2023-12-22T20:00:19.922Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Španović",
+    "email": "ana.spanovic@example.com",
+    "username": "brownwolf418",
+    "password": "buddy",
+    "invokedAt": "2023-12-22T21:00:19.830Z"
   }
 ]
