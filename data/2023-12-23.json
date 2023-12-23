@@ -94,5 +94,13 @@
     "username": "brownkoala317",
     "password": "987456",
     "invokedAt": "2023-12-23T11:00:25.746Z"
+  },
+  {
+    "firstName": "Daniela",
+    "lastName": "García",
+    "email": "daniela.garcia@example.com",
+    "username": "smallkoala906",
+    "password": "housewife",
+    "invokedAt": "2023-12-23T12:00:30.808Z"
   }
 ]
