@@ -54,5 +54,13 @@
     "username": "lazymeercat130",
     "password": "passwort",
     "invokedAt": "2023-12-24T06:00:26.850Z"
+  },
+  {
+    "firstName": "Elfriede",
+    "lastName": "Michel",
+    "email": "elfriede.michel@example.com",
+    "username": "bluebutterfly863",
+    "password": "wassup",
+    "invokedAt": "2023-12-24T07:00:23.205Z"
   }
 ]
