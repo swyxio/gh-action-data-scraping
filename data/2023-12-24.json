@@ -38,5 +38,13 @@
     "username": "smallsnake123",
     "password": "moonbeam",
     "invokedAt": "2023-12-24T04:00:22.854Z"
+  },
+  {
+    "firstName": "Marcia",
+    "lastName": "Butler",
+    "email": "marcia.butler@example.com",
+    "username": "yellowleopard355",
+    "password": "alien",
+    "invokedAt": "2023-12-24T05:00:29.735Z"
   }
 ]
