@@ -94,5 +94,13 @@
     "username": "lazypeacock879",
     "password": "north",
     "invokedAt": "2023-12-24T11:00:31.298Z"
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Brune",
+    "email": "raymond.brune@example.com",
+    "username": "happyleopard176",
+    "password": "upyours",
+    "invokedAt": "2023-12-24T12:00:17.946Z"
   }
 ]
