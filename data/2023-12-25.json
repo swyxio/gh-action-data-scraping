@@ -126,5 +126,13 @@
     "username": "tinywolf734",
     "password": "misfits",
     "invokedAt": "2023-12-25T15:00:30.220Z"
+  },
+  {
+    "firstName": "Dante",
+    "lastName": "Monteiro",
+    "email": "dante.monteiro@example.com",
+    "username": "redgorilla553",
+    "password": "spikes",
+    "invokedAt": "2023-12-25T16:00:20.091Z"
   }
 ]
