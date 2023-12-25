@@ -86,5 +86,13 @@
     "username": "tinyswan550",
     "password": "shark1",
     "invokedAt": "2023-12-25T10:00:23.954Z"
+  },
+  {
+    "firstName": "Živorad",
+    "lastName": "Stojković",
+    "email": "zivorad.stojkovic@example.com",
+    "username": "bluewolf397",
+    "password": "salami",
+    "invokedAt": "2023-12-25T11:00:20.794Z"
   }
 ]
