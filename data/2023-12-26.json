@@ -166,5 +166,13 @@
     "username": "silverzebra162",
     "password": "atlas",
     "invokedAt": "2023-12-26T20:00:22.870Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Hopkins",
+    "email": "maria.hopkins@example.com",
+    "username": "redcat248",
+    "password": "fidelio",
+    "invokedAt": "2023-12-26T21:00:24.723Z"
   }
 ]
