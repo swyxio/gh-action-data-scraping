@@ -126,5 +126,13 @@
     "username": "blackbird113",
     "password": "access14",
     "invokedAt": "2023-12-26T15:00:20.364Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Sutton",
+    "email": "diana.sutton@example.com",
+    "username": "ticklishbutterfly947",
+    "password": "magician",
+    "invokedAt": "2023-12-26T16:00:25.258Z"
   }
 ]
