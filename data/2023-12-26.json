@@ -30,5 +30,13 @@
     "username": "bigpanda815",
     "password": "second",
     "invokedAt": "2023-12-26T03:00:22.856Z"
+  },
+  {
+    "firstName": "Carlota",
+    "lastName": "Cepeda",
+    "email": "carlota.cepeda@example.com",
+    "username": "beautifulpanda419",
+    "password": "figaro",
+    "invokedAt": "2023-12-26T04:00:26.048Z"
   }
 ]
