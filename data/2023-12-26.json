@@ -182,5 +182,13 @@
     "username": "happypanda234",
     "password": "flamingo",
     "invokedAt": "2023-12-26T22:00:22.897Z"
+  },
+  {
+    "firstName": "Indrajit",
+    "lastName": "Bhardwaj",
+    "email": "indrajit.bhardwaj@example.com",
+    "username": "crazypanda137",
+    "password": "2233",
+    "invokedAt": "2023-12-26T23:00:24.176Z"
   }
 ]
