@@ -158,5 +158,13 @@
     "username": "yellowbutterfly746",
     "password": "yamaha",
     "invokedAt": "2023-12-27T19:00:20.347Z"
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Clarke",
+    "email": "luca.clarke@example.com",
+    "username": "lazybutterfly315",
+    "password": "someone",
+    "invokedAt": "2023-12-27T20:00:38.050Z"
   }
 ]
