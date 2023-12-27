@@ -102,5 +102,13 @@
     "username": "tinylion702",
     "password": "dragons",
     "invokedAt": "2023-12-27T12:00:21.952Z"
+  },
+  {
+    "firstName": "Anja",
+    "lastName": "Krasić",
+    "email": "anja.krasic@example.com",
+    "username": "organicpanda867",
+    "password": "berlin",
+    "invokedAt": "2023-12-27T13:00:49.996Z"
   }
 ]
