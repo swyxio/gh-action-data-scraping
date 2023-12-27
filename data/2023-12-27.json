@@ -54,5 +54,13 @@
     "username": "tinyfrog207",
     "password": "morpheus",
     "invokedAt": "2023-12-27T06:00:21.816Z"
+  },
+  {
+    "firstName": "Vilho",
+    "lastName": "Saksa",
+    "email": "vilho.saksa@example.com",
+    "username": "whitekoala488",
+    "password": "safety",
+    "invokedAt": "2023-12-27T07:00:29.735Z"
   }
 ]
