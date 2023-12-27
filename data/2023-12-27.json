@@ -78,5 +78,13 @@
     "username": "purplelion494",
     "password": "subway",
     "invokedAt": "2023-12-27T09:00:18.729Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Evans",
+    "email": "lily.evans@example.com",
+    "username": "bigpanda265",
+    "password": "tempest",
+    "invokedAt": "2023-12-27T10:00:22.101Z"
   }
 ]
