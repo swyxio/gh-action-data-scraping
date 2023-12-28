@@ -62,5 +62,13 @@
     "username": "goldenbutterfly903",
     "password": "dakota",
     "invokedAt": "2023-12-28T07:00:24.863Z"
+  },
+  {
+    "firstName": "Ajay",
+    "lastName": "Saha",
+    "email": "ajay.saha@example.com",
+    "username": "bigrabbit220",
+    "password": "boxcar",
+    "invokedAt": "2023-12-28T08:00:20.920Z"
   }
 ]
