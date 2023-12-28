@@ -70,5 +70,13 @@
     "username": "bigrabbit220",
     "password": "boxcar",
     "invokedAt": "2023-12-28T08:00:20.920Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Walker",
+    "email": "alexis.walker@example.com",
+    "username": "bigmeercat679",
+    "password": "mortal",
+    "invokedAt": "2023-12-28T09:00:32.051Z"
   }
 ]
