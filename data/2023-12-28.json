@@ -46,5 +46,13 @@
     "username": "goldenelephant308",
     "password": "virus",
     "invokedAt": "2023-12-28T05:00:19.899Z"
+  },
+  {
+    "firstName": "Bobbie",
+    "lastName": "Graves",
+    "email": "bobbie.graves@example.com",
+    "username": "smallcat679",
+    "password": "insertion",
+    "invokedAt": "2023-12-28T06:00:20.732Z"
   }
 ]
