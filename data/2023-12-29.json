@@ -118,5 +118,13 @@
     "username": "silverdog177",
     "password": "gesperrt",
     "invokedAt": "2023-12-29T14:00:25.971Z"
+  },
+  {
+    "firstName": "Cecil",
+    "lastName": "Payne",
+    "email": "cecil.payne@example.com",
+    "username": "angryzebra418",
+    "password": "account",
+    "invokedAt": "2023-12-29T15:00:24.728Z"
   }
 ]
