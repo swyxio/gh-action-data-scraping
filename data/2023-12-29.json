@@ -182,5 +182,13 @@
     "username": "purpleostrich225",
     "password": "rocket",
     "invokedAt": "2023-12-29T22:00:27.241Z"
+  },
+  {
+    "firstName": "Samu",
+    "lastName": "Palo",
+    "email": "samu.palo@example.com",
+    "username": "blueelephant234",
+    "password": "greens",
+    "invokedAt": "2023-12-29T23:00:21.376Z"
   }
 ]
