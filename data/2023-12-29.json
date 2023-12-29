@@ -174,5 +174,13 @@
     "username": "happyfish250",
     "password": "monk",
     "invokedAt": "2023-12-29T21:00:19.306Z"
+  },
+  {
+    "firstName": "Wally",
+    "lastName": "Kammerer",
+    "email": "wally.kammerer@example.com",
+    "username": "purpleostrich225",
+    "password": "rocket",
+    "invokedAt": "2023-12-29T22:00:27.241Z"
   }
 ]
