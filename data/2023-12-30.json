@@ -118,5 +118,13 @@
     "username": "happybear304",
     "password": "audio",
     "invokedAt": "2023-12-30T14:00:28.787Z"
+  },
+  {
+    "firstName": "Emilie",
+    "lastName": "Kristensen",
+    "email": "emilie.kristensen@example.com",
+    "username": "goldencat986",
+    "password": "clouds",
+    "invokedAt": "2023-12-30T15:00:18.675Z"
   }
 ]
