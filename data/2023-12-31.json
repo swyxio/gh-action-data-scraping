@@ -38,5 +38,13 @@
     "username": "whiteelephant364",
     "password": "circus",
     "invokedAt": "2023-12-31T04:00:31.337Z"
+  },
+  {
+    "firstName": "Yuliy",
+    "lastName": "Glivenko",
+    "email": "yuliy.glivenko@example.com",
+    "username": "happymeercat835",
+    "password": "superior",
+    "invokedAt": "2023-12-31T05:00:26.187Z"
   }
 ]
