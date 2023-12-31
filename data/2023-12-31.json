@@ -110,5 +110,13 @@
     "username": "blackbear258",
     "password": "bigboy",
     "invokedAt": "2023-12-31T13:00:40.279Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Keseroğlu",
+    "email": "ege.keseroglu@example.com",
+    "username": "purpleduck641",
+    "password": "love",
+    "invokedAt": "2023-12-31T14:00:20.470Z"
   }
 ]
