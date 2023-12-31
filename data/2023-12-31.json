@@ -182,5 +182,13 @@
     "username": "smallwolf107",
     "password": "diamonds",
     "invokedAt": "2023-12-31T22:00:22.837Z"
+  },
+  {
+    "firstName": "Rebecca",
+    "lastName": "Holt",
+    "email": "rebecca.holt@example.com",
+    "username": "brownleopard869",
+    "password": "mercury1",
+    "invokedAt": "2023-12-31T23:00:24.773Z"
   }
 ]
