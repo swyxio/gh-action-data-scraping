@@ -142,5 +142,13 @@
     "username": "tinymeercat946",
     "password": "egghead",
     "invokedAt": "2024-01-01T17:00:21.752Z"
+  },
+  {
+    "firstName": "Millie",
+    "lastName": "King",
+    "email": "millie.king@example.com",
+    "username": "whitefrog142",
+    "password": "dungeon",
+    "invokedAt": "2024-01-01T18:00:32.099Z"
   }
 ]
