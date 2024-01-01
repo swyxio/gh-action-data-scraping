@@ -46,5 +46,13 @@
     "username": "heavypanda683",
     "password": "98765432",
     "invokedAt": "2024-01-01T05:00:22.861Z"
+  },
+  {
+    "firstName": "Marinus",
+    "lastName": "Van der Steeg",
+    "email": "marinus.vandersteeg@example.com",
+    "username": "smallleopard987",
+    "password": "seattle",
+    "invokedAt": "2024-01-01T06:00:27.393Z"
   }
 ]
