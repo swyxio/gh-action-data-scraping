@@ -102,5 +102,13 @@
     "username": "blackbird773",
     "password": "toto",
     "invokedAt": "2024-01-01T12:00:22.005Z"
+  },
+  {
+    "firstName": "محمد",
+    "lastName": "حسینی",
+    "email": "mhmd.hsyny@example.com",
+    "username": "beautifulkoala305",
+    "password": "sparky1",
+    "invokedAt": "2024-01-01T13:01:06.768Z"
   }
 ]
