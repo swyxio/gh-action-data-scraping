@@ -94,5 +94,13 @@
     "username": "redpanda106",
     "password": "sputnik",
     "invokedAt": "2024-01-02T11:00:24.883Z"
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "Li",
+    "email": "cameron.li@example.com",
+    "username": "lazyleopard828",
+    "password": "williams",
+    "invokedAt": "2024-01-02T12:00:22.318Z"
   }
 ]
