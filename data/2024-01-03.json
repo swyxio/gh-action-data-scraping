@@ -126,5 +126,13 @@
     "username": "heavybutterfly132",
     "password": "fiction",
     "invokedAt": "2024-01-03T15:00:24.852Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Benítez",
+    "email": "anna.benitez@example.com",
+    "username": "brownsnake909",
+    "password": "hal9000",
+    "invokedAt": "2024-01-03T16:00:21.757Z"
   }
 ]
