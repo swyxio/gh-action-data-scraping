@@ -182,5 +182,13 @@
     "username": "greendog527",
     "password": "sentnece",
     "invokedAt": "2024-01-04T22:00:23.184Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Mertoğlu",
+    "email": "adem.mertoglu@example.com",
+    "username": "greenladybug131",
+    "password": "phish1",
+    "invokedAt": "2024-01-04T23:00:23.823Z"
   }
 ]
