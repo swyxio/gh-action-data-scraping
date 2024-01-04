@@ -94,5 +94,13 @@
     "username": "crazytiger793",
     "password": "juventus",
     "invokedAt": "2024-01-04T11:00:23.566Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Thomsen",
+    "email": "maria.thomsen@example.com",
+    "username": "biglion500",
+    "password": "1214",
+    "invokedAt": "2024-01-04T12:00:22.064Z"
   }
 ]
