@@ -102,5 +102,13 @@
     "username": "beautifulfish290",
     "password": "violet",
     "invokedAt": "2024-01-05T12:00:20.824Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Salgado",
+    "email": "mario.salgado@example.com",
+    "username": "angryfrog509",
+    "password": "drummer",
+    "invokedAt": "2024-01-05T13:01:25.869Z"
   }
 ]
