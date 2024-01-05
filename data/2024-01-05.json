@@ -62,5 +62,13 @@
     "username": "yellowpeacock382",
     "password": "barnes",
     "invokedAt": "2024-01-05T07:00:30.490Z"
+  },
+  {
+    "firstName": "Herman",
+    "lastName": "Kelly",
+    "email": "herman.kelly@example.com",
+    "username": "brownmouse795",
+    "password": "camera",
+    "invokedAt": "2024-01-05T08:00:31.874Z"
   }
 ]
