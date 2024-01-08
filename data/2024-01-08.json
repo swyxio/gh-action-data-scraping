@@ -166,5 +166,13 @@
     "username": "silverfish167",
     "password": "stream",
     "invokedAt": "2024-01-08T20:00:20.031Z"
+  },
+  {
+    "firstName": "Quévin",
+    "lastName": "Castro",
+    "email": "quevin.castro@example.com",
+    "username": "heavybear471",
+    "password": "plum",
+    "invokedAt": "2024-01-08T21:00:31.840Z"
   }
 ]
