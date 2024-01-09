@@ -174,5 +174,13 @@
     "username": "happyelephant372",
     "password": "trigger",
     "invokedAt": "2024-01-09T21:00:24.061Z"
+  },
+  {
+    "firstName": "Karl",
+    "lastName": "Mccoy",
+    "email": "karl.mccoy@example.com",
+    "username": "crazyleopard640",
+    "password": "tango",
+    "invokedAt": "2024-01-09T22:00:19.966Z"
   }
 ]
