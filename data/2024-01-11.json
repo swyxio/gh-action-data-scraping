@@ -158,5 +158,13 @@
     "username": "greenfrog668",
     "password": "winner",
     "invokedAt": "2024-01-11T19:00:22.222Z"
+  },
+  {
+    "firstName": "Abbie",
+    "lastName": "Hunter",
+    "email": "abbie.hunter@example.com",
+    "username": "greenzebra954",
+    "password": "demo",
+    "invokedAt": "2024-01-11T20:00:19.927Z"
   }
 ]
