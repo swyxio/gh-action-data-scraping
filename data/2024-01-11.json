@@ -182,5 +182,13 @@
     "username": "crazylion889",
     "password": "harmony",
     "invokedAt": "2024-01-11T22:00:27.006Z"
+  },
+  {
+    "firstName": "Raul",
+    "lastName": "Rivera",
+    "email": "raul.rivera@example.com",
+    "username": "bluelion345",
+    "password": "stonecold",
+    "invokedAt": "2024-01-11T23:00:21.235Z"
   }
 ]
