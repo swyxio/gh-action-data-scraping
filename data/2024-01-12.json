@@ -158,5 +158,13 @@
     "username": "blackfish398",
     "password": "face",
     "invokedAt": "2024-01-12T19:00:20.096Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Martin",
+    "email": "kayla.martin@example.com",
+    "username": "blackcat272",
+    "password": "quartz",
+    "invokedAt": "2024-01-12T20:00:22.218Z"
   }
 ]
