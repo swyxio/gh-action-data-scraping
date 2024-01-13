@@ -38,5 +38,13 @@
     "username": "bigkoala987",
     "password": "birddog",
     "invokedAt": "2024-01-13T04:00:22.992Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Haataja",
+    "email": "oliver.haataja@example.com",
+    "username": "lazytiger200",
+    "password": "fallen",
+    "invokedAt": "2024-01-13T05:00:22.735Z"
   }
 ]
