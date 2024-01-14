@@ -126,5 +126,13 @@
     "username": "orangeduck989",
     "password": "switch",
     "invokedAt": "2024-01-14T15:00:26.416Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Tuğluk",
+    "email": "gul.tugluk@example.com",
+    "username": "bluepanda351",
+    "password": "jumper",
+    "invokedAt": "2024-01-14T16:00:18.341Z"
   }
 ]
