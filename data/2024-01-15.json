@@ -118,5 +118,13 @@
     "username": "bluedog561",
     "password": "ceng",
     "invokedAt": "2024-01-15T14:00:24.046Z"
+  },
+  {
+    "firstName": "Marlon",
+    "lastName": "Giraud",
+    "email": "marlon.giraud@example.com",
+    "username": "happyelephant576",
+    "password": "finance",
+    "invokedAt": "2024-01-15T15:00:20.910Z"
   }
 ]
