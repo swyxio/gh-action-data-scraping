@@ -110,5 +110,13 @@
     "username": "whitepeacock582",
     "password": "snowboard",
     "invokedAt": "2024-01-15T13:02:11.820Z"
+  },
+  {
+    "firstName": "Arturo",
+    "lastName": "Cruz",
+    "email": "arturo.cruz@example.com",
+    "username": "bluedog561",
+    "password": "ceng",
+    "invokedAt": "2024-01-15T14:00:24.046Z"
   }
 ]
