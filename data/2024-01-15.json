@@ -46,5 +46,13 @@
     "username": "heavylion994",
     "password": "alatam",
     "invokedAt": "2024-01-15T05:00:34.553Z"
+  },
+  {
+    "firstName": "Kübra",
+    "lastName": "Demirbaş",
+    "email": "kubra.demirbas@example.com",
+    "username": "biglion683",
+    "password": "456456",
+    "invokedAt": "2024-01-15T06:00:22.750Z"
   }
 ]
