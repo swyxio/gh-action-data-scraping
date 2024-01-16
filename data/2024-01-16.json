@@ -102,5 +102,13 @@
     "username": "angryfish816",
     "password": "wedding",
     "invokedAt": "2024-01-16T12:00:33.905Z"
+  },
+  {
+    "firstName": "Miriam",
+    "lastName": "Diaz",
+    "email": "miriam.diaz@example.com",
+    "username": "bigmouse987",
+    "password": "will",
+    "invokedAt": "2024-01-16T13:02:01.090Z"
   }
 ]
