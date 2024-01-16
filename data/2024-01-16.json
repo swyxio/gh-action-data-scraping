@@ -46,5 +46,13 @@
     "username": "blackgoose926",
     "password": "kkkk",
     "invokedAt": "2024-01-16T05:00:22.965Z"
+  },
+  {
+    "firstName": "Angus",
+    "lastName": "Zhang",
+    "email": "angus.zhang@example.com",
+    "username": "orangeostrich713",
+    "password": "wrestler",
+    "invokedAt": "2024-01-16T06:00:21.954Z"
   }
 ]
