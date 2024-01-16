@@ -86,5 +86,13 @@
     "username": "whiteduck571",
     "password": "pang",
     "invokedAt": "2024-01-16T10:00:26.935Z"
+  },
+  {
+    "firstName": "Klavdiya",
+    "lastName": "Shevchenko",
+    "email": "klavdiya.shevchenko@example.com",
+    "username": "bluegorilla810",
+    "password": "alice",
+    "invokedAt": "2024-01-16T11:00:24.477Z"
   }
 ]
