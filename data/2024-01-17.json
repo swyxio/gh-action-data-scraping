@@ -62,5 +62,13 @@
     "username": "sadfish196",
     "password": "cohiba",
     "invokedAt": "2024-01-17T07:00:23.092Z"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Freeman",
+    "email": "frank.freeman@example.com",
+    "username": "goldenduck686",
+    "password": "tripper",
+    "invokedAt": "2024-01-17T08:00:34.217Z"
   }
 ]
