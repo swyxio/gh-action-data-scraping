@@ -94,5 +94,13 @@
     "username": "sadfrog125",
     "password": "shuttle",
     "invokedAt": "2024-01-17T11:00:24.026Z"
+  },
+  {
+    "firstName": "Cléo",
+    "lastName": "Martin",
+    "email": "cleo.martin@example.com",
+    "username": "sadbutterfly927",
+    "password": "bombay",
+    "invokedAt": "2024-01-17T12:00:26.483Z"
   }
 ]
