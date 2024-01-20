@@ -182,5 +182,13 @@
     "username": "smallelephant965",
     "password": "kennedy",
     "invokedAt": "2024-01-20T22:00:21.633Z"
+  },
+  {
+    "firstName": "Kenzo",
+    "lastName": "Leclerc",
+    "email": "kenzo.leclerc@example.com",
+    "username": "organicelephant608",
+    "password": "junk",
+    "invokedAt": "2024-01-20T23:00:23.827Z"
   }
 ]
