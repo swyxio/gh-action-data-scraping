@@ -126,5 +126,13 @@
     "username": "brownpanda101",
     "password": "jump",
     "invokedAt": "2024-01-21T15:00:23.906Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Bouchard",
+    "email": "alexander.bouchard@example.com",
+    "username": "bigzebra486",
+    "password": "lorena",
+    "invokedAt": "2024-01-21T16:00:20.126Z"
   }
 ]
