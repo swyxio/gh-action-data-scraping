@@ -38,5 +38,13 @@
     "username": "smallladybug497",
     "password": "racing",
     "invokedAt": "2024-01-22T04:00:31.140Z"
+  },
+  {
+    "firstName": "Dean",
+    "lastName": "Ford",
+    "email": "dean.ford@example.com",
+    "username": "bluemouse987",
+    "password": "gabriela",
+    "invokedAt": "2024-01-22T05:00:23.999Z"
   }
 ]
