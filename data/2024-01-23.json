@@ -158,5 +158,13 @@
     "username": "yellowgoose413",
     "password": "spot",
     "invokedAt": "2024-01-23T19:01:38.788Z"
+  },
+  {
+    "firstName": "Pinja",
+    "lastName": "Kurtti",
+    "email": "pinja.kurtti@example.com",
+    "username": "goldenpanda722",
+    "password": "band",
+    "invokedAt": "2024-01-23T20:00:26.018Z"
   }
 ]
