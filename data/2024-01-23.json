@@ -78,5 +78,13 @@
     "username": "goldenbutterfly345",
     "password": "mephisto",
     "invokedAt": "2024-01-23T09:00:27.148Z"
+  },
+  {
+    "firstName": "Lillian",
+    "lastName": "Simpson",
+    "email": "lillian.simpson@example.com",
+    "username": "beautifullion333",
+    "password": "wordpass",
+    "invokedAt": "2024-01-23T10:00:21.035Z"
   }
 ]
