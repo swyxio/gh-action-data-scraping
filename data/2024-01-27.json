@@ -70,5 +70,13 @@
     "username": "smallbird572",
     "password": "cyclops",
     "invokedAt": "2024-01-27T08:00:20.888Z"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Tipparti",
+    "email": "joseph.tipparti@example.com",
+    "username": "redpanda741",
+    "password": "fairlane",
+    "invokedAt": "2024-01-27T09:00:26.400Z"
   }
 ]
