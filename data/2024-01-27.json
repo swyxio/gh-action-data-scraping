@@ -166,5 +166,13 @@
     "username": "crazyladybug757",
     "password": "rocknrol",
     "invokedAt": "2024-01-27T20:00:22.884Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Saarela",
+    "email": "miro.saarela@example.com",
+    "username": "blackmouse987",
+    "password": "badman",
+    "invokedAt": "2024-01-27T21:00:19.266Z"
   }
 ]
