@@ -94,5 +94,13 @@
     "username": "happygoose683",
     "password": "fish",
     "invokedAt": "2024-01-28T11:00:18.904Z"
+  },
+  {
+    "firstName": "Flavio",
+    "lastName": "Griego",
+    "email": "flavio.griego@example.com",
+    "username": "whiteladybug920",
+    "password": "race",
+    "invokedAt": "2024-01-28T12:00:17.594Z"
   }
 ]
