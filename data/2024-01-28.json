@@ -174,5 +174,13 @@
     "username": "brownbutterfly465",
     "password": "logger",
     "invokedAt": "2024-01-28T21:00:26.251Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Jørgensen",
+    "email": "nanna.jorgensen@example.com",
+    "username": "sadleopard729",
+    "password": "station",
+    "invokedAt": "2024-01-28T22:00:23.841Z"
   }
 ]
