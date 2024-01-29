@@ -166,5 +166,13 @@
     "username": "happyduck260",
     "password": "mail",
     "invokedAt": "2024-01-29T20:00:32.781Z"
+  },
+  {
+    "firstName": "Veljko",
+    "lastName": "Topić",
+    "email": "veljko.topic@example.com",
+    "username": "yellowduck188",
+    "password": "duane",
+    "invokedAt": "2024-01-29T21:00:19.020Z"
   }
 ]
