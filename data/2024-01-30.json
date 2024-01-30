@@ -118,5 +118,13 @@
     "username": "heavylion742",
     "password": "arizona",
     "invokedAt": "2024-01-30T14:00:37.029Z"
+  },
+  {
+    "firstName": "Shawn",
+    "lastName": "Lee",
+    "email": "shawn.lee@example.com",
+    "username": "bigswan161",
+    "password": "warriors",
+    "invokedAt": "2024-01-30T15:00:23.412Z"
   }
 ]
