@@ -86,5 +86,13 @@
     "username": "heavyleopard981",
     "password": "unicorn",
     "invokedAt": "2024-01-30T10:00:35.305Z"
+  },
+  {
+    "firstName": "Konsta",
+    "lastName": "Ranta",
+    "email": "konsta.ranta@example.com",
+    "username": "bigkoala335",
+    "password": "bimmer",
+    "invokedAt": "2024-01-30T11:00:23.772Z"
   }
 ]
