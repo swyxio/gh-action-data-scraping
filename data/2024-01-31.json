@@ -78,5 +78,13 @@
     "username": "greendog918",
     "password": "shocker",
     "invokedAt": "2024-01-31T09:00:23.920Z"
+  },
+  {
+    "firstName": "Hendrik",
+    "lastName": "Just",
+    "email": "hendrik.just@example.com",
+    "username": "goldenwolf986",
+    "password": "mazda",
+    "invokedAt": "2024-01-31T10:00:22.804Z"
   }
 ]
