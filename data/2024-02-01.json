@@ -166,5 +166,13 @@
     "username": "whitesnake529",
     "password": "monkey",
     "invokedAt": "2024-02-01T20:00:20.783Z"
+  },
+  {
+    "firstName": "Ernesto",
+    "lastName": "Toro",
+    "email": "ernesto.toro@example.com",
+    "username": "purplegorilla363",
+    "password": "sausage",
+    "invokedAt": "2024-02-01T21:00:29.868Z"
   }
 ]
