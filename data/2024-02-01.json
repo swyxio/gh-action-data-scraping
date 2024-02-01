@@ -126,5 +126,13 @@
     "username": "sadwolf562",
     "password": "pinky",
     "invokedAt": "2024-02-01T15:00:32.450Z"
+  },
+  {
+    "firstName": "Lorenzo",
+    "lastName": "Moreno",
+    "email": "lorenzo.moreno@example.com",
+    "username": "smallduck589",
+    "password": "senator",
+    "invokedAt": "2024-02-01T16:00:30.152Z"
   }
 ]
