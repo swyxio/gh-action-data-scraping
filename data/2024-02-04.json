@@ -38,5 +38,13 @@
     "username": "browndog567",
     "password": "bullseye",
     "invokedAt": "2024-02-04T04:00:24.838Z"
+  },
+  {
+    "firstName": "Theodore",
+    "lastName": "Jones",
+    "email": "theodore.jones@example.com",
+    "username": "goldenbird435",
+    "password": "seeking",
+    "invokedAt": "2024-02-04T05:00:30.838Z"
   }
 ]
