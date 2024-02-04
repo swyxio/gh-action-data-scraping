@@ -182,5 +182,13 @@
     "username": "lazybear563",
     "password": "outlaw",
     "invokedAt": "2024-02-04T22:00:18.230Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Wong",
+    "email": "samuel.wong@example.com",
+    "username": "ticklishbear952",
+    "password": "expert",
+    "invokedAt": "2024-02-04T23:00:18.252Z"
   }
 ]
