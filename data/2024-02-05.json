@@ -54,5 +54,13 @@
     "username": "goldengorilla324",
     "password": "lister",
     "invokedAt": "2024-02-05T06:00:25.343Z"
+  },
+  {
+    "firstName": "Nedeljko",
+    "lastName": "Hadžić",
+    "email": "nedeljko.hadzic@example.com",
+    "username": "bluewolf185",
+    "password": "foxtrot",
+    "invokedAt": "2024-02-05T07:00:31.076Z"
   }
 ]
