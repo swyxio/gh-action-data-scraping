@@ -38,5 +38,13 @@
     "username": "purplecat381",
     "password": "people",
     "invokedAt": "2024-02-05T04:00:29.812Z"
+  },
+  {
+    "firstName": "Jovito",
+    "lastName": "Duarte",
+    "email": "jovito.duarte@example.com",
+    "username": "greencat467",
+    "password": "trek",
+    "invokedAt": "2024-02-05T05:00:27.608Z"
   }
 ]
