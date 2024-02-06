@@ -86,5 +86,13 @@
     "username": "crazybird301",
     "password": "moritz",
     "invokedAt": "2024-02-06T10:00:22.961Z"
+  },
+  {
+    "firstName": "Raimundo",
+    "lastName": "Dias",
+    "email": "raimundo.dias@example.com",
+    "username": "ticklishbird274",
+    "password": "sixpack",
+    "invokedAt": "2024-02-06T11:00:21.072Z"
   }
 ]
