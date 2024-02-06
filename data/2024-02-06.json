@@ -102,5 +102,13 @@
     "username": "heavycat391",
     "password": "debra",
     "invokedAt": "2024-02-06T12:00:34.978Z"
+  },
+  {
+    "firstName": "Mirte",
+    "lastName": "Van de Kleut",
+    "email": "mirte.vandekleut@example.com",
+    "username": "happymouse975",
+    "password": "snapper",
+    "invokedAt": "2024-02-06T13:00:21.474Z"
   }
 ]
