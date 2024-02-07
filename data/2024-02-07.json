@@ -142,5 +142,13 @@
     "username": "goldencat486",
     "password": "patrol",
     "invokedAt": "2024-02-07T17:00:32.399Z"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Zhang",
+    "email": "caleb.zhang@example.com",
+    "username": "heavymeercat142",
+    "password": "smooth",
+    "invokedAt": "2024-02-07T18:00:42.686Z"
   }
 ]
