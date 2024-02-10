@@ -102,5 +102,13 @@
     "username": "heavyladybug438",
     "password": "wetter",
     "invokedAt": "2024-02-10T12:00:31.192Z"
+  },
+  {
+    "firstName": "Roman",
+    "lastName": "Zhang",
+    "email": "roman.zhang@example.com",
+    "username": "redcat602",
+    "password": "1016",
+    "invokedAt": "2024-02-10T13:00:20.729Z"
   }
 ]
