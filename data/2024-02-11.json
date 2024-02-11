@@ -102,5 +102,13 @@
     "username": "smallostrich247",
     "password": "glock",
     "invokedAt": "2024-02-11T12:00:23.032Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Christiansen",
+    "email": "karla.christiansen@example.com",
+    "username": "smallkoala963",
+    "password": "robotics",
+    "invokedAt": "2024-02-11T13:00:21.150Z"
   }
 ]
