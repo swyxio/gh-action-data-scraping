@@ -94,5 +94,13 @@
     "username": "sadostrich315",
     "password": "gofish",
     "invokedAt": "2024-02-11T11:00:24.044Z"
+  },
+  {
+    "firstName": "Radomir",
+    "lastName": "Gorodchuk",
+    "email": "radomir.gorodchuk@example.com",
+    "username": "smallostrich247",
+    "password": "glock",
+    "invokedAt": "2024-02-11T12:00:23.032Z"
   }
 ]
