@@ -118,5 +118,13 @@
     "username": "silverwolf423",
     "password": "spring",
     "invokedAt": "2024-02-11T14:00:32.595Z"
+  },
+  {
+    "firstName": "Tilde",
+    "lastName": "Hestvik",
+    "email": "tilde.hestvik@example.com",
+    "username": "greenbear811",
+    "password": "dolphins",
+    "invokedAt": "2024-02-11T15:00:19.808Z"
   }
 ]
