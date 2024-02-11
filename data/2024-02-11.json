@@ -158,5 +158,13 @@
     "username": "greencat300",
     "password": "seeker",
     "invokedAt": "2024-02-11T19:00:35.107Z"
+  },
+  {
+    "firstName": "Lava",
+    "lastName": "Van Cranenbroek",
+    "email": "lava.vancranenbroek@example.com",
+    "username": "ticklishswan116",
+    "password": "mick",
+    "invokedAt": "2024-02-11T20:00:20.050Z"
   }
 ]
