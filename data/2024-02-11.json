@@ -86,5 +86,13 @@
     "username": "blueostrich463",
     "password": "lonely",
     "invokedAt": "2024-02-11T10:00:32.725Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Lefevre",
+    "email": "julia.lefevre@example.com",
+    "username": "sadostrich315",
+    "password": "gofish",
+    "invokedAt": "2024-02-11T11:00:24.044Z"
   }
 ]
