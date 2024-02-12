@@ -86,5 +86,13 @@
     "username": "whitekoala922",
     "password": "spurs",
     "invokedAt": "2024-02-12T10:00:44.337Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Pascual",
+    "email": "daniel.pascual@example.com",
+    "username": "blueduck892",
+    "password": "herewego",
+    "invokedAt": "2024-02-12T11:00:21.335Z"
   }
 ]
