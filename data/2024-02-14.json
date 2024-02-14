@@ -78,5 +78,13 @@
     "username": "crazymouse527",
     "password": "delta1",
     "invokedAt": "2024-02-14T09:00:30.057Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Walker",
+    "email": "leo.walker@example.com",
+    "username": "silvermouse414",
+    "password": "fashion",
+    "invokedAt": "2024-02-14T10:00:20.957Z"
   }
 ]
