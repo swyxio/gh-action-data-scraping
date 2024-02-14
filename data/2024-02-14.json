@@ -134,5 +134,13 @@
     "username": "orangemouse624",
     "password": "maple",
     "invokedAt": "2024-02-14T16:00:28.685Z"
+  },
+  {
+    "firstName": "Poonam",
+    "lastName": "Van de Groep",
+    "email": "poonam.vandegroep@example.com",
+    "username": "yellowbear185",
+    "password": "lobo",
+    "invokedAt": "2024-02-14T17:00:26.247Z"
   }
 ]
