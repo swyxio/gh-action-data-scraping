@@ -30,5 +30,13 @@
     "username": "beautifulbutterfly162",
     "password": "openup",
     "invokedAt": "2024-02-16T03:00:32.989Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Jones",
+    "email": "charlie.jones@example.com",
+    "username": "purplepanda680",
+    "password": "basketball",
+    "invokedAt": "2024-02-16T04:00:18.002Z"
   }
 ]
