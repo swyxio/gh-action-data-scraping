@@ -126,5 +126,13 @@
     "username": "sadlion902",
     "password": "anime",
     "invokedAt": "2024-02-17T15:00:19.050Z"
+  },
+  {
+    "firstName": "Tina",
+    "lastName": "Lefevre",
+    "email": "tina.lefevre@example.com",
+    "username": "blackkoala609",
+    "password": "123456789",
+    "invokedAt": "2024-02-17T16:00:24.705Z"
   }
 ]
