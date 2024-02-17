@@ -142,5 +142,13 @@
     "username": "yellowdog851",
     "password": "scruffy",
     "invokedAt": "2024-02-17T17:00:27.026Z"
+  },
+  {
+    "firstName": "Christina",
+    "lastName": "Bell",
+    "email": "christina.bell@example.com",
+    "username": "ticklishdog335",
+    "password": "fighter",
+    "invokedAt": "2024-02-17T18:00:20.284Z"
   }
 ]
