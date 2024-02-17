@@ -174,5 +174,13 @@
     "username": "yellowpeacock402",
     "password": "cabbage",
     "invokedAt": "2024-02-17T21:00:28.023Z"
+  },
+  {
+    "firstName": "Toni",
+    "lastName": "Berger",
+    "email": "toni.berger@example.com",
+    "username": "whitesnake893",
+    "password": "goforit",
+    "invokedAt": "2024-02-17T22:00:25.727Z"
   }
 ]
