@@ -78,5 +78,13 @@
     "username": "bigsnake143",
     "password": "2001",
     "invokedAt": "2024-02-19T09:00:25.834Z"
+  },
+  {
+    "firstName": "Viktorija",
+    "lastName": "Subašić",
+    "email": "viktorija.subasic@example.com",
+    "username": "browntiger293",
+    "password": "pyon",
+    "invokedAt": "2024-02-19T10:00:23.185Z"
   }
 ]
