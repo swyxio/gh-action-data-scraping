@@ -166,5 +166,13 @@
     "username": "blackfish365",
     "password": "2828",
     "invokedAt": "2024-02-19T20:00:19.212Z"
+  },
+  {
+    "firstName": "Eileen",
+    "lastName": "Lowe",
+    "email": "eileen.lowe@example.com",
+    "username": "crazydog297",
+    "password": "flipper",
+    "invokedAt": "2024-02-19T21:00:28.863Z"
   }
 ]
