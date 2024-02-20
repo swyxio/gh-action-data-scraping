@@ -150,5 +150,13 @@
     "username": "orangedog101",
     "password": "climax",
     "invokedAt": "2024-02-20T18:00:27.207Z"
+  },
+  {
+    "firstName": "Etienne",
+    "lastName": "Roy",
+    "email": "etienne.roy@example.com",
+    "username": "purplecat548",
+    "password": "contortionist",
+    "invokedAt": "2024-02-20T19:00:22.704Z"
   }
 ]
