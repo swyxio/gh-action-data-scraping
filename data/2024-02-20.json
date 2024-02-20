@@ -22,5 +22,13 @@
     "username": "happygorilla687",
     "password": "rhino",
     "invokedAt": "2024-02-20T02:05:09.825Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Kristensen",
+    "email": "anna.kristensen@example.com",
+    "username": "crazysnake416",
+    "password": "stayout",
+    "invokedAt": "2024-02-20T03:00:35.769Z"
   }
 ]
