@@ -94,5 +94,13 @@
     "username": "lazyfrog113",
     "password": "8inches",
     "invokedAt": "2024-02-20T11:00:32.240Z"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Lay",
+    "email": "bruno.lay@example.com",
+    "username": "angryfish962",
+    "password": "qwerqwer",
+    "invokedAt": "2024-02-20T12:00:23.108Z"
   }
 ]
