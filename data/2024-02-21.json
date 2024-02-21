@@ -158,5 +158,13 @@
     "username": "browncat692",
     "password": "stalker",
     "invokedAt": "2024-02-21T19:00:24.098Z"
+  },
+  {
+    "firstName": "Zander",
+    "lastName": "Peterson",
+    "email": "zander.peterson@example.com",
+    "username": "bigfrog702",
+    "password": "together",
+    "invokedAt": "2024-02-21T20:00:19.986Z"
   }
 ]
