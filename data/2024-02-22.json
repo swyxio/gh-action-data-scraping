@@ -126,5 +126,13 @@
     "username": "happydog768",
     "password": "liquid",
     "invokedAt": "2024-02-22T15:00:31.740Z"
+  },
+  {
+    "firstName": "Branko",
+    "lastName": "Živadinović",
+    "email": "branko.zivadinovic@example.com",
+    "username": "tinyelephant771",
+    "password": "herbie",
+    "invokedAt": "2024-02-22T16:00:22.312Z"
   }
 ]
