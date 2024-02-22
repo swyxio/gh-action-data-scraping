@@ -118,5 +118,13 @@
     "username": "whiteostrich279",
     "password": "taxman",
     "invokedAt": "2024-02-22T14:00:26.786Z"
+  },
+  {
+    "firstName": "Ina",
+    "lastName": "Tolksdorf",
+    "email": "ina.tolksdorf@example.com",
+    "username": "happydog768",
+    "password": "liquid",
+    "invokedAt": "2024-02-22T15:00:31.740Z"
   }
 ]
