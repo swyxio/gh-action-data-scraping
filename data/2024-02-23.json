@@ -46,5 +46,13 @@
     "username": "redpanda864",
     "password": "bootie",
     "invokedAt": "2024-02-23T05:00:25.992Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "Zapata",
+    "email": "valentin.zapata@example.com",
+    "username": "lazywolf208",
+    "password": "crawford",
+    "invokedAt": "2024-02-23T06:00:26.623Z"
   }
 ]
