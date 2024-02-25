@@ -134,5 +134,13 @@
     "username": "yellowdog333",
     "password": "cooler",
     "invokedAt": "2024-02-25T16:00:28.370Z"
+  },
+  {
+    "firstName": "Živan",
+    "lastName": "Popović",
+    "email": "zivan.popovic@example.com",
+    "username": "blackfrog712",
+    "password": "hewitt",
+    "invokedAt": "2024-02-25T17:00:34.568Z"
   }
 ]
