@@ -166,5 +166,13 @@
     "username": "goldenmouse190",
     "password": "all4one",
     "invokedAt": "2024-02-25T20:00:20.848Z"
+  },
+  {
+    "firstName": "Sacha",
+    "lastName": "Fournier",
+    "email": "sacha.fournier@example.com",
+    "username": "sadmeercat797",
+    "password": "deadhead",
+    "invokedAt": "2024-02-25T21:00:22.677Z"
   }
 ]
