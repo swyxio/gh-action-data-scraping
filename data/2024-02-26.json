@@ -46,5 +46,13 @@
     "username": "silverpeacock807",
     "password": "alice",
     "invokedAt": "2024-02-26T05:00:36.825Z"
+  },
+  {
+    "firstName": "Vojislava",
+    "lastName": "Perišić",
+    "email": "vojislava.perisic@example.com",
+    "username": "crazytiger110",
+    "password": "masamune",
+    "invokedAt": "2024-02-26T06:00:44.975Z"
   }
 ]
