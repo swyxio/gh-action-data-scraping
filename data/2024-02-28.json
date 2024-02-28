@@ -118,5 +118,13 @@
     "username": "tinyelephant367",
     "password": "nation",
     "invokedAt": "2024-02-28T14:00:23.423Z"
+  },
+  {
+    "firstName": "Eckart",
+    "lastName": "Hammer",
+    "email": "eckart.hammer@example.com",
+    "username": "beautifulfish567",
+    "password": "blackdog",
+    "invokedAt": "2024-02-28T15:00:28.530Z"
   }
 ]
