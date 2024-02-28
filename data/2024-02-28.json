@@ -102,5 +102,13 @@
     "username": "purplefrog877",
     "password": "enforcer",
     "invokedAt": "2024-02-28T12:00:41.079Z"
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Petersen",
+    "email": "selma.petersen@example.com",
+    "username": "crazyfish441",
+    "password": "javelin",
+    "invokedAt": "2024-02-28T13:00:24.435Z"
   }
 ]
