@@ -94,5 +94,13 @@
     "username": "purplebear393",
     "password": "milkman",
     "invokedAt": "2024-02-28T11:00:31.340Z"
+  },
+  {
+    "firstName": "Bryan",
+    "lastName": "Thomas",
+    "email": "bryan.thomas@example.com",
+    "username": "purplefrog877",
+    "password": "enforcer",
+    "invokedAt": "2024-02-28T12:00:41.079Z"
   }
 ]
