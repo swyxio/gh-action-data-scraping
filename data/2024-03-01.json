@@ -54,5 +54,13 @@
     "username": "lazybear391",
     "password": "indians",
     "invokedAt": "2024-03-01T06:00:30.064Z"
+  },
+  {
+    "firstName": "Deepak",
+    "lastName": "Van der Loop",
+    "email": "deepak.vanderloop@example.com",
+    "username": "bigmeercat170",
+    "password": "delta",
+    "invokedAt": "2024-03-01T07:00:20.740Z"
   }
 ]
