@@ -86,5 +86,13 @@
     "username": "yellowmeercat559",
     "password": "paradigm",
     "invokedAt": "2024-03-02T10:00:28.532Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Taylor",
+    "email": "jack.taylor@example.com",
+    "username": "greenpeacock319",
+    "password": "rosemary",
+    "invokedAt": "2024-03-02T11:00:19.009Z"
   }
 ]
