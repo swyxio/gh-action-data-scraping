@@ -78,5 +78,13 @@
     "username": "brownpanda698",
     "password": "shaolin",
     "invokedAt": "2024-03-03T09:00:22.915Z"
+  },
+  {
+    "firstName": "Slavko",
+    "lastName": "Tasić",
+    "email": "slavko.tasic@example.com",
+    "username": "yellowrabbit317",
+    "password": "1q2w3e",
+    "invokedAt": "2024-03-03T10:00:20.885Z"
   }
 ]
