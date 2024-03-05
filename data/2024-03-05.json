@@ -182,5 +182,13 @@
     "username": "smallpanda316",
     "password": "halifax",
     "invokedAt": "2024-03-05T22:00:18.952Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Mitchell",
+    "email": "sophie.mitchell@example.com",
+    "username": "ticklishduck578",
+    "password": "backup",
+    "invokedAt": "2024-03-05T23:00:34.726Z"
   }
 ]
