@@ -110,5 +110,13 @@
     "username": "happymouse828",
     "password": "zeppelin",
     "invokedAt": "2024-03-05T13:00:25.416Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Yıldızoğlu",
+    "email": "davut.yildizoglu@example.com",
+    "username": "blueelephant787",
+    "password": "fish",
+    "invokedAt": "2024-03-05T14:00:32.807Z"
   }
 ]
