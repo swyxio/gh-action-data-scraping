@@ -166,5 +166,13 @@
     "username": "yellowbutterfly991",
     "password": "moscow",
     "invokedAt": "2024-03-07T20:00:23.034Z"
+  },
+  {
+    "firstName": "Dustin",
+    "lastName": "Hanson",
+    "email": "dustin.hanson@example.com",
+    "username": "tinybutterfly330",
+    "password": "march",
+    "invokedAt": "2024-03-07T21:00:21.921Z"
   }
 ]
