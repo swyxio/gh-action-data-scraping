@@ -182,5 +182,13 @@
     "username": "blackmouse695",
     "password": "guitar",
     "invokedAt": "2024-03-07T22:00:23.990Z"
+  },
+  {
+    "firstName": "Alvaro",
+    "lastName": "Leyva",
+    "email": "alvaro.leyva@example.com",
+    "username": "redmouse505",
+    "password": "zhang",
+    "invokedAt": "2024-03-07T23:00:19.847Z"
   }
 ]
