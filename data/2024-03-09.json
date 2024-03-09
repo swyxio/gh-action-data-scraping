@@ -126,5 +126,13 @@
     "username": "biglion962",
     "password": "hotshot",
     "invokedAt": "2024-03-09T15:00:20.963Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Daniels",
+    "email": "alex.daniels@example.com",
+    "username": "greendog978",
+    "password": "shrimp",
+    "invokedAt": "2024-03-09T16:00:22.010Z"
   }
 ]
