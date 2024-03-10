@@ -86,5 +86,13 @@
     "username": "heavyduck177",
     "password": "myspace1",
     "invokedAt": "2024-03-10T10:00:19.903Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Jackson",
+    "email": "ricardo.jackson@example.com",
+    "username": "blackbutterfly161",
+    "password": "faith1",
+    "invokedAt": "2024-03-10T11:00:41.055Z"
   }
 ]
