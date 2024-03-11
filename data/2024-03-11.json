@@ -62,5 +62,13 @@
     "username": "goldendog682",
     "password": "merlot",
     "invokedAt": "2024-03-11T07:00:25.208Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Myers",
+    "email": "paul.myers@example.com",
+    "username": "orangegoose855",
+    "password": "capslock",
+    "invokedAt": "2024-03-11T08:00:35.450Z"
   }
 ]
