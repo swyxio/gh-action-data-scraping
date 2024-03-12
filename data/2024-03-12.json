@@ -166,5 +166,13 @@
     "username": "purpledog822",
     "password": "upyours",
     "invokedAt": "2024-03-12T20:00:39.434Z"
+  },
+  {
+    "firstName": "Lenni",
+    "lastName": "Tuominen",
+    "email": "lenni.tuominen@example.com",
+    "username": "greentiger694",
+    "password": "animals",
+    "invokedAt": "2024-03-12T21:00:32.923Z"
   }
 ]
