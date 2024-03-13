@@ -158,5 +158,13 @@
     "username": "sadfish703",
     "password": "adult",
     "invokedAt": "2024-03-13T19:00:28.498Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Owens",
+    "email": "brad.owens@example.com",
+    "username": "ticklishcat927",
+    "password": "sensei",
+    "invokedAt": "2024-03-13T20:00:29.810Z"
   }
 ]
