@@ -70,5 +70,13 @@
     "username": "happyfish402",
     "password": "ncc1701a",
     "invokedAt": "2024-03-13T08:00:18.175Z"
+  },
+  {
+    "firstName": "Line",
+    "lastName": "Aubert",
+    "email": "line.aubert@example.com",
+    "username": "bigfrog610",
+    "password": "babylove",
+    "invokedAt": "2024-03-13T09:00:22.402Z"
   }
 ]
