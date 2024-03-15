@@ -46,5 +46,13 @@
     "username": "blackostrich938",
     "password": "trucking",
     "invokedAt": "2024-03-15T05:00:20.911Z"
+  },
+  {
+    "firstName": "Chloe",
+    "lastName": "Peterson",
+    "email": "chloe.peterson@example.com",
+    "username": "tinywolf124",
+    "password": "doughboy",
+    "invokedAt": "2024-03-15T06:00:21.858Z"
   }
 ]
