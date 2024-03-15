@@ -158,5 +158,13 @@
     "username": "blackbear986",
     "password": "biggun",
     "invokedAt": "2024-03-15T19:00:20.349Z"
+  },
+  {
+    "firstName": "Truls",
+    "lastName": "Hagland",
+    "email": "truls.hagland@example.com",
+    "username": "silverfrog766",
+    "password": "deftones",
+    "invokedAt": "2024-03-15T21:00:24.861Z"
   }
 ]
