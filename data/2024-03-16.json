@@ -182,5 +182,13 @@
     "username": "whitebutterfly618",
     "password": "klondike",
     "invokedAt": "2024-03-16T22:00:19.257Z"
+  },
+  {
+    "firstName": "Necati",
+    "lastName": "Koç",
+    "email": "necati.koc@example.com",
+    "username": "whiteleopard249",
+    "password": "cookie",
+    "invokedAt": "2024-03-16T23:00:20.376Z"
   }
 ]
