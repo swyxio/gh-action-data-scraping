@@ -62,5 +62,13 @@
     "username": "lazyduck609",
     "password": "russian",
     "invokedAt": "2024-03-17T07:01:35.306Z"
+  },
+  {
+    "firstName": "Cecil",
+    "lastName": "Harvey",
+    "email": "cecil.harvey@example.com",
+    "username": "happycat373",
+    "password": "pippo",
+    "invokedAt": "2024-03-17T08:00:29.836Z"
   }
 ]
