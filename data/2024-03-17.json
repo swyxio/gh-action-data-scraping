@@ -78,5 +78,13 @@
     "username": "brownfrog526",
     "password": "spectrum",
     "invokedAt": "2024-03-17T09:00:22.084Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Silva",
+    "email": "tracy.silva@example.com",
+    "username": "organicelephant219",
+    "password": "unique",
+    "invokedAt": "2024-03-17T10:00:28.022Z"
   }
 ]
