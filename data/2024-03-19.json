@@ -142,5 +142,13 @@
     "username": "browndog676",
     "password": "vamp",
     "invokedAt": "2024-03-19T17:00:41.159Z"
+  },
+  {
+    "firstName": "Asta",
+    "lastName": "Mortensen",
+    "email": "asta.mortensen@example.com",
+    "username": "greenostrich823",
+    "password": "customer",
+    "invokedAt": "2024-03-19T18:00:25.021Z"
   }
 ]
