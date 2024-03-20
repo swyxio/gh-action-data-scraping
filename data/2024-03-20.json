@@ -102,5 +102,13 @@
     "username": "angryleopard436",
     "password": "lexus",
     "invokedAt": "2024-03-20T12:00:29.401Z"
+  },
+  {
+    "firstName": "Ramon",
+    "lastName": "Diez",
+    "email": "ramon.diez@example.com",
+    "username": "purplepanda567",
+    "password": "skate",
+    "invokedAt": "2024-03-20T13:00:33.936Z"
   }
 ]
