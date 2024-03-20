@@ -86,5 +86,13 @@
     "username": "greendog387",
     "password": "hotstuff",
     "invokedAt": "2024-03-20T10:00:30.729Z"
+  },
+  {
+    "firstName": "Clémentine",
+    "lastName": "Marchand",
+    "email": "clementine.marchand@example.com",
+    "username": "goldenleopard334",
+    "password": "italian",
+    "invokedAt": "2024-03-20T11:00:24.113Z"
   }
 ]
