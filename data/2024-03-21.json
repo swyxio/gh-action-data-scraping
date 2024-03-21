@@ -142,5 +142,13 @@
     "username": "happykoala927",
     "password": "denmark",
     "invokedAt": "2024-03-21T17:00:30.099Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Santana",
+    "email": "pedro.santana@example.com",
+    "username": "ticklishkoala676",
+    "password": "karate",
+    "invokedAt": "2024-03-21T18:00:24.935Z"
   }
 ]
