@@ -22,5 +22,13 @@
     "username": "heavytiger798",
     "password": "swimming",
     "invokedAt": "2024-03-22T02:05:44.346Z"
+  },
+  {
+    "firstName": "Viroslav",
+    "lastName": "Balickiy",
+    "email": "viroslav.balickiy@example.com",
+    "username": "goldentiger704",
+    "password": "google",
+    "invokedAt": "2024-03-22T03:00:28.883Z"
   }
 ]
