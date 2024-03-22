@@ -78,5 +78,13 @@
     "username": "brownbear145",
     "password": "blue",
     "invokedAt": "2024-03-22T09:00:23.086Z"
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Urošević",
+    "email": "vera.urosevic@example.com",
+    "username": "redleopard499",
+    "password": "foster",
+    "invokedAt": "2024-03-22T10:00:33.032Z"
   }
 ]
