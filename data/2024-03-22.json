@@ -70,5 +70,13 @@
     "username": "whitemeercat590",
     "password": "stalker",
     "invokedAt": "2024-03-22T08:00:24.745Z"
+  },
+  {
+    "firstName": "Pinja",
+    "lastName": "Lepisto",
+    "email": "pinja.lepisto@example.com",
+    "username": "brownbear145",
+    "password": "blue",
+    "invokedAt": "2024-03-22T09:00:23.086Z"
   }
 ]
