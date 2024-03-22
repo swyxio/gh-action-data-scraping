@@ -158,5 +158,13 @@
     "username": "redsnake317",
     "password": "blizzard",
     "invokedAt": "2024-03-22T19:00:23.157Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "James",
+    "email": "blake.james@example.com",
+    "username": "blackostrich588",
+    "password": "vectra",
+    "invokedAt": "2024-03-22T20:00:22.398Z"
   }
 ]
