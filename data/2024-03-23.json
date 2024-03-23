@@ -94,5 +94,13 @@
     "username": "whiteduck142",
     "password": "dundee",
     "invokedAt": "2024-03-23T11:00:23.437Z"
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "Chavez",
+    "email": "alan.chavez@example.com",
+    "username": "redgorilla188",
+    "password": "cooter",
+    "invokedAt": "2024-03-23T12:00:24.645Z"
   }
 ]
