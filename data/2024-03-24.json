@@ -166,5 +166,13 @@
     "username": "smallduck230",
     "password": "plastics",
     "invokedAt": "2024-03-24T20:00:20.057Z"
+  },
+  {
+    "firstName": "Kurt",
+    "lastName": "Roger",
+    "email": "kurt.roger@example.com",
+    "username": "lazymouse276",
+    "password": "smoke",
+    "invokedAt": "2024-03-24T21:00:27.631Z"
   }
 ]
