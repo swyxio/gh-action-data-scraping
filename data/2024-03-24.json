@@ -126,5 +126,13 @@
     "username": "lazyleopard266",
     "password": "instant",
     "invokedAt": "2024-03-24T15:00:40.495Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Kurutluoğlu",
+    "email": "coskun.kurutluoglu@example.com",
+    "username": "greenelephant411",
+    "password": "smokes",
+    "invokedAt": "2024-03-24T16:00:24.963Z"
   }
 ]
