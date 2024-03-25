@@ -38,5 +38,13 @@
     "username": "tinyelephant937",
     "password": "mets",
     "invokedAt": "2024-03-25T04:00:24.379Z"
+  },
+  {
+    "firstName": "Peer",
+    "lastName": "Ebner",
+    "email": "peer.ebner@example.com",
+    "username": "bluezebra403",
+    "password": "robot",
+    "invokedAt": "2024-03-25T05:00:22.273Z"
   }
 ]
