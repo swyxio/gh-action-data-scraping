@@ -46,5 +46,13 @@
     "username": "bluezebra403",
     "password": "robot",
     "invokedAt": "2024-03-25T05:00:22.273Z"
+  },
+  {
+    "firstName": "Jasmine",
+    "lastName": "Smith",
+    "email": "jasmine.smith@example.com",
+    "username": "happybear849",
+    "password": "warning",
+    "invokedAt": "2024-03-25T06:00:29.588Z"
   }
 ]
