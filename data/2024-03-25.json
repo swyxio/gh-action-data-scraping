@@ -166,5 +166,13 @@
     "username": "brownpeacock625",
     "password": "puppet",
     "invokedAt": "2024-03-25T20:00:22.010Z"
+  },
+  {
+    "firstName": "Hernán",
+    "lastName": "Oquendo",
+    "email": "hernan.oquendo@example.com",
+    "username": "smallwolf372",
+    "password": "blue123",
+    "invokedAt": "2024-03-25T21:00:24.953Z"
   }
 ]
