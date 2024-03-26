@@ -30,5 +30,13 @@
     "username": "beautifulfish453",
     "password": "hunter",
     "invokedAt": "2024-03-26T03:00:19.292Z"
+  },
+  {
+    "firstName": "Bratislava",
+    "lastName": "Krasić",
+    "email": "bratislava.krasic@example.com",
+    "username": "orangedog483",
+    "password": "skate",
+    "invokedAt": "2024-03-26T04:00:21.953Z"
   }
 ]
