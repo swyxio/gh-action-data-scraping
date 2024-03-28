@@ -126,5 +126,13 @@
     "username": "goldenbird595",
     "password": "3333",
     "invokedAt": "2024-03-28T15:00:54.611Z"
+  },
+  {
+    "firstName": "Rebecca",
+    "lastName": "Byrd",
+    "email": "rebecca.byrd@example.com",
+    "username": "purplefrog931",
+    "password": "gofast",
+    "invokedAt": "2024-03-28T16:00:26.587Z"
   }
 ]
