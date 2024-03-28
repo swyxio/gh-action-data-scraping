@@ -22,5 +22,13 @@
     "username": "tinydog347",
     "password": "peter1",
     "invokedAt": "2024-03-28T02:08:28.979Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Rasmussen",
+    "email": "storm.rasmussen@example.com",
+    "username": "angrydog646",
+    "password": "mission",
+    "invokedAt": "2024-03-28T03:00:24.846Z"
   }
 ]
