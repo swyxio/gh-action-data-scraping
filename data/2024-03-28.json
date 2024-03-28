@@ -70,5 +70,13 @@
     "username": "whitefrog370",
     "password": "sauron",
     "invokedAt": "2024-03-28T08:00:31.232Z"
+  },
+  {
+    "firstName": "Alfredo",
+    "lastName": "Pastor",
+    "email": "alfredo.pastor@example.com",
+    "username": "bluebear724",
+    "password": "vivid",
+    "invokedAt": "2024-03-28T09:00:29.184Z"
   }
 ]
