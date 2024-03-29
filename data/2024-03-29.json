@@ -142,5 +142,13 @@
     "username": "brownelephant375",
     "password": "staples",
     "invokedAt": "2024-03-29T17:00:31.797Z"
+  },
+  {
+    "firstName": "Laurent",
+    "lastName": "Garnier",
+    "email": "laurent.garnier@example.com",
+    "username": "silversnake234",
+    "password": "sterling",
+    "invokedAt": "2024-03-29T18:00:19.959Z"
   }
 ]
