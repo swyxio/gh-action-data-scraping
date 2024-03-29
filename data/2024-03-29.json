@@ -174,5 +174,13 @@
     "username": "happyelephant372",
     "password": "bayern",
     "invokedAt": "2024-03-29T21:00:17.664Z"
+  },
+  {
+    "firstName": "Symen",
+    "lastName": "Van Woensel",
+    "email": "symen.vanwoensel@example.com",
+    "username": "happycat372",
+    "password": "zhui",
+    "invokedAt": "2024-03-29T22:00:23.155Z"
   }
 ]
