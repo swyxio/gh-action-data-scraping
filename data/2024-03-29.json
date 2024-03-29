@@ -70,5 +70,13 @@
     "username": "tinyfish898",
     "password": "chrono",
     "invokedAt": "2024-03-29T08:00:18.969Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Rasmussen",
+    "email": "sara.rasmussen@example.com",
+    "username": "greenfish467",
+    "password": "steffi",
+    "invokedAt": "2024-03-29T09:00:30.834Z"
   }
 ]
