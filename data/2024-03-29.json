@@ -62,5 +62,13 @@
     "username": "sadduck676",
     "password": "beast",
     "invokedAt": "2024-03-29T07:00:22.186Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Campos",
+    "email": "lucas.campos@example.com",
+    "username": "tinyfish898",
+    "password": "chrono",
+    "invokedAt": "2024-03-29T08:00:18.969Z"
   }
 ]
