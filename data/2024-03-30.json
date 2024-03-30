@@ -166,5 +166,13 @@
     "username": "lazymouse659",
     "password": "rolling",
     "invokedAt": "2024-03-30T20:00:17.643Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Yildirim",
+    "email": "anna.yildirim@example.com",
+    "username": "whitemouse852",
+    "password": "kong",
+    "invokedAt": "2024-03-30T21:00:25.689Z"
   }
 ]
