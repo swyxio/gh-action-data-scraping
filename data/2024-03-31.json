@@ -174,5 +174,13 @@
     "username": "smalltiger469",
     "password": "1200",
     "invokedAt": "2024-03-31T21:00:19.878Z"
+  },
+  {
+    "firstName": "Yasnozir",
+    "lastName": "Bondarenko",
+    "email": "yasnozir.bondarenko@example.com",
+    "username": "blackbear742",
+    "password": "goalie",
+    "invokedAt": "2024-03-31T22:00:20.024Z"
   }
 ]
