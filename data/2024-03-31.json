@@ -182,5 +182,13 @@
     "username": "blackbear742",
     "password": "goalie",
     "invokedAt": "2024-03-31T22:00:20.024Z"
+  },
+  {
+    "firstName": "Naveen",
+    "lastName": "Saha",
+    "email": "naveen.saha@example.com",
+    "username": "goldenduck486",
+    "password": "1975",
+    "invokedAt": "2024-03-31T23:00:24.296Z"
   }
 ]
