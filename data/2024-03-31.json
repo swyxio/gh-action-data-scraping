@@ -126,5 +126,13 @@
     "username": "orangegoose658",
     "password": "rabbits",
     "invokedAt": "2024-03-31T15:00:20.167Z"
+  },
+  {
+    "firstName": "Dragoslav",
+    "lastName": "Vilotić",
+    "email": "dragoslav.vilotic@example.com",
+    "username": "silvertiger153",
+    "password": "astra",
+    "invokedAt": "2024-03-31T16:00:34.095Z"
   }
 ]
