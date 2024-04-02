@@ -102,5 +102,13 @@
     "username": "blackfish216",
     "password": "callaway",
     "invokedAt": "2024-04-02T12:01:19.466Z"
+  },
+  {
+    "firstName": "Obrad",
+    "lastName": "Kalinić",
+    "email": "obrad.kalinic@example.com",
+    "username": "happyfrog817",
+    "password": "98765",
+    "invokedAt": "2024-04-02T13:00:45.885Z"
   }
 ]
