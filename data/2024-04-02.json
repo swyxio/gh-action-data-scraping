@@ -62,5 +62,13 @@
     "username": "bigkoala796",
     "password": "grace",
     "invokedAt": "2024-04-02T07:00:26.061Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Granheim",
+    "email": "simon.granheim@example.com",
+    "username": "lazylion441",
+    "password": "daemon",
+    "invokedAt": "2024-04-02T08:00:25.658Z"
   }
 ]
