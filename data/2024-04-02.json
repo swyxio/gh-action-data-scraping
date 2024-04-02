@@ -158,5 +158,13 @@
     "username": "greenpeacock858",
     "password": "sunny",
     "invokedAt": "2024-04-02T19:00:23.437Z"
+  },
+  {
+    "firstName": "Vegard",
+    "lastName": "Vegsund",
+    "email": "vegard.vegsund@example.com",
+    "username": "smallcat449",
+    "password": "camero",
+    "invokedAt": "2024-04-02T20:00:29.128Z"
   }
 ]
