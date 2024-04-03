@@ -110,5 +110,13 @@
     "username": "purplemeercat446",
     "password": "laser",
     "invokedAt": "2024-04-03T13:01:43.188Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Rasmussen",
+    "email": "felix.rasmussen@example.com",
+    "username": "sadmeercat840",
+    "password": "online",
+    "invokedAt": "2024-04-03T14:00:25.343Z"
   }
 ]
