@@ -54,5 +54,13 @@
     "username": "redsnake140",
     "password": "killer1",
     "invokedAt": "2024-04-03T06:00:19.942Z"
+  },
+  {
+    "firstName": "Lada",
+    "lastName": "Krasić",
+    "email": "lada.krasic@example.com",
+    "username": "tinyelephant223",
+    "password": "redwood",
+    "invokedAt": "2024-04-03T07:00:32.644Z"
   }
 ]
