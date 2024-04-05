@@ -166,5 +166,13 @@
     "username": "happybird347",
     "password": "iverson",
     "invokedAt": "2024-04-05T20:00:33.743Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Zúñiga",
+    "email": "santiago.zuniga@example.com",
+    "username": "whiteelephant473",
+    "password": "gopher",
+    "invokedAt": "2024-04-05T21:00:25.020Z"
   }
 ]
