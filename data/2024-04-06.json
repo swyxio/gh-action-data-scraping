@@ -118,5 +118,13 @@
     "username": "bluekoala541",
     "password": "skate",
     "invokedAt": "2024-04-06T14:00:21.803Z"
+  },
+  {
+    "firstName": "Wally",
+    "lastName": "Roloff",
+    "email": "wally.roloff@example.com",
+    "username": "angrykoala142",
+    "password": "ranger",
+    "invokedAt": "2024-04-06T15:00:25.133Z"
   }
 ]
