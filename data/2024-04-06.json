@@ -86,5 +86,13 @@
     "username": "smallcat923",
     "password": "soldier",
     "invokedAt": "2024-04-06T10:00:27.241Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Jensen",
+    "email": "christian.jensen@example.com",
+    "username": "heavytiger163",
+    "password": "arizona",
+    "invokedAt": "2024-04-06T11:00:29.587Z"
   }
 ]
