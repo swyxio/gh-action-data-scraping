@@ -70,5 +70,13 @@
     "username": "blackswan117",
     "password": "snapper",
     "invokedAt": "2024-04-09T08:00:23.477Z"
+  },
+  {
+    "firstName": "Pierre",
+    "lastName": "Leroux",
+    "email": "pierre.leroux@example.com",
+    "username": "orangefish137",
+    "password": "242424",
+    "invokedAt": "2024-04-09T09:00:28.095Z"
   }
 ]
