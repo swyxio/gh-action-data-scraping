@@ -158,5 +158,13 @@
     "username": "crazyfish319",
     "password": "avenger",
     "invokedAt": "2024-04-09T19:00:32.859Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Li",
+    "email": "harper.li@example.com",
+    "username": "blackpanda178",
+    "password": "golfing",
+    "invokedAt": "2024-04-09T20:00:27.158Z"
   }
 ]
