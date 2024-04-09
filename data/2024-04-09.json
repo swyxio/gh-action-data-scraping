@@ -182,5 +182,13 @@
     "username": "yellowfrog392",
     "password": "flores",
     "invokedAt": "2024-04-09T22:00:31.196Z"
+  },
+  {
+    "firstName": "Chaitanya",
+    "lastName": "Banerjee",
+    "email": "chaitanya.banerjee@example.com",
+    "username": "browncat721",
+    "password": "forgot",
+    "invokedAt": "2024-04-09T23:00:21.946Z"
   }
 ]
