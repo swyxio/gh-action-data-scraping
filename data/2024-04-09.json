@@ -118,5 +118,13 @@
     "username": "heavydog727",
     "password": "carbon",
     "invokedAt": "2024-04-09T14:00:21.094Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Williams",
+    "email": "louis.williams@example.com",
+    "username": "orangelion971",
+    "password": "favorite",
+    "invokedAt": "2024-04-09T15:00:32.160Z"
   }
 ]
