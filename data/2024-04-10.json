@@ -158,5 +158,13 @@
     "username": "brownkoala141",
     "password": "macleod",
     "invokedAt": "2024-04-10T19:01:36.333Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Grewal",
+    "email": "ryan.grewal@example.com",
+    "username": "brownmouse896",
+    "password": "primus",
+    "invokedAt": "2024-04-10T20:00:20.860Z"
   }
 ]
