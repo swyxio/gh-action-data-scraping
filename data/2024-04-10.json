@@ -126,5 +126,13 @@
     "username": "bluebutterfly851",
     "password": "paris",
     "invokedAt": "2024-04-10T15:00:30.175Z"
+  },
+  {
+    "firstName": "Chloé",
+    "lastName": "Picard",
+    "email": "chloe.picard@example.com",
+    "username": "lazyfish776",
+    "password": "theman",
+    "invokedAt": "2024-04-10T16:00:21.356Z"
   }
 ]
