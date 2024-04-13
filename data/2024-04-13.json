@@ -166,5 +166,13 @@
     "username": "smallleopard105",
     "password": "village",
     "invokedAt": "2024-04-13T20:00:22.546Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Larsen",
+    "email": "jonathan.larsen@example.com",
+    "username": "purpleleopard885",
+    "password": "spiral",
+    "invokedAt": "2024-04-13T21:00:19.875Z"
   }
 ]
