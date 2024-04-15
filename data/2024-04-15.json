@@ -94,5 +94,13 @@
     "username": "bigwolf375",
     "password": "django",
     "invokedAt": "2024-04-15T12:00:21.731Z"
+  },
+  {
+    "firstName": "Onni",
+    "lastName": "Sippola",
+    "email": "onni.sippola@example.com",
+    "username": "yellowrabbit351",
+    "password": "bbbbbbbb",
+    "invokedAt": "2024-04-15T13:00:33.469Z"
   }
 ]
