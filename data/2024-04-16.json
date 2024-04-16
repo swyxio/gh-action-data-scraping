@@ -54,5 +54,13 @@
     "username": "brownsnake249",
     "password": "zxcvbn",
     "invokedAt": "2024-04-16T06:00:18.898Z"
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Zhang",
+    "email": "molly.zhang@example.com",
+    "username": "goldentiger624",
+    "password": "helmet",
+    "invokedAt": "2024-04-16T07:00:22.041Z"
   }
 ]
