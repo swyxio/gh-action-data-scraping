@@ -174,5 +174,13 @@
     "username": "ticklishcat704",
     "password": "sundance",
     "invokedAt": "2024-04-17T21:00:37.052Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Lewis",
+    "email": "oscar.lewis@example.com",
+    "username": "blackbird505",
+    "password": "indy",
+    "invokedAt": "2024-04-17T22:00:27.750Z"
   }
 ]
