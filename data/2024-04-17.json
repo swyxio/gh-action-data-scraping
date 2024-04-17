@@ -118,5 +118,13 @@
     "username": "goldenbear197",
     "password": "playboy2",
     "invokedAt": "2024-04-17T14:00:27.732Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Gagné",
+    "email": "matthew.gagne@example.com",
+    "username": "brownladybug184",
+    "password": "mcdonald",
+    "invokedAt": "2024-04-17T15:00:28.070Z"
   }
 ]
