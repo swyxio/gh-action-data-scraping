@@ -182,5 +182,13 @@
     "username": "blackbird505",
     "password": "indy",
     "invokedAt": "2024-04-17T22:00:27.750Z"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Kocabıyık",
+    "email": "ayse.kocabiyik@example.com",
+    "username": "smallfish303",
+    "password": "102938",
+    "invokedAt": "2024-04-17T23:00:24.412Z"
   }
 ]
