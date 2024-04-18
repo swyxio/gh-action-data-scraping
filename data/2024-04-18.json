@@ -166,5 +166,13 @@
     "username": "greenbird943",
     "password": "gofast",
     "invokedAt": "2024-04-18T20:00:31.771Z"
+  },
+  {
+    "firstName": "Helmar",
+    "lastName": "Clasen",
+    "email": "helmar.clasen@example.com",
+    "username": "greenostrich656",
+    "password": "choke",
+    "invokedAt": "2024-04-18T21:00:24.819Z"
   }
 ]
