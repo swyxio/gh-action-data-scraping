@@ -174,5 +174,13 @@
     "username": "silverduck964",
     "password": "spyder",
     "invokedAt": "2024-04-19T21:00:20.811Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "James",
+    "email": "charlie.james@example.com",
+    "username": "purplefrog202",
+    "password": "dirt",
+    "invokedAt": "2024-04-19T22:00:23.953Z"
   }
 ]
