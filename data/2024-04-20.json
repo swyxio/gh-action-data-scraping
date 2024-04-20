@@ -166,5 +166,13 @@
     "username": "greenkoala651",
     "password": "brain",
     "invokedAt": "2024-04-20T20:00:26.793Z"
+  },
+  {
+    "firstName": "Corentin",
+    "lastName": "Petit",
+    "email": "corentin.petit@example.com",
+    "username": "beautifulbird672",
+    "password": "sonic",
+    "invokedAt": "2024-04-20T21:00:21.600Z"
   }
 ]
