@@ -174,5 +174,13 @@
     "username": "beautifulbird672",
     "password": "sonic",
     "invokedAt": "2024-04-20T21:00:21.600Z"
+  },
+  {
+    "firstName": "Elmer",
+    "lastName": "Porter",
+    "email": "elmer.porter@example.com",
+    "username": "heavypanda310",
+    "password": "elmo",
+    "invokedAt": "2024-04-20T22:00:18.936Z"
   }
 ]
