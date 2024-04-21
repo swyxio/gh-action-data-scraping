@@ -94,5 +94,13 @@
     "username": "sadtiger620",
     "password": "carrera",
     "invokedAt": "2024-04-21T11:00:20.976Z"
+  },
+  {
+    "firstName": "Barb",
+    "lastName": "Fisher",
+    "email": "barb.fisher@example.com",
+    "username": "whitebird120",
+    "password": "hippie",
+    "invokedAt": "2024-04-21T12:00:25.843Z"
   }
 ]
