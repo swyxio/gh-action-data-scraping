@@ -182,5 +182,13 @@
     "username": "sadelephant252",
     "password": "4321",
     "invokedAt": "2024-04-22T22:00:33.879Z"
+  },
+  {
+    "firstName": "Vsevlad",
+    "lastName": "Kuchabskiy",
+    "email": "vsevlad.kuchabskiy@example.com",
+    "username": "lazyrabbit786",
+    "password": "engine",
+    "invokedAt": "2024-04-22T23:00:27.100Z"
   }
 ]
