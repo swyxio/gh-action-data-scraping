@@ -174,5 +174,13 @@
     "username": "bigfish931",
     "password": "madrid",
     "invokedAt": "2024-04-23T21:00:20.899Z"
+  },
+  {
+    "firstName": "Çetin",
+    "lastName": "Saygıner",
+    "email": "cetin.sayginer@example.com",
+    "username": "whitebear129",
+    "password": "planet",
+    "invokedAt": "2024-04-23T22:00:37.964Z"
   }
 ]
