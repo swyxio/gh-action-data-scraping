@@ -126,5 +126,13 @@
     "username": "lazylion791",
     "password": "books",
     "invokedAt": "2024-04-24T15:00:24.457Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Tucker",
+    "email": "matthew.tucker@example.com",
+    "username": "heavylion174",
+    "password": "chris1",
+    "invokedAt": "2024-04-24T16:00:22.172Z"
   }
 ]
