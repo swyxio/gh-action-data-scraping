@@ -182,5 +182,13 @@
     "username": "brownbird690",
     "password": "123789",
     "invokedAt": "2024-04-24T22:00:35.154Z"
+  },
+  {
+    "firstName": "Francisco",
+    "lastName": "Burgos",
+    "email": "francisco.burgos@example.com",
+    "username": "greenpeacock741",
+    "password": "zxcvbn",
+    "invokedAt": "2024-04-24T23:00:26.115Z"
   }
 ]
