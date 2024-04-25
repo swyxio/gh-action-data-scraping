@@ -102,5 +102,13 @@
     "username": "whitewolf143",
     "password": "lancelot",
     "invokedAt": "2024-04-25T12:00:26.284Z"
+  },
+  {
+    "firstName": "Nalan",
+    "lastName": "Keçeci",
+    "email": "nalan.kececi@example.com",
+    "username": "redostrich140",
+    "password": "655321",
+    "invokedAt": "2024-04-25T13:00:33.588Z"
   }
 ]
