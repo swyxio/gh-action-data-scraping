@@ -118,5 +118,13 @@
     "username": "redcat508",
     "password": "compaq1",
     "invokedAt": "2024-04-25T14:00:25.445Z"
+  },
+  {
+    "firstName": "Hans Josef",
+    "lastName": "Gräf",
+    "email": "hansjosef.graf@example.com",
+    "username": "silvergoose641",
+    "password": "confused",
+    "invokedAt": "2024-04-25T15:00:40.611Z"
   }
 ]
