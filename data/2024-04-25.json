@@ -110,5 +110,13 @@
     "username": "redostrich140",
     "password": "655321",
     "invokedAt": "2024-04-25T13:00:33.588Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Castro",
+    "email": "diego.castro@example.com",
+    "username": "redcat508",
+    "password": "compaq1",
+    "invokedAt": "2024-04-25T14:00:25.445Z"
   }
 ]
