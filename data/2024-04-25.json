@@ -166,5 +166,13 @@
     "username": "heavysnake676",
     "password": "warlock",
     "invokedAt": "2024-04-25T20:00:22.101Z"
+  },
+  {
+    "firstName": "Edwin",
+    "lastName": "Mills",
+    "email": "edwin.mills@example.com",
+    "username": "goldenfrog133",
+    "password": "nuclear",
+    "invokedAt": "2024-04-25T21:00:28.098Z"
   }
 ]
