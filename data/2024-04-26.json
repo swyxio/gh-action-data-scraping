@@ -14,5 +14,13 @@
     "username": "beautifultiger525",
     "password": "django",
     "invokedAt": "2024-04-26T01:22:51.960Z"
+  },
+  {
+    "firstName": "Anaïs",
+    "lastName": "Renard",
+    "email": "anais.renard@example.com",
+    "username": "blueladybug436",
+    "password": "ronaldo",
+    "invokedAt": "2024-04-26T02:08:21.984Z"
   }
 ]
