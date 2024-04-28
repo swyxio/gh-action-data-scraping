@@ -86,5 +86,13 @@
     "username": "smallostrich329",
     "password": "taurus",
     "invokedAt": "2024-04-28T10:00:20.131Z"
+  },
+  {
+    "firstName": "Aljoša",
+    "lastName": "Tošić",
+    "email": "aljosa.tosic@example.com",
+    "username": "yellowostrich453",
+    "password": "thegame",
+    "invokedAt": "2024-04-28T11:00:22.244Z"
   }
 ]
