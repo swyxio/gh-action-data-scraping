@@ -158,5 +158,13 @@
     "username": "goldenmouse433",
     "password": "chicken1",
     "invokedAt": "2024-04-28T19:00:18.721Z"
+  },
+  {
+    "firstName": "Andrijana",
+    "lastName": "Ivanović",
+    "email": "andrijana.ivanovic@example.com",
+    "username": "heavyrabbit810",
+    "password": "terrapin",
+    "invokedAt": "2024-04-28T20:00:22.927Z"
   }
 ]
