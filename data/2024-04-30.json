@@ -94,5 +94,13 @@
     "username": "goldenfish357",
     "password": "david1",
     "invokedAt": "2024-04-30T11:00:23.907Z"
+  },
+  {
+    "firstName": "Etienne",
+    "lastName": "Wong",
+    "email": "etienne.wong@example.com",
+    "username": "heavylion437",
+    "password": "slappy",
+    "invokedAt": "2024-04-30T12:00:24.832Z"
   }
 ]
