@@ -102,5 +102,13 @@
     "username": "heavylion437",
     "password": "slappy",
     "invokedAt": "2024-04-30T12:00:24.832Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Robinson",
+    "email": "connor.robinson@example.com",
+    "username": "whitefish234",
+    "password": "vantage",
+    "invokedAt": "2024-04-30T13:00:36.570Z"
   }
 ]
