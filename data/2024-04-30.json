@@ -166,5 +166,13 @@
     "username": "smallfish919",
     "password": "link",
     "invokedAt": "2024-04-30T20:00:23.315Z"
+  },
+  {
+    "firstName": "Oğuzhan",
+    "lastName": "Sandalcı",
+    "email": "oguzhan.sandalci@example.com",
+    "username": "brownrabbit596",
+    "password": "gobears",
+    "invokedAt": "2024-04-30T21:00:27.330Z"
   }
 ]
