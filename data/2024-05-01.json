@@ -126,5 +126,13 @@
     "username": "heavymeercat724",
     "password": "theater",
     "invokedAt": "2024-05-01T15:00:26.401Z"
+  },
+  {
+    "firstName": "Eemil",
+    "lastName": "Tervo",
+    "email": "eemil.tervo@example.com",
+    "username": "silverzebra188",
+    "password": "temppass",
+    "invokedAt": "2024-05-01T16:00:35.601Z"
   }
 ]
