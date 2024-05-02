@@ -182,5 +182,13 @@
     "username": "heavyelephant442",
     "password": "reebok",
     "invokedAt": "2024-05-02T22:00:24.902Z"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Miller",
+    "email": "amelia.miller@example.com",
+    "username": "bluefish886",
+    "password": "googoo",
+    "invokedAt": "2024-05-02T23:00:22.940Z"
   }
 ]
