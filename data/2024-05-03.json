@@ -166,5 +166,13 @@
     "username": "goldenduck836",
     "password": "whiskers",
     "invokedAt": "2024-05-03T20:00:43.154Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Tucker",
+    "email": "marc.tucker@example.com",
+    "username": "orangecat707",
+    "password": "oreo",
+    "invokedAt": "2024-05-03T21:00:23.150Z"
   }
 ]
