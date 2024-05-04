@@ -118,5 +118,13 @@
     "username": "redtiger658",
     "password": "scamper",
     "invokedAt": "2024-05-04T14:00:23.824Z"
+  },
+  {
+    "firstName": "Ramón",
+    "lastName": "Parra",
+    "email": "ramon.parra@example.com",
+    "username": "redostrich307",
+    "password": "duckman",
+    "invokedAt": "2024-05-04T15:00:27.063Z"
   }
 ]
