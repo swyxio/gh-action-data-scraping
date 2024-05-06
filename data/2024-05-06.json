@@ -102,5 +102,13 @@
     "username": "angryduck980",
     "password": "nascar",
     "invokedAt": "2024-05-06T12:00:31.865Z"
+  },
+  {
+    "firstName": "Jeet",
+    "lastName": "Jain",
+    "email": "jeet.jain@example.com",
+    "username": "brownleopard260",
+    "password": "cookies",
+    "invokedAt": "2024-05-06T13:01:09.292Z"
   }
 ]
