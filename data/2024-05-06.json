@@ -94,5 +94,13 @@
     "username": "silvergoose458",
     "password": "dingle",
     "invokedAt": "2024-05-06T11:00:27.648Z"
+  },
+  {
+    "firstName": "Jody",
+    "lastName": "Van de Lustgraaf",
+    "email": "jody.vandelustgraaf@example.com",
+    "username": "angryduck980",
+    "password": "nascar",
+    "invokedAt": "2024-05-06T12:00:31.865Z"
   }
 ]
