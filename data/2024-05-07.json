@@ -166,5 +166,13 @@
     "username": "heavypanda987",
     "password": "patrol",
     "invokedAt": "2024-05-07T20:00:22.350Z"
+  },
+  {
+    "firstName": "Giacomo",
+    "lastName": "Moreau",
+    "email": "giacomo.moreau@example.com",
+    "username": "lazygoose594",
+    "password": "speaker",
+    "invokedAt": "2024-05-07T21:00:22.300Z"
   }
 ]
