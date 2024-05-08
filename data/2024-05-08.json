@@ -182,5 +182,13 @@
     "username": "yellowgorilla305",
     "password": "halflife",
     "invokedAt": "2024-05-08T22:00:19.928Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Korhonen",
+    "email": "joona.korhonen@example.com",
+    "username": "lazywolf613",
+    "password": "monopoly",
+    "invokedAt": "2024-05-08T23:00:32.152Z"
   }
 ]
