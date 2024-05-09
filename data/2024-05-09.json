@@ -70,5 +70,13 @@
     "username": "yellowgorilla863",
     "password": "packer",
     "invokedAt": "2024-05-09T08:00:25.030Z"
+  },
+  {
+    "firstName": "Božo",
+    "lastName": "Šarović",
+    "email": "bozo.sarovic@example.com",
+    "username": "crazycat773",
+    "password": "infiniti",
+    "invokedAt": "2024-05-09T09:00:25.007Z"
   }
 ]
