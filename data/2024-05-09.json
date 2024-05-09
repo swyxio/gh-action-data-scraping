@@ -158,5 +158,13 @@
     "username": "browndog471",
     "password": "gopher",
     "invokedAt": "2024-05-09T19:00:19.282Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Zhang",
+    "email": "sofia.zhang@example.com",
+    "username": "happyostrich469",
+    "password": "mancity",
+    "invokedAt": "2024-05-09T20:00:26.660Z"
   }
 ]
