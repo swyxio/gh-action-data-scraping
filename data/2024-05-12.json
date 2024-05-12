@@ -182,5 +182,13 @@
     "username": "purplegoose330",
     "password": "renegade",
     "invokedAt": "2024-05-12T22:00:21.236Z"
+  },
+  {
+    "firstName": "Tilde",
+    "lastName": "Olsen",
+    "email": "tilde.olsen@example.com",
+    "username": "greenmeercat622",
+    "password": "beretta",
+    "invokedAt": "2024-05-12T23:00:19.123Z"
   }
 ]
