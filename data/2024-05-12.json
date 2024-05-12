@@ -102,5 +102,13 @@
     "username": "redcat103",
     "password": "chicago",
     "invokedAt": "2024-05-12T12:00:27.940Z"
+  },
+  {
+    "firstName": "Julián",
+    "lastName": "Soto",
+    "email": "julian.soto@example.com",
+    "username": "happykoala945",
+    "password": "passwort",
+    "invokedAt": "2024-05-12T13:00:32.983Z"
   }
 ]
