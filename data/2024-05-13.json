@@ -150,5 +150,13 @@
     "username": "silverdog640",
     "password": "blue32",
     "invokedAt": "2024-05-13T18:00:22.273Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Beşok",
+    "email": "okan.besok@example.com",
+    "username": "crazyfish868",
+    "password": "demo",
+    "invokedAt": "2024-05-13T19:00:20.878Z"
   }
 ]
