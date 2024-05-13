@@ -182,5 +182,13 @@
     "username": "purplemeercat543",
     "password": "work",
     "invokedAt": "2024-05-13T22:00:22.508Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Møller",
+    "email": "christian.moller@example.com",
+    "username": "angryswan776",
+    "password": "newlife",
+    "invokedAt": "2024-05-13T23:00:26.203Z"
   }
 ]
