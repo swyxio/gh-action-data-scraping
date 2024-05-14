@@ -94,5 +94,13 @@
     "username": "bigostrich182",
     "password": "sticky",
     "invokedAt": "2024-05-14T11:00:34.906Z"
+  },
+  {
+    "firstName": "Etienne",
+    "lastName": "Brown",
+    "email": "etienne.brown@example.com",
+    "username": "angryduck485",
+    "password": "houdini",
+    "invokedAt": "2024-05-14T12:00:29.071Z"
   }
 ]
