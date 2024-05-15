@@ -174,5 +174,13 @@
     "username": "orangemouse241",
     "password": "mike123",
     "invokedAt": "2024-05-15T21:00:18.069Z"
+  },
+  {
+    "firstName": "Krzysztof",
+    "lastName": "Wilken",
+    "email": "krzysztof.wilken@example.com",
+    "username": "bluepanda744",
+    "password": "zxcv",
+    "invokedAt": "2024-05-15T22:00:35.422Z"
   }
 ]
