@@ -70,5 +70,13 @@
     "username": "bluesnake290",
     "password": "softail",
     "invokedAt": "2024-05-16T08:00:34.153Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Watson",
+    "email": "emily.watson@example.com",
+    "username": "sadzebra917",
+    "password": "hardware",
+    "invokedAt": "2024-05-16T09:00:28.960Z"
   }
 ]
