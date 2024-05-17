@@ -118,5 +118,13 @@
     "username": "lazypanda666",
     "password": "a12345",
     "invokedAt": "2024-05-17T14:00:38.242Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Cook",
+    "email": "john.cook@example.com",
+    "username": "blueleopard460",
+    "password": "classics",
+    "invokedAt": "2024-05-17T15:00:18.828Z"
   }
 ]
