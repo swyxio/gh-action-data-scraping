@@ -86,5 +86,13 @@
     "username": "angryrabbit687",
     "password": "weather",
     "invokedAt": "2024-05-18T10:00:28.218Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Korhonen",
+    "email": "valtteri.korhonen@example.com",
+    "username": "blackmouse684",
+    "password": "windsor",
+    "invokedAt": "2024-05-18T11:00:29.085Z"
   }
 ]
