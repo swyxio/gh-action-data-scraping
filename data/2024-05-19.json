@@ -158,5 +158,13 @@
     "username": "bigtiger766",
     "password": "striper",
     "invokedAt": "2024-05-19T19:00:20.834Z"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Bishop",
+    "email": "jim.bishop@example.com",
+    "username": "silverladybug873",
+    "password": "russian",
+    "invokedAt": "2024-05-19T20:00:37.896Z"
   }
 ]
