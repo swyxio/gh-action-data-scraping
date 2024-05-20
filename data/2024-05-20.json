@@ -158,5 +158,13 @@
     "username": "tinylion844",
     "password": "science",
     "invokedAt": "2024-05-20T19:00:26.130Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Rajala",
+    "email": "aleksi.rajala@example.com",
+    "username": "purpleswan402",
+    "password": "flounder",
+    "invokedAt": "2024-05-20T20:00:22.290Z"
   }
 ]
