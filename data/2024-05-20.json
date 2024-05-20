@@ -166,5 +166,13 @@
     "username": "purpleswan402",
     "password": "flounder",
     "invokedAt": "2024-05-20T20:00:22.290Z"
+  },
+  {
+    "firstName": "Lloyd",
+    "lastName": "Gray",
+    "email": "lloyd.gray@example.com",
+    "username": "heavyzebra545",
+    "password": "kojak",
+    "invokedAt": "2024-05-20T21:00:19.213Z"
   }
 ]
