@@ -78,5 +78,13 @@
     "username": "tinyostrich157",
     "password": "second",
     "invokedAt": "2024-05-21T09:00:26.220Z"
+  },
+  {
+    "firstName": "Donald",
+    "lastName": "Van Oosterwijk",
+    "email": "donald.vanoosterwijk@example.com",
+    "username": "bluepeacock396",
+    "password": "land",
+    "invokedAt": "2024-05-21T10:00:23.046Z"
   }
 ]
