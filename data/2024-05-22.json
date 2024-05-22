@@ -166,5 +166,13 @@
     "username": "bigfrog566",
     "password": "banger",
     "invokedAt": "2024-05-22T20:00:30.153Z"
+  },
+  {
+    "firstName": "Miloslav",
+    "lastName": "Berezenko",
+    "email": "miloslav.berezenko@example.com",
+    "username": "heavysnake458",
+    "password": "simpsons",
+    "invokedAt": "2024-05-22T21:00:35.501Z"
   }
 ]
