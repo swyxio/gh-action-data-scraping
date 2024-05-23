@@ -86,5 +86,13 @@
     "username": "orangeostrich612",
     "password": "redrum",
     "invokedAt": "2024-05-23T10:00:19.971Z"
+  },
+  {
+    "firstName": "Mathieu",
+    "lastName": "Leroy",
+    "email": "mathieu.leroy@example.com",
+    "username": "browncat431",
+    "password": "bian",
+    "invokedAt": "2024-05-23T11:00:28.377Z"
   }
 ]
