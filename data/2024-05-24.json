@@ -118,5 +118,13 @@
     "username": "tinymouse527",
     "password": "corleone",
     "invokedAt": "2024-05-24T14:00:35.736Z"
+  },
+  {
+    "firstName": "Pavle",
+    "lastName": "Kapetanović",
+    "email": "pavle.kapetanovic@example.com",
+    "username": "organicmouse512",
+    "password": "tribe",
+    "invokedAt": "2024-05-24T15:00:38.438Z"
   }
 ]
