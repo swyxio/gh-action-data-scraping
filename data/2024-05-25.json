@@ -78,5 +78,13 @@
     "username": "angryzebra325",
     "password": "radar",
     "invokedAt": "2024-05-25T09:00:28.569Z"
+  },
+  {
+    "firstName": "Jerome",
+    "lastName": "Meyer",
+    "email": "jerome.meyer@example.com",
+    "username": "bigmouse302",
+    "password": "blackcat",
+    "invokedAt": "2024-05-25T10:00:31.874Z"
   }
 ]
