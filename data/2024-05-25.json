@@ -166,5 +166,13 @@
     "username": "yellowsnake596",
     "password": "carnival",
     "invokedAt": "2024-05-25T20:00:19.077Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Kuhn",
+    "email": "joel.kuhn@example.com",
+    "username": "yellowsnake401",
+    "password": "subaru",
+    "invokedAt": "2024-05-25T21:00:20.079Z"
   }
 ]
