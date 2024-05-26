@@ -134,5 +134,13 @@
     "username": "whitebear824",
     "password": "union",
     "invokedAt": "2024-05-26T16:00:32.450Z"
+  },
+  {
+    "firstName": "Nurdan",
+    "lastName": "Ilıcalı",
+    "email": "nurdan.ilicali@example.com",
+    "username": "whitemouse424",
+    "password": "custom",
+    "invokedAt": "2024-05-26T17:00:40.904Z"
   }
 ]
