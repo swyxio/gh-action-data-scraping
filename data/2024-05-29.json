@@ -158,5 +158,13 @@
     "username": "whiteduck511",
     "password": "watson",
     "invokedAt": "2024-05-29T19:00:20.812Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Cook",
+    "email": "sophie.cook@example.com",
+    "username": "beautifulcat943",
+    "password": "jump",
+    "invokedAt": "2024-05-29T20:00:19.661Z"
   }
 ]
