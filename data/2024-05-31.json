@@ -94,5 +94,13 @@
     "username": "purpleduck225",
     "password": "bird",
     "invokedAt": "2024-05-31T11:00:22.224Z"
+  },
+  {
+    "firstName": "Nixon",
+    "lastName": "Chen",
+    "email": "nixon.chen@example.com",
+    "username": "brownpeacock195",
+    "password": "diver1",
+    "invokedAt": "2024-05-31T12:00:19.855Z"
   }
 ]
