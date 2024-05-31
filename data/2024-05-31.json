@@ -142,5 +142,13 @@
     "username": "whiterabbit618",
     "password": "zurich",
     "invokedAt": "2024-05-31T17:00:20.011Z"
+  },
+  {
+    "firstName": "Minka",
+    "lastName": "Van den Corput",
+    "email": "minka.vandencorput@example.com",
+    "username": "purplefrog185",
+    "password": "golfer1",
+    "invokedAt": "2024-05-31T18:00:20.730Z"
   }
 ]
