@@ -94,5 +94,13 @@
     "username": "silverpeacock948",
     "password": "glennwei",
     "invokedAt": "2024-06-01T11:00:36.148Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Christiansen",
+    "email": "nicklas.christiansen@example.com",
+    "username": "lazywolf789",
+    "password": "victor",
+    "invokedAt": "2024-06-01T12:00:32.595Z"
   }
 ]
