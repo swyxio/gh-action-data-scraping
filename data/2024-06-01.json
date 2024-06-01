@@ -46,5 +46,13 @@
     "username": "orangebird410",
     "password": "klingon",
     "invokedAt": "2024-06-01T05:00:23.183Z"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Araújo",
+    "email": "claire.araujo@example.com",
+    "username": "blackkoala342",
+    "password": "supra",
+    "invokedAt": "2024-06-01T06:00:21.528Z"
   }
 ]
