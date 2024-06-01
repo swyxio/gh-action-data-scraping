@@ -54,5 +54,13 @@
     "username": "blackkoala342",
     "password": "supra",
     "invokedAt": "2024-06-01T06:00:21.528Z"
+  },
+  {
+    "firstName": "Andreas",
+    "lastName": "Endres",
+    "email": "andreas.endres@example.com",
+    "username": "blackmouse306",
+    "password": "1234567890",
+    "invokedAt": "2024-06-01T07:00:22.956Z"
   }
 ]
