@@ -150,5 +150,13 @@
     "username": "whitefish833",
     "password": "speedway",
     "invokedAt": "2024-06-01T18:00:19.022Z"
+  },
+  {
+    "firstName": "Cecil",
+    "lastName": "Lewis",
+    "email": "cecil.lewis@example.com",
+    "username": "angrywolf688",
+    "password": "marker",
+    "invokedAt": "2024-06-01T19:00:33.088Z"
   }
 ]
