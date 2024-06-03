@@ -126,5 +126,13 @@
     "username": "bigmouse506",
     "password": "zone",
     "invokedAt": "2024-06-03T15:00:35.038Z"
+  },
+  {
+    "firstName": "Maya",
+    "lastName": "Jean-Baptiste",
+    "email": "maya.jean-baptiste@example.com",
+    "username": "happysnake465",
+    "password": "grandma",
+    "invokedAt": "2024-06-03T16:00:38.979Z"
   }
 ]
