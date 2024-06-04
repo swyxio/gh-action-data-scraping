@@ -46,5 +46,13 @@
     "username": "lazyladybug445",
     "password": "gotcha",
     "invokedAt": "2024-06-04T05:00:33.830Z"
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Iglesias",
+    "email": "marta.iglesias@example.com",
+    "username": "orangecat101",
+    "password": "banzai",
+    "invokedAt": "2024-06-04T06:00:27.427Z"
   }
 ]
