@@ -62,5 +62,13 @@
     "username": "silverelephant155",
     "password": "hansen",
     "invokedAt": "2024-06-05T07:00:21.752Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Fox",
+    "email": "evan.fox@example.com",
+    "username": "purplesnake565",
+    "password": "bumble",
+    "invokedAt": "2024-06-05T08:00:20.140Z"
   }
 ]
