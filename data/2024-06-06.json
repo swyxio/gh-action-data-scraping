@@ -142,5 +142,13 @@
     "username": "heavydog998",
     "password": "morris",
     "invokedAt": "2024-06-06T17:00:31.919Z"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Torres",
+    "email": "todd.torres@example.com",
+    "username": "happypeacock539",
+    "password": "street",
+    "invokedAt": "2024-06-06T18:00:34.901Z"
   }
 ]
