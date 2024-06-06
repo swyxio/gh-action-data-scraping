@@ -150,5 +150,13 @@
     "username": "happypeacock539",
     "password": "street",
     "invokedAt": "2024-06-06T18:00:34.901Z"
+  },
+  {
+    "firstName": "Raoul",
+    "lastName": "Van Vuuren",
+    "email": "raoul.vanvuuren@example.com",
+    "username": "beautifulcat157",
+    "password": "billyboy",
+    "invokedAt": "2024-06-06T19:00:23.186Z"
   }
 ]
