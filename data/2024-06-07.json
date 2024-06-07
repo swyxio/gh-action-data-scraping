@@ -70,5 +70,13 @@
     "username": "bigtiger142",
     "password": "alexa",
     "invokedAt": "2024-06-07T08:00:33.320Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Green",
+    "email": "john.green@example.com",
+    "username": "sadelephant885",
+    "password": "land",
+    "invokedAt": "2024-06-07T09:00:24.066Z"
   }
 ]
