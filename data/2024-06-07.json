@@ -102,5 +102,13 @@
     "username": "greenfrog399",
     "password": "doghouse",
     "invokedAt": "2024-06-07T12:00:35.611Z"
+  },
+  {
+    "firstName": "Colin",
+    "lastName": "Lawrence",
+    "email": "colin.lawrence@example.com",
+    "username": "heavylion864",
+    "password": "calgary",
+    "invokedAt": "2024-06-07T13:02:11.717Z"
   }
 ]
