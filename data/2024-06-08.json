@@ -126,5 +126,13 @@
     "username": "bigduck240",
     "password": "back",
     "invokedAt": "2024-06-08T15:00:32.013Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Jørgensen",
+    "email": "mathias.jorgensen@example.com",
+    "username": "sadcat806",
+    "password": "turkey",
+    "invokedAt": "2024-06-08T16:00:37.593Z"
   }
 ]
