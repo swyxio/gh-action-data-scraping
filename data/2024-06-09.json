@@ -126,5 +126,13 @@
     "username": "greenswan320",
     "password": "gong",
     "invokedAt": "2024-06-09T15:00:30.904Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Calvo",
+    "email": "carlos.calvo@example.com",
+    "username": "redduck892",
+    "password": "bogart",
+    "invokedAt": "2024-06-09T16:00:34.660Z"
   }
 ]
