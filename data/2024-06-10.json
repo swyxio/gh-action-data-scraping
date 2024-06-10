@@ -166,5 +166,13 @@
     "username": "brownzebra364",
     "password": "abcdef",
     "invokedAt": "2024-06-10T20:00:27.713Z"
+  },
+  {
+    "firstName": "Radoje",
+    "lastName": "Ćirković",
+    "email": "radoje.cirkovic@example.com",
+    "username": "blackdog346",
+    "password": "bologna",
+    "invokedAt": "2024-06-10T21:00:24.071Z"
   }
 ]
