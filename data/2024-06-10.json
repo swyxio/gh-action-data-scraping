@@ -94,5 +94,13 @@
     "username": "smallbird189",
     "password": "boeing",
     "invokedAt": "2024-06-10T11:00:32.309Z"
+  },
+  {
+    "firstName": "Dwayne",
+    "lastName": "Hudson",
+    "email": "dwayne.hudson@example.com",
+    "username": "yellowfish217",
+    "password": "charly",
+    "invokedAt": "2024-06-10T12:00:23.593Z"
   }
 ]
