@@ -86,5 +86,13 @@
     "username": "redfrog400",
     "password": "nong",
     "invokedAt": "2024-06-11T10:00:29.500Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Heikkinen",
+    "email": "daniel.heikkinen@example.com",
+    "username": "bigleopard766",
+    "password": "martin",
+    "invokedAt": "2024-06-11T11:00:30.473Z"
   }
 ]
