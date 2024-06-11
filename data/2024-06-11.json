@@ -118,5 +118,13 @@
     "username": "silverduck953",
     "password": "artist",
     "invokedAt": "2024-06-11T14:00:28.458Z"
+  },
+  {
+    "firstName": "Janet",
+    "lastName": "Murphy",
+    "email": "janet.murphy@example.com",
+    "username": "angrybird102",
+    "password": "series",
+    "invokedAt": "2024-06-11T15:00:23.018Z"
   }
 ]
