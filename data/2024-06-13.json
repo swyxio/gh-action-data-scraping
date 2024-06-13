@@ -102,5 +102,13 @@
     "username": "bluewolf568",
     "password": "magazine",
     "invokedAt": "2024-06-13T12:00:20.886Z"
+  },
+  {
+    "firstName": "Eli",
+    "lastName": "Elzenga",
+    "email": "eli.elzenga@example.com",
+    "username": "yellowdog596",
+    "password": "popo",
+    "invokedAt": "2024-06-13T13:02:16.374Z"
   }
 ]
