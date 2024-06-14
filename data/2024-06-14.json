@@ -46,5 +46,13 @@
     "username": "redcat286",
     "password": "blunt",
     "invokedAt": "2024-06-14T05:00:25.111Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Hansen",
+    "email": "alfred.hansen@example.com",
+    "username": "heavybird138",
+    "password": "qwertyu",
+    "invokedAt": "2024-06-14T06:00:21.749Z"
   }
 ]
