@@ -86,5 +86,13 @@
     "username": "blackrabbit600",
     "password": "chilli",
     "invokedAt": "2024-06-14T10:00:20.661Z"
+  },
+  {
+    "firstName": "Anupama",
+    "lastName": "Pai",
+    "email": "anupama.pai@example.com",
+    "username": "whitebear687",
+    "password": "chill",
+    "invokedAt": "2024-06-14T11:00:19.784Z"
   }
 ]
