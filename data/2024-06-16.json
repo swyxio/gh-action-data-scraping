@@ -166,5 +166,13 @@
     "username": "yellowsnake631",
     "password": "bishop",
     "invokedAt": "2024-06-16T20:00:28.236Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Van den Oord",
+    "email": "niklas.vandenoord@example.com",
+    "username": "whitepeacock383",
+    "password": "252525",
+    "invokedAt": "2024-06-16T21:00:25.167Z"
   }
 ]
