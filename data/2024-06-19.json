@@ -182,5 +182,13 @@
     "username": "bigbutterfly497",
     "password": "people",
     "invokedAt": "2024-06-19T22:00:24.239Z"
+  },
+  {
+    "firstName": "Yanis",
+    "lastName": "Dufour",
+    "email": "yanis.dufour@example.com",
+    "username": "bluewolf577",
+    "password": "woohoo",
+    "invokedAt": "2024-06-19T23:00:19.568Z"
   }
 ]
