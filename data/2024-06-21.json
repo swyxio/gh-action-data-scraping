@@ -46,5 +46,13 @@
     "username": "bigcat913",
     "password": "2345",
     "invokedAt": "2024-06-21T05:00:35.006Z"
+  },
+  {
+    "firstName": "Linnea",
+    "lastName": "Wirta",
+    "email": "linnea.wirta@example.com",
+    "username": "purplemeercat951",
+    "password": "java",
+    "invokedAt": "2024-06-21T06:00:35.467Z"
   }
 ]
