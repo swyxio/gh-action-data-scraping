@@ -182,5 +182,13 @@
     "username": "sadgoose271",
     "password": "medicine",
     "invokedAt": "2024-06-22T22:00:20.827Z"
+  },
+  {
+    "firstName": "Terje",
+    "lastName": "Bjerkli",
+    "email": "terje.bjerkli@example.com",
+    "username": "lazykoala139",
+    "password": "astrid",
+    "invokedAt": "2024-06-22T23:00:23.532Z"
   }
 ]
