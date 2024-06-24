@@ -166,5 +166,13 @@
     "username": "heavyduck985",
     "password": "report",
     "invokedAt": "2024-06-24T20:00:22.465Z"
+  },
+  {
+    "firstName": "Stefano",
+    "lastName": "Picard",
+    "email": "stefano.picard@example.com",
+    "username": "lazybear198",
+    "password": "aaa111",
+    "invokedAt": "2024-06-24T21:00:22.556Z"
   }
 ]
