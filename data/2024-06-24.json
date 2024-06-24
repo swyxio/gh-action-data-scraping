@@ -158,5 +158,13 @@
     "username": "goldenbutterfly120",
     "password": "lance",
     "invokedAt": "2024-06-24T19:00:20.677Z"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Mills",
+    "email": "sean.mills@example.com",
+    "username": "heavyduck985",
+    "password": "report",
+    "invokedAt": "2024-06-24T20:00:22.465Z"
   }
 ]
