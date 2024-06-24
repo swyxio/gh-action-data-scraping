@@ -142,5 +142,13 @@
     "username": "angryfrog745",
     "password": "psycho",
     "invokedAt": "2024-06-24T17:00:22.696Z"
+  },
+  {
+    "firstName": "Francis",
+    "lastName": "Hudson",
+    "email": "francis.hudson@example.com",
+    "username": "purplewolf671",
+    "password": "company",
+    "invokedAt": "2024-06-24T18:00:34.962Z"
   }
 ]
