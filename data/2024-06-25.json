@@ -22,5 +22,13 @@
     "username": "blueostrich312",
     "password": "georgia",
     "invokedAt": "2024-06-25T02:12:56.952Z"
+  },
+  {
+    "firstName": "Velimir",
+    "lastName": "Kovač",
+    "email": "velimir.kovac@example.com",
+    "username": "smallbear163",
+    "password": "jimmys",
+    "invokedAt": "2024-06-25T03:00:18.840Z"
   }
 ]
