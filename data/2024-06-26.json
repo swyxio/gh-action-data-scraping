@@ -158,5 +158,13 @@
     "username": "smallfish299",
     "password": "canada",
     "invokedAt": "2024-06-26T20:00:31.104Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Patel",
+    "email": "jack.patel@example.com",
+    "username": "redswan617",
+    "password": "froggy",
+    "invokedAt": "2024-06-26T21:00:27.934Z"
   }
 ]
