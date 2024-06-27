@@ -182,5 +182,13 @@
     "username": "happyswan844",
     "password": "spurs",
     "invokedAt": "2024-06-27T22:00:23.231Z"
+  },
+  {
+    "firstName": "Hector",
+    "lastName": "Thomas",
+    "email": "hector.thomas@example.com",
+    "username": "purplekoala979",
+    "password": "wine",
+    "invokedAt": "2024-06-27T23:00:25.429Z"
   }
 ]
