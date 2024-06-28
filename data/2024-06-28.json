@@ -126,5 +126,13 @@
     "username": "blackfrog780",
     "password": "slugger",
     "invokedAt": "2024-06-28T15:00:20.923Z"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Balcı",
+    "email": "ayse.balci@example.com",
+    "username": "blackostrich500",
+    "password": "aspen",
+    "invokedAt": "2024-06-28T16:00:22.932Z"
   }
 ]
