@@ -54,5 +54,13 @@
     "username": "angryfish686",
     "password": "peace",
     "invokedAt": "2024-06-29T06:00:37.301Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Tremblay",
+    "email": "jacob.tremblay@example.com",
+    "username": "purplefish689",
+    "password": "arrow",
+    "invokedAt": "2024-06-29T07:00:27.582Z"
   }
 ]
