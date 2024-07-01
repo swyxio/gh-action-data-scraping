@@ -182,5 +182,13 @@
     "username": "whitetiger707",
     "password": "nickel",
     "invokedAt": "2024-07-01T22:00:19.043Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Nalbantoğlu",
+    "email": "mustafa.nalbantoglu@example.com",
+    "username": "yellowostrich298",
+    "password": "loveme",
+    "invokedAt": "2024-07-01T23:00:25.725Z"
   }
 ]
