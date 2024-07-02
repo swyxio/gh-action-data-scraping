@@ -94,5 +94,13 @@
     "username": "orangebutterfly798",
     "password": "skiing",
     "invokedAt": "2024-07-02T11:00:21.870Z"
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Rodriguez",
+    "email": "julian.rodriguez@example.com",
+    "username": "yellowfrog809",
+    "password": "velvet",
+    "invokedAt": "2024-07-02T12:00:27.219Z"
   }
 ]
