@@ -78,5 +78,13 @@
     "username": "tinyelephant976",
     "password": "mirror",
     "invokedAt": "2024-07-02T09:00:20.822Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Ford",
+    "email": "john.ford@example.com",
+    "username": "purpledog741",
+    "password": "colombia",
+    "invokedAt": "2024-07-02T10:00:24.771Z"
   }
 ]
