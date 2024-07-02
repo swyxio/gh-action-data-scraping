@@ -142,5 +142,13 @@
     "username": "bigcat464",
     "password": "yoyoma",
     "invokedAt": "2024-07-02T17:00:31.977Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Jensen",
+    "email": "bob.jensen@example.com",
+    "username": "blackswan363",
+    "password": "bang",
+    "invokedAt": "2024-07-02T18:00:29.696Z"
   }
 ]
