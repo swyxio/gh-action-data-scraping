@@ -30,5 +30,13 @@
     "username": "goldenrabbit220",
     "password": "metallica",
     "invokedAt": "2024-07-04T03:02:28.781Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Nazario",
+    "email": "ricardo.nazario@example.com",
+    "username": "orangekoala609",
+    "password": "marathon",
+    "invokedAt": "2024-07-04T04:00:27.817Z"
   }
 ]
