@@ -158,5 +158,13 @@
     "username": "goldenrabbit589",
     "password": "1984",
     "invokedAt": "2024-07-04T19:00:19.313Z"
+  },
+  {
+    "firstName": "Nurdan",
+    "lastName": "Arslanoğlu",
+    "email": "nurdan.arslanoglu@example.com",
+    "username": "orangeladybug258",
+    "password": "8675309",
+    "invokedAt": "2024-07-04T20:00:22.221Z"
   }
 ]
