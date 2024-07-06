@@ -174,5 +174,13 @@
     "username": "lazypeacock990",
     "password": "circle",
     "invokedAt": "2024-07-06T21:00:22.853Z"
+  },
+  {
+    "firstName": "Tommy",
+    "lastName": "Franklin",
+    "email": "tommy.franklin@example.com",
+    "username": "purplefish589",
+    "password": "pimpin",
+    "invokedAt": "2024-07-06T22:00:21.054Z"
   }
 ]
