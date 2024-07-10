@@ -174,5 +174,13 @@
     "username": "whitebutterfly158",
     "password": "030303",
     "invokedAt": "2024-07-10T21:00:22.456Z"
+  },
+  {
+    "firstName": "Rhiannon",
+    "lastName": "Van Rossum",
+    "email": "rhiannon.vanrossum@example.com",
+    "username": "silverbird282",
+    "password": "private",
+    "invokedAt": "2024-07-10T22:00:22.064Z"
   }
 ]
