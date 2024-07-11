@@ -174,5 +174,13 @@
     "username": "yellowbutterfly417",
     "password": "123654",
     "invokedAt": "2024-07-11T21:00:19.857Z"
+  },
+  {
+    "firstName": "Čedomir",
+    "lastName": "Karanović",
+    "email": "cedomir.karanovic@example.com",
+    "username": "tinygorilla588",
+    "password": "jackal",
+    "invokedAt": "2024-07-11T22:00:19.864Z"
   }
 ]
