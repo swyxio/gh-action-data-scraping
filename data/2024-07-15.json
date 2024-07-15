@@ -46,5 +46,13 @@
     "username": "yellowbear978",
     "password": "pepsi",
     "invokedAt": "2024-07-15T05:00:17.771Z"
+  },
+  {
+    "firstName": "Margarita",
+    "lastName": "Stein",
+    "email": "margarita.stein@example.com",
+    "username": "heavywolf924",
+    "password": "sundance",
+    "invokedAt": "2024-07-15T06:00:20.872Z"
   }
 ]
