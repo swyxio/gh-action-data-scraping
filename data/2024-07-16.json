@@ -166,5 +166,13 @@
     "username": "whitefish838",
     "password": "modem",
     "invokedAt": "2024-07-16T20:00:20.952Z"
+  },
+  {
+    "firstName": "Nancy",
+    "lastName": "Vergara",
+    "email": "nancy.vergara@example.com",
+    "username": "redbird367",
+    "password": "blueball",
+    "invokedAt": "2024-07-16T21:00:36.881Z"
   }
 ]
