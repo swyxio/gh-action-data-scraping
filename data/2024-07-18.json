@@ -142,5 +142,13 @@
     "username": "orangecat941",
     "password": "michaels",
     "invokedAt": "2024-07-18T17:00:27.679Z"
+  },
+  {
+    "firstName": "Lázaro",
+    "lastName": "da Paz",
+    "email": "lazaro.dapaz@example.com",
+    "username": "bigbird374",
+    "password": "majestic",
+    "invokedAt": "2024-07-18T18:00:32.148Z"
   }
 ]
