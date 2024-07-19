@@ -54,5 +54,13 @@
     "username": "lazysnake936",
     "password": "adrian",
     "invokedAt": "2024-07-19T06:00:19.801Z"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Clement",
+    "email": "claire.clement@example.com",
+    "username": "crazygoose615",
+    "password": "temppass",
+    "invokedAt": "2024-07-19T07:00:47.313Z"
   }
 ]
