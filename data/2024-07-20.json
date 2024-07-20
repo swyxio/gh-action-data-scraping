@@ -166,5 +166,13 @@
     "username": "happygoose481",
     "password": "dynamite",
     "invokedAt": "2024-07-20T20:00:25.827Z"
+  },
+  {
+    "firstName": "Rosario",
+    "lastName": "Ibáñez",
+    "email": "rosario.ibanez@example.com",
+    "username": "silverbutterfly478",
+    "password": "pigpen",
+    "invokedAt": "2024-07-20T21:00:23.304Z"
   }
 ]
