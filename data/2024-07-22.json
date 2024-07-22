@@ -54,5 +54,13 @@
     "username": "tinygorilla671",
     "password": "plane",
     "invokedAt": "2024-07-22T06:00:24.831Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Rasmussen",
+    "email": "andrea.rasmussen@example.com",
+    "username": "orangegorilla620",
+    "password": "meier",
+    "invokedAt": "2024-07-22T07:00:18.928Z"
   }
 ]
