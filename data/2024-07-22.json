@@ -30,5 +30,13 @@
     "username": "happyostrich256",
     "password": "republic",
     "invokedAt": "2024-07-22T03:00:27.745Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Renaud",
+    "email": "otto.renaud@example.com",
+    "username": "lazysnake795",
+    "password": "raven",
+    "invokedAt": "2024-07-22T04:00:19.503Z"
   }
 ]
