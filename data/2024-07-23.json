@@ -102,5 +102,13 @@
     "username": "brownfrog896",
     "password": "castle",
     "invokedAt": "2024-07-23T12:00:26.240Z"
+  },
+  {
+    "firstName": "Özsu",
+    "lastName": "Oraloğlu",
+    "email": "ozsu.oraloglu@example.com",
+    "username": "orangepanda788",
+    "password": "boxcar",
+    "invokedAt": "2024-07-23T13:02:48.144Z"
   }
 ]
