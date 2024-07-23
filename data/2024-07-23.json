@@ -118,5 +118,13 @@
     "username": "bigdog827",
     "password": "mariah",
     "invokedAt": "2024-07-23T14:00:21.126Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Halonen",
+    "email": "oskari.halonen@example.com",
+    "username": "orangecat969",
+    "password": "bass",
+    "invokedAt": "2024-07-23T15:00:30.333Z"
   }
 ]
