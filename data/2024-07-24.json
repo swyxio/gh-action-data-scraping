@@ -158,5 +158,13 @@
     "username": "smallfrog559",
     "password": "emperor",
     "invokedAt": "2024-07-24T19:00:21.854Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Wright",
+    "email": "sebastian.wright@example.com",
+    "username": "bigostrich938",
+    "password": "bean",
+    "invokedAt": "2024-07-24T20:00:23.965Z"
   }
 ]
