@@ -182,5 +182,13 @@
     "username": "redostrich431",
     "password": "picturs",
     "invokedAt": "2024-07-25T22:00:42.289Z"
+  },
+  {
+    "firstName": "Bessel",
+    "lastName": "Leermakers",
+    "email": "bessel.leermakers@example.com",
+    "username": "orangeostrich114",
+    "password": "fletcher",
+    "invokedAt": "2024-07-25T23:00:21.196Z"
   }
 ]
