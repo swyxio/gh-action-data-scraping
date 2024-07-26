@@ -158,5 +158,13 @@
     "username": "angryostrich686",
     "password": "maker",
     "invokedAt": "2024-07-26T19:00:26.667Z"
+  },
+  {
+    "firstName": "Vilho",
+    "lastName": "Tervo",
+    "email": "vilho.tervo@example.com",
+    "username": "redfish433",
+    "password": "fandango",
+    "invokedAt": "2024-07-26T20:00:36.774Z"
   }
 ]
