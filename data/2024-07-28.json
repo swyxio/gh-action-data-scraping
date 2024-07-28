@@ -142,5 +142,13 @@
     "username": "redtiger620",
     "password": "koolaid",
     "invokedAt": "2024-07-28T17:00:22.575Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Fitzgerald",
+    "email": "bob.fitzgerald@example.com",
+    "username": "sadmouse567",
+    "password": "presario",
+    "invokedAt": "2024-07-28T18:00:35.102Z"
   }
 ]
