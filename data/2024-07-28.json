@@ -94,5 +94,13 @@
     "username": "sadgoose987",
     "password": "firefox",
     "invokedAt": "2024-07-28T11:00:31.473Z"
+  },
+  {
+    "firstName": "Lewis",
+    "lastName": "Lee",
+    "email": "lewis.lee@example.com",
+    "username": "angrykoala759",
+    "password": "emma",
+    "invokedAt": "2024-07-28T12:00:19.889Z"
   }
 ]
