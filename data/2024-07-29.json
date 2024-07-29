@@ -150,5 +150,13 @@
     "username": "happykoala782",
     "password": "australia",
     "invokedAt": "2024-07-29T18:00:22.000Z"
+  },
+  {
+    "firstName": "Lola",
+    "lastName": "Fields",
+    "email": "lola.fields@example.com",
+    "username": "redelephant228",
+    "password": "verona",
+    "invokedAt": "2024-07-29T19:00:20.731Z"
   }
 ]
