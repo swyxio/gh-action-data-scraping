@@ -78,5 +78,13 @@
     "username": "happytiger270",
     "password": "explorer",
     "invokedAt": "2024-07-29T09:00:21.852Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Chapman",
+    "email": "carlos.chapman@example.com",
+    "username": "sadmouse917",
+    "password": "monopoly",
+    "invokedAt": "2024-07-29T10:00:30.721Z"
   }
 ]
