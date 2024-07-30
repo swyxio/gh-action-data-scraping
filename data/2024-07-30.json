@@ -94,5 +94,13 @@
     "username": "happyostrich384",
     "password": "pickup",
     "invokedAt": "2024-07-30T11:00:23.552Z"
+  },
+  {
+    "firstName": "Niva",
+    "lastName": "Pai",
+    "email": "niva.pai@example.com",
+    "username": "browncat129",
+    "password": "tazman",
+    "invokedAt": "2024-07-30T12:00:25.990Z"
   }
 ]
