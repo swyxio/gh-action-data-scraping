@@ -86,5 +86,13 @@
     "username": "brownfrog995",
     "password": "sigmachi",
     "invokedAt": "2024-07-31T10:00:19.767Z"
+  },
+  {
+    "firstName": "German",
+    "lastName": "Sáez",
+    "email": "german.saez@example.com",
+    "username": "orangefrog925",
+    "password": "defense",
+    "invokedAt": "2024-07-31T11:00:19.280Z"
   }
 ]
