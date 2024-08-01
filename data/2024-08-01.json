@@ -166,5 +166,13 @@
     "username": "crazylion705",
     "password": "bravo",
     "invokedAt": "2024-08-01T20:00:34.382Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Ford",
+    "email": "charlie.ford@example.com",
+    "username": "silverwolf675",
+    "password": "mannn",
+    "invokedAt": "2024-08-01T21:00:25.880Z"
   }
 ]
