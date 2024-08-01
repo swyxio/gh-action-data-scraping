@@ -78,5 +78,13 @@
     "username": "redwolf150",
     "password": "bond007",
     "invokedAt": "2024-08-01T09:00:21.780Z"
+  },
+  {
+    "firstName": "Kathleen",
+    "lastName": "Miles",
+    "email": "kathleen.miles@example.com",
+    "username": "brownwolf634",
+    "password": "caster",
+    "invokedAt": "2024-08-01T10:00:31.853Z"
   }
 ]
