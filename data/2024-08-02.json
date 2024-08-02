@@ -118,5 +118,13 @@
     "username": "lazypanda505",
     "password": "ccbill",
     "invokedAt": "2024-08-02T14:00:34.126Z"
+  },
+  {
+    "firstName": "Landon",
+    "lastName": "Burns",
+    "email": "landon.burns@example.com",
+    "username": "angryleopard149",
+    "password": "carol",
+    "invokedAt": "2024-08-02T15:00:35.946Z"
   }
 ]
