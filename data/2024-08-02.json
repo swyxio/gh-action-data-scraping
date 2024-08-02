@@ -46,5 +46,13 @@
     "username": "purplebird841",
     "password": "womble",
     "invokedAt": "2024-08-02T05:00:25.430Z"
+  },
+  {
+    "firstName": "Yasir",
+    "lastName": "Røyland",
+    "email": "yasir.royland@example.com",
+    "username": "beautifuldog698",
+    "password": "rupert",
+    "invokedAt": "2024-08-02T06:00:24.039Z"
   }
 ]
