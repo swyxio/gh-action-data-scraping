@@ -94,5 +94,13 @@
     "username": "brownfish439",
     "password": "shane",
     "invokedAt": "2024-08-03T11:00:30.073Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Jokela",
+    "email": "daniel.jokela@example.com",
+    "username": "beautifuldog122",
+    "password": "49ers",
+    "invokedAt": "2024-08-03T12:00:21.697Z"
   }
 ]
