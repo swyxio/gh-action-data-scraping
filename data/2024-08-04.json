@@ -94,5 +94,13 @@
     "username": "whitefrog756",
     "password": "indian",
     "invokedAt": "2024-08-04T11:00:20.399Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Scott",
+    "email": "nathan.scott@example.com",
+    "username": "brownfrog962",
+    "password": "dogg",
+    "invokedAt": "2024-08-04T12:00:22.586Z"
   }
 ]
