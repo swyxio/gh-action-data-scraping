@@ -166,5 +166,13 @@
     "username": "tinycat164",
     "password": "reflex",
     "invokedAt": "2024-08-04T20:00:31.143Z"
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "Hunt",
+    "email": "jackson.hunt@example.com",
+    "username": "purplegoose123",
+    "password": "dream",
+    "invokedAt": "2024-08-04T21:00:20.801Z"
   }
 ]
