@@ -118,5 +118,13 @@
     "username": "greentiger750",
     "password": "trucks",
     "invokedAt": "2024-08-05T14:00:25.785Z"
+  },
+  {
+    "firstName": "Lise",
+    "lastName": "Lambert",
+    "email": "lise.lambert@example.com",
+    "username": "happygoose127",
+    "password": "1701",
+    "invokedAt": "2024-08-05T15:00:23.958Z"
   }
 ]
