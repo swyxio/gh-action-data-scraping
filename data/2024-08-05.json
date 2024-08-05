@@ -134,5 +134,13 @@
     "username": "bigswan605",
     "password": "picard",
     "invokedAt": "2024-08-05T16:00:29.758Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Hansen",
+    "email": "nanna.hansen@example.com",
+    "username": "blackfrog432",
+    "password": "dodge1",
+    "invokedAt": "2024-08-05T17:00:20.971Z"
   }
 ]
