@@ -94,5 +94,13 @@
     "username": "blacktiger496",
     "password": "success",
     "invokedAt": "2024-08-08T11:00:26.193Z"
+  },
+  {
+    "firstName": "Gonca",
+    "lastName": "Özbir",
+    "email": "gonca.ozbir@example.com",
+    "username": "greentiger751",
+    "password": "forget",
+    "invokedAt": "2024-08-08T12:00:18.886Z"
   }
 ]
