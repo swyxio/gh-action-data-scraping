@@ -62,5 +62,13 @@
     "username": "tinymeercat428",
     "password": "phialpha",
     "invokedAt": "2024-08-14T07:00:27.009Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Pedersen",
+    "email": "albert.pedersen@example.com",
+    "username": "yellowmeercat325",
+    "password": "pigpen",
+    "invokedAt": "2024-08-14T08:00:24.450Z"
   }
 ]
