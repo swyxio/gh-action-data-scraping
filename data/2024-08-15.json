@@ -166,5 +166,13 @@
     "username": "blackwolf798",
     "password": "madrid",
     "invokedAt": "2024-08-15T20:00:21.794Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Moya",
+    "email": "carlos.moya@example.com",
+    "username": "ticklishbutterfly447",
+    "password": "wildcat",
+    "invokedAt": "2024-08-15T21:00:32.166Z"
   }
 ]
