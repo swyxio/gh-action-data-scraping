@@ -78,5 +78,13 @@
     "username": "ticklishgorilla970",
     "password": "matrix",
     "invokedAt": "2024-08-15T09:00:19.622Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Welch",
+    "email": "dave.welch@example.com",
+    "username": "silverduck395",
+    "password": "chubby",
+    "invokedAt": "2024-08-15T10:00:20.637Z"
   }
 ]
