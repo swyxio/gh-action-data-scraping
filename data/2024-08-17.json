@@ -102,5 +102,13 @@
     "username": "bigcat145",
     "password": "pipeline",
     "invokedAt": "2024-08-17T12:00:19.608Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Møller",
+    "email": "rosa.moller@example.com",
+    "username": "whitegoose522",
+    "password": "1234",
+    "invokedAt": "2024-08-17T13:01:23.447Z"
   }
 ]
