@@ -46,5 +46,13 @@
     "username": "ticklishdog580",
     "password": "marvel",
     "invokedAt": "2024-08-18T05:00:22.780Z"
+  },
+  {
+    "firstName": "Jason",
+    "lastName": "Fitzpatrick",
+    "email": "jason.fitzpatrick@example.com",
+    "username": "bluetiger704",
+    "password": "tripleh",
+    "invokedAt": "2024-08-18T06:00:33.836Z"
   }
 ]
