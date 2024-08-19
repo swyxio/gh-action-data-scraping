@@ -62,5 +62,13 @@
     "username": "bigduck138",
     "password": "ghosts",
     "invokedAt": "2024-08-19T07:00:24.836Z"
+  },
+  {
+    "firstName": "Marvin",
+    "lastName": "Scott",
+    "email": "marvin.scott@example.com",
+    "username": "bigmeercat523",
+    "password": "mommy",
+    "invokedAt": "2024-08-19T08:00:24.350Z"
   }
 ]
