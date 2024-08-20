@@ -182,5 +182,13 @@
     "username": "purplekoala106",
     "password": "jammer",
     "invokedAt": "2024-08-20T22:00:23.358Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Renaud",
+    "email": "anna.renaud@example.com",
+    "username": "crazykoala851",
+    "password": "doudou",
+    "invokedAt": "2024-08-20T23:00:35.243Z"
   }
 ]
