@@ -142,5 +142,13 @@
     "username": "redbutterfly281",
     "password": "maxime",
     "invokedAt": "2024-08-20T17:00:25.348Z"
+  },
+  {
+    "firstName": "Abdul",
+    "lastName": "Opgård",
+    "email": "abdul.opgard@example.com",
+    "username": "angrytiger766",
+    "password": "gadget",
+    "invokedAt": "2024-08-20T18:00:29.355Z"
   }
 ]
