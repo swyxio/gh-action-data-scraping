@@ -174,5 +174,13 @@
     "username": "crazybear221",
     "password": "peabody",
     "invokedAt": "2024-08-22T22:00:23.741Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Williams",
+    "email": "oliver.williams@example.com",
+    "username": "bluemeercat852",
+    "password": "luke",
+    "invokedAt": "2024-08-22T23:00:32.197Z"
   }
 ]
