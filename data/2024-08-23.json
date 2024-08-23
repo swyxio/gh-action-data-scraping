@@ -94,5 +94,13 @@
     "username": "angrylion259",
     "password": "tazz",
     "invokedAt": "2024-08-23T11:00:29.893Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Nielsen",
+    "email": "storm.nielsen@example.com",
+    "username": "whitebutterfly419",
+    "password": "menace",
+    "invokedAt": "2024-08-23T12:00:31.812Z"
   }
 ]
