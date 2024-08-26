@@ -182,5 +182,13 @@
     "username": "crazyfish327",
     "password": "chippy",
     "invokedAt": "2024-08-26T22:00:24.771Z"
+  },
+  {
+    "firstName": "Miloš",
+    "lastName": "Kićanović",
+    "email": "milos.kicanovic@example.com",
+    "username": "smallgorilla279",
+    "password": "salesman",
+    "invokedAt": "2024-08-26T23:00:21.287Z"
   }
 ]
