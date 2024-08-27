@@ -94,5 +94,13 @@
     "username": "bigbird903",
     "password": "eternal",
     "invokedAt": "2024-08-27T11:00:29.236Z"
+  },
+  {
+    "firstName": "Nolan",
+    "lastName": "Dupuis",
+    "email": "nolan.dupuis@example.com",
+    "username": "redleopard445",
+    "password": "mortimer",
+    "invokedAt": "2024-08-27T12:00:19.816Z"
   }
 ]
