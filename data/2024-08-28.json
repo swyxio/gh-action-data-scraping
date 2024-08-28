@@ -118,5 +118,13 @@
     "username": "brownbear884",
     "password": "smurf",
     "invokedAt": "2024-08-28T14:00:32.942Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Lee",
+    "email": "george.lee@example.com",
+    "username": "greenladybug102",
+    "password": "ramones",
+    "invokedAt": "2024-08-28T15:00:25.990Z"
   }
 ]
