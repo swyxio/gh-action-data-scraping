@@ -142,5 +142,13 @@
     "username": "whiteladybug472",
     "password": "maker",
     "invokedAt": "2024-08-31T17:00:30.681Z"
+  },
+  {
+    "firstName": "Aarnout",
+    "lastName": "Zomers",
+    "email": "aarnout.zomers@example.com",
+    "username": "blackduck269",
+    "password": "slapshot",
+    "invokedAt": "2024-08-31T18:00:19.861Z"
   }
 ]
