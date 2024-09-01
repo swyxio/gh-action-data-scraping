@@ -142,5 +142,13 @@
     "username": "orangepanda250",
     "password": "gizmodo1",
     "invokedAt": "2024-09-01T17:00:22.188Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Moore",
+    "email": "luke.moore@example.com",
+    "username": "sadbear395",
+    "password": "deeznutz",
+    "invokedAt": "2024-09-01T18:00:31.145Z"
   }
 ]
