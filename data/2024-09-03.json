@@ -86,5 +86,13 @@
     "username": "whitecat626",
     "password": "metal",
     "invokedAt": "2024-09-03T10:00:29.073Z"
+  },
+  {
+    "firstName": "Lumi",
+    "lastName": "Hautala",
+    "email": "lumi.hautala@example.com",
+    "username": "whitegorilla868",
+    "password": "chat",
+    "invokedAt": "2024-09-03T11:00:41.326Z"
   }
 ]
