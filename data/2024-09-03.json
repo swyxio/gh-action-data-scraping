@@ -46,5 +46,13 @@
     "username": "orangeelephant217",
     "password": "vermont",
     "invokedAt": "2024-09-03T05:00:36.879Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Anderson",
+    "email": "mary.anderson@example.com",
+    "username": "lazymouse463",
+    "password": "blue12",
+    "invokedAt": "2024-09-03T06:00:20.458Z"
   }
 ]
