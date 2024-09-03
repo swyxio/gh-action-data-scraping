@@ -14,5 +14,13 @@
     "username": "bigfrog223",
     "password": "puppet",
     "invokedAt": "2024-09-03T01:26:58.826Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Li",
+    "email": "arthur.li@example.com",
+    "username": "ticklishlion898",
+    "password": "thumbs",
+    "invokedAt": "2024-09-03T02:17:38.082Z"
   }
 ]
