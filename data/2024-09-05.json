@@ -46,5 +46,13 @@
     "username": "yellowbird824",
     "password": "shang",
     "invokedAt": "2024-09-05T05:00:22.157Z"
+  },
+  {
+    "firstName": "Fedora",
+    "lastName": "Shcherban",
+    "email": "fedora.shcherban@example.com",
+    "username": "bluetiger149",
+    "password": "harry",
+    "invokedAt": "2024-09-05T06:00:22.793Z"
   }
 ]
