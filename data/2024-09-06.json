@@ -158,5 +158,13 @@
     "username": "happyladybug901",
     "password": "senators",
     "invokedAt": "2024-09-06T20:00:25.748Z"
+  },
+  {
+    "firstName": "Víctor",
+    "lastName": "López",
+    "email": "victor.lopez@example.com",
+    "username": "lazymeercat332",
+    "password": "lollipop",
+    "invokedAt": "2024-09-06T21:00:20.767Z"
   }
 ]
