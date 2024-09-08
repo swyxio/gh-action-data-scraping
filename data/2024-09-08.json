@@ -70,5 +70,13 @@
     "username": "goldenwolf350",
     "password": "bartman",
     "invokedAt": "2024-09-08T08:00:32.476Z"
+  },
+  {
+    "firstName": "Malou",
+    "lastName": "Olsen",
+    "email": "malou.olsen@example.com",
+    "username": "lazyfish221",
+    "password": "bills",
+    "invokedAt": "2024-09-08T09:00:29.468Z"
   }
 ]
