@@ -94,5 +94,13 @@
     "username": "bigrabbit296",
     "password": "sasha",
     "invokedAt": "2024-09-11T11:00:31.227Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Andersen",
+    "email": "tobias.andersen@example.com",
+    "username": "saddog579",
+    "password": "alliance",
+    "invokedAt": "2024-09-11T12:00:29.957Z"
   }
 ]
