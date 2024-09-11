@@ -78,5 +78,13 @@
     "username": "purplemeercat191",
     "password": "ivan",
     "invokedAt": "2024-09-11T09:00:28.956Z"
+  },
+  {
+    "firstName": "Oona",
+    "lastName": "Heino",
+    "email": "oona.heino@example.com",
+    "username": "blackmeercat407",
+    "password": "rabbit",
+    "invokedAt": "2024-09-11T10:00:24.709Z"
   }
 ]
