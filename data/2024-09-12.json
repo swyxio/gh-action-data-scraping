@@ -94,5 +94,13 @@
     "username": "blackelephant845",
     "password": "daffy",
     "invokedAt": "2024-09-12T11:00:19.189Z"
+  },
+  {
+    "firstName": "Brajko",
+    "lastName": "Čabarkapa",
+    "email": "brajko.cabarkapa@example.com",
+    "username": "sadfish471",
+    "password": "panda",
+    "invokedAt": "2024-09-12T12:00:21.020Z"
   }
 ]
