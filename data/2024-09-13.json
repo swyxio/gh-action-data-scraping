@@ -166,5 +166,13 @@
     "username": "silverostrich225",
     "password": "sunday",
     "invokedAt": "2024-09-13T20:00:21.985Z"
+  },
+  {
+    "firstName": "Gunnar",
+    "lastName": "Krell",
+    "email": "gunnar.krell@example.com",
+    "username": "heavypeacock958",
+    "password": "korn",
+    "invokedAt": "2024-09-13T21:00:28.239Z"
   }
 ]
