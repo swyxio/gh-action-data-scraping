@@ -126,5 +126,13 @@
     "username": "bigmouse423",
     "password": "superfly",
     "invokedAt": "2024-09-13T15:00:28.521Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Wood",
+    "email": "matthew.wood@example.com",
+    "username": "brownbear110",
+    "password": "bradford",
+    "invokedAt": "2024-09-13T16:00:22.648Z"
   }
 ]
