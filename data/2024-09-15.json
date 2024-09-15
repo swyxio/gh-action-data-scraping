@@ -142,5 +142,13 @@
     "username": "blackdog297",
     "password": "county",
     "invokedAt": "2024-09-15T17:00:18.857Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Figueroa",
+    "email": "jorge.figueroa@example.com",
+    "username": "purplegoose837",
+    "password": "daemon",
+    "invokedAt": "2024-09-15T18:00:33.016Z"
   }
 ]
