@@ -166,5 +166,13 @@
     "username": "brownduck275",
     "password": "westwood",
     "invokedAt": "2024-09-15T20:00:32.722Z"
+  },
+  {
+    "firstName": "Lester",
+    "lastName": "Lopez",
+    "email": "lester.lopez@example.com",
+    "username": "orangepanda894",
+    "password": "password",
+    "invokedAt": "2024-09-15T21:00:18.974Z"
   }
 ]
