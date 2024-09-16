@@ -102,5 +102,13 @@
     "username": "silvercat860",
     "password": "keystone",
     "invokedAt": "2024-09-16T12:00:29.739Z"
+  },
+  {
+    "firstName": "Ostoja",
+    "lastName": "Španović",
+    "email": "ostoja.spanovic@example.com",
+    "username": "orangepanda166",
+    "password": "garfield",
+    "invokedAt": "2024-09-16T13:05:22.942Z"
   }
 ]
