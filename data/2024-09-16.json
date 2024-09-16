@@ -94,5 +94,13 @@
     "username": "silverdog427",
     "password": "pierce",
     "invokedAt": "2024-09-16T11:00:26.867Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Perkins",
+    "email": "max.perkins@example.com",
+    "username": "silvercat860",
+    "password": "keystone",
+    "invokedAt": "2024-09-16T12:00:29.739Z"
   }
 ]
