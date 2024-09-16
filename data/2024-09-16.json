@@ -38,5 +38,13 @@
     "username": "happydog899",
     "password": "beemer",
     "invokedAt": "2024-09-16T04:00:24.731Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Huhtala",
+    "email": "valtteri.huhtala@example.com",
+    "username": "lazygoose240",
+    "password": "paintbal",
+    "invokedAt": "2024-09-16T05:00:34.794Z"
   }
 ]
