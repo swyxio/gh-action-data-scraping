@@ -166,5 +166,13 @@
     "username": "tinyleopard636",
     "password": "ripper",
     "invokedAt": "2024-09-18T20:00:22.857Z"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Richards",
+    "email": "scott.richards@example.com",
+    "username": "tinymouse545",
+    "password": "tanner",
+    "invokedAt": "2024-09-18T21:00:48.922Z"
   }
 ]
