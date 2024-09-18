@@ -86,5 +86,13 @@
     "username": "bigtiger875",
     "password": "nymets",
     "invokedAt": "2024-09-18T10:00:29.364Z"
+  },
+  {
+    "firstName": "Mika",
+    "lastName": "Küsters",
+    "email": "mika.kusters@example.com",
+    "username": "happyostrich819",
+    "password": "bottle",
+    "invokedAt": "2024-09-18T11:00:29.017Z"
   }
 ]
