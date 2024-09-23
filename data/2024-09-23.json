@@ -46,5 +46,13 @@
     "username": "tinybird696",
     "password": "melons",
     "invokedAt": "2024-09-23T05:00:20.325Z"
+  },
+  {
+    "firstName": "Lærke",
+    "lastName": "Petersen",
+    "email": "laerke.petersen@example.com",
+    "username": "smallbird397",
+    "password": "lance",
+    "invokedAt": "2024-09-23T06:00:17.895Z"
   }
 ]
