@@ -166,5 +166,13 @@
     "username": "brownelephant105",
     "password": "score",
     "invokedAt": "2024-09-23T20:00:25.021Z"
+  },
+  {
+    "firstName": "Kristin",
+    "lastName": "Long",
+    "email": "kristin.long@example.com",
+    "username": "greencat948",
+    "password": "a123456",
+    "invokedAt": "2024-09-23T21:00:20.165Z"
   }
 ]
