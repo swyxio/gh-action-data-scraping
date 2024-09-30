@@ -86,5 +86,13 @@
     "username": "yellowdog238",
     "password": "finder",
     "invokedAt": "2024-09-30T10:00:30.786Z"
+  },
+  {
+    "firstName": "Myrle",
+    "lastName": "Wendt",
+    "email": "myrle.wendt@example.com",
+    "username": "purpleduck545",
+    "password": "rockets",
+    "invokedAt": "2024-09-30T11:00:19.027Z"
   }
 ]
