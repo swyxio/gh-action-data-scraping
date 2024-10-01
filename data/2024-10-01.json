@@ -102,5 +102,13 @@
     "username": "sadbear114",
     "password": "google",
     "invokedAt": "2024-10-01T12:00:27.963Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Thompson",
+    "email": "arthur.thompson@example.com",
+    "username": "whitesnake979",
+    "password": "shuang",
+    "invokedAt": "2024-10-01T13:05:45.171Z"
   }
 ]
