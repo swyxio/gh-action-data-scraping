@@ -158,5 +158,13 @@
     "username": "crazybutterfly140",
     "password": "champ1",
     "invokedAt": "2024-10-02T19:00:20.645Z"
+  },
+  {
+    "firstName": "Jonatan",
+    "lastName": "Morken",
+    "email": "jonatan.morken@example.com",
+    "username": "orangekoala667",
+    "password": "panama",
+    "invokedAt": "2024-10-02T20:00:30.687Z"
   }
 ]
