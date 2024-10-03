@@ -158,5 +158,13 @@
     "username": "happybear175",
     "password": "popo",
     "invokedAt": "2024-10-03T19:00:25.960Z"
+  },
+  {
+    "firstName": "Dora",
+    "lastName": "Bekić",
+    "email": "dora.bekic@example.com",
+    "username": "redpeacock346",
+    "password": "barbados",
+    "invokedAt": "2024-10-03T20:00:18.645Z"
   }
 ]
