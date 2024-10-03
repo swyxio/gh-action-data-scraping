@@ -38,5 +38,13 @@
     "username": "orangetiger850",
     "password": "deluxe",
     "invokedAt": "2024-10-03T04:00:28.307Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Park",
+    "email": "ryan.park@example.com",
+    "username": "orangeladybug828",
+    "password": "sharky",
+    "invokedAt": "2024-10-03T05:00:20.240Z"
   }
 ]
