@@ -142,5 +142,13 @@
     "username": "crazywolf706",
     "password": "service",
     "invokedAt": "2024-10-04T17:00:22.880Z"
+  },
+  {
+    "firstName": "Raphaël",
+    "lastName": "Clement",
+    "email": "raphael.clement@example.com",
+    "username": "brownrabbit807",
+    "password": "birthday1",
+    "invokedAt": "2024-10-04T18:00:30.365Z"
   }
 ]
