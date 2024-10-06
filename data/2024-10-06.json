@@ -134,5 +134,13 @@
     "username": "ticklishdog642",
     "password": "vamp",
     "invokedAt": "2024-10-06T16:00:24.109Z"
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Pierce",
+    "email": "nelson.pierce@example.com",
+    "username": "blackpanda561",
+    "password": "legacy",
+    "invokedAt": "2024-10-06T17:00:26.460Z"
   }
 ]
