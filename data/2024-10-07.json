@@ -118,5 +118,13 @@
     "username": "whitekoala180",
     "password": "music",
     "invokedAt": "2024-10-07T14:00:28.313Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Gauthier",
+    "email": "clara.gauthier@example.com",
+    "username": "bluefrog113",
+    "password": "gerald",
+    "invokedAt": "2024-10-07T15:00:36.240Z"
   }
 ]
