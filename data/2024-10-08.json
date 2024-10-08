@@ -54,5 +54,13 @@
     "username": "bluemeercat312",
     "password": "taco",
     "invokedAt": "2024-10-08T06:00:31.137Z"
+  },
+  {
+    "firstName": "Gojko",
+    "lastName": "Sakić",
+    "email": "gojko.sakic@example.com",
+    "username": "tinypanda644",
+    "password": "baddest",
+    "invokedAt": "2024-10-08T07:00:27.135Z"
   }
 ]
