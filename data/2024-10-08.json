@@ -102,5 +102,13 @@
     "username": "sadgoose988",
     "password": "napster",
     "invokedAt": "2024-10-08T12:00:27.702Z"
+  },
+  {
+    "firstName": "Tor",
+    "lastName": "Astrup",
+    "email": "tor.astrup@example.com",
+    "username": "crazygorilla197",
+    "password": "atomic",
+    "invokedAt": "2024-10-08T13:04:56.591Z"
   }
 ]
