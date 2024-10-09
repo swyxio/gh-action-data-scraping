@@ -94,5 +94,13 @@
     "username": "lazyleopard801",
     "password": "picard",
     "invokedAt": "2024-10-09T11:00:29.821Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Dupont",
+    "email": "noah.dupont@example.com",
+    "username": "ticklishzebra342",
+    "password": "short",
+    "invokedAt": "2024-10-09T12:00:21.770Z"
   }
 ]
