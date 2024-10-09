@@ -54,5 +54,13 @@
     "username": "redcat392",
     "password": "amazing",
     "invokedAt": "2024-10-09T06:00:20.573Z"
+  },
+  {
+    "firstName": "Snozir",
+    "lastName": "Lyubchenko",
+    "email": "snozir.lyubchenko@example.com",
+    "username": "silversnake241",
+    "password": "abc12345",
+    "invokedAt": "2024-10-09T07:00:26.735Z"
   }
 ]
