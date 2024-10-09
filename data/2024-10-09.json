@@ -126,5 +126,13 @@
     "username": "purpleostrich843",
     "password": "filter",
     "invokedAt": "2024-10-09T15:00:25.010Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Johansen",
+    "email": "johan.johansen@example.com",
+    "username": "smallbird360",
+    "password": "michaela",
+    "invokedAt": "2024-10-09T16:00:24.960Z"
   }
 ]
