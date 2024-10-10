@@ -118,5 +118,13 @@
     "username": "greenelephant164",
     "password": "needles",
     "invokedAt": "2024-10-10T14:00:26.331Z"
+  },
+  {
+    "firstName": "Daphné",
+    "lastName": "Garnier",
+    "email": "daphne.garnier@example.com",
+    "username": "bigelephant472",
+    "password": "gandalf",
+    "invokedAt": "2024-10-10T15:00:29.377Z"
   }
 ]
