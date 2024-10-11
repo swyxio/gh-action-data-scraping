@@ -126,5 +126,13 @@
     "username": "blacktiger796",
     "password": "rachael",
     "invokedAt": "2024-10-11T15:00:19.726Z"
+  },
+  {
+    "firstName": "Zoran",
+    "lastName": "Jovanović",
+    "email": "zoran.jovanovic@example.com",
+    "username": "redkoala392",
+    "password": "plum",
+    "invokedAt": "2024-10-11T16:00:30.491Z"
   }
 ]
