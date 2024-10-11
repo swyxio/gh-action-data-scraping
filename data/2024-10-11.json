@@ -102,5 +102,13 @@
     "username": "tinygorilla120",
     "password": "twinkle",
     "invokedAt": "2024-10-11T12:00:29.580Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Nguyen",
+    "email": "oscar.nguyen@example.com",
+    "username": "heavykoala980",
+    "password": "divorce",
+    "invokedAt": "2024-10-11T13:04:40.122Z"
   }
 ]
