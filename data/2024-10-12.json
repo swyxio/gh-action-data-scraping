@@ -182,5 +182,13 @@
     "username": "smallladybug581",
     "password": "here",
     "invokedAt": "2024-10-12T22:00:19.687Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Michel",
+    "email": "tom.michel@example.com",
+    "username": "tinyfrog552",
+    "password": "idontkno",
+    "invokedAt": "2024-10-12T23:00:19.873Z"
   }
 ]
