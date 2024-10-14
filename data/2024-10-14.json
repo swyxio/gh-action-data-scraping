@@ -150,5 +150,13 @@
     "username": "happypeacock549",
     "password": "julius",
     "invokedAt": "2024-10-14T18:00:31.048Z"
+  },
+  {
+    "firstName": "Gérald",
+    "lastName": "Michel",
+    "email": "gerald.michel@example.com",
+    "username": "smallbear958",
+    "password": "vortex",
+    "invokedAt": "2024-10-14T19:00:20.757Z"
   }
 ]
