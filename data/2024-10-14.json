@@ -94,5 +94,13 @@
     "username": "blackgoose996",
     "password": "clinton",
     "invokedAt": "2024-10-14T11:00:28.084Z"
+  },
+  {
+    "firstName": "Nicole",
+    "lastName": "Wilson",
+    "email": "nicole.wilson@example.com",
+    "username": "lazywolf776",
+    "password": "seinfeld",
+    "invokedAt": "2024-10-14T12:00:25.055Z"
   }
 ]
