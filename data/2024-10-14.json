@@ -102,5 +102,13 @@
     "username": "lazywolf776",
     "password": "seinfeld",
     "invokedAt": "2024-10-14T12:00:25.055Z"
+  },
+  {
+    "firstName": "Sylvain",
+    "lastName": "Robert",
+    "email": "sylvain.robert@example.com",
+    "username": "reddog933",
+    "password": "zxcv",
+    "invokedAt": "2024-10-14T13:05:33.826Z"
   }
 ]
