@@ -134,5 +134,13 @@
     "username": "blacksnake112",
     "password": "reebok",
     "invokedAt": "2024-10-15T16:00:20.107Z"
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Sullivan",
+    "email": "mark.sullivan@example.com",
+    "username": "beautifulrabbit918",
+    "password": "maxima",
+    "invokedAt": "2024-10-15T17:00:20.976Z"
   }
 ]
