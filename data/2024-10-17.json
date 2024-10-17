@@ -126,5 +126,13 @@
     "username": "smalldog916",
     "password": "band",
     "invokedAt": "2024-10-17T15:00:23.827Z"
+  },
+  {
+    "firstName": "Silje",
+    "lastName": "Andersen",
+    "email": "silje.andersen@example.com",
+    "username": "angrywolf673",
+    "password": "china",
+    "invokedAt": "2024-10-17T16:00:32.295Z"
   }
 ]
