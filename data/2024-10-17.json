@@ -78,5 +78,13 @@
     "username": "bluefish840",
     "password": "woman",
     "invokedAt": "2024-10-17T09:00:24.419Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Yeşilkaya",
+    "email": "ozkan.yesilkaya@example.com",
+    "username": "yellowgorilla606",
+    "password": "success",
+    "invokedAt": "2024-10-17T10:00:24.080Z"
   }
 ]
