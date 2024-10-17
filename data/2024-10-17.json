@@ -102,5 +102,13 @@
     "username": "happyduck362",
     "password": "frogman",
     "invokedAt": "2024-10-17T12:00:23.010Z"
+  },
+  {
+    "firstName": "Srećko",
+    "lastName": "Topić",
+    "email": "srecko.topic@example.com",
+    "username": "goldenbutterfly375",
+    "password": "zerocool",
+    "invokedAt": "2024-10-17T13:05:27.129Z"
   }
 ]
