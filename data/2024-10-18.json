@@ -174,5 +174,13 @@
     "username": "redkoala201",
     "password": "secret",
     "invokedAt": "2024-10-18T21:00:24.034Z"
+  },
+  {
+    "firstName": "Marina",
+    "lastName": "Rađen",
+    "email": "marina.raden@example.com",
+    "username": "bluepanda420",
+    "password": "vsegda",
+    "invokedAt": "2024-10-18T22:00:20.598Z"
   }
 ]
