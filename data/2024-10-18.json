@@ -126,5 +126,13 @@
     "username": "bluedog613",
     "password": "theater",
     "invokedAt": "2024-10-18T15:00:52.536Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Gardner",
+    "email": "amy.gardner@example.com",
+    "username": "smallladybug464",
+    "password": "theboss",
+    "invokedAt": "2024-10-18T16:00:25.927Z"
   }
 ]
