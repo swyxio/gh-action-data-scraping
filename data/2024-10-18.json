@@ -94,5 +94,13 @@
     "username": "bigdog809",
     "password": "clapton",
     "invokedAt": "2024-10-18T11:00:25.328Z"
+  },
+  {
+    "firstName": "Tuan",
+    "lastName": "Den Drijver",
+    "email": "tuan.dendrijver@example.com",
+    "username": "orangefish289",
+    "password": "salmon",
+    "invokedAt": "2024-10-18T12:00:41.358Z"
   }
 ]
