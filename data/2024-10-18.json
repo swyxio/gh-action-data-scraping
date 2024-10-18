@@ -118,5 +118,13 @@
     "username": "happytiger516",
     "password": "maxell",
     "invokedAt": "2024-10-18T14:00:26.176Z"
+  },
+  {
+    "firstName": "Karlheinz",
+    "lastName": "Wüst",
+    "email": "karlheinz.wust@example.com",
+    "username": "bluedog613",
+    "password": "theater",
+    "invokedAt": "2024-10-18T15:00:52.536Z"
   }
 ]
