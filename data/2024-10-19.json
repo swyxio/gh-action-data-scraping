@@ -70,5 +70,13 @@
     "username": "heavyladybug354",
     "password": "pool",
     "invokedAt": "2024-10-19T08:00:21.130Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Pelletier",
+    "email": "adam.pelletier@example.com",
+    "username": "sadmouse413",
+    "password": "ajax",
+    "invokedAt": "2024-10-19T09:00:20.157Z"
   }
 ]
