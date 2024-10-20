@@ -110,5 +110,13 @@
     "username": "smallduck633",
     "password": "wordup",
     "invokedAt": "2024-10-20T13:03:46.213Z"
+  },
+  {
+    "firstName": "Andreas",
+    "lastName": "Pedersen",
+    "email": "andreas.pedersen@example.com",
+    "username": "angrypanda955",
+    "password": "turnip",
+    "invokedAt": "2024-10-20T14:00:21.062Z"
   }
 ]
