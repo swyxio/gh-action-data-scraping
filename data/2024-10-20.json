@@ -126,5 +126,13 @@
     "username": "greenzebra989",
     "password": "prime",
     "invokedAt": "2024-10-20T15:00:19.501Z"
+  },
+  {
+    "firstName": "Dário",
+    "lastName": "Pires",
+    "email": "dario.pires@example.com",
+    "username": "goldencat367",
+    "password": "daytona",
+    "invokedAt": "2024-10-20T16:00:20.289Z"
   }
 ]
