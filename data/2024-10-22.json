@@ -182,5 +182,13 @@
     "username": "orangefish234",
     "password": "amateurs",
     "invokedAt": "2024-10-22T22:00:27.067Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Nguyen",
+    "email": "paul.nguyen@example.com",
+    "username": "heavyostrich420",
+    "password": "101010",
+    "invokedAt": "2024-10-22T23:00:24.828Z"
   }
 ]
