@@ -182,5 +182,13 @@
     "username": "bluebird760",
     "password": "757575",
     "invokedAt": "2024-10-25T22:00:23.601Z"
+  },
+  {
+    "firstName": "Jadranko",
+    "lastName": "Kuzmanović",
+    "email": "jadranko.kuzmanovic@example.com",
+    "username": "brownzebra372",
+    "password": "bikini",
+    "invokedAt": "2024-10-25T23:00:25.868Z"
   }
 ]
