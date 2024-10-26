@@ -166,5 +166,13 @@
     "username": "blackmeercat173",
     "password": "twenty",
     "invokedAt": "2024-10-26T20:00:20.141Z"
+  },
+  {
+    "firstName": "Gligorije",
+    "lastName": "Ivančević",
+    "email": "gligorije.ivancevic@example.com",
+    "username": "yellowmeercat576",
+    "password": "harry",
+    "invokedAt": "2024-10-26T21:00:19.822Z"
   }
 ]
