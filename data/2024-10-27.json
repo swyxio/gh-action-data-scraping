@@ -78,5 +78,13 @@
     "username": "happybird443",
     "password": "shaved",
     "invokedAt": "2024-10-27T09:00:34.708Z"
+  },
+  {
+    "firstName": "Mason",
+    "lastName": "Smith",
+    "email": "mason.smith@example.com",
+    "username": "organickoala472",
+    "password": "idontkno",
+    "invokedAt": "2024-10-27T10:00:30.920Z"
   }
 ]
