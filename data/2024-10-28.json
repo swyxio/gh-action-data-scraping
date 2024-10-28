@@ -118,5 +118,13 @@
     "username": "blacktiger992",
     "password": "speedo",
     "invokedAt": "2024-10-28T14:00:33.968Z"
+  },
+  {
+    "firstName": "Zoé",
+    "lastName": "Deschamps",
+    "email": "zoe.deschamps@example.com",
+    "username": "bigwolf264",
+    "password": "critter",
+    "invokedAt": "2024-10-28T15:00:23.064Z"
   }
 ]
