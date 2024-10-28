@@ -126,5 +126,13 @@
     "username": "bigwolf264",
     "password": "critter",
     "invokedAt": "2024-10-28T15:00:23.064Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Pinto",
+    "email": "bruce.pinto@example.com",
+    "username": "sadfrog172",
+    "password": "solomon",
+    "invokedAt": "2024-10-28T16:00:27.768Z"
   }
 ]
