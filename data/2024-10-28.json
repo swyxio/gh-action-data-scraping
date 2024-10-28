@@ -86,5 +86,13 @@
     "username": "heavyduck540",
     "password": "roswell",
     "invokedAt": "2024-10-28T10:00:24.735Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "Denys",
+    "email": "dylan.denys@example.com",
+    "username": "blackcat441",
+    "password": "quantum",
+    "invokedAt": "2024-10-28T11:00:27.977Z"
   }
 ]
