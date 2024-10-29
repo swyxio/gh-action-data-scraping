@@ -102,5 +102,13 @@
     "username": "crazypeacock392",
     "password": "smoke",
     "invokedAt": "2024-10-29T12:00:25.850Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Andersen",
+    "email": "mathilde.andersen@example.com",
+    "username": "bluerabbit700",
+    "password": "goldfish",
+    "invokedAt": "2024-10-29T13:05:44.454Z"
   }
 ]
