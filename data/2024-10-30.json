@@ -94,5 +94,13 @@
     "username": "yellowkoala770",
     "password": "hornets",
     "invokedAt": "2024-10-30T12:00:30.156Z"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Smith",
+    "email": "jessica.smith@example.com",
+    "username": "bluebear295",
+    "password": "prime",
+    "invokedAt": "2024-10-30T13:05:34.055Z"
   }
 ]
