@@ -102,5 +102,13 @@
     "username": "biggoose149",
     "password": "nygiants",
     "invokedAt": "2024-10-31T12:00:25.592Z"
+  },
+  {
+    "firstName": "Lorenzo",
+    "lastName": "Fuentes",
+    "email": "lorenzo.fuentes@example.com",
+    "username": "lazyfrog370",
+    "password": "romeo",
+    "invokedAt": "2024-10-31T13:05:15.664Z"
   }
 ]
