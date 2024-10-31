@@ -158,5 +158,13 @@
     "username": "greenbird907",
     "password": "sprout",
     "invokedAt": "2024-10-31T19:00:20.829Z"
+  },
+  {
+    "firstName": "Marshall",
+    "lastName": "Peters",
+    "email": "marshall.peters@example.com",
+    "username": "whitedog836",
+    "password": "xian",
+    "invokedAt": "2024-10-31T20:00:25.692Z"
   }
 ]
