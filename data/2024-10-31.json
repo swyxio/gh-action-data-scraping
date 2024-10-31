@@ -86,5 +86,13 @@
     "username": "brownbear651",
     "password": "adult",
     "invokedAt": "2024-10-31T10:00:29.710Z"
+  },
+  {
+    "firstName": "Estélio",
+    "lastName": "Jesus",
+    "email": "estelio.jesus@example.com",
+    "username": "brownfrog615",
+    "password": "tester",
+    "invokedAt": "2024-10-31T11:00:30.030Z"
   }
 ]
