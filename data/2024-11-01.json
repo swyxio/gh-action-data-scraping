@@ -70,5 +70,13 @@
     "username": "bigsnake737",
     "password": "bing",
     "invokedAt": "2024-11-01T08:00:25.823Z"
+  },
+  {
+    "firstName": "Žarko",
+    "lastName": "Čabarkapa",
+    "email": "zarko.cabarkapa@example.com",
+    "username": "greenladybug309",
+    "password": "foxylady",
+    "invokedAt": "2024-11-01T09:00:20.874Z"
   }
 ]
