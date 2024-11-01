@@ -158,5 +158,13 @@
     "username": "happybutterfly798",
     "password": "peanut1",
     "invokedAt": "2024-11-01T19:00:32.057Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Calvo",
+    "email": "pablo.calvo@example.com",
+    "username": "angrywolf721",
+    "password": "mylove",
+    "invokedAt": "2024-11-01T20:00:21.689Z"
   }
 ]
