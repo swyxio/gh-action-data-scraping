@@ -94,5 +94,13 @@
     "username": "redwolf166",
     "password": "jazzman",
     "invokedAt": "2024-11-04T11:00:35.030Z"
+  },
+  {
+    "firstName": "Čedomir",
+    "lastName": "Ognjanović",
+    "email": "cedomir.ognjanovic@example.com",
+    "username": "goldengoose453",
+    "password": "greenday",
+    "invokedAt": "2024-11-04T12:00:36.402Z"
   }
 ]
