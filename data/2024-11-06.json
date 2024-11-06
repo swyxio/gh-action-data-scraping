@@ -30,5 +30,13 @@
     "username": "goldenfrog236",
     "password": "rocky1",
     "invokedAt": "2024-11-06T03:02:19.563Z"
+  },
+  {
+    "firstName": "Detlev",
+    "lastName": "Rohleder",
+    "email": "detlev.rohleder@example.com",
+    "username": "tinyfrog410",
+    "password": "contains",
+    "invokedAt": "2024-11-06T04:00:24.092Z"
   }
 ]
