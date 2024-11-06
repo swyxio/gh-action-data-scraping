@@ -182,5 +182,13 @@
     "username": "sadfish531",
     "password": "overkill",
     "invokedAt": "2024-11-06T22:00:24.730Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Le Gall",
+    "email": "laura.legall@example.com",
+    "username": "lazysnake146",
+    "password": "downer",
+    "invokedAt": "2024-11-06T23:00:19.977Z"
   }
 ]
