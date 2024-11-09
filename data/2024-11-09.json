@@ -158,5 +158,13 @@
     "username": "greenfish322",
     "password": "bulls",
     "invokedAt": "2024-11-09T19:00:28.245Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Cano",
+    "email": "luis.cano@example.com",
+    "username": "tinyswan870",
+    "password": "internal",
+    "invokedAt": "2024-11-09T20:00:24.930Z"
   }
 ]
