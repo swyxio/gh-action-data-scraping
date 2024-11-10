@@ -142,5 +142,13 @@
     "username": "goldencat176",
     "password": "stylus",
     "invokedAt": "2024-11-10T17:00:25.385Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Mortensen",
+    "email": "emil.mortensen@example.com",
+    "username": "happyduck902",
+    "password": "jason",
+    "invokedAt": "2024-11-10T18:00:26.277Z"
   }
 ]
