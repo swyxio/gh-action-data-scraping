@@ -134,5 +134,13 @@
     "username": "reddog408",
     "password": "deadly",
     "invokedAt": "2024-11-11T16:00:32.229Z"
+  },
+  {
+    "firstName": "Paula",
+    "lastName": "Cunningham",
+    "email": "paula.cunningham@example.com",
+    "username": "greenwolf406",
+    "password": "mypass",
+    "invokedAt": "2024-11-11T17:00:26.092Z"
   }
 ]
