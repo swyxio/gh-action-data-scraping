@@ -126,5 +126,13 @@
     "username": "orangegorilla733",
     "password": "darthvad",
     "invokedAt": "2024-11-11T15:00:28.822Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Niskanen",
+    "email": "peppi.niskanen@example.com",
+    "username": "reddog408",
+    "password": "deadly",
+    "invokedAt": "2024-11-11T16:00:32.229Z"
   }
 ]
