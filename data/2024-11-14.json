@@ -182,5 +182,13 @@
     "username": "goldenfrog638",
     "password": "1234567",
     "invokedAt": "2024-11-14T22:00:26.626Z"
+  },
+  {
+    "firstName": "Aleksa",
+    "lastName": "Vučetić",
+    "email": "aleksa.vucetic@example.com",
+    "username": "silvergorilla697",
+    "password": "popper",
+    "invokedAt": "2024-11-14T23:00:31.563Z"
   }
 ]
