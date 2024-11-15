@@ -102,5 +102,13 @@
     "username": "angryladybug867",
     "password": "yyyyyy1",
     "invokedAt": "2024-11-15T12:00:31.950Z"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Hudson",
+    "email": "jessica.hudson@example.com",
+    "username": "blackladybug823",
+    "password": "meat",
+    "invokedAt": "2024-11-15T13:05:50.088Z"
   }
 ]
