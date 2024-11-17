@@ -30,5 +30,13 @@
     "username": "orangeleopard824",
     "password": "addict",
     "invokedAt": "2024-11-17T03:12:14.551Z"
+  },
+  {
+    "firstName": "Bastian",
+    "lastName": "Kayser",
+    "email": "bastian.kayser@example.com",
+    "username": "orangefrog905",
+    "password": "player1",
+    "invokedAt": "2024-11-17T04:00:28.219Z"
   }
 ]
