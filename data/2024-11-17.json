@@ -86,5 +86,13 @@
     "username": "goldengorilla914",
     "password": "internal",
     "invokedAt": "2024-11-17T10:00:19.937Z"
+  },
+  {
+    "firstName": "Amol",
+    "lastName": "Kumar",
+    "email": "amol.kumar@example.com",
+    "username": "redzebra130",
+    "password": "beemer",
+    "invokedAt": "2024-11-17T11:00:23.216Z"
   }
 ]
