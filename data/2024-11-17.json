@@ -46,5 +46,13 @@
     "username": "yellowsnake950",
     "password": "playing",
     "invokedAt": "2024-11-17T05:00:29.658Z"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Çapanoğlu",
+    "email": "mehmet.capanoglu@example.com",
+    "username": "smallgorilla644",
+    "password": "custom",
+    "invokedAt": "2024-11-17T06:00:21.949Z"
   }
 ]
