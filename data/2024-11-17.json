@@ -158,5 +158,13 @@
     "username": "organicpanda398",
     "password": "beer",
     "invokedAt": "2024-11-17T19:00:21.043Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Paksüt",
+    "email": "kenan.paksut@example.com",
+    "username": "angrypanda867",
+    "password": "warthog",
+    "invokedAt": "2024-11-17T20:00:18.731Z"
   }
 ]
