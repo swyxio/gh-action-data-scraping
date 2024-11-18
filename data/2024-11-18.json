@@ -38,5 +38,13 @@
     "username": "goldenrabbit640",
     "password": "stallion",
     "invokedAt": "2024-11-18T04:00:23.196Z"
+  },
+  {
+    "firstName": "Ron",
+    "lastName": "Clarke",
+    "email": "ron.clarke@example.com",
+    "username": "lazypanda420",
+    "password": "snowboar",
+    "invokedAt": "2024-11-18T05:00:21.757Z"
   }
 ]
