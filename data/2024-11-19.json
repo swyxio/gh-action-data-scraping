@@ -118,5 +118,13 @@
     "username": "blackduck292",
     "password": "navy",
     "invokedAt": "2024-11-19T14:00:33.630Z"
+  },
+  {
+    "firstName": "Rudi",
+    "lastName": "Mäder",
+    "email": "rudi.mader@example.com",
+    "username": "greendog721",
+    "password": "loveme",
+    "invokedAt": "2024-11-19T15:00:25.236Z"
   }
 ]
