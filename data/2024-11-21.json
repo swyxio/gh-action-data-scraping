@@ -142,5 +142,13 @@
     "username": "lazydog621",
     "password": "cards",
     "invokedAt": "2024-11-21T17:00:21.400Z"
+  },
+  {
+    "firstName": "Nicholas",
+    "lastName": "Clark",
+    "email": "nicholas.clark@example.com",
+    "username": "greenkoala139",
+    "password": "footjob",
+    "invokedAt": "2024-11-21T18:00:30.123Z"
   }
 ]
