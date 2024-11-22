@@ -110,5 +110,13 @@
     "username": "bigmouse302",
     "password": "poetry",
     "invokedAt": "2024-11-22T13:05:58.897Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Dmitruk",
+    "email": "anna.dmitruk@example.com",
+    "username": "heavygoose213",
+    "password": "really",
+    "invokedAt": "2024-11-22T14:00:25.346Z"
   }
 ]
