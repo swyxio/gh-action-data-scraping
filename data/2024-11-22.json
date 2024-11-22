@@ -182,5 +182,13 @@
     "username": "ticklishladybug451",
     "password": "winter1",
     "invokedAt": "2024-11-22T22:01:13.121Z"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Carlson",
+    "email": "jon.carlson@example.com",
+    "username": "angrygoose802",
+    "password": "hotshot",
+    "invokedAt": "2024-11-22T23:00:40.515Z"
   }
 ]
