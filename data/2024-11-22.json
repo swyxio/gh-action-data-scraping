@@ -46,5 +46,13 @@
     "username": "sadlion250",
     "password": "pictere",
     "invokedAt": "2024-11-22T05:00:23.056Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Mackay",
+    "email": "charlie.mackay@example.com",
+    "username": "goldenmeercat975",
+    "password": "champion",
+    "invokedAt": "2024-11-22T06:00:27.962Z"
   }
 ]
