@@ -102,5 +102,13 @@
     "username": "organiclion848",
     "password": "life",
     "invokedAt": "2024-11-22T12:00:23.184Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Karanović",
+    "email": "andrea.karanovic@example.com",
+    "username": "bigmouse302",
+    "password": "poetry",
+    "invokedAt": "2024-11-22T13:05:58.897Z"
   }
 ]
