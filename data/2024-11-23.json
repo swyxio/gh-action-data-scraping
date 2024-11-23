@@ -166,5 +166,13 @@
     "username": "brownrabbit175",
     "password": "creation",
     "invokedAt": "2024-11-23T20:00:20.776Z"
+  },
+  {
+    "firstName": "Anastasija",
+    "lastName": "Filipović",
+    "email": "anastasija.filipovic@example.com",
+    "username": "greenfish731",
+    "password": "nicola",
+    "invokedAt": "2024-11-23T21:00:34.269Z"
   }
 ]
