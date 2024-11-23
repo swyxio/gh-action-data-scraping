@@ -174,5 +174,13 @@
     "username": "greenfish731",
     "password": "nicola",
     "invokedAt": "2024-11-23T21:00:34.269Z"
+  },
+  {
+    "firstName": "Rémy",
+    "lastName": "Nicolas",
+    "email": "remy.nicolas@example.com",
+    "username": "bigcat315",
+    "password": "pirates",
+    "invokedAt": "2024-11-23T22:00:19.760Z"
   }
 ]
