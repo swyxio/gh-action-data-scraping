@@ -70,5 +70,13 @@
     "username": "yellowostrich469",
     "password": "temppass",
     "invokedAt": "2024-11-28T08:00:20.225Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Herrero",
+    "email": "santiago.herrero@example.com",
+    "username": "angryostrich157",
+    "password": "shell",
+    "invokedAt": "2024-11-28T09:00:28.279Z"
   }
 ]
