@@ -94,5 +94,13 @@
     "username": "bigswan173",
     "password": "jasmine1",
     "invokedAt": "2024-11-28T11:00:23.832Z"
+  },
+  {
+    "firstName": "Zoran",
+    "lastName": "Stepanović",
+    "email": "zoran.stepanovic@example.com",
+    "username": "orangesnake688",
+    "password": "europe",
+    "invokedAt": "2024-11-28T12:00:22.072Z"
   }
 ]
