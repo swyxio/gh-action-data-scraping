@@ -182,5 +182,13 @@
     "username": "happyswan495",
     "password": "golfball",
     "invokedAt": "2024-11-29T22:00:22.223Z"
+  },
+  {
+    "firstName": "Craig",
+    "lastName": "Obrien",
+    "email": "craig.obrien@example.com",
+    "username": "organicswan353",
+    "password": "scottie",
+    "invokedAt": "2024-11-29T23:00:21.910Z"
   }
 ]
