@@ -150,5 +150,13 @@
     "username": "blackrabbit337",
     "password": "return",
     "invokedAt": "2024-11-29T18:00:19.151Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Curtis",
+    "email": "daniel.curtis@example.com",
+    "username": "redgoose684",
+    "password": "riddle",
+    "invokedAt": "2024-11-29T19:00:28.694Z"
   }
 ]
