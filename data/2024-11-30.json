@@ -94,5 +94,13 @@
     "username": "silversnake837",
     "password": "first",
     "invokedAt": "2024-11-30T11:00:28.033Z"
+  },
+  {
+    "firstName": "Layla",
+    "lastName": "King",
+    "email": "layla.king@example.com",
+    "username": "lazysnake348",
+    "password": "bitter",
+    "invokedAt": "2024-11-30T12:00:21.186Z"
   }
 ]
