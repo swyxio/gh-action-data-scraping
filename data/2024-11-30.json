@@ -174,5 +174,13 @@
     "username": "angrymeercat388",
     "password": "987654321",
     "invokedAt": "2024-11-30T21:00:19.906Z"
+  },
+  {
+    "firstName": "Rémy",
+    "lastName": "Mercier",
+    "email": "remy.mercier@example.com",
+    "username": "blackbird810",
+    "password": "happy123",
+    "invokedAt": "2024-11-30T22:00:22.683Z"
   }
 ]
