@@ -86,5 +86,13 @@
     "username": "angrysnake316",
     "password": "bobdylan",
     "invokedAt": "2024-12-01T10:00:19.948Z"
+  },
+  {
+    "firstName": "Léon",
+    "lastName": "Rousseau",
+    "email": "leon.rousseau@example.com",
+    "username": "heavykoala442",
+    "password": "sadie1",
+    "invokedAt": "2024-12-01T11:00:26.812Z"
   }
 ]
