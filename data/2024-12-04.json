@@ -54,5 +54,13 @@
     "username": "blackleopard976",
     "password": "celtics",
     "invokedAt": "2024-12-04T06:00:26.122Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Wang",
+    "email": "matilda.wang@example.com",
+    "username": "lazymouse142",
+    "password": "1passwor",
+    "invokedAt": "2024-12-04T07:00:22.761Z"
   }
 ]
