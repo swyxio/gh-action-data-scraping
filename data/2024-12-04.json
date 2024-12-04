@@ -86,5 +86,13 @@
     "username": "smalltiger553",
     "password": "monopoly",
     "invokedAt": "2024-12-04T10:00:23.947Z"
+  },
+  {
+    "firstName": "Ilan",
+    "lastName": "Marchand",
+    "email": "ilan.marchand@example.com",
+    "username": "bigostrich575",
+    "password": "1980",
+    "invokedAt": "2024-12-04T11:00:19.195Z"
   }
 ]
