@@ -86,5 +86,13 @@
     "username": "greenfish591",
     "password": "tolkien",
     "invokedAt": "2024-12-06T10:00:26.366Z"
+  },
+  {
+    "firstName": "Mihailo",
+    "lastName": "Sokolović",
+    "email": "mihailo.sokolovic@example.com",
+    "username": "purpleleopard325",
+    "password": "iwantu",
+    "invokedAt": "2024-12-06T11:00:21.869Z"
   }
 ]
