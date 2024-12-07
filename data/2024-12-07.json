@@ -94,5 +94,13 @@
     "username": "smalllion100",
     "password": "tupac",
     "invokedAt": "2024-12-07T11:00:19.584Z"
+  },
+  {
+    "firstName": "Maurice",
+    "lastName": "Smith",
+    "email": "maurice.smith@example.com",
+    "username": "smallsnake938",
+    "password": "case",
+    "invokedAt": "2024-12-07T12:00:23.065Z"
   }
 ]
