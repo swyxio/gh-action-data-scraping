@@ -62,5 +62,13 @@
     "username": "greengorilla772",
     "password": "tipper",
     "invokedAt": "2024-12-07T07:00:30.365Z"
+  },
+  {
+    "firstName": "Craig",
+    "lastName": "Gardner",
+    "email": "craig.gardner@example.com",
+    "username": "silverwolf356",
+    "password": "mayday",
+    "invokedAt": "2024-12-07T08:00:25.824Z"
   }
 ]
