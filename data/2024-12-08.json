@@ -158,5 +158,13 @@
     "username": "yellowbird464",
     "password": "milkman",
     "invokedAt": "2024-12-08T19:00:22.157Z"
+  },
+  {
+    "firstName": "Mariano",
+    "lastName": "Ayala",
+    "email": "mariano.ayala@example.com",
+    "username": "sadwolf492",
+    "password": "admin",
+    "invokedAt": "2024-12-08T20:00:27.359Z"
   }
 ]
