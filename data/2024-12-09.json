@@ -182,5 +182,13 @@
     "username": "beautifulbear649",
     "password": "panama",
     "invokedAt": "2024-12-09T22:00:20.732Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Madsen",
+    "email": "albert.madsen@example.com",
+    "username": "whiteostrich798",
+    "password": "nimrod",
+    "invokedAt": "2024-12-09T23:00:25.045Z"
   }
 ]
