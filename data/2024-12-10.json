@@ -86,5 +86,13 @@
     "username": "greenpeacock104",
     "password": "missouri",
     "invokedAt": "2024-12-10T10:00:25.486Z"
+  },
+  {
+    "firstName": "Iris",
+    "lastName": "Picard",
+    "email": "iris.picard@example.com",
+    "username": "tinymouse987",
+    "password": "mack",
+    "invokedAt": "2024-12-10T11:00:19.625Z"
   }
 ]
