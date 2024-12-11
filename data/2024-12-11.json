@@ -70,5 +70,13 @@
     "username": "sadbird452",
     "password": "sixers",
     "invokedAt": "2024-12-11T08:00:18.761Z"
+  },
+  {
+    "firstName": "Jürg",
+    "lastName": "Dupont",
+    "email": "jurg.dupont@example.com",
+    "username": "brownzebra137",
+    "password": "laser",
+    "invokedAt": "2024-12-11T09:00:21.874Z"
   }
 ]
