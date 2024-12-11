@@ -110,5 +110,13 @@
     "username": "purplebear306",
     "password": "blizzard",
     "invokedAt": "2024-12-11T13:07:37.147Z"
+  },
+  {
+    "firstName": "Luciano",
+    "lastName": "Van Soest",
+    "email": "luciano.vansoest@example.com",
+    "username": "yellowrabbit579",
+    "password": "ping",
+    "invokedAt": "2024-12-11T14:00:27.449Z"
   }
 ]
