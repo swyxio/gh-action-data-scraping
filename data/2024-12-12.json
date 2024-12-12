@@ -70,5 +70,13 @@
     "username": "sadmeercat146",
     "password": "reason",
     "invokedAt": "2024-12-12T08:00:27.087Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Petersen",
+    "email": "victor.petersen@example.com",
+    "username": "purplezebra829",
+    "password": "maserati",
+    "invokedAt": "2024-12-12T09:00:24.565Z"
   }
 ]
