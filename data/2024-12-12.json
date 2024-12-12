@@ -86,5 +86,13 @@
     "username": "blackdog167",
     "password": "abcdefg",
     "invokedAt": "2024-12-12T10:00:19.797Z"
+  },
+  {
+    "firstName": "Noël",
+    "lastName": "Adam",
+    "email": "noel.adam@example.com",
+    "username": "blackladybug449",
+    "password": "premium",
+    "invokedAt": "2024-12-12T11:00:24.187Z"
   }
 ]
