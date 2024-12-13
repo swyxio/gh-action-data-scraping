@@ -54,5 +54,13 @@
     "username": "blackduck578",
     "password": "hogan",
     "invokedAt": "2024-12-13T06:00:25.277Z"
+  },
+  {
+    "firstName": "Günther",
+    "lastName": "Szymanski",
+    "email": "gunther.szymanski@example.com",
+    "username": "orangegorilla985",
+    "password": "kappa",
+    "invokedAt": "2024-12-13T07:00:23.401Z"
   }
 ]
