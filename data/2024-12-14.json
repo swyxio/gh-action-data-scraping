@@ -118,5 +118,13 @@
     "username": "greenmeercat284",
     "password": "playboy2",
     "invokedAt": "2024-12-14T14:00:20.877Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Kristensen",
+    "email": "valdemar.kristensen@example.com",
+    "username": "purplecat976",
+    "password": "comp",
+    "invokedAt": "2024-12-14T15:00:24.350Z"
   }
 ]
