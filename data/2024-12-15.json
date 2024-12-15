@@ -62,5 +62,13 @@
     "username": "silverdog237",
     "password": "sterling",
     "invokedAt": "2024-12-15T07:00:20.170Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Garrett",
+    "email": "tracy.garrett@example.com",
+    "username": "greenpeacock946",
+    "password": "dolemite",
+    "invokedAt": "2024-12-15T08:00:18.995Z"
   }
 ]
