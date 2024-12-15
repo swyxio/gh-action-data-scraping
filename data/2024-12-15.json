@@ -38,5 +38,13 @@
     "username": "organictiger251",
     "password": "helper",
     "invokedAt": "2024-12-15T04:00:22.348Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Cook",
+    "email": "sam.cook@example.com",
+    "username": "silversnake460",
+    "password": "global",
+    "invokedAt": "2024-12-15T05:00:27.472Z"
   }
 ]
