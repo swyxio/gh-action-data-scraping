@@ -70,5 +70,13 @@
     "username": "bluepanda764",
     "password": "truck",
     "invokedAt": "2024-12-17T08:00:24.147Z"
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Owens",
+    "email": "alvin.owens@example.com",
+    "username": "angryzebra833",
+    "password": "4567",
+    "invokedAt": "2024-12-17T09:00:24.344Z"
   }
 ]
