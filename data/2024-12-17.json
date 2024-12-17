@@ -158,5 +158,13 @@
     "username": "greenfish367",
     "password": "cowboys1",
     "invokedAt": "2024-12-17T19:00:26.205Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Marie",
+    "email": "matthew.marie@example.com",
+    "username": "redduck923",
+    "password": "groovy",
+    "invokedAt": "2024-12-17T20:00:25.139Z"
   }
 ]
