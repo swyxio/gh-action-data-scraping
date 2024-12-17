@@ -142,5 +142,13 @@
     "username": "tinyduck389",
     "password": "jess",
     "invokedAt": "2024-12-17T17:00:23.337Z"
+  },
+  {
+    "firstName": "Jordi",
+    "lastName": "Román",
+    "email": "jordi.roman@example.com",
+    "username": "whiteswan585",
+    "password": "kenwood",
+    "invokedAt": "2024-12-17T18:00:25.020Z"
   }
 ]
