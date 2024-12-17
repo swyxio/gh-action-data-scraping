@@ -126,5 +126,13 @@
     "username": "yellowleopard391",
     "password": "dusty",
     "invokedAt": "2024-12-17T15:00:23.327Z"
+  },
+  {
+    "firstName": "José María",
+    "lastName": "Calderón",
+    "email": "josemaria.calderon@example.com",
+    "username": "bigcat412",
+    "password": "villa",
+    "invokedAt": "2024-12-17T16:00:24.178Z"
   }
 ]
