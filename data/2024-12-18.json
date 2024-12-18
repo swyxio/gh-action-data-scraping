@@ -134,5 +134,13 @@
     "username": "yellowrabbit683",
     "password": "sapper",
     "invokedAt": "2024-12-18T16:00:23.553Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Velioğlu",
+    "email": "gokhan.velioglu@example.com",
+    "username": "goldenmeercat798",
+    "password": "private",
+    "invokedAt": "2024-12-18T17:00:19.833Z"
   }
 ]
