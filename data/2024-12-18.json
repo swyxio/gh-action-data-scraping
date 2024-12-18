@@ -86,5 +86,13 @@
     "username": "lazydog686",
     "password": "keystone",
     "invokedAt": "2024-12-18T10:00:24.151Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Wiegersma",
+    "email": "dave.wiegersma@example.com",
+    "username": "browncat400",
+    "password": "drifter",
+    "invokedAt": "2024-12-18T11:00:20.784Z"
   }
 ]
