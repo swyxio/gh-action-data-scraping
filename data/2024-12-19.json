@@ -118,5 +118,13 @@
     "username": "lazymouse533",
     "password": "edison",
     "invokedAt": "2024-12-19T14:00:26.369Z"
+  },
+  {
+    "firstName": "Luís Figo",
+    "lastName": "Lopes",
+    "email": "luisfigo.lopes@example.com",
+    "username": "angryleopard898",
+    "password": "juanita",
+    "invokedAt": "2024-12-19T15:00:23.021Z"
   }
 ]
