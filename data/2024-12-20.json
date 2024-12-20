@@ -46,5 +46,13 @@
     "username": "blackwolf666",
     "password": "1000",
     "invokedAt": "2024-12-20T05:00:18.125Z"
+  },
+  {
+    "firstName": "Akhil",
+    "lastName": "Jain",
+    "email": "akhil.jain@example.com",
+    "username": "whiteelephant549",
+    "password": "cowboys",
+    "invokedAt": "2024-12-20T06:00:22.078Z"
   }
 ]
