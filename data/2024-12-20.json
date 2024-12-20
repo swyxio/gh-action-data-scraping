@@ -94,5 +94,13 @@
     "username": "silversnake244",
     "password": "closer",
     "invokedAt": "2024-12-20T11:00:23.015Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Madsen",
+    "email": "nanna.madsen@example.com",
+    "username": "orangeleopard146",
+    "password": "frosty",
+    "invokedAt": "2024-12-20T12:00:25.001Z"
   }
 ]
