@@ -38,5 +38,13 @@
     "username": "tinysnake468",
     "password": "temppass",
     "invokedAt": "2024-12-21T04:00:19.723Z"
+  },
+  {
+    "firstName": "Aatu",
+    "lastName": "Nurmi",
+    "email": "aatu.nurmi@example.com",
+    "username": "brownwolf104",
+    "password": "chichi",
+    "invokedAt": "2024-12-21T05:00:18.657Z"
   }
 ]
