@@ -158,5 +158,13 @@
     "username": "bigbutterfly437",
     "password": "diver",
     "invokedAt": "2024-12-21T19:00:18.758Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Petersen",
+    "email": "anton.petersen@example.com",
+    "username": "whitefish467",
+    "password": "151515",
+    "invokedAt": "2024-12-21T20:00:22.490Z"
   }
 ]
