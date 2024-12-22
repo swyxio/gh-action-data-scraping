@@ -166,5 +166,13 @@
     "username": "orangetiger287",
     "password": "nintendo",
     "invokedAt": "2024-12-22T20:00:21.077Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Hughes",
+    "email": "sara.hughes@example.com",
+    "username": "greentiger241",
+    "password": "momomo",
+    "invokedAt": "2024-12-22T21:00:20.969Z"
   }
 ]
