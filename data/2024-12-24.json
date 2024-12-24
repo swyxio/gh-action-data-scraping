@@ -174,5 +174,13 @@
     "username": "whitetiger336",
     "password": "fitness",
     "invokedAt": "2024-12-24T21:00:22.756Z"
+  },
+  {
+    "firstName": "Corrie",
+    "lastName": "Riedijk",
+    "email": "corrie.riedijk@example.com",
+    "username": "angrybear909",
+    "password": "somethin",
+    "invokedAt": "2024-12-24T22:00:21.398Z"
   }
 ]
