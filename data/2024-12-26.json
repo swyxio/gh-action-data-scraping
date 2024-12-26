@@ -134,5 +134,13 @@
     "username": "heavyrabbit668",
     "password": "cars",
     "invokedAt": "2024-12-26T16:00:27.579Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "White",
+    "email": "liam.white@example.com",
+    "username": "lazyrabbit162",
+    "password": "borders",
+    "invokedAt": "2024-12-26T17:00:23.043Z"
   }
 ]
