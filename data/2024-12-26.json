@@ -158,5 +158,13 @@
     "username": "purplezebra941",
     "password": "abc123",
     "invokedAt": "2024-12-26T19:00:20.968Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Ellis",
+    "email": "lily.ellis@example.com",
+    "username": "blueladybug361",
+    "password": "2469",
+    "invokedAt": "2024-12-26T20:00:25.633Z"
   }
 ]
