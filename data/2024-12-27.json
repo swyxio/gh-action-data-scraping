@@ -70,5 +70,13 @@
     "username": "bigleopard993",
     "password": "graphics",
     "invokedAt": "2024-12-27T08:00:21.824Z"
+  },
+  {
+    "firstName": "Žarko",
+    "lastName": "Drljača",
+    "email": "zarko.drljaca@example.com",
+    "username": "purplebear348",
+    "password": "spotty",
+    "invokedAt": "2024-12-27T09:00:29.665Z"
   }
 ]
