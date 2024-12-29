@@ -182,5 +182,13 @@
     "username": "heavydog320",
     "password": "aussie",
     "invokedAt": "2024-12-29T22:02:03.052Z"
+  },
+  {
+    "firstName": "Emy",
+    "lastName": "Michel",
+    "email": "emy.michel@example.com",
+    "username": "crazyfish552",
+    "password": "violet",
+    "invokedAt": "2024-12-29T23:00:23.706Z"
   }
 ]
