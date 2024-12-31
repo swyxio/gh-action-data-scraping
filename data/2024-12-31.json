@@ -142,5 +142,13 @@
     "username": "brownrabbit761",
     "password": "command",
     "invokedAt": "2024-12-31T17:00:19.188Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Mortensen",
+    "email": "albert.mortensen@example.com",
+    "username": "angryelephant669",
+    "password": "griffey",
+    "invokedAt": "2024-12-31T18:00:18.974Z"
   }
 ]
