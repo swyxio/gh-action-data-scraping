@@ -126,5 +126,13 @@
     "username": "crazybear837",
     "password": "skywalker",
     "invokedAt": "2024-12-31T15:00:22.859Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Santana",
+    "email": "mario.santana@example.com",
+    "username": "greenduck380",
+    "password": "matrix1",
+    "invokedAt": "2024-12-31T16:00:18.743Z"
   }
 ]
