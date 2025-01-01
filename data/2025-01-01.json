@@ -86,5 +86,13 @@
     "username": "silverpeacock865",
     "password": "pooter",
     "invokedAt": "2025-01-01T10:00:18.570Z"
+  },
+  {
+    "firstName": "Rayan",
+    "lastName": "Renard",
+    "email": "rayan.renard@example.com",
+    "username": "silverduck799",
+    "password": "gagged",
+    "invokedAt": "2025-01-01T11:00:22.101Z"
   }
 ]
