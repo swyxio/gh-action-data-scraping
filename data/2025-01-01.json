@@ -142,5 +142,13 @@
     "username": "smallladybug853",
     "password": "central",
     "invokedAt": "2025-01-01T17:00:18.712Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Smith",
+    "email": "george.smith@example.com",
+    "username": "heavykoala289",
+    "password": "micron",
+    "invokedAt": "2025-01-01T18:00:21.482Z"
   }
 ]
