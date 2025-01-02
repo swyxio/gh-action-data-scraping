@@ -118,5 +118,13 @@
     "username": "organicpanda709",
     "password": "budlight",
     "invokedAt": "2025-01-02T14:00:19.048Z"
+  },
+  {
+    "firstName": "Petter",
+    "lastName": "Haddeland",
+    "email": "petter.haddeland@example.com",
+    "username": "redswan881",
+    "password": "meme",
+    "invokedAt": "2025-01-02T15:00:23.118Z"
   }
 ]
