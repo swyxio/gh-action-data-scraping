@@ -102,5 +102,13 @@
     "username": "yellowwolf709",
     "password": "nobody",
     "invokedAt": "2025-01-03T12:00:18.951Z"
+  },
+  {
+    "firstName": "Alma",
+    "lastName": "Kristensen",
+    "email": "alma.kristensen@example.com",
+    "username": "silverleopard890",
+    "password": "bigblock",
+    "invokedAt": "2025-01-03T13:04:20.939Z"
   }
 ]
