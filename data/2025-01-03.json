@@ -118,5 +118,13 @@
     "username": "beautifulswan175",
     "password": "nuclear",
     "invokedAt": "2025-01-03T14:00:28.135Z"
+  },
+  {
+    "firstName": "Heinz-Willi",
+    "lastName": "Rößler",
+    "email": "heinz-willi.rossler@example.com",
+    "username": "heavyfish561",
+    "password": "1980",
+    "invokedAt": "2025-01-03T15:00:22.918Z"
   }
 ]
