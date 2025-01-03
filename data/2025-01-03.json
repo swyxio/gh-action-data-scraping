@@ -78,5 +78,13 @@
     "username": "whitewolf882",
     "password": "dominic",
     "invokedAt": "2025-01-03T09:00:20.064Z"
+  },
+  {
+    "firstName": "Vlatko",
+    "lastName": "Preković",
+    "email": "vlatko.prekovic@example.com",
+    "username": "whitezebra867",
+    "password": "helium",
+    "invokedAt": "2025-01-03T10:00:28.943Z"
   }
 ]
