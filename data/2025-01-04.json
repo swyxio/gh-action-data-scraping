@@ -166,5 +166,13 @@
     "username": "crazyduck233",
     "password": "reserve",
     "invokedAt": "2025-01-04T20:00:29.038Z"
+  },
+  {
+    "firstName": "Poppy",
+    "lastName": "Jackson",
+    "email": "poppy.jackson@example.com",
+    "username": "heavytiger465",
+    "password": "dreaming",
+    "invokedAt": "2025-01-04T21:00:25.464Z"
   }
 ]
