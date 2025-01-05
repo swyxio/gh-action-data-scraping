@@ -30,5 +30,13 @@
     "username": "tinybird916",
     "password": "shell",
     "invokedAt": "2025-01-05T03:07:15.231Z"
+  },
+  {
+    "firstName": "Leonard",
+    "lastName": "Hunter",
+    "email": "leonard.hunter@example.com",
+    "username": "bigelephant749",
+    "password": "harmony",
+    "invokedAt": "2025-01-05T04:00:17.499Z"
   }
 ]
