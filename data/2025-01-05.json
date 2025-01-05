@@ -38,5 +38,13 @@
     "username": "bigelephant749",
     "password": "harmony",
     "invokedAt": "2025-01-05T04:00:17.499Z"
+  },
+  {
+    "firstName": "Caitlin",
+    "lastName": "Morris",
+    "email": "caitlin.morris@example.com",
+    "username": "greenelephant285",
+    "password": "mike123",
+    "invokedAt": "2025-01-05T05:00:23.216Z"
   }
 ]
