@@ -86,5 +86,13 @@
     "username": "organicrabbit612",
     "password": "asdf1234",
     "invokedAt": "2025-01-05T10:00:18.552Z"
+  },
+  {
+    "firstName": "Fokke",
+    "lastName": "Westerhout",
+    "email": "fokke.westerhout@example.com",
+    "username": "tinyelephant531",
+    "password": "night",
+    "invokedAt": "2025-01-05T11:00:19.012Z"
   }
 ]
