@@ -86,5 +86,13 @@
     "username": "purplemouse359",
     "password": "knight1",
     "invokedAt": "2025-01-06T10:00:19.711Z"
+  },
+  {
+    "firstName": "Konsta",
+    "lastName": "Hautala",
+    "email": "konsta.hautala@example.com",
+    "username": "crazyostrich620",
+    "password": "passport",
+    "invokedAt": "2025-01-06T11:00:19.876Z"
   }
 ]
