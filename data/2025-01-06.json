@@ -102,5 +102,13 @@
     "username": "tinyfrog558",
     "password": "premium",
     "invokedAt": "2025-01-06T12:00:25.198Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Walker",
+    "email": "maria.walker@example.com",
+    "username": "blackfish648",
+    "password": "project",
+    "invokedAt": "2025-01-06T13:05:11.310Z"
   }
 ]
