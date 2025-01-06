@@ -150,5 +150,13 @@
     "username": "brownrabbit742",
     "password": "cccccc",
     "invokedAt": "2025-01-06T18:00:20.180Z"
+  },
+  {
+    "firstName": "Milutin",
+    "lastName": "Babić",
+    "email": "milutin.babic@example.com",
+    "username": "lazyswan573",
+    "password": "typhoon",
+    "invokedAt": "2025-01-06T19:00:21.347Z"
   }
 ]
