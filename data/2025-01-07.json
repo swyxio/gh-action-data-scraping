@@ -78,5 +78,13 @@
     "username": "greenfrog369",
     "password": "nicholas",
     "invokedAt": "2025-01-07T09:00:25.548Z"
+  },
+  {
+    "firstName": "Uroš",
+    "lastName": "RatkovićRistić",
+    "email": "uros.ratkovicristic@example.com",
+    "username": "browngoose733",
+    "password": "stinks",
+    "invokedAt": "2025-01-07T10:00:21.370Z"
   }
 ]
