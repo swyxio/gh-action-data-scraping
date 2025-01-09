@@ -158,5 +158,13 @@
     "username": "ticklishwolf312",
     "password": "seng",
     "invokedAt": "2025-01-09T19:00:28.717Z"
+  },
+  {
+    "firstName": "Miki",
+    "lastName": "Van Nuenen",
+    "email": "miki.vannuenen@example.com",
+    "username": "crazyelephant423",
+    "password": "really",
+    "invokedAt": "2025-01-09T20:00:19.792Z"
   }
 ]
