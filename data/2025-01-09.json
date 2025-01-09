@@ -94,5 +94,13 @@
     "username": "beautifulwolf414",
     "password": "yankees2",
     "invokedAt": "2025-01-09T11:00:23.939Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Andersen",
+    "email": "anton.andersen@example.com",
+    "username": "greengorilla435",
+    "password": "neng",
+    "invokedAt": "2025-01-09T12:00:28.239Z"
   }
 ]
