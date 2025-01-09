@@ -166,5 +166,13 @@
     "username": "crazyelephant423",
     "password": "really",
     "invokedAt": "2025-01-09T20:00:19.792Z"
+  },
+  {
+    "firstName": "Hans Jürgen",
+    "lastName": "Jobst",
+    "email": "hansjurgen.jobst@example.com",
+    "username": "beautifulwolf424",
+    "password": "dundee",
+    "invokedAt": "2025-01-09T21:00:23.893Z"
   }
 ]
