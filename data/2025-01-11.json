@@ -86,5 +86,13 @@
     "username": "brownelephant324",
     "password": "notnow",
     "invokedAt": "2025-01-11T10:00:20.514Z"
+  },
+  {
+    "firstName": "Emile",
+    "lastName": "Bouchard",
+    "email": "emile.bouchard@example.com",
+    "username": "beautifulswan468",
+    "password": "tripper",
+    "invokedAt": "2025-01-11T11:00:19.890Z"
   }
 ]
