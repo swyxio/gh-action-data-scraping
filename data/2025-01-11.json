@@ -174,5 +174,13 @@
     "username": "orangebear136",
     "password": "federal",
     "invokedAt": "2025-01-11T21:00:22.032Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Liu",
+    "email": "alexis.liu@example.com",
+    "username": "blackfrog957",
+    "password": "abigail",
+    "invokedAt": "2025-01-11T22:00:15.814Z"
   }
 ]
