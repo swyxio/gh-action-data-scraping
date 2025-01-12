@@ -126,5 +126,13 @@
     "username": "happygoose432",
     "password": "delta",
     "invokedAt": "2025-01-12T15:00:20.846Z"
+  },
+  {
+    "firstName": "Mannus",
+    "lastName": "Verwijst",
+    "email": "mannus.verwijst@example.com",
+    "username": "smalltiger907",
+    "password": "father",
+    "invokedAt": "2025-01-12T16:00:30.423Z"
   }
 ]
