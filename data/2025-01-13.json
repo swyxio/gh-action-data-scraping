@@ -174,5 +174,13 @@
     "username": "crazydog714",
     "password": "sentinel",
     "invokedAt": "2025-01-13T21:00:19.015Z"
+  },
+  {
+    "firstName": "Marthijn",
+    "lastName": "Stork",
+    "email": "marthijn.stork@example.com",
+    "username": "beautifulcat167",
+    "password": "vegitta",
+    "invokedAt": "2025-01-13T22:00:24.790Z"
   }
 ]
