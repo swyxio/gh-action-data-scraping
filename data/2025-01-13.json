@@ -54,5 +54,13 @@
     "username": "happymouse701",
     "password": "skydive",
     "invokedAt": "2025-01-13T06:00:22.325Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Herrera",
+    "email": "edward.herrera@example.com",
+    "username": "crazyostrich878",
+    "password": "beacon",
+    "invokedAt": "2025-01-13T07:00:24.414Z"
   }
 ]
