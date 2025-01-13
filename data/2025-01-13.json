@@ -166,5 +166,13 @@
     "username": "purplecat505",
     "password": "blondie",
     "invokedAt": "2025-01-13T20:00:19.087Z"
+  },
+  {
+    "firstName": "Milivoje",
+    "lastName": "RatkovićRistić",
+    "email": "milivoje.ratkovicristic@example.com",
+    "username": "crazydog714",
+    "password": "sentinel",
+    "invokedAt": "2025-01-13T21:00:19.015Z"
   }
 ]
