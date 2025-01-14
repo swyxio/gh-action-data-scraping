@@ -134,5 +134,13 @@
     "username": "angryostrich986",
     "password": "hello1",
     "invokedAt": "2025-01-14T17:00:30.816Z"
+  },
+  {
+    "firstName": "Esma",
+    "lastName": "Tahincioğlu",
+    "email": "esma.tahincioglu@example.com",
+    "username": "tinypeacock249",
+    "password": "beast",
+    "invokedAt": "2025-01-14T18:00:24.973Z"
   }
 ]
