@@ -142,5 +142,13 @@
     "username": "tinypeacock249",
     "password": "beast",
     "invokedAt": "2025-01-14T18:00:24.973Z"
+  },
+  {
+    "firstName": "Madison",
+    "lastName": "Martin",
+    "email": "madison.martin@example.com",
+    "username": "greengorilla391",
+    "password": "blink182",
+    "invokedAt": "2025-01-14T19:00:20.883Z"
   }
 ]
