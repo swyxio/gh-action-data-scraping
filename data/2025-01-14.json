@@ -46,5 +46,13 @@
     "username": "tinysnake530",
     "password": "temppass",
     "invokedAt": "2025-01-14T06:00:25.476Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Møller",
+    "email": "mathias.moller@example.com",
+    "username": "crazytiger822",
+    "password": "murphy1",
+    "invokedAt": "2025-01-14T07:00:18.933Z"
   }
 ]
