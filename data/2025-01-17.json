@@ -118,5 +118,13 @@
     "username": "heavyfish938",
     "password": "smurf",
     "invokedAt": "2025-01-17T14:00:25.461Z"
+  },
+  {
+    "firstName": "Mónica",
+    "lastName": "Martin",
+    "email": "monica.martin@example.com",
+    "username": "heavywolf487",
+    "password": "burrito",
+    "invokedAt": "2025-01-17T15:00:24.495Z"
   }
 ]
