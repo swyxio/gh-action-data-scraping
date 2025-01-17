@@ -142,5 +142,13 @@
     "username": "goldenostrich933",
     "password": "madrid",
     "invokedAt": "2025-01-17T17:00:24.165Z"
+  },
+  {
+    "firstName": "Abel",
+    "lastName": "Gonzalez",
+    "email": "abel.gonzalez@example.com",
+    "username": "happyrabbit314",
+    "password": "patrol",
+    "invokedAt": "2025-01-17T18:00:43.823Z"
   }
 ]
