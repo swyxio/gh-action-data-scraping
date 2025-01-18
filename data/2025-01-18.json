@@ -86,5 +86,13 @@
     "username": "purpleostrich435",
     "password": "sony",
     "invokedAt": "2025-01-18T10:00:25.042Z"
+  },
+  {
+    "firstName": "Bertram",
+    "lastName": "Poulsen",
+    "email": "bertram.poulsen@example.com",
+    "username": "crazygorilla188",
+    "password": "kahlua",
+    "invokedAt": "2025-01-18T11:00:20.032Z"
   }
 ]
