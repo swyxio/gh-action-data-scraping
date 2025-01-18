@@ -142,5 +142,13 @@
     "username": "heavygoose373",
     "password": "deadpool",
     "invokedAt": "2025-01-18T17:00:17.030Z"
+  },
+  {
+    "firstName": "Bertram",
+    "lastName": "Olsen",
+    "email": "bertram.olsen@example.com",
+    "username": "tinyzebra704",
+    "password": "jensen",
+    "invokedAt": "2025-01-18T18:00:25.360Z"
   }
 ]
