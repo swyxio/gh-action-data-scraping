@@ -166,5 +166,13 @@
     "username": "beautifullion608",
     "password": "juliette",
     "invokedAt": "2025-01-18T20:00:19.430Z"
+  },
+  {
+    "firstName": "Julien",
+    "lastName": "Guillot",
+    "email": "julien.guillot@example.com",
+    "username": "organicpanda198",
+    "password": "parola",
+    "invokedAt": "2025-01-18T21:00:28.188Z"
   }
 ]
