@@ -126,5 +126,13 @@
     "username": "bigsnake657",
     "password": "garage",
     "invokedAt": "2025-01-19T15:00:30.098Z"
+  },
+  {
+    "firstName": "Amelie",
+    "lastName": "Demuth",
+    "email": "amelie.demuth@example.com",
+    "username": "greenswan936",
+    "password": "houses",
+    "invokedAt": "2025-01-19T16:00:24.947Z"
   }
 ]
