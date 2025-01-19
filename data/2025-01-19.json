@@ -102,5 +102,13 @@
     "username": "crazywolf383",
     "password": "1024",
     "invokedAt": "2025-01-19T12:00:24.610Z"
+  },
+  {
+    "firstName": "Antonije",
+    "lastName": "Zeljković",
+    "email": "antonije.zeljkovic@example.com",
+    "username": "lazytiger807",
+    "password": "speakers",
+    "invokedAt": "2025-01-19T13:02:24.872Z"
   }
 ]
