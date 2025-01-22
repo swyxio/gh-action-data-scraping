@@ -174,5 +174,13 @@
     "username": "lazyfrog717",
     "password": "hardrock",
     "invokedAt": "2025-01-22T21:00:23.318Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Snyder",
+    "email": "carl.snyder@example.com",
+    "username": "crazyleopard671",
+    "password": "kittykat",
+    "invokedAt": "2025-01-22T22:00:31.479Z"
   }
 ]
