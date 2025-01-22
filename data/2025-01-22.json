@@ -86,5 +86,13 @@
     "username": "sadfrog835",
     "password": "stanley",
     "invokedAt": "2025-01-22T10:00:23.127Z"
+  },
+  {
+    "firstName": "Milutin",
+    "lastName": "Čabarkapa",
+    "email": "milutin.cabarkapa@example.com",
+    "username": "silverbird837",
+    "password": "koolaid",
+    "invokedAt": "2025-01-22T11:00:22.910Z"
   }
 ]
