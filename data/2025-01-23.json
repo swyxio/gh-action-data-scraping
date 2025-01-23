@@ -46,5 +46,13 @@
     "username": "yellowlion894",
     "password": "backbone",
     "invokedAt": "2025-01-23T05:00:26.031Z"
+  },
+  {
+    "firstName": "Cássio",
+    "lastName": "Jesus",
+    "email": "cassio.jesus@example.com",
+    "username": "orangefish567",
+    "password": "qwert1",
+    "invokedAt": "2025-01-23T06:00:22.262Z"
   }
 ]
