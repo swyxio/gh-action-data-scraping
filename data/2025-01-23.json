@@ -54,5 +54,13 @@
     "username": "orangefish567",
     "password": "qwert1",
     "invokedAt": "2025-01-23T06:00:22.262Z"
+  },
+  {
+    "firstName": "Hoang",
+    "lastName": "Van Voorst",
+    "email": "hoang.vanvoorst@example.com",
+    "username": "organicswan710",
+    "password": "serpent",
+    "invokedAt": "2025-01-23T07:00:28.779Z"
   }
 ]
