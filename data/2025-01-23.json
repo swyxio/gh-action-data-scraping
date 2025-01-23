@@ -182,5 +182,13 @@
     "username": "bigwolf566",
     "password": "linkin",
     "invokedAt": "2025-01-23T22:00:23.971Z"
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Noel",
+    "email": "nelson.noel@example.com",
+    "username": "bluebutterfly592",
+    "password": "vintage",
+    "invokedAt": "2025-01-23T23:00:25.868Z"
   }
 ]
