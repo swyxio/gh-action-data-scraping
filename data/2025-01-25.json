@@ -118,5 +118,13 @@
     "username": "orangewolf889",
     "password": "pluto",
     "invokedAt": "2025-01-25T14:00:22.284Z"
+  },
+  {
+    "firstName": "Jasmina",
+    "lastName": "Van den Tol",
+    "email": "jasmina.vandentol@example.com",
+    "username": "whitebird208",
+    "password": "daniela",
+    "invokedAt": "2025-01-25T15:00:17.734Z"
   }
 ]
