@@ -182,5 +182,13 @@
     "username": "goldenfrog262",
     "password": "hello2",
     "invokedAt": "2025-01-25T22:00:30.197Z"
+  },
+  {
+    "firstName": "Joao",
+    "lastName": "Van Riel",
+    "email": "joao.vanriel@example.com",
+    "username": "brownzebra656",
+    "password": "bonehead",
+    "invokedAt": "2025-01-25T23:00:20.889Z"
   }
 ]
