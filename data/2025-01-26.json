@@ -142,5 +142,13 @@
     "username": "silverduck912",
     "password": "baggins",
     "invokedAt": "2025-01-26T17:00:28.414Z"
+  },
+  {
+    "firstName": "Anja",
+    "lastName": "Kapetanović",
+    "email": "anja.kapetanovic@example.com",
+    "username": "lazylion415",
+    "password": "skate",
+    "invokedAt": "2025-01-26T18:00:32.097Z"
   }
 ]
