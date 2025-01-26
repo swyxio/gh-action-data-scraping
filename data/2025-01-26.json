@@ -158,5 +158,13 @@
     "username": "goldenkoala858",
     "password": "spam",
     "invokedAt": "2025-01-26T19:00:22.325Z"
+  },
+  {
+    "firstName": "Borivoje",
+    "lastName": "Tripković",
+    "email": "borivoje.tripkovic@example.com",
+    "username": "sadmouse432",
+    "password": "esquire",
+    "invokedAt": "2025-01-26T20:00:19.712Z"
   }
 ]
