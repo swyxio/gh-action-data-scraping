@@ -94,5 +94,13 @@
     "username": "smallzebra808",
     "password": "sunrise",
     "invokedAt": "2025-01-27T11:00:22.405Z"
+  },
+  {
+    "firstName": "Frédéric",
+    "lastName": "Laurent",
+    "email": "frederic.laurent@example.com",
+    "username": "beautifulladybug139",
+    "password": "break",
+    "invokedAt": "2025-01-27T12:00:19.069Z"
   }
 ]
