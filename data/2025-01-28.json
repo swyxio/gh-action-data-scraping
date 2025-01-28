@@ -38,5 +38,13 @@
     "username": "blackpeacock808",
     "password": "paint",
     "invokedAt": "2025-01-28T04:00:19.789Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "González",
+    "email": "pablo.gonzalez@example.com",
+    "username": "orangepeacock110",
+    "password": "terrier",
+    "invokedAt": "2025-01-28T05:00:22.060Z"
   }
 ]
