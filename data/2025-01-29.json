@@ -126,5 +126,13 @@
     "username": "goldensnake545",
     "password": "airforce",
     "invokedAt": "2025-01-29T15:00:21.015Z"
+  },
+  {
+    "firstName": "Emilian",
+    "lastName": "Krog",
+    "email": "emilian.krog@example.com",
+    "username": "bigbutterfly788",
+    "password": "blunts",
+    "invokedAt": "2025-01-29T16:00:22.332Z"
   }
 ]
