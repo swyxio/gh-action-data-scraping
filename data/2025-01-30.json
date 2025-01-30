@@ -78,5 +78,13 @@
     "username": "bluetiger147",
     "password": "diamond1",
     "invokedAt": "2025-01-30T09:00:22.829Z"
+  },
+  {
+    "firstName": "Hans-Günther",
+    "lastName": "Klöckner",
+    "email": "hans-gunther.klockner@example.com",
+    "username": "blueelephant641",
+    "password": "nipper",
+    "invokedAt": "2025-01-30T10:00:28.010Z"
   }
 ]
