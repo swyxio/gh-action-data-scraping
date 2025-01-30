@@ -126,5 +126,13 @@
     "username": "brownbear119",
     "password": "tribble",
     "invokedAt": "2025-01-30T15:00:22.668Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Koçyiğit",
+    "email": "babur.kocyigit@example.com",
+    "username": "heavyduck917",
+    "password": "harvest",
+    "invokedAt": "2025-01-30T16:00:22.553Z"
   }
 ]
