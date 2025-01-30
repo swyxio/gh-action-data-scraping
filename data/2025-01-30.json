@@ -182,5 +182,13 @@
     "username": "greenbird305",
     "password": "stephen",
     "invokedAt": "2025-01-30T22:00:22.033Z"
+  },
+  {
+    "firstName": "Ngoc",
+    "lastName": "Çetin",
+    "email": "ngoc.cetin@example.com",
+    "username": "bigsnake906",
+    "password": "grumpy",
+    "invokedAt": "2025-01-30T23:00:24.026Z"
   }
 ]
