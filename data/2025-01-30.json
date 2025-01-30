@@ -54,5 +54,13 @@
     "username": "whitedog235",
     "password": "divx1",
     "invokedAt": "2025-01-30T06:00:23.281Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Wilson",
+    "email": "jacob.wilson@example.com",
+    "username": "happybird400",
+    "password": "trial",
+    "invokedAt": "2025-01-30T07:00:24.561Z"
   }
 ]
