@@ -118,5 +118,13 @@
     "username": "smallfrog554",
     "password": "long",
     "invokedAt": "2025-01-30T14:00:18.844Z"
+  },
+  {
+    "firstName": "Christoph",
+    "lastName": "Hubert",
+    "email": "christoph.hubert@example.com",
+    "username": "brownbear119",
+    "password": "tribble",
+    "invokedAt": "2025-01-30T15:00:22.668Z"
   }
 ]
