@@ -102,5 +102,13 @@
     "username": "browntiger932",
     "password": "roscoe",
     "invokedAt": "2025-01-31T12:00:21.086Z"
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Jensen",
+    "email": "ida.jensen@example.com",
+    "username": "brownfish238",
+    "password": "pounding",
+    "invokedAt": "2025-01-31T13:03:30.961Z"
   }
 ]
