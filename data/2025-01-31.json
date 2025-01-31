@@ -110,5 +110,13 @@
     "username": "brownfish238",
     "password": "pounding",
     "invokedAt": "2025-01-31T13:03:30.961Z"
+  },
+  {
+    "firstName": "Angus",
+    "lastName": "Brown",
+    "email": "angus.brown@example.com",
+    "username": "whitepeacock309",
+    "password": "drowssap",
+    "invokedAt": "2025-01-31T14:00:23.067Z"
   }
 ]
