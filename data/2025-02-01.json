@@ -46,5 +46,13 @@
     "username": "ticklishzebra721",
     "password": "reds",
     "invokedAt": "2025-02-01T05:00:22.070Z"
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Ray",
+    "email": "leon.ray@example.com",
+    "username": "goldenlion372",
+    "password": "xfiles",
+    "invokedAt": "2025-02-01T06:00:16.830Z"
   }
 ]
