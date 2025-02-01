@@ -54,5 +54,13 @@
     "username": "goldenlion372",
     "password": "xfiles",
     "invokedAt": "2025-02-01T06:00:16.830Z"
+  },
+  {
+    "firstName": "Nenad",
+    "lastName": "Erceg",
+    "email": "nenad.erceg@example.com",
+    "username": "yellowdog211",
+    "password": "sterling",
+    "invokedAt": "2025-02-01T07:00:23.889Z"
   }
 ]
