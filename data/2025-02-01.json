@@ -158,5 +158,13 @@
     "username": "heavyfish271",
     "password": "zigzag",
     "invokedAt": "2025-02-01T19:00:19.744Z"
+  },
+  {
+    "firstName": "Dominik",
+    "lastName": "Hell",
+    "email": "dominik.hell@example.com",
+    "username": "silverladybug604",
+    "password": "packard",
+    "invokedAt": "2025-02-01T20:00:18.758Z"
   }
 ]
