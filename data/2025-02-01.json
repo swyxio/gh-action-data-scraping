@@ -174,5 +174,13 @@
     "username": "sadswan249",
     "password": "colorado",
     "invokedAt": "2025-02-01T21:00:20.785Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Johansen",
+    "email": "christian.johansen@example.com",
+    "username": "crazypanda477",
+    "password": "grass",
+    "invokedAt": "2025-02-01T22:00:20.047Z"
   }
 ]
