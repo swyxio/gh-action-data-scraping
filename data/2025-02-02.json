@@ -110,5 +110,13 @@
     "username": "heavyleopard374",
     "password": "wildcard",
     "invokedAt": "2025-02-02T13:02:22.125Z"
+  },
+  {
+    "firstName": "Alivar",
+    "lastName": "Cardoso",
+    "email": "alivar.cardoso@example.com",
+    "username": "orangekoala989",
+    "password": "writer",
+    "invokedAt": "2025-02-02T14:00:22.192Z"
   }
 ]
