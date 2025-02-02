@@ -158,5 +158,13 @@
     "username": "heavymeercat263",
     "password": "987654321",
     "invokedAt": "2025-02-02T19:00:31.405Z"
+  },
+  {
+    "firstName": "Ceyhan",
+    "lastName": "Sinanoğlu",
+    "email": "ceyhan.sinanoglu@example.com",
+    "username": "happyostrich233",
+    "password": "spiderma",
+    "invokedAt": "2025-02-02T20:00:21.808Z"
   }
 ]
