@@ -102,5 +102,13 @@
     "username": "smallrabbit989",
     "password": "scanner",
     "invokedAt": "2025-02-03T12:00:31.634Z"
+  },
+  {
+    "firstName": "Gordana",
+    "lastName": "Ivančević",
+    "email": "gordana.ivancevic@example.com",
+    "username": "brownelephant103",
+    "password": "magicman",
+    "invokedAt": "2025-02-03T13:03:51.965Z"
   }
 ]
