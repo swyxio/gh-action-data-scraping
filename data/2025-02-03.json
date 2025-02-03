@@ -134,5 +134,13 @@
     "username": "yellowfish909",
     "password": "sports",
     "invokedAt": "2025-02-03T16:00:33.237Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Johansen",
+    "email": "daniel.johansen@example.com",
+    "username": "greenrabbit782",
+    "password": "records",
+    "invokedAt": "2025-02-03T17:00:22.100Z"
   }
 ]
