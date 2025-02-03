@@ -46,5 +46,13 @@
     "username": "browntiger787",
     "password": "bullseye",
     "invokedAt": "2025-02-03T05:00:17.799Z"
+  },
+  {
+    "firstName": "Mattias",
+    "lastName": "Bergersen",
+    "email": "mattias.bergersen@example.com",
+    "username": "bluemouse305",
+    "password": "sommer",
+    "invokedAt": "2025-02-03T06:00:21.295Z"
   }
 ]
