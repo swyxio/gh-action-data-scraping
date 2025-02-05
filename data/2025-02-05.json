@@ -94,5 +94,13 @@
     "username": "silvercat481",
     "password": "bordeaux",
     "invokedAt": "2025-02-05T11:00:24.381Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Christensen",
+    "email": "lea.christensen@example.com",
+    "username": "browncat687",
+    "password": "rockford",
+    "invokedAt": "2025-02-05T12:00:33.717Z"
   }
 ]
