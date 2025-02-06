@@ -94,5 +94,13 @@
     "username": "goldenmouse621",
     "password": "catcat",
     "invokedAt": "2025-02-06T11:00:28.788Z"
+  },
+  {
+    "firstName": "Nebojša",
+    "lastName": "Spasojević",
+    "email": "nebojsa.spasojevic@example.com",
+    "username": "blackzebra985",
+    "password": "hawkeyes",
+    "invokedAt": "2025-02-06T12:00:25.154Z"
   }
 ]
