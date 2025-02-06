@@ -86,5 +86,13 @@
     "username": "redrabbit292",
     "password": "medic",
     "invokedAt": "2025-02-06T10:00:28.037Z"
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Morgan",
+    "email": "ted.morgan@example.com",
+    "username": "goldenmouse621",
+    "password": "catcat",
+    "invokedAt": "2025-02-06T11:00:28.788Z"
   }
 ]
