@@ -182,5 +182,13 @@
     "username": "redrabbit294",
     "password": "meat",
     "invokedAt": "2025-02-07T22:00:17.966Z"
+  },
+  {
+    "firstName": "Vegard",
+    "lastName": "Eiken",
+    "email": "vegard.eiken@example.com",
+    "username": "whitewolf933",
+    "password": "hotmail",
+    "invokedAt": "2025-02-07T23:00:23.352Z"
   }
 ]
