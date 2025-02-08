@@ -86,5 +86,13 @@
     "username": "goldenduck233",
     "password": "female",
     "invokedAt": "2025-02-08T10:00:26.705Z"
+  },
+  {
+    "firstName": "Milivoje",
+    "lastName": "Žigić",
+    "email": "milivoje.zigic@example.com",
+    "username": "reddog220",
+    "password": "1231",
+    "invokedAt": "2025-02-08T11:00:18.807Z"
   }
 ]
