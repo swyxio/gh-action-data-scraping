@@ -158,5 +158,13 @@
     "username": "ticklishduck926",
     "password": "godsmack",
     "invokedAt": "2025-02-08T19:00:18.705Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Jørgensen",
+    "email": "christian.jorgensen@example.com",
+    "username": "brownbird278",
+    "password": "gofish",
+    "invokedAt": "2025-02-08T20:00:18.039Z"
   }
 ]
