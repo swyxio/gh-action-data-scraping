@@ -118,5 +118,13 @@
     "username": "tinyfrog876",
     "password": "sheena",
     "invokedAt": "2025-02-09T14:00:17.692Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Mortensen",
+    "email": "rosa.mortensen@example.com",
+    "username": "tinyrabbit771",
+    "password": "highway",
+    "invokedAt": "2025-02-09T15:00:18.716Z"
   }
 ]
