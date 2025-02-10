@@ -110,5 +110,13 @@
     "username": "tinykoala696",
     "password": "megapass",
     "invokedAt": "2025-02-10T13:04:38.986Z"
+  },
+  {
+    "firstName": "Kathy",
+    "lastName": "Barnes",
+    "email": "kathy.barnes@example.com",
+    "username": "beautifuldog558",
+    "password": "charley",
+    "invokedAt": "2025-02-10T14:00:27.315Z"
   }
 ]
