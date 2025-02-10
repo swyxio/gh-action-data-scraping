@@ -166,5 +166,13 @@
     "username": "greencat423",
     "password": "gambler",
     "invokedAt": "2025-02-10T20:00:23.397Z"
+  },
+  {
+    "firstName": "Glenda",
+    "lastName": "Banks",
+    "email": "glenda.banks@example.com",
+    "username": "sadduck119",
+    "password": "webmaster",
+    "invokedAt": "2025-02-10T21:00:20.367Z"
   }
 ]
