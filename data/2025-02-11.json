@@ -182,5 +182,13 @@
     "username": "angrybird975",
     "password": "band",
     "invokedAt": "2025-02-11T22:00:23.269Z"
+  },
+  {
+    "firstName": "Natalia",
+    "lastName": "Grujić",
+    "email": "natalia.grujic@example.com",
+    "username": "orangeelephant168",
+    "password": "123456",
+    "invokedAt": "2025-02-11T23:00:22.911Z"
   }
 ]
