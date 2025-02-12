@@ -110,5 +110,13 @@
     "username": "lazywolf530",
     "password": "terrapin",
     "invokedAt": "2025-02-12T13:04:38.841Z"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Dupuis",
+    "email": "jean.dupuis@example.com",
+    "username": "blackswan272",
+    "password": "tweety",
+    "invokedAt": "2025-02-12T14:00:22.037Z"
   }
 ]
