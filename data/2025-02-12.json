@@ -38,5 +38,13 @@
     "username": "greenkoala313",
     "password": "bond007",
     "invokedAt": "2025-02-12T04:00:25.265Z"
+  },
+  {
+    "firstName": "Aada",
+    "lastName": "Lehtinen",
+    "email": "aada.lehtinen@example.com",
+    "username": "heavyrabbit975",
+    "password": "starcraf",
+    "invokedAt": "2025-02-12T05:00:21.789Z"
   }
 ]
