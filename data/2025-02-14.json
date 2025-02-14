@@ -86,5 +86,13 @@
     "username": "yellowostrich242",
     "password": "chef",
     "invokedAt": "2025-02-14T10:00:19.276Z"
+  },
+  {
+    "firstName": "José Emilio",
+    "lastName": "Alcaraz",
+    "email": "joseemilio.alcaraz@example.com",
+    "username": "goldenkoala913",
+    "password": "sterling",
+    "invokedAt": "2025-02-14T11:00:20.286Z"
   }
 ]
