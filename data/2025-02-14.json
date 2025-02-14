@@ -166,5 +166,13 @@
     "username": "beautifulpanda555",
     "password": "record",
     "invokedAt": "2025-02-14T20:00:35.094Z"
+  },
+  {
+    "firstName": "Nout",
+    "lastName": "Van den Oord",
+    "email": "nout.vandenoord@example.com",
+    "username": "biggorilla482",
+    "password": "bearcats",
+    "invokedAt": "2025-02-14T21:00:19.798Z"
   }
 ]
