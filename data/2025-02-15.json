@@ -86,5 +86,13 @@
     "username": "goldenlion283",
     "password": "diver1",
     "invokedAt": "2025-02-15T10:00:22.358Z"
+  },
+  {
+    "firstName": "Jeanne",
+    "lastName": "Claire",
+    "email": "jeanne.claire@example.com",
+    "username": "silverbutterfly719",
+    "password": "bear",
+    "invokedAt": "2025-02-15T11:00:17.333Z"
   }
 ]
