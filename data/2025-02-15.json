@@ -182,5 +182,13 @@
     "username": "yellowgoose801",
     "password": "guiness",
     "invokedAt": "2025-02-15T22:00:20.975Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Robinson",
+    "email": "lily.robinson@example.com",
+    "username": "whiteostrich247",
+    "password": "webster",
+    "invokedAt": "2025-02-15T23:00:21.923Z"
   }
 ]
