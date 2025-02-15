@@ -70,5 +70,13 @@
     "username": "purpleostrich318",
     "password": "town",
     "invokedAt": "2025-02-15T08:00:19.711Z"
+  },
+  {
+    "firstName": "Debra",
+    "lastName": "Cook",
+    "email": "debra.cook@example.com",
+    "username": "redmouse691",
+    "password": "ninja",
+    "invokedAt": "2025-02-15T09:00:17.970Z"
   }
 ]
