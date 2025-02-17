@@ -166,5 +166,13 @@
     "username": "angryzebra317",
     "password": "theforce",
     "invokedAt": "2025-02-17T20:00:34.265Z"
+  },
+  {
+    "firstName": "Phil",
+    "lastName": "Neal",
+    "email": "phil.neal@example.com",
+    "username": "heavybird905",
+    "password": "skywalker",
+    "invokedAt": "2025-02-17T21:00:20.924Z"
   }
 ]
