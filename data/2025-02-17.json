@@ -78,5 +78,13 @@
     "username": "happymeercat747",
     "password": "special",
     "invokedAt": "2025-02-17T09:00:26.353Z"
+  },
+  {
+    "firstName": "Anne",
+    "lastName": "Lipinski",
+    "email": "anne.lipinski@example.com",
+    "username": "lazypanda229",
+    "password": "divx1",
+    "invokedAt": "2025-02-17T10:00:23.948Z"
   }
 ]
