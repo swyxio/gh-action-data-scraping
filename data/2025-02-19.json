@@ -54,5 +54,13 @@
     "username": "bigzebra133",
     "password": "hetfield",
     "invokedAt": "2025-02-19T06:00:33.271Z"
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Nævdal",
+    "email": "aron.naevdal@example.com",
+    "username": "orangeladybug107",
+    "password": "denmark",
+    "invokedAt": "2025-02-19T07:00:25.381Z"
   }
 ]
