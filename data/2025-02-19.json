@@ -126,5 +126,13 @@
     "username": "greenduck926",
     "password": "kitchen",
     "invokedAt": "2025-02-19T15:00:22.945Z"
+  },
+  {
+    "firstName": "Hans-Eberhard",
+    "lastName": "Böse",
+    "email": "hans-eberhard.bose@example.com",
+    "username": "greenleopard792",
+    "password": "summit",
+    "invokedAt": "2025-02-19T16:00:18.201Z"
   }
 ]
