@@ -134,5 +134,13 @@
     "username": "greenleopard792",
     "password": "summit",
     "invokedAt": "2025-02-19T16:00:18.201Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Holmes",
+    "email": "roger.holmes@example.com",
+    "username": "purplebutterfly634",
+    "password": "mikey",
+    "invokedAt": "2025-02-19T17:00:22.447Z"
   }
 ]
