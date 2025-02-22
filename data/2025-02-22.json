@@ -94,5 +94,13 @@
     "username": "redpanda544",
     "password": "printing",
     "invokedAt": "2025-02-22T11:00:18.167Z"
+  },
+  {
+    "firstName": "Dominic",
+    "lastName": "Ross",
+    "email": "dominic.ross@example.com",
+    "username": "purpleswan263",
+    "password": "antonia",
+    "invokedAt": "2025-02-22T12:00:22.701Z"
   }
 ]
