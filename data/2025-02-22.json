@@ -86,5 +86,13 @@
     "username": "yellowdog883",
     "password": "gotyoass",
     "invokedAt": "2025-02-22T10:00:22.873Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Pedersen",
+    "email": "nicklas.pedersen@example.com",
+    "username": "redpanda544",
+    "password": "printing",
+    "invokedAt": "2025-02-22T11:00:18.167Z"
   }
 ]
