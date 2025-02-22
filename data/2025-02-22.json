@@ -62,5 +62,13 @@
     "username": "greenleopard977",
     "password": "firefly",
     "invokedAt": "2025-02-22T07:00:16.791Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Tremblay",
+    "email": "sophie.tremblay@example.com",
+    "username": "yellowrabbit320",
+    "password": "helpme",
+    "invokedAt": "2025-02-22T08:00:21.250Z"
   }
 ]
