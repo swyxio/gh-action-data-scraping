@@ -46,5 +46,13 @@
     "username": "heavysnake987",
     "password": "mortgage",
     "invokedAt": "2025-02-23T05:00:23.052Z"
+  },
+  {
+    "firstName": "Mateusz",
+    "lastName": "Rørvik",
+    "email": "mateusz.rorvik@example.com",
+    "username": "blackbird300",
+    "password": "roses",
+    "invokedAt": "2025-02-23T06:00:19.206Z"
   }
 ]
