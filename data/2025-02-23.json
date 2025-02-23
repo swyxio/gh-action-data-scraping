@@ -38,5 +38,13 @@
     "username": "bigmouse581",
     "password": "catalina",
     "invokedAt": "2025-02-23T04:00:31.094Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Fitzgerald",
+    "email": "tracy.fitzgerald@example.com",
+    "username": "heavysnake987",
+    "password": "mortgage",
+    "invokedAt": "2025-02-23T05:00:23.052Z"
   }
 ]
