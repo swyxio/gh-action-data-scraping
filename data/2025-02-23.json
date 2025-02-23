@@ -166,5 +166,13 @@
     "username": "goldenbird771",
     "password": "maggie",
     "invokedAt": "2025-02-23T20:00:25.764Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Ekşioğlu",
+    "email": "fatih.eksioglu@example.com",
+    "username": "angrygoose323",
+    "password": "broken",
+    "invokedAt": "2025-02-23T21:00:20.393Z"
   }
 ]
