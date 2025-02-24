@@ -54,5 +54,13 @@
     "username": "bluegoose617",
     "password": "warriors",
     "invokedAt": "2025-02-24T06:00:22.778Z"
+  },
+  {
+    "firstName": "Tiago",
+    "lastName": "Mendes",
+    "email": "tiago.mendes@example.com",
+    "username": "silverleopard143",
+    "password": "mutant",
+    "invokedAt": "2025-02-24T07:00:19.273Z"
   }
 ]
