@@ -86,5 +86,13 @@
     "username": "brownrabbit714",
     "password": "thing",
     "invokedAt": "2025-02-24T10:00:26.278Z"
+  },
+  {
+    "firstName": "Paola",
+    "lastName": "Solís",
+    "email": "paola.solis@example.com",
+    "username": "crazyrabbit510",
+    "password": "dynamite",
+    "invokedAt": "2025-02-24T11:00:21.166Z"
   }
 ]
