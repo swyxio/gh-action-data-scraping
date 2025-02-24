@@ -182,5 +182,13 @@
     "username": "crazyduck201",
     "password": "zephyr",
     "invokedAt": "2025-02-24T22:00:22.364Z"
+  },
+  {
+    "firstName": "Bértil",
+    "lastName": "Novaes",
+    "email": "bertil.novaes@example.com",
+    "username": "blackmouse218",
+    "password": "cards",
+    "invokedAt": "2025-02-24T23:00:18.190Z"
   }
 ]
