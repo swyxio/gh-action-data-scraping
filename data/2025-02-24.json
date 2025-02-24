@@ -150,5 +150,13 @@
     "username": "heavymeercat272",
     "password": "energy",
     "invokedAt": "2025-02-24T18:00:25.147Z"
+  },
+  {
+    "firstName": "Fernand",
+    "lastName": "Meyer",
+    "email": "fernand.meyer@example.com",
+    "username": "redostrich430",
+    "password": "murray",
+    "invokedAt": "2025-02-24T19:00:22.403Z"
   }
 ]
