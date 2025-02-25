@@ -102,5 +102,13 @@
     "username": "happydog931",
     "password": "droopy",
     "invokedAt": "2025-02-25T12:00:23.434Z"
+  },
+  {
+    "firstName": "Anja",
+    "lastName": "Jakovljević",
+    "email": "anja.jakovljevic@example.com",
+    "username": "goldenwolf632",
+    "password": "vbnm",
+    "invokedAt": "2025-02-25T13:05:30.980Z"
   }
 ]
