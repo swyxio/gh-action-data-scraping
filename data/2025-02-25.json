@@ -134,5 +134,13 @@
     "username": "brownduck187",
     "password": "video",
     "invokedAt": "2025-02-25T16:00:19.074Z"
+  },
+  {
+    "firstName": "German",
+    "lastName": "Rodríguez",
+    "email": "german.rodriguez@example.com",
+    "username": "heavylion294",
+    "password": "marlene",
+    "invokedAt": "2025-02-25T17:00:23.329Z"
   }
 ]
