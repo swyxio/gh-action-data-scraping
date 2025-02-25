@@ -126,5 +126,13 @@
     "username": "silverbird106",
     "password": "diver1",
     "invokedAt": "2025-02-25T15:00:24.291Z"
+  },
+  {
+    "firstName": "Noélie",
+    "lastName": "Aubert",
+    "email": "noelie.aubert@example.com",
+    "username": "brownduck187",
+    "password": "video",
+    "invokedAt": "2025-02-25T16:00:19.074Z"
   }
 ]
