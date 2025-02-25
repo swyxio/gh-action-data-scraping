@@ -166,5 +166,13 @@
     "username": "goldencat154",
     "password": "snapon",
     "invokedAt": "2025-02-25T20:00:18.998Z"
+  },
+  {
+    "firstName": "Noelle",
+    "lastName": "Long",
+    "email": "noelle.long@example.com",
+    "username": "heavycat555",
+    "password": "deeper",
+    "invokedAt": "2025-02-25T21:00:29.059Z"
   }
 ]
