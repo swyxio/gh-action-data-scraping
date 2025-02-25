@@ -182,5 +182,13 @@
     "username": "redfish747",
     "password": "1028",
     "invokedAt": "2025-02-25T22:00:22.291Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Møller",
+    "email": "mathias.moller@example.com",
+    "username": "ticklishladybug135",
+    "password": "memorex",
+    "invokedAt": "2025-02-25T23:00:20.729Z"
   }
 ]
