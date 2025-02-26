@@ -142,5 +142,13 @@
     "username": "smallsnake242",
     "password": "vette",
     "invokedAt": "2025-02-26T17:00:19.626Z"
+  },
+  {
+    "firstName": "Eirin",
+    "lastName": "Gunnarsson",
+    "email": "eirin.gunnarsson@example.com",
+    "username": "lazybird233",
+    "password": "insane",
+    "invokedAt": "2025-02-26T18:00:27.798Z"
   }
 ]
