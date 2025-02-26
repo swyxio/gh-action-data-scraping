@@ -94,5 +94,13 @@
     "username": "purplepanda176",
     "password": "biggles",
     "invokedAt": "2025-02-26T11:00:28.724Z"
+  },
+  {
+    "firstName": "Heba",
+    "lastName": "Van der Poel",
+    "email": "heba.vanderpoel@example.com",
+    "username": "blackdog625",
+    "password": "payton",
+    "invokedAt": "2025-02-26T12:00:26.297Z"
   }
 ]
