@@ -102,5 +102,13 @@
     "username": "bluegoose995",
     "password": "memphis",
     "invokedAt": "2025-02-27T12:00:23.133Z"
+  },
+  {
+    "firstName": "Zoé",
+    "lastName": "Moulin",
+    "email": "zoe.moulin@example.com",
+    "username": "biggoose157",
+    "password": "leedsutd",
+    "invokedAt": "2025-02-27T13:05:23.666Z"
   }
 ]
