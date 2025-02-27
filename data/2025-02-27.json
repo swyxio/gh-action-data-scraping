@@ -118,5 +118,13 @@
     "username": "happyostrich977",
     "password": "clarinet",
     "invokedAt": "2025-02-27T14:00:22.495Z"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Ramirez",
+    "email": "jamie.ramirez@example.com",
+    "username": "bluebird205",
+    "password": "redone",
+    "invokedAt": "2025-02-27T15:00:19.575Z"
   }
 ]
