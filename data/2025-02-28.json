@@ -118,5 +118,13 @@
     "username": "whitedog293",
     "password": "times",
     "invokedAt": "2025-02-28T14:00:21.449Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Mckinney",
+    "email": "sam.mckinney@example.com",
+    "username": "redswan161",
+    "password": "yankees",
+    "invokedAt": "2025-02-28T15:00:21.535Z"
   }
 ]
