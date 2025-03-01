@@ -78,5 +78,13 @@
     "username": "blacksnake785",
     "password": "dogbert",
     "invokedAt": "2025-03-01T09:00:21.852Z"
+  },
+  {
+    "firstName": "Ruža",
+    "lastName": "Miljković",
+    "email": "ruza.miljkovic@example.com",
+    "username": "happyswan768",
+    "password": "met2002",
+    "invokedAt": "2025-03-01T10:00:33.146Z"
   }
 ]
