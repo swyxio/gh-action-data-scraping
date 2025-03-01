@@ -30,5 +30,13 @@
     "username": "happyzebra388",
     "password": "phpbb",
     "invokedAt": "2025-03-01T03:10:06.380Z"
+  },
+  {
+    "firstName": "Abhishek",
+    "lastName": "Thampy",
+    "email": "abhishek.thampy@example.com",
+    "username": "redmouse744",
+    "password": "active",
+    "invokedAt": "2025-03-01T04:00:23.597Z"
   }
 ]
