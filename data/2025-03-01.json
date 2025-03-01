@@ -22,5 +22,13 @@
     "username": "redgoose550",
     "password": "roadking",
     "invokedAt": "2025-03-01T02:26:17.086Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Steward",
+    "email": "alice.steward@example.com",
+    "username": "happyzebra388",
+    "password": "phpbb",
+    "invokedAt": "2025-03-01T03:10:06.380Z"
   }
 ]
