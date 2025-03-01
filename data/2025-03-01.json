@@ -166,5 +166,13 @@
     "username": "purplerabbit713",
     "password": "1997",
     "invokedAt": "2025-03-01T20:00:19.913Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Johnson",
+    "email": "oliver.johnson@example.com",
+    "username": "silverswan618",
+    "password": "chat",
+    "invokedAt": "2025-03-01T21:00:25.138Z"
   }
 ]
