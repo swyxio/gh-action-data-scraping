@@ -158,5 +158,13 @@
     "username": "blackdog697",
     "password": "pharmacy",
     "invokedAt": "2025-03-02T19:00:20.888Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Olsen",
+    "email": "christoffer.olsen@example.com",
+    "username": "tinyduck681",
+    "password": "camden",
+    "invokedAt": "2025-03-02T20:00:20.088Z"
   }
 ]
