@@ -70,5 +70,13 @@
     "username": "greenduck424",
     "password": "circle",
     "invokedAt": "2025-03-02T08:00:18.146Z"
+  },
+  {
+    "firstName": "Julio",
+    "lastName": "Rojo",
+    "email": "julio.rojo@example.com",
+    "username": "silverwolf637",
+    "password": "chrono",
+    "invokedAt": "2025-03-02T09:00:29.315Z"
   }
 ]
