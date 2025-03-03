@@ -158,5 +158,13 @@
     "username": "sadduck418",
     "password": "films",
     "invokedAt": "2025-03-03T19:00:21.242Z"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Lecomte",
+    "email": "patrick.lecomte@example.com",
+    "username": "organicswan953",
+    "password": "ping",
+    "invokedAt": "2025-03-03T20:00:29.761Z"
   }
 ]
