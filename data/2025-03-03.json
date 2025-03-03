@@ -150,5 +150,13 @@
     "username": "ticklishbird975",
     "password": "back",
     "invokedAt": "2025-03-03T18:00:27.066Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Poyrazoğlu",
+    "email": "ozkan.poyrazoglu@example.com",
+    "username": "sadduck418",
+    "password": "films",
+    "invokedAt": "2025-03-03T19:00:21.242Z"
   }
 ]
