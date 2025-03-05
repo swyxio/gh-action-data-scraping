@@ -142,5 +142,13 @@
     "username": "heavyfish118",
     "password": "dentist",
     "invokedAt": "2025-03-05T17:00:29.814Z"
+  },
+  {
+    "firstName": "Louison",
+    "lastName": "Fournier",
+    "email": "louison.fournier@example.com",
+    "username": "browncat613",
+    "password": "lake",
+    "invokedAt": "2025-03-05T18:00:24.723Z"
   }
 ]
