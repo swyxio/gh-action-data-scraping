@@ -174,5 +174,13 @@
     "username": "greenlion950",
     "password": "mybaby",
     "invokedAt": "2025-03-05T21:00:20.910Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Mitrović",
+    "email": "anton.mitrovic@example.com",
+    "username": "blackbear200",
+    "password": "toocool",
+    "invokedAt": "2025-03-05T22:00:22.235Z"
   }
 ]
