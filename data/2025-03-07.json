@@ -102,5 +102,13 @@
     "username": "blueelephant173",
     "password": "sergeant",
     "invokedAt": "2025-03-07T12:00:23.513Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Moore",
+    "email": "daniel.moore@example.com",
+    "username": "bluemouse566",
+    "password": "pulled",
+    "invokedAt": "2025-03-07T13:05:14.330Z"
   }
 ]
