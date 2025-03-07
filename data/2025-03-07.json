@@ -166,5 +166,13 @@
     "username": "ticklishbear149",
     "password": "patton",
     "invokedAt": "2025-03-07T20:00:22.503Z"
+  },
+  {
+    "firstName": "Ed",
+    "lastName": "Day",
+    "email": "ed.day@example.com",
+    "username": "heavylion946",
+    "password": "standard",
+    "invokedAt": "2025-03-07T21:00:16.294Z"
   }
 ]
