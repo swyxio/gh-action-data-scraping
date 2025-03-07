@@ -78,5 +78,13 @@
     "username": "bigostrich686",
     "password": "tiburon",
     "invokedAt": "2025-03-07T09:00:18.730Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Jones",
+    "email": "daniel.jones@example.com",
+    "username": "brownswan351",
+    "password": "dogbert",
+    "invokedAt": "2025-03-07T10:00:30.272Z"
   }
 ]
