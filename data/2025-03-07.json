@@ -126,5 +126,13 @@
     "username": "greensnake982",
     "password": "rocker",
     "invokedAt": "2025-03-07T15:00:20.373Z"
+  },
+  {
+    "firstName": "Friederike",
+    "lastName": "Steininger",
+    "email": "friederike.steininger@example.com",
+    "username": "whiterabbit401",
+    "password": "player1",
+    "invokedAt": "2025-03-07T16:00:18.027Z"
   }
 ]
