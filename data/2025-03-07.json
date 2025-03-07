@@ -182,5 +182,13 @@
     "username": "blackswan534",
     "password": "eclipse",
     "invokedAt": "2025-03-07T22:00:28.494Z"
+  },
+  {
+    "firstName": "Calogero",
+    "lastName": "Schütt",
+    "email": "calogero.schutt@example.com",
+    "username": "redpanda943",
+    "password": "beatle",
+    "invokedAt": "2025-03-07T23:00:27.231Z"
   }
 ]
