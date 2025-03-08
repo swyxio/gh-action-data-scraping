@@ -134,5 +134,13 @@
     "username": "goldenfish176",
     "password": "eclipse1",
     "invokedAt": "2025-03-08T16:00:24.158Z"
+  },
+  {
+    "firstName": "Draginja",
+    "lastName": "Ivić",
+    "email": "draginja.ivic@example.com",
+    "username": "angrygorilla195",
+    "password": "mike",
+    "invokedAt": "2025-03-08T17:00:17.118Z"
   }
 ]
