@@ -182,5 +182,13 @@
     "username": "goldenpanda575",
     "password": "slapshot",
     "invokedAt": "2025-03-08T22:00:23.222Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Tokatlıoğlu",
+    "email": "afsar.tokatlioglu@example.com",
+    "username": "ticklishmouse274",
+    "password": "beatles",
+    "invokedAt": "2025-03-08T23:00:18.636Z"
   }
 ]
