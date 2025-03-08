@@ -110,5 +110,13 @@
     "username": "brownlion102",
     "password": "prozac",
     "invokedAt": "2025-03-08T13:00:25.260Z"
+  },
+  {
+    "firstName": "Darren",
+    "lastName": "Fletcher",
+    "email": "darren.fletcher@example.com",
+    "username": "bluelion255",
+    "password": "sf49ers",
+    "invokedAt": "2025-03-08T14:00:16.709Z"
   }
 ]
