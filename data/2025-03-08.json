@@ -174,5 +174,13 @@
     "username": "yellowgoose968",
     "password": "sprout",
     "invokedAt": "2025-03-08T21:00:21.412Z"
+  },
+  {
+    "firstName": "Pinja",
+    "lastName": "Laurila",
+    "email": "pinja.laurila@example.com",
+    "username": "goldenpanda575",
+    "password": "slapshot",
+    "invokedAt": "2025-03-08T22:00:23.222Z"
   }
 ]
