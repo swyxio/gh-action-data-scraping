@@ -78,5 +78,13 @@
     "username": "smallduck739",
     "password": "pinball",
     "invokedAt": "2025-03-10T09:00:23.419Z"
+  },
+  {
+    "firstName": "Hanad",
+    "lastName": "Akin",
+    "email": "hanad.akin@example.com",
+    "username": "redcat654",
+    "password": "098765",
+    "invokedAt": "2025-03-10T10:00:26.314Z"
   }
 ]
