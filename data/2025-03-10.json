@@ -126,5 +126,13 @@
     "username": "purplepanda307",
     "password": "bbbb",
     "invokedAt": "2025-03-10T15:00:29.117Z"
+  },
+  {
+    "firstName": "Vernon",
+    "lastName": "Perkins",
+    "email": "vernon.perkins@example.com",
+    "username": "blacklion892",
+    "password": "woofer",
+    "invokedAt": "2025-03-10T16:00:23.109Z"
   }
 ]
