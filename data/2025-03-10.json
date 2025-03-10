@@ -158,5 +158,13 @@
     "username": "bluemeercat838",
     "password": "friendly",
     "invokedAt": "2025-03-10T20:00:18.106Z"
+  },
+  {
+    "firstName": "Phoebe",
+    "lastName": "Clarke",
+    "email": "phoebe.clarke@example.com",
+    "username": "redladybug827",
+    "password": "brewer",
+    "invokedAt": "2025-03-10T21:00:20.204Z"
   }
 ]
