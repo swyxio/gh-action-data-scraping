@@ -150,5 +150,13 @@
     "username": "blackpanda428",
     "password": "sting",
     "invokedAt": "2025-03-10T19:00:25.798Z"
+  },
+  {
+    "firstName": "Håvard",
+    "lastName": "Gleditsch",
+    "email": "havard.gleditsch@example.com",
+    "username": "bluemeercat838",
+    "password": "friendly",
+    "invokedAt": "2025-03-10T20:00:18.106Z"
   }
 ]
