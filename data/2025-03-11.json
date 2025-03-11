@@ -78,5 +78,13 @@
     "username": "goldenbird690",
     "password": "1993",
     "invokedAt": "2025-03-11T09:00:21.424Z"
+  },
+  {
+    "firstName": "Branko",
+    "lastName": "Zelenović",
+    "email": "branko.zelenovic@example.com",
+    "username": "organicsnake527",
+    "password": "brown",
+    "invokedAt": "2025-03-11T10:00:22.536Z"
   }
 ]
