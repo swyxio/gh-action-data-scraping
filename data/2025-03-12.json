@@ -78,5 +78,13 @@
     "username": "sadwolf426",
     "password": "uptown",
     "invokedAt": "2025-03-12T09:00:22.136Z"
+  },
+  {
+    "firstName": "Beau",
+    "lastName": "Evans",
+    "email": "beau.evans@example.com",
+    "username": "browncat210",
+    "password": "engine",
+    "invokedAt": "2025-03-12T10:00:19.157Z"
   }
 ]
