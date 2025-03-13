@@ -94,5 +94,13 @@
     "username": "goldenfrog112",
     "password": "01234567",
     "invokedAt": "2025-03-13T11:00:28.187Z"
+  },
+  {
+    "firstName": "Svyatoslav",
+    "lastName": "Yanovska",
+    "email": "svyatoslav.yanovska@example.com",
+    "username": "crazywolf699",
+    "password": "mason1",
+    "invokedAt": "2025-03-13T14:00:22.547Z"
   }
 ]
