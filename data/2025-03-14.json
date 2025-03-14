@@ -118,5 +118,13 @@
     "username": "tinytiger898",
     "password": "west",
     "invokedAt": "2025-03-14T14:00:23.154Z"
+  },
+  {
+    "firstName": "Ruslana",
+    "lastName": "Stošić",
+    "email": "ruslana.stosic@example.com",
+    "username": "orangesnake456",
+    "password": "adriana",
+    "invokedAt": "2025-03-14T15:00:22.889Z"
   }
 ]
