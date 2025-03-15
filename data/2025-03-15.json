@@ -102,5 +102,13 @@
     "username": "brownzebra423",
     "password": "pppp",
     "invokedAt": "2025-03-15T12:00:27.249Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Hernandez",
+    "email": "liam.hernandez@example.com",
+    "username": "bluedog886",
+    "password": "kimball",
+    "invokedAt": "2025-03-15T13:03:21.436Z"
   }
 ]
