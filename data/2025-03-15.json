@@ -62,5 +62,13 @@
     "username": "heavytiger371",
     "password": "gateway1",
     "invokedAt": "2025-03-15T07:00:23.253Z"
+  },
+  {
+    "firstName": "Camila",
+    "lastName": "Mesa",
+    "email": "camila.mesa@example.com",
+    "username": "brownwolf111",
+    "password": "smokey",
+    "invokedAt": "2025-03-15T08:00:21.548Z"
   }
 ]
