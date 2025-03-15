@@ -38,5 +38,13 @@
     "username": "crazygoose123",
     "password": "ground",
     "invokedAt": "2025-03-15T04:00:16.826Z"
+  },
+  {
+    "firstName": "Rozhden",
+    "lastName": "Chudiyovich",
+    "email": "rozhden.chudiyovich@example.com",
+    "username": "angrybear223",
+    "password": "season",
+    "invokedAt": "2025-03-15T05:00:18.112Z"
   }
 ]
