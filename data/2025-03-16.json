@@ -174,5 +174,13 @@
     "username": "reddog364",
     "password": "24680",
     "invokedAt": "2025-03-16T21:00:23.139Z"
+  },
+  {
+    "firstName": "Boško",
+    "lastName": "Kalinić",
+    "email": "bosko.kalinic@example.com",
+    "username": "crazybear926",
+    "password": "surfing",
+    "invokedAt": "2025-03-16T22:00:21.922Z"
   }
 ]
