@@ -134,5 +134,13 @@
     "username": "blackcat369",
     "password": "handball",
     "invokedAt": "2025-03-17T16:00:19.850Z"
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Chu",
+    "email": "theo.chu@example.com",
+    "username": "tinykoala739",
+    "password": "pounding",
+    "invokedAt": "2025-03-17T17:00:20.947Z"
   }
 ]
