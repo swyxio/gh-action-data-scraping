@@ -158,5 +158,13 @@
     "username": "greengoose451",
     "password": "site",
     "invokedAt": "2025-03-18T19:00:20.210Z"
+  },
+  {
+    "firstName": "Ilan",
+    "lastName": "Lecomte",
+    "email": "ilan.lecomte@example.com",
+    "username": "sadleopard401",
+    "password": "benfica",
+    "invokedAt": "2025-03-18T20:00:21.146Z"
   }
 ]
