@@ -126,5 +126,13 @@
     "username": "browntiger757",
     "password": "1000",
     "invokedAt": "2025-03-18T15:00:19.778Z"
+  },
+  {
+    "firstName": "Parv",
+    "lastName": "Bal",
+    "email": "parv.bal@example.com",
+    "username": "goldenmeercat757",
+    "password": "qazwsxed",
+    "invokedAt": "2025-03-18T16:00:23.236Z"
   }
 ]
