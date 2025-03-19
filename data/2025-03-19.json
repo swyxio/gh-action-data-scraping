@@ -70,5 +70,13 @@
     "username": "blackpanda546",
     "password": "mustang6",
     "invokedAt": "2025-03-19T08:00:33.789Z"
+  },
+  {
+    "firstName": "Luis Miguel",
+    "lastName": "Melgar",
+    "email": "luismiguel.melgar@example.com",
+    "username": "purpleleopard162",
+    "password": "dodge",
+    "invokedAt": "2025-03-19T09:00:25.474Z"
   }
 ]
