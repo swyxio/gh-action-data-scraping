@@ -78,5 +78,13 @@
     "username": "purpleleopard162",
     "password": "dodge",
     "invokedAt": "2025-03-19T09:00:25.474Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Rodriguez",
+    "email": "victor.rodriguez@example.com",
+    "username": "ticklishdog102",
+    "password": "tongue",
+    "invokedAt": "2025-03-19T10:00:19.847Z"
   }
 ]
