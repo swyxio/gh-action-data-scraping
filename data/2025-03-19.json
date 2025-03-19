@@ -54,5 +54,13 @@
     "username": "bluerabbit251",
     "password": "razor",
     "invokedAt": "2025-03-19T06:00:24.835Z"
+  },
+  {
+    "firstName": "Alonso",
+    "lastName": "Arguello",
+    "email": "alonso.arguello@example.com",
+    "username": "sadfish609",
+    "password": "pounded",
+    "invokedAt": "2025-03-19T07:00:21.359Z"
   }
 ]
