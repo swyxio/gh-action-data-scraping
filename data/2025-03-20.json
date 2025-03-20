@@ -126,5 +126,13 @@
     "username": "bigelephant120",
     "password": "tower",
     "invokedAt": "2025-03-20T15:00:20.103Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Márquez",
+    "email": "albert.marquez@example.com",
+    "username": "organicfish383",
+    "password": "manager",
+    "invokedAt": "2025-03-20T16:00:26.673Z"
   }
 ]
