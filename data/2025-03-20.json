@@ -150,5 +150,13 @@
     "username": "tinycat755",
     "password": "pinball",
     "invokedAt": "2025-03-20T18:00:30.990Z"
+  },
+  {
+    "firstName": "Milja",
+    "lastName": "Aalto",
+    "email": "milja.aalto@example.com",
+    "username": "bluegorilla878",
+    "password": "tinman",
+    "invokedAt": "2025-03-20T19:00:26.256Z"
   }
 ]
