@@ -142,5 +142,13 @@
     "username": "ticklishpeacock897",
     "password": "yeah",
     "invokedAt": "2025-03-20T17:00:23.031Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Larsen",
+    "email": "laura.larsen@example.com",
+    "username": "tinycat755",
+    "password": "pinball",
+    "invokedAt": "2025-03-20T18:00:30.990Z"
   }
 ]
