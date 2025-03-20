@@ -158,5 +158,13 @@
     "username": "bluegorilla878",
     "password": "tinman",
     "invokedAt": "2025-03-20T19:00:26.256Z"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Harcourt",
+    "email": "jade.harcourt@example.com",
+    "username": "heavyzebra352",
+    "password": "puck",
+    "invokedAt": "2025-03-20T20:00:29.590Z"
   }
 ]
