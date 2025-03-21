@@ -102,5 +102,13 @@
     "username": "yellowleopard964",
     "password": "nuggets",
     "invokedAt": "2025-03-21T12:00:34.386Z"
+  },
+  {
+    "firstName": "Mestan",
+    "lastName": "Sepetçi",
+    "email": "mestan.sepetci@example.com",
+    "username": "bigfrog935",
+    "password": "member",
+    "invokedAt": "2025-03-21T13:05:46.670Z"
   }
 ]
