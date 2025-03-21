@@ -166,5 +166,13 @@
     "username": "brownduck830",
     "password": "glacier",
     "invokedAt": "2025-03-21T20:00:21.240Z"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Çamdalı",
+    "email": "mehmet.camdali@example.com",
+    "username": "silverbird632",
+    "password": "usnavy",
+    "invokedAt": "2025-03-21T21:00:17.857Z"
   }
 ]
