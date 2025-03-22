@@ -142,5 +142,13 @@
     "username": "bluepeacock931",
     "password": "trombone",
     "invokedAt": "2025-03-22T17:00:18.163Z"
+  },
+  {
+    "firstName": "Wieger",
+    "lastName": "Martis",
+    "email": "wieger.martis@example.com",
+    "username": "smallgorilla444",
+    "password": "traffic",
+    "invokedAt": "2025-03-22T18:00:20.172Z"
   }
 ]
