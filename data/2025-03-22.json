@@ -134,5 +134,13 @@
     "username": "bigwolf616",
     "password": "hiphop",
     "invokedAt": "2025-03-22T16:00:25.981Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "González",
+    "email": "alberto.gonzalez@example.com",
+    "username": "bluepeacock931",
+    "password": "trombone",
+    "invokedAt": "2025-03-22T17:00:18.163Z"
   }
 ]
