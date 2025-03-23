@@ -86,5 +86,13 @@
     "username": "redsnake182",
     "password": "trees",
     "invokedAt": "2025-03-23T10:00:19.598Z"
+  },
+  {
+    "firstName": "Felipe",
+    "lastName": "López",
+    "email": "felipe.lopez@example.com",
+    "username": "greengoose369",
+    "password": "thegame",
+    "invokedAt": "2025-03-23T11:00:22.839Z"
   }
 ]
