@@ -94,5 +94,13 @@
     "username": "greengoose369",
     "password": "thegame",
     "invokedAt": "2025-03-23T11:00:22.839Z"
+  },
+  {
+    "firstName": "Byron",
+    "lastName": "Pierce",
+    "email": "byron.pierce@example.com",
+    "username": "redostrich513",
+    "password": "brain",
+    "invokedAt": "2025-03-23T12:00:30.172Z"
   }
 ]
