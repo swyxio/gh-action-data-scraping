@@ -102,5 +102,13 @@
     "username": "yellowgoose335",
     "password": "band",
     "invokedAt": "2025-03-24T12:00:31.213Z"
+  },
+  {
+    "firstName": "Henri",
+    "lastName": "Aubert",
+    "email": "henri.aubert@example.com",
+    "username": "silvergoose836",
+    "password": "itsme",
+    "invokedAt": "2025-03-24T13:06:56.912Z"
   }
 ]
