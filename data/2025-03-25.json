@@ -142,5 +142,13 @@
     "username": "ticklishdog328",
     "password": "bricks",
     "invokedAt": "2025-03-25T17:00:23.203Z"
+  },
+  {
+    "firstName": "Jacek",
+    "lastName": "Niebuhr",
+    "email": "jacek.niebuhr@example.com",
+    "username": "crazywolf777",
+    "password": "select",
+    "invokedAt": "2025-03-25T18:00:19.922Z"
   }
 ]
