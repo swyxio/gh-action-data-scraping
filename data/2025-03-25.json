@@ -166,5 +166,13 @@
     "username": "happyfish408",
     "password": "java",
     "invokedAt": "2025-03-25T20:00:22.109Z"
+  },
+  {
+    "firstName": "Borka",
+    "lastName": "Ivanović",
+    "email": "borka.ivanovic@example.com",
+    "username": "silverrabbit534",
+    "password": "liao",
+    "invokedAt": "2025-03-25T21:00:20.389Z"
   }
 ]
