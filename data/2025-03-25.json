@@ -158,5 +158,13 @@
     "username": "happyleopard998",
     "password": "quan",
     "invokedAt": "2025-03-25T19:00:27.651Z"
+  },
+  {
+    "firstName": "Zinoviy",
+    "lastName": "Dvorzhicki",
+    "email": "zinoviy.dvorzhicki@example.com",
+    "username": "happyfish408",
+    "password": "java",
+    "invokedAt": "2025-03-25T20:00:22.109Z"
   }
 ]
