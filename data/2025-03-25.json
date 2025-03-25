@@ -134,5 +134,13 @@
     "username": "bigostrich181",
     "password": "roll",
     "invokedAt": "2025-03-25T16:00:24.254Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Akaydın",
+    "email": "ege.akaydin@example.com",
+    "username": "ticklishdog328",
+    "password": "bricks",
+    "invokedAt": "2025-03-25T17:00:23.203Z"
   }
 ]
