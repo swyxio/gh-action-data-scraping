@@ -182,5 +182,13 @@
     "username": "orangesnake629",
     "password": "jazzman",
     "invokedAt": "2025-03-26T22:00:15.916Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Dunn",
+    "email": "marc.dunn@example.com",
+    "username": "whitelion392",
+    "password": "incubus",
+    "invokedAt": "2025-03-26T23:00:31.279Z"
   }
 ]
