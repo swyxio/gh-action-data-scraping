@@ -166,5 +166,13 @@
     "username": "bigmeercat302",
     "password": "cicero",
     "invokedAt": "2025-03-27T20:00:19.297Z"
+  },
+  {
+    "firstName": "Octavio",
+    "lastName": "Arguello",
+    "email": "octavio.arguello@example.com",
+    "username": "tinymeercat802",
+    "password": "jacob1",
+    "invokedAt": "2025-03-27T21:00:27.039Z"
   }
 ]
