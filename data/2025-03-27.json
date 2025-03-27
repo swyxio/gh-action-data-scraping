@@ -134,5 +134,13 @@
     "username": "yellowgorilla130",
     "password": "sparkle",
     "invokedAt": "2025-03-27T16:00:26.919Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Chu",
+    "email": "ryan.chu@example.com",
+    "username": "sadbear983",
+    "password": "shinobi",
+    "invokedAt": "2025-03-27T17:00:17.674Z"
   }
 ]
