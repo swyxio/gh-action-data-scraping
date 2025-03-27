@@ -126,5 +126,13 @@
     "username": "tinysnake978",
     "password": "bread",
     "invokedAt": "2025-03-27T15:00:24.702Z"
+  },
+  {
+    "firstName": "Milica",
+    "lastName": "Mihajlović",
+    "email": "milica.mihajlovic@example.com",
+    "username": "yellowgorilla130",
+    "password": "sparkle",
+    "invokedAt": "2025-03-27T16:00:26.919Z"
   }
 ]
