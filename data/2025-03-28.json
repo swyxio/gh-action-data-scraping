@@ -126,5 +126,13 @@
     "username": "sadbutterfly252",
     "password": "shuttle",
     "invokedAt": "2025-03-28T15:00:22.380Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Nicolaisen",
+    "email": "laura.nicolaisen@example.com",
+    "username": "crazyleopard182",
+    "password": "ernest",
+    "invokedAt": "2025-03-28T16:00:23.584Z"
   }
 ]
