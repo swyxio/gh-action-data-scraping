@@ -182,5 +182,13 @@
     "username": "bluebear291",
     "password": "newyork",
     "invokedAt": "2025-03-29T22:00:38.397Z"
+  },
+  {
+    "firstName": "Dírio",
+    "lastName": "Silveira",
+    "email": "dirio.silveira@example.com",
+    "username": "crazyfish578",
+    "password": "dude",
+    "invokedAt": "2025-03-29T23:00:25.176Z"
   }
 ]
