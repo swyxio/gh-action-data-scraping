@@ -126,5 +126,13 @@
     "username": "beautifulkoala503",
     "password": "scooter",
     "invokedAt": "2025-03-29T15:00:23.548Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Wallo",
+    "email": "vaino.wallo@example.com",
+    "username": "blueswan523",
+    "password": "womam",
+    "invokedAt": "2025-03-29T16:00:25.679Z"
   }
 ]
