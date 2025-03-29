@@ -62,5 +62,13 @@
     "username": "bigpanda699",
     "password": "dome",
     "invokedAt": "2025-03-29T07:00:16.799Z"
+  },
+  {
+    "firstName": "Gorpina",
+    "lastName": "Shramko",
+    "email": "gorpina.shramko@example.com",
+    "username": "redgoose934",
+    "password": "knight",
+    "invokedAt": "2025-03-29T08:00:18.857Z"
   }
 ]
