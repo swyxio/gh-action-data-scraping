@@ -174,5 +174,13 @@
     "username": "ticklishostrich402",
     "password": "1313",
     "invokedAt": "2025-03-29T21:00:23.159Z"
+  },
+  {
+    "firstName": "Božidar",
+    "lastName": "Vilotić",
+    "email": "bozidar.vilotic@example.com",
+    "username": "bluebear291",
+    "password": "newyork",
+    "invokedAt": "2025-03-29T22:00:38.397Z"
   }
 ]
