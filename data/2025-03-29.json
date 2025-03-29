@@ -46,5 +46,13 @@
     "username": "sadmeercat430",
     "password": "charity",
     "invokedAt": "2025-03-29T05:00:21.266Z"
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Bishop",
+    "email": "elizabeth.bishop@example.com",
+    "username": "brownmeercat419",
+    "password": "oceans",
+    "invokedAt": "2025-03-29T06:00:17.858Z"
   }
 ]
