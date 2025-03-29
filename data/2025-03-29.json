@@ -166,5 +166,13 @@
     "username": "goldenbear205",
     "password": "linkin",
     "invokedAt": "2025-03-29T20:00:19.056Z"
+  },
+  {
+    "firstName": "Gilbert",
+    "lastName": "Guerin",
+    "email": "gilbert.guerin@example.com",
+    "username": "ticklishostrich402",
+    "password": "1313",
+    "invokedAt": "2025-03-29T21:00:23.159Z"
   }
 ]
