@@ -46,5 +46,13 @@
     "username": "purpledog501",
     "password": "belmont",
     "invokedAt": "2025-03-30T05:00:23.312Z"
+  },
+  {
+    "firstName": "Lyubomir",
+    "lastName": "Teplickiy",
+    "email": "lyubomir.teplickiy@example.com",
+    "username": "whitedog447",
+    "password": "logitech",
+    "invokedAt": "2025-03-30T06:00:26.411Z"
   }
 ]
