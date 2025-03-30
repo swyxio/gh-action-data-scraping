@@ -38,5 +38,13 @@
     "username": "orangepanda918",
     "password": "connor",
     "invokedAt": "2025-03-30T04:00:19.460Z"
+  },
+  {
+    "firstName": "Madhav",
+    "lastName": "Kouser",
+    "email": "madhav.kouser@example.com",
+    "username": "purpledog501",
+    "password": "belmont",
+    "invokedAt": "2025-03-30T05:00:23.312Z"
   }
 ]
