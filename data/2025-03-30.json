@@ -54,5 +54,13 @@
     "username": "whitedog447",
     "password": "logitech",
     "invokedAt": "2025-03-30T06:00:26.411Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Tolonen",
+    "email": "sara.tolonen@example.com",
+    "username": "bluezebra758",
+    "password": "florian",
+    "invokedAt": "2025-03-30T07:00:28.051Z"
   }
 ]
