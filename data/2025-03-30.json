@@ -126,5 +126,13 @@
     "username": "greengorilla755",
     "password": "capital",
     "invokedAt": "2025-03-30T15:00:18.588Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Kristensen",
+    "email": "jonas.kristensen@example.com",
+    "username": "orangefrog171",
+    "password": "kingpin",
+    "invokedAt": "2025-03-30T16:00:30.207Z"
   }
 ]
