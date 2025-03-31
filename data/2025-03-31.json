@@ -142,5 +142,13 @@
     "username": "goldenbear888",
     "password": "anderson",
     "invokedAt": "2025-03-31T17:00:19.232Z"
+  },
+  {
+    "firstName": "Sietze",
+    "lastName": "Geers",
+    "email": "sietze.geers@example.com",
+    "username": "bluetiger538",
+    "password": "option",
+    "invokedAt": "2025-03-31T18:00:20.923Z"
   }
 ]
