@@ -182,5 +182,13 @@
     "username": "smallfrog596",
     "password": "147258",
     "invokedAt": "2025-03-31T22:00:29.124Z"
+  },
+  {
+    "firstName": "Villads",
+    "lastName": "Larsen",
+    "email": "villads.larsen@example.com",
+    "username": "organicbird404",
+    "password": "thegame",
+    "invokedAt": "2025-03-31T23:00:18.215Z"
   }
 ]
