@@ -78,5 +78,13 @@
     "username": "bigtiger474",
     "password": "1943",
     "invokedAt": "2025-03-31T09:00:20.919Z"
+  },
+  {
+    "firstName": "Dobrivod",
+    "lastName": "Gulak",
+    "email": "dobrivod.gulak@example.com",
+    "username": "whiteduck209",
+    "password": "trebor",
+    "invokedAt": "2025-03-31T10:00:19.014Z"
   }
 ]
