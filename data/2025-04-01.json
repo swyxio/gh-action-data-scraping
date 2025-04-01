@@ -182,5 +182,13 @@
     "username": "ticklishduck659",
     "password": "town",
     "invokedAt": "2025-04-01T22:00:22.939Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Jørgensen",
+    "email": "ella.jorgensen@example.com",
+    "username": "ticklishlion384",
+    "password": "seadog",
+    "invokedAt": "2025-04-01T23:00:26.420Z"
   }
 ]
