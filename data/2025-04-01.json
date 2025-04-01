@@ -54,5 +54,13 @@
     "username": "purplefish585",
     "password": "engage",
     "invokedAt": "2025-04-01T06:00:18.747Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Harris",
+    "email": "vincent.harris@example.com",
+    "username": "purpleladybug602",
+    "password": "global",
+    "invokedAt": "2025-04-01T07:00:21.230Z"
   }
 ]
