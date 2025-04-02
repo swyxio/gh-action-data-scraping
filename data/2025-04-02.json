@@ -38,5 +38,13 @@
     "username": "organicwolf500",
     "password": "salesman",
     "invokedAt": "2025-04-02T04:00:22.252Z"
+  },
+  {
+    "firstName": "Barnabé",
+    "lastName": "Sales",
+    "email": "barnabe.sales@example.com",
+    "username": "ticklishgorilla123",
+    "password": "pepper",
+    "invokedAt": "2025-04-02T05:00:24.079Z"
   }
 ]
