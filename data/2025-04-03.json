@@ -166,5 +166,13 @@
     "username": "yellowladybug849",
     "password": "clean",
     "invokedAt": "2025-04-03T20:00:23.296Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Clark",
+    "email": "alex.clark@example.com",
+    "username": "bigpeacock357",
+    "password": "duffer",
+    "invokedAt": "2025-04-03T21:00:18.392Z"
   }
 ]
