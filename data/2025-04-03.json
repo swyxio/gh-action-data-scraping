@@ -142,5 +142,13 @@
     "username": "whiterabbit951",
     "password": "hawkeye",
     "invokedAt": "2025-04-03T17:00:22.331Z"
+  },
+  {
+    "firstName": "Meta",
+    "lastName": "Hofbauer",
+    "email": "meta.hofbauer@example.com",
+    "username": "lazysnake594",
+    "password": "xerxes",
+    "invokedAt": "2025-04-03T18:00:37.123Z"
   }
 ]
