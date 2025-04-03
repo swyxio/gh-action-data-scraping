@@ -174,5 +174,13 @@
     "username": "bigpeacock357",
     "password": "duffer",
     "invokedAt": "2025-04-03T21:00:18.392Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Roy",
+    "email": "charlie.roy@example.com",
+    "username": "redladybug597",
+    "password": "django",
+    "invokedAt": "2025-04-03T22:00:19.150Z"
   }
 ]
