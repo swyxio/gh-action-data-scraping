@@ -78,5 +78,13 @@
     "username": "ticklishduck640",
     "password": "bizkit",
     "invokedAt": "2025-04-05T09:00:16.780Z"
+  },
+  {
+    "firstName": "Abby",
+    "lastName": "Johnson",
+    "email": "abby.johnson@example.com",
+    "username": "crazyswan529",
+    "password": "geheim",
+    "invokedAt": "2025-04-05T10:00:21.017Z"
   }
 ]
