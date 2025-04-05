@@ -126,5 +126,13 @@
     "username": "bigbird354",
     "password": "pinkfloyd",
     "invokedAt": "2025-04-05T15:00:19.201Z"
+  },
+  {
+    "firstName": "Giray",
+    "lastName": "Saygıner",
+    "email": "giray.sayginer@example.com",
+    "username": "silverwolf236",
+    "password": "wrench",
+    "invokedAt": "2025-04-05T16:00:29.959Z"
   }
 ]
