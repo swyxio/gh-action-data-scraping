@@ -118,5 +118,13 @@
     "username": "heavyelephant957",
     "password": "lickit",
     "invokedAt": "2025-04-06T14:00:20.816Z"
+  },
+  {
+    "firstName": "Vadim",
+    "lastName": "Van Oort",
+    "email": "vadim.vanoort@example.com",
+    "username": "smallbird330",
+    "password": "holidays",
+    "invokedAt": "2025-04-06T15:00:18.803Z"
   }
 ]
