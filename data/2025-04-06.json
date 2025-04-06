@@ -142,5 +142,13 @@
     "username": "goldengorilla716",
     "password": "playoffs",
     "invokedAt": "2025-04-06T17:00:15.983Z"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "French",
+    "email": "anthony.french@example.com",
+    "username": "brownmouse739",
+    "password": "mars",
+    "invokedAt": "2025-04-06T18:00:22.026Z"
   }
 ]
