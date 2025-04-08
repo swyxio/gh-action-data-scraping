@@ -86,5 +86,13 @@
     "username": "browndog280",
     "password": "huge",
     "invokedAt": "2025-04-08T10:00:19.081Z"
+  },
+  {
+    "firstName": "Freya",
+    "lastName": "Halden",
+    "email": "freya.halden@example.com",
+    "username": "angrylion360",
+    "password": "husker",
+    "invokedAt": "2025-04-08T11:00:20.733Z"
   }
 ]
