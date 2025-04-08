@@ -126,5 +126,13 @@
     "username": "lazybird352",
     "password": "charisma",
     "invokedAt": "2025-04-08T15:00:20.405Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Lavigne",
+    "email": "simon.lavigne@example.com",
+    "username": "brownwolf119",
+    "password": "massive",
+    "invokedAt": "2025-04-08T16:00:19.168Z"
   }
 ]
