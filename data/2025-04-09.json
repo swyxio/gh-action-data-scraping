@@ -126,5 +126,13 @@
     "username": "yellowfish102",
     "password": "unicorn",
     "invokedAt": "2025-04-09T15:00:27.585Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Santana",
+    "email": "alvaro.santana@example.com",
+    "username": "greenzebra791",
+    "password": "domingo",
+    "invokedAt": "2025-04-09T16:00:23.096Z"
   }
 ]
