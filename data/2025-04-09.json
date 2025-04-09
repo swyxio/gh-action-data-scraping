@@ -174,5 +174,13 @@
     "username": "heavykoala880",
     "password": "bikini",
     "invokedAt": "2025-04-09T21:00:18.184Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Lahti",
+    "email": "aleksi.lahti@example.com",
+    "username": "whitegorilla750",
+    "password": "1passwor",
+    "invokedAt": "2025-04-09T22:00:22.333Z"
   }
 ]
