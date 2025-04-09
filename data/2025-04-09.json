@@ -70,5 +70,13 @@
     "username": "silverzebra488",
     "password": "altoids",
     "invokedAt": "2025-04-09T08:00:32.448Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Porter",
+    "email": "felix.porter@example.com",
+    "username": "bluebear115",
+    "password": "carlo",
+    "invokedAt": "2025-04-09T09:00:22.188Z"
   }
 ]
