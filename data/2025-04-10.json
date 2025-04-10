@@ -166,5 +166,13 @@
     "username": "bigpanda915",
     "password": "frozen",
     "invokedAt": "2025-04-10T20:00:20.161Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Samancı",
+    "email": "coskun.samanci@example.com",
+    "username": "angrykoala226",
+    "password": "1983",
+    "invokedAt": "2025-04-10T21:00:21.162Z"
   }
 ]
