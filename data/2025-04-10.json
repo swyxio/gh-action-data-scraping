@@ -174,5 +174,13 @@
     "username": "angrykoala226",
     "password": "1983",
     "invokedAt": "2025-04-10T21:00:21.162Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Tokatlıoğlu",
+    "email": "babur.tokatlioglu@example.com",
+    "username": "smallostrich429",
+    "password": "pantera",
+    "invokedAt": "2025-04-10T22:00:25.671Z"
   }
 ]
