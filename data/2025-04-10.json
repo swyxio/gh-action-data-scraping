@@ -38,5 +38,13 @@
     "username": "whitegoose450",
     "password": "scuba",
     "invokedAt": "2025-04-10T04:00:23.376Z"
+  },
+  {
+    "firstName": "Eetu",
+    "lastName": "Hokkanen",
+    "email": "eetu.hokkanen@example.com",
+    "username": "purplepanda282",
+    "password": "colors",
+    "invokedAt": "2025-04-10T05:00:22.366Z"
   }
 ]
