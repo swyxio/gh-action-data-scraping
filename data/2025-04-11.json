@@ -118,5 +118,13 @@
     "username": "purplegorilla849",
     "password": "public",
     "invokedAt": "2025-04-11T14:00:26.629Z"
+  },
+  {
+    "firstName": "Marco",
+    "lastName": "Gallardo",
+    "email": "marco.gallardo@example.com",
+    "username": "happyelephant462",
+    "password": "baddest",
+    "invokedAt": "2025-04-11T15:00:26.173Z"
   }
 ]
