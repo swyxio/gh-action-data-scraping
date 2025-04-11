@@ -126,5 +126,13 @@
     "username": "happyelephant462",
     "password": "baddest",
     "invokedAt": "2025-04-11T15:00:26.173Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Hughes",
+    "email": "jerry.hughes@example.com",
+    "username": "heavyfish431",
+    "password": "clover",
+    "invokedAt": "2025-04-11T16:00:19.921Z"
   }
 ]
