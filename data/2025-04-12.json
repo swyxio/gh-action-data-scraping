@@ -110,5 +110,13 @@
     "username": "purplefish639",
     "password": "public",
     "invokedAt": "2025-04-12T13:04:10.319Z"
+  },
+  {
+    "firstName": "Roman",
+    "lastName": "Edwards",
+    "email": "roman.edwards@example.com",
+    "username": "blackzebra924",
+    "password": "chan",
+    "invokedAt": "2025-04-12T14:00:16.866Z"
   }
 ]
