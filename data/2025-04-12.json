@@ -46,5 +46,13 @@
     "username": "greenfish272",
     "password": "ghetto",
     "invokedAt": "2025-04-12T05:00:20.909Z"
+  },
+  {
+    "firstName": "Katie",
+    "lastName": "Porter",
+    "email": "katie.porter@example.com",
+    "username": "brownfish442",
+    "password": "ireland",
+    "invokedAt": "2025-04-12T06:00:23.639Z"
   }
 ]
