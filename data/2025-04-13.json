@@ -62,5 +62,13 @@
     "username": "bigbird172",
     "password": "netscape",
     "invokedAt": "2025-04-13T07:00:17.884Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Christensen",
+    "email": "alfred.christensen@example.com",
+    "username": "bluefrog753",
+    "password": "kent",
+    "invokedAt": "2025-04-13T08:00:20.380Z"
   }
 ]
