@@ -158,5 +158,13 @@
     "username": "whitefrog277",
     "password": "splurge",
     "invokedAt": "2025-04-13T19:00:18.072Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Black",
+    "email": "ryan.black@example.com",
+    "username": "goldenpanda310",
+    "password": "denver",
+    "invokedAt": "2025-04-13T20:00:22.705Z"
   }
 ]
