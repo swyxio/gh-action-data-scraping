@@ -182,5 +182,13 @@
     "username": "brownzebra692",
     "password": "hooter",
     "invokedAt": "2025-04-14T22:00:16.795Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Singh",
+    "email": "kate.singh@example.com",
+    "username": "sadduck999",
+    "password": "illusion",
+    "invokedAt": "2025-04-14T23:00:17.825Z"
   }
 ]
