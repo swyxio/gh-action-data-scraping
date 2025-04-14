@@ -166,5 +166,13 @@
     "username": "organicfish223",
     "password": "systems",
     "invokedAt": "2025-04-14T20:00:28.314Z"
+  },
+  {
+    "firstName": "Violet",
+    "lastName": "Thomas",
+    "email": "violet.thomas@example.com",
+    "username": "reddog993",
+    "password": "bryant",
+    "invokedAt": "2025-04-14T21:00:23.370Z"
   }
 ]
