@@ -142,5 +142,13 @@
     "username": "redelephant443",
     "password": "myspace1",
     "invokedAt": "2025-04-15T17:00:23.263Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "James",
+    "email": "alex.james@example.com",
+    "username": "organicbutterfly767",
+    "password": "squeeze",
+    "invokedAt": "2025-04-15T18:00:20.218Z"
   }
 ]
