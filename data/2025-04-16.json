@@ -166,5 +166,13 @@
     "username": "tinybird204",
     "password": "stephanie",
     "invokedAt": "2025-04-16T20:00:19.143Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Velioğlu",
+    "email": "ulku.velioglu@example.com",
+    "username": "tinykoala467",
+    "password": "3131",
+    "invokedAt": "2025-04-16T21:00:18.007Z"
   }
 ]
