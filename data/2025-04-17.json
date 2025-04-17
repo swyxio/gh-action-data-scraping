@@ -110,5 +110,13 @@
     "username": "redfrog403",
     "password": "cccccccc",
     "invokedAt": "2025-04-17T13:07:16.154Z"
+  },
+  {
+    "firstName": "Mirna",
+    "lastName": "Živković",
+    "email": "mirna.zivkovic@example.com",
+    "username": "silverfrog949",
+    "password": "white",
+    "invokedAt": "2025-04-17T14:00:32.949Z"
   }
 ]
