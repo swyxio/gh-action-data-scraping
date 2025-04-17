@@ -126,5 +126,13 @@
     "username": "tinylion314",
     "password": "velvet",
     "invokedAt": "2025-04-17T15:00:22.688Z"
+  },
+  {
+    "firstName": "Danilo",
+    "lastName": "Cvejić",
+    "email": "danilo.cvejic@example.com",
+    "username": "ticklishostrich715",
+    "password": "hunter1",
+    "invokedAt": "2025-04-17T16:00:18.057Z"
   }
 ]
