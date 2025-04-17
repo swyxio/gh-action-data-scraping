@@ -38,5 +38,13 @@
     "username": "purpleduck214",
     "password": "1954",
     "invokedAt": "2025-04-17T04:00:18.137Z"
+  },
+  {
+    "firstName": "Flenn",
+    "lastName": "Nguyen",
+    "email": "flenn.nguyen@example.com",
+    "username": "bigduck886",
+    "password": "airplane",
+    "invokedAt": "2025-04-17T05:00:22.939Z"
   }
 ]
