@@ -142,5 +142,13 @@
     "username": "lazyswan512",
     "password": "whatsup",
     "invokedAt": "2025-04-19T17:00:19.283Z"
+  },
+  {
+    "firstName": "Hartmut",
+    "lastName": "Weimann",
+    "email": "hartmut.weimann@example.com",
+    "username": "orangepeacock803",
+    "password": "starwars",
+    "invokedAt": "2025-04-19T18:00:23.068Z"
   }
 ]
