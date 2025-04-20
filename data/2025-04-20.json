@@ -46,5 +46,13 @@
     "username": "redpeacock553",
     "password": "toto",
     "invokedAt": "2025-04-20T05:00:25.799Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Tunçeri",
+    "email": "kenan.tunceri@example.com",
+    "username": "goldengorilla630",
+    "password": "onelove",
+    "invokedAt": "2025-04-20T06:00:19.080Z"
   }
 ]
