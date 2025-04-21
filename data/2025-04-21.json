@@ -142,5 +142,13 @@
     "username": "greenfrog645",
     "password": "yankees",
     "invokedAt": "2025-04-21T17:00:21.901Z"
+  },
+  {
+    "firstName": "Chi",
+    "lastName": "Van Vloten",
+    "email": "chi.vanvloten@example.com",
+    "username": "purplefish431",
+    "password": "maxmax",
+    "invokedAt": "2025-04-21T18:00:20.941Z"
   }
 ]
