@@ -174,5 +174,13 @@
     "username": "sadbutterfly944",
     "password": "barney1",
     "invokedAt": "2025-04-22T21:00:17.930Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Shaw",
+    "email": "laura.shaw@example.com",
+    "username": "heavypanda511",
+    "password": "cancel",
+    "invokedAt": "2025-04-22T22:00:23.055Z"
   }
 ]
