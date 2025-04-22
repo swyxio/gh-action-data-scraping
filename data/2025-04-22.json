@@ -182,5 +182,13 @@
     "username": "heavypanda511",
     "password": "cancel",
     "invokedAt": "2025-04-22T22:00:23.055Z"
+  },
+  {
+    "firstName": "Gorislav",
+    "lastName": "Bodnya",
+    "email": "gorislav.bodnya@example.com",
+    "username": "sadkoala993",
+    "password": "9876",
+    "invokedAt": "2025-04-22T23:00:21.344Z"
   }
 ]
