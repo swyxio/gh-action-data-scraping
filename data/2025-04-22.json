@@ -22,5 +22,13 @@
     "username": "redcat879",
     "password": "frederic",
     "invokedAt": "2025-04-22T02:27:33.672Z"
+  },
+  {
+    "firstName": "Dušan",
+    "lastName": "Vujčić",
+    "email": "dusan.vujcic@example.com",
+    "username": "ticklishmeercat344",
+    "password": "poetry",
+    "invokedAt": "2025-04-22T03:14:12.538Z"
   }
 ]
