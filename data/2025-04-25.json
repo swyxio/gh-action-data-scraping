@@ -78,5 +78,13 @@
     "username": "beautifulpanda110",
     "password": "woofwoof",
     "invokedAt": "2025-04-25T09:00:24.993Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Sørensen",
+    "email": "andrea.sorensen@example.com",
+    "username": "greenfish408",
+    "password": "patch",
+    "invokedAt": "2025-04-25T10:00:18.136Z"
   }
 ]
