@@ -110,5 +110,13 @@
     "username": "brownlion194",
     "password": "smoke",
     "invokedAt": "2025-04-25T13:07:26.302Z"
+  },
+  {
+    "firstName": "Hitesh",
+    "lastName": "Kamath",
+    "email": "hitesh.kamath@example.com",
+    "username": "tinymeercat102",
+    "password": "draco",
+    "invokedAt": "2025-04-25T14:00:22.264Z"
   }
 ]
