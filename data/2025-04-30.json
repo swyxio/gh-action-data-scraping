@@ -86,5 +86,13 @@
     "username": "crazybutterfly616",
     "password": "hallowee",
     "invokedAt": "2025-04-30T10:00:34.378Z"
+  },
+  {
+    "firstName": "Humberto",
+    "lastName": "Naranjo",
+    "email": "humberto.naranjo@example.com",
+    "username": "crazyfish247",
+    "password": "fireblad",
+    "invokedAt": "2025-04-30T11:00:25.751Z"
   }
 ]
