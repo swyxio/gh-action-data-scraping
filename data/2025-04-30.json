@@ -166,5 +166,13 @@
     "username": "angrypeacock231",
     "password": "impala",
     "invokedAt": "2025-04-30T20:00:19.893Z"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Subašić",
+    "email": "nikola.subasic@example.com",
+    "username": "bluefrog940",
+    "password": "clutch",
+    "invokedAt": "2025-04-30T21:00:23.892Z"
   }
 ]
