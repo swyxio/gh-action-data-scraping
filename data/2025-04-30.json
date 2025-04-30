@@ -78,5 +78,13 @@
     "username": "goldendog226",
     "password": "bond",
     "invokedAt": "2025-04-30T09:00:21.301Z"
+  },
+  {
+    "firstName": "Aurore",
+    "lastName": "Legrand",
+    "email": "aurore.legrand@example.com",
+    "username": "crazybutterfly616",
+    "password": "hallowee",
+    "invokedAt": "2025-04-30T10:00:34.378Z"
   }
 ]
