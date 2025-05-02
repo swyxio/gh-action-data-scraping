@@ -182,5 +182,13 @@
     "username": "yellowcat368",
     "password": "mommy",
     "invokedAt": "2025-05-02T22:00:24.799Z"
+  },
+  {
+    "firstName": "Natalia",
+    "lastName": "Tomašević",
+    "email": "natalia.tomasevic@example.com",
+    "username": "yellowfish172",
+    "password": "hoover",
+    "invokedAt": "2025-05-02T23:00:16.908Z"
   }
 ]
