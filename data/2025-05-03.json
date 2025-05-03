@@ -94,5 +94,13 @@
     "username": "sadrabbit162",
     "password": "doodle",
     "invokedAt": "2025-05-03T11:00:25.633Z"
+  },
+  {
+    "firstName": "Dijana",
+    "lastName": "Šerbedžija",
+    "email": "dijana.serbedzija@example.com",
+    "username": "greenbird414",
+    "password": "toilet",
+    "invokedAt": "2025-05-03T12:00:30.137Z"
   }
 ]
