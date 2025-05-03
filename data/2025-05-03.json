@@ -158,5 +158,13 @@
     "username": "bigmouse372",
     "password": "meatloaf",
     "invokedAt": "2025-05-03T19:00:25.112Z"
+  },
+  {
+    "firstName": "Francisco",
+    "lastName": "Téllez",
+    "email": "francisco.tellez@example.com",
+    "username": "bigfish580",
+    "password": "lancer",
+    "invokedAt": "2025-05-03T20:00:17.920Z"
   }
 ]
