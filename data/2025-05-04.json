@@ -78,5 +78,13 @@
     "username": "whitefish107",
     "password": "silver",
     "invokedAt": "2025-05-04T09:00:22.831Z"
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Addy",
+    "email": "camille.addy@example.com",
+    "username": "orangelion808",
+    "password": "depeche",
+    "invokedAt": "2025-05-04T10:00:22.876Z"
   }
 ]
