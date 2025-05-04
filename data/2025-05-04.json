@@ -142,5 +142,13 @@
     "username": "brownlion614",
     "password": "chicago",
     "invokedAt": "2025-05-04T17:00:18.044Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Jean-Baptiste",
+    "email": "alexis.jean-baptiste@example.com",
+    "username": "happymeercat201",
+    "password": "smeller",
+    "invokedAt": "2025-05-04T18:00:23.279Z"
   }
 ]
