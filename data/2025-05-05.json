@@ -118,5 +118,13 @@
     "username": "goldenbear866",
     "password": "1983",
     "invokedAt": "2025-05-05T14:00:24.600Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Karaböcek",
+    "email": "afsar.karabocek@example.com",
+    "username": "organicladybug546",
+    "password": "fruit",
+    "invokedAt": "2025-05-05T15:00:17.995Z"
   }
 ]
