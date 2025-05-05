@@ -46,5 +46,13 @@
     "username": "goldenlion258",
     "password": "synergy",
     "invokedAt": "2025-05-05T05:00:23.857Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Rey",
+    "email": "diego.rey@example.com",
+    "username": "sadgorilla735",
+    "password": "1964",
+    "invokedAt": "2025-05-05T06:00:18.016Z"
   }
 ]
