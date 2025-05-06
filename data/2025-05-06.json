@@ -182,5 +182,13 @@
     "username": "sadgorilla677",
     "password": "smokes",
     "invokedAt": "2025-05-06T22:00:22.736Z"
+  },
+  {
+    "firstName": "Brent",
+    "lastName": "Grant",
+    "email": "brent.grant@example.com",
+    "username": "whiterabbit769",
+    "password": "accord",
+    "invokedAt": "2025-05-06T23:00:27.423Z"
   }
 ]
