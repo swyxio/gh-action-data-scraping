@@ -86,5 +86,13 @@
     "username": "blackfrog133",
     "password": "nitram",
     "invokedAt": "2025-05-06T10:00:29.162Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Warren",
+    "email": "robin.warren@example.com",
+    "username": "organicduck626",
+    "password": "123456a",
+    "invokedAt": "2025-05-06T11:00:25.326Z"
   }
 ]
