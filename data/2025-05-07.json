@@ -150,5 +150,13 @@
     "username": "tinyrabbit993",
     "password": "kingston",
     "invokedAt": "2025-05-07T18:00:25.618Z"
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "Robinson",
+    "email": "stanley.robinson@example.com",
+    "username": "organicrabbit193",
+    "password": "tophat",
+    "invokedAt": "2025-05-07T19:00:30.928Z"
   }
 ]
