@@ -78,5 +78,13 @@
     "username": "tinybird751",
     "password": "johndoe",
     "invokedAt": "2025-05-08T09:00:19.902Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Ray",
+    "email": "andy.ray@example.com",
+    "username": "beautifulpeacock824",
+    "password": "0987",
+    "invokedAt": "2025-05-08T10:00:22.020Z"
   }
 ]
