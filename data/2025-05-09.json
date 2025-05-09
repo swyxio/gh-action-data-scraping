@@ -166,5 +166,13 @@
     "username": "bluezebra175",
     "password": "morales",
     "invokedAt": "2025-05-09T20:00:21.821Z"
+  },
+  {
+    "firstName": "Estéfano",
+    "lastName": "Jesus",
+    "email": "estefano.jesus@example.com",
+    "username": "smallbird707",
+    "password": "personal",
+    "invokedAt": "2025-05-09T21:00:23.486Z"
   }
 ]
