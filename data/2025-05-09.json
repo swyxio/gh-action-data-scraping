@@ -118,5 +118,13 @@
     "username": "orangemouse622",
     "password": "streets",
     "invokedAt": "2025-05-09T14:00:33.500Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Larson",
+    "email": "anna.larson@example.com",
+    "username": "whitekoala771",
+    "password": "desert",
+    "invokedAt": "2025-05-09T15:00:18.904Z"
   }
 ]
