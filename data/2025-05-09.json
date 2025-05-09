@@ -126,5 +126,13 @@
     "username": "whitekoala771",
     "password": "desert",
     "invokedAt": "2025-05-09T15:00:18.904Z"
+  },
+  {
+    "firstName": "Vilho",
+    "lastName": "Leppanen",
+    "email": "vilho.leppanen@example.com",
+    "username": "silvergorilla334",
+    "password": "wrestlin",
+    "invokedAt": "2025-05-09T16:00:28.714Z"
   }
 ]
