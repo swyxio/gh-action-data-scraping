@@ -86,5 +86,13 @@
     "username": "yellowcat798",
     "password": "515151",
     "invokedAt": "2025-05-10T10:00:26.786Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Özkök",
+    "email": "deniz.ozkok@example.com",
+    "username": "happyduck413",
+    "password": "coldplay",
+    "invokedAt": "2025-05-10T11:00:26.798Z"
   }
 ]
