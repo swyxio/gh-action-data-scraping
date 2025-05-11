@@ -102,5 +102,13 @@
     "username": "organicfish806",
     "password": "codered",
     "invokedAt": "2025-05-11T12:00:21.458Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Jørgensen",
+    "email": "christian.jorgensen@example.com",
+    "username": "bluesnake654",
+    "password": "wraith",
+    "invokedAt": "2025-05-11T13:05:31.582Z"
   }
 ]
