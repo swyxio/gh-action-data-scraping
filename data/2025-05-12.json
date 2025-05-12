@@ -54,5 +54,13 @@
     "username": "goldenduck923",
     "password": "house",
     "invokedAt": "2025-05-12T06:00:19.063Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Williams",
+    "email": "james.williams@example.com",
+    "username": "bigdog953",
+    "password": "country",
+    "invokedAt": "2025-05-12T07:00:20.568Z"
   }
 ]
