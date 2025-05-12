@@ -86,5 +86,13 @@
     "username": "blackswan466",
     "password": "siemens",
     "invokedAt": "2025-05-12T10:00:23.332Z"
+  },
+  {
+    "firstName": "Jasmine",
+    "lastName": "Gagné",
+    "email": "jasmine.gagne@example.com",
+    "username": "redgoose330",
+    "password": "acid",
+    "invokedAt": "2025-05-12T11:00:20.644Z"
   }
 ]
