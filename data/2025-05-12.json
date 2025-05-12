@@ -118,5 +118,13 @@
     "username": "redbird160",
     "password": "sprinter",
     "invokedAt": "2025-05-12T14:00:31.371Z"
+  },
+  {
+    "firstName": "Karen",
+    "lastName": "Heldal",
+    "email": "karen.heldal@example.com",
+    "username": "smallfish523",
+    "password": "dookie",
+    "invokedAt": "2025-05-12T15:00:25.451Z"
   }
 ]
