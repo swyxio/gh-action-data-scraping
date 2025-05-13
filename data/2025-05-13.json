@@ -118,5 +118,13 @@
     "username": "beautifulkoala493",
     "password": "office",
     "invokedAt": "2025-05-13T14:00:20.041Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Leinonen",
+    "email": "kasper.leinonen@example.com",
+    "username": "purplekoala389",
+    "password": "getsome",
+    "invokedAt": "2025-05-13T15:00:32.909Z"
   }
 ]
