@@ -86,5 +86,13 @@
     "username": "organictiger162",
     "password": "renegade",
     "invokedAt": "2025-05-13T10:00:23.105Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Liu",
+    "email": "david.liu@example.com",
+    "username": "blueelephant142",
+    "password": "farscape",
+    "invokedAt": "2025-05-13T11:00:25.941Z"
   }
 ]
