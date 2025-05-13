@@ -166,5 +166,13 @@
     "username": "sadladybug110",
     "password": "womble",
     "invokedAt": "2025-05-13T20:00:23.455Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Mortensen",
+    "email": "sara.mortensen@example.com",
+    "username": "silverelephant122",
+    "password": "place",
+    "invokedAt": "2025-05-13T21:00:22.479Z"
   }
 ]
