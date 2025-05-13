@@ -94,5 +94,13 @@
     "username": "blueelephant142",
     "password": "farscape",
     "invokedAt": "2025-05-13T11:00:25.941Z"
+  },
+  {
+    "firstName": "Barbara",
+    "lastName": "Báez",
+    "email": "barbara.baez@example.com",
+    "username": "angrybutterfly423",
+    "password": "sapphire",
+    "invokedAt": "2025-05-13T12:00:24.672Z"
   }
 ]
