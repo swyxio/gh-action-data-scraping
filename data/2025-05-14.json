@@ -38,5 +38,13 @@
     "username": "yellowsnake830",
     "password": "connect",
     "invokedAt": "2025-05-14T04:01:00.495Z"
+  },
+  {
+    "firstName": "Miljan",
+    "lastName": "Rađen",
+    "email": "miljan.raden@example.com",
+    "username": "crazydog791",
+    "password": "tweety",
+    "invokedAt": "2025-05-14T05:00:19.259Z"
   }
 ]
