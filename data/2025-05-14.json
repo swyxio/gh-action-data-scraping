@@ -70,5 +70,13 @@
     "username": "whitefish330",
     "password": "yahoo",
     "invokedAt": "2025-05-14T08:00:20.027Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Kowalski",
+    "email": "harper.kowalski@example.com",
+    "username": "blackzebra786",
+    "password": "catcat",
+    "invokedAt": "2025-05-14T09:00:26.198Z"
   }
 ]
