@@ -182,5 +182,13 @@
     "username": "crazytiger534",
     "password": "nofear",
     "invokedAt": "2025-05-15T22:00:16.948Z"
+  },
+  {
+    "firstName": "Åsmund",
+    "lastName": "Sævareid",
+    "email": "asmund.saevareid@example.com",
+    "username": "blackcat177",
+    "password": "faster",
+    "invokedAt": "2025-05-15T23:00:22.851Z"
   }
 ]
