@@ -38,5 +38,13 @@
     "username": "purplefish417",
     "password": "swinging",
     "invokedAt": "2025-05-15T04:00:42.683Z"
+  },
+  {
+    "firstName": "Fadime",
+    "lastName": "Wehrmann",
+    "email": "fadime.wehrmann@example.com",
+    "username": "lazydog792",
+    "password": "tahoe",
+    "invokedAt": "2025-05-15T05:00:15.999Z"
   }
 ]
