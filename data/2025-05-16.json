@@ -126,5 +126,13 @@
     "username": "purpleswan850",
     "password": "goforit",
     "invokedAt": "2025-05-16T16:00:21.305Z"
+  },
+  {
+    "firstName": "Nicolay",
+    "lastName": "Haraldsen",
+    "email": "nicolay.haraldsen@example.com",
+    "username": "silvertiger750",
+    "password": "max123",
+    "invokedAt": "2025-05-16T17:00:19.283Z"
   }
 ]
