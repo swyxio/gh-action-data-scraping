@@ -78,5 +78,13 @@
     "username": "greenbear762",
     "password": "lockerroom",
     "invokedAt": "2025-05-16T10:00:17.030Z"
+  },
+  {
+    "firstName": "Artem",
+    "lastName": "Stovpchenko",
+    "email": "artem.stovpchenko@example.com",
+    "username": "biggoose932",
+    "password": "nostromo",
+    "invokedAt": "2025-05-16T11:00:19.300Z"
   }
 ]
