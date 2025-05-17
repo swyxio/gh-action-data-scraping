@@ -54,5 +54,13 @@
     "username": "goldenfish869",
     "password": "zhuo",
     "invokedAt": "2025-05-17T06:00:30.380Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Boyer",
+    "email": "diego.boyer@example.com",
+    "username": "angrycat821",
+    "password": "siemens",
+    "invokedAt": "2025-05-17T07:00:21.008Z"
   }
 ]
