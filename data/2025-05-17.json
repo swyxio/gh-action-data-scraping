@@ -182,5 +182,13 @@
     "username": "smallpeacock888",
     "password": "traveler",
     "invokedAt": "2025-05-17T22:00:20.933Z"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Torres",
+    "email": "chris.torres@example.com",
+    "username": "whitecat858",
+    "password": "coolman",
+    "invokedAt": "2025-05-17T23:00:21.325Z"
   }
 ]
