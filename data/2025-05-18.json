@@ -158,5 +158,13 @@
     "username": "crazybear836",
     "password": "murray",
     "invokedAt": "2025-05-18T19:00:35.087Z"
+  },
+  {
+    "firstName": "Dirk",
+    "lastName": "Muller",
+    "email": "dirk.muller@example.com",
+    "username": "orangeladybug543",
+    "password": "kashmir",
+    "invokedAt": "2025-05-18T20:00:30.893Z"
   }
 ]
