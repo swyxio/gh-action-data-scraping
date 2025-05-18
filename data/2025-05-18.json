@@ -142,5 +142,13 @@
     "username": "crazyrabbit201",
     "password": "squirrel",
     "invokedAt": "2025-05-18T17:00:22.980Z"
+  },
+  {
+    "firstName": "Raúl",
+    "lastName": "Prieto",
+    "email": "raul.prieto@example.com",
+    "username": "beautifulcat487",
+    "password": "mother",
+    "invokedAt": "2025-05-18T18:00:35.728Z"
   }
 ]
