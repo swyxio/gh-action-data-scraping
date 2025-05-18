@@ -54,5 +54,13 @@
     "username": "crazygoose121",
     "password": "expert",
     "invokedAt": "2025-05-18T06:00:28.261Z"
+  },
+  {
+    "firstName": "Tanya",
+    "lastName": "Brewer",
+    "email": "tanya.brewer@example.com",
+    "username": "goldenfish851",
+    "password": "mondeo",
+    "invokedAt": "2025-05-18T07:00:18.289Z"
   }
 ]
