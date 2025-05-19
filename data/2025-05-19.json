@@ -54,5 +54,13 @@
     "username": "beautifulcat275",
     "password": "starwars",
     "invokedAt": "2025-05-19T06:00:20.958Z"
+  },
+  {
+    "firstName": "Afanasiya",
+    "lastName": "Bosik",
+    "email": "afanasiya.bosik@example.com",
+    "username": "bluepanda567",
+    "password": "test",
+    "invokedAt": "2025-05-19T07:00:25.362Z"
   }
 ]
