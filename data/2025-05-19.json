@@ -166,5 +166,13 @@
     "username": "redgoose132",
     "password": "007007",
     "invokedAt": "2025-05-19T20:00:31.167Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Johnson",
+    "email": "matthew.johnson@example.com",
+    "username": "bluefrog386",
+    "password": "labtec",
+    "invokedAt": "2025-05-19T21:00:22.928Z"
   }
 ]
