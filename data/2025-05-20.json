@@ -118,5 +118,13 @@
     "username": "purpleelephant790",
     "password": "oakland",
     "invokedAt": "2025-05-20T14:00:29.716Z"
+  },
+  {
+    "firstName": "Nolhan",
+    "lastName": "Nguyen",
+    "email": "nolhan.nguyen@example.com",
+    "username": "bigelephant181",
+    "password": "minemine",
+    "invokedAt": "2025-05-20T15:00:29.140Z"
   }
 ]
