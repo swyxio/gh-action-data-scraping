@@ -46,5 +46,13 @@
     "username": "orangesnake978",
     "password": "smoke",
     "invokedAt": "2025-05-21T05:00:22.285Z"
+  },
+  {
+    "firstName": "Çetin",
+    "lastName": "Nalbantoğlu",
+    "email": "cetin.nalbantoglu@example.com",
+    "username": "greensnake623",
+    "password": "doudou",
+    "invokedAt": "2025-05-21T06:00:25.529Z"
   }
 ]
