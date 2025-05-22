@@ -86,5 +86,13 @@
     "username": "biglion492",
     "password": "homerun",
     "invokedAt": "2025-05-22T10:00:25.974Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Fletcher",
+    "email": "alice.fletcher@example.com",
+    "username": "heavybear298",
+    "password": "44444444",
+    "invokedAt": "2025-05-22T11:00:20.472Z"
   }
 ]
