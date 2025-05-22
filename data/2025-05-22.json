@@ -38,5 +38,13 @@
     "username": "goldenrabbit460",
     "password": "senators",
     "invokedAt": "2025-05-22T04:02:03.409Z"
+  },
+  {
+    "firstName": "Riley",
+    "lastName": "Smith",
+    "email": "riley.smith@example.com",
+    "username": "heavybird628",
+    "password": "target",
+    "invokedAt": "2025-05-22T05:00:19.163Z"
   }
 ]
