@@ -46,5 +46,13 @@
     "username": "heavybird628",
     "password": "target",
     "invokedAt": "2025-05-22T05:00:19.163Z"
+  },
+  {
+    "firstName": "Estéban",
+    "lastName": "Renard",
+    "email": "esteban.renard@example.com",
+    "username": "tinyduck388",
+    "password": "alissa",
+    "invokedAt": "2025-05-22T06:00:21.465Z"
   }
 ]
