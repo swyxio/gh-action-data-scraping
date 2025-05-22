@@ -142,5 +142,13 @@
     "username": "brownswan223",
     "password": "depeche",
     "invokedAt": "2025-05-22T17:00:25.419Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Woods",
+    "email": "edward.woods@example.com",
+    "username": "heavymouse202",
+    "password": "buddyboy",
+    "invokedAt": "2025-05-22T18:00:22.258Z"
   }
 ]
