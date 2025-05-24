@@ -86,5 +86,13 @@
     "username": "whitegorilla876",
     "password": "planet",
     "invokedAt": "2025-05-24T10:00:28.340Z"
+  },
+  {
+    "firstName": "Borivoje",
+    "lastName": "Perišić",
+    "email": "borivoje.perisic@example.com",
+    "username": "browndog816",
+    "password": "railroad",
+    "invokedAt": "2025-05-24T11:00:27.433Z"
   }
 ]
