@@ -158,5 +158,13 @@
     "username": "lazybird740",
     "password": "otto",
     "invokedAt": "2025-05-24T19:00:23.176Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Patel",
+    "email": "oliver.patel@example.com",
+    "username": "goldenelephant394",
+    "password": "anakin",
+    "invokedAt": "2025-05-24T20:00:29.279Z"
   }
 ]
