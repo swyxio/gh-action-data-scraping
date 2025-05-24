@@ -166,5 +166,13 @@
     "username": "goldenelephant394",
     "password": "anakin",
     "invokedAt": "2025-05-24T20:00:29.279Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Nurmi",
+    "email": "peppi.nurmi@example.com",
+    "username": "beautifulgorilla295",
+    "password": "dieter",
+    "invokedAt": "2025-05-24T21:00:22.440Z"
   }
 ]
