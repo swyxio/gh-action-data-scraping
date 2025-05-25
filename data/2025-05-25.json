@@ -158,5 +158,13 @@
     "username": "orangedog536",
     "password": "latina",
     "invokedAt": "2025-05-25T19:00:28.365Z"
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Long",
+    "email": "stella.long@example.com",
+    "username": "greenbutterfly346",
+    "password": "short",
+    "invokedAt": "2025-05-25T20:00:22.625Z"
   }
 ]
