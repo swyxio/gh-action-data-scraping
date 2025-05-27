@@ -78,5 +78,13 @@
     "username": "purpletiger316",
     "password": "orange1",
     "invokedAt": "2025-05-27T09:00:24.194Z"
+  },
+  {
+    "firstName": "Lenny",
+    "lastName": "Philippe",
+    "email": "lenny.philippe@example.com",
+    "username": "purpleduck772",
+    "password": "sonic",
+    "invokedAt": "2025-05-27T10:00:31.174Z"
   }
 ]
