@@ -118,5 +118,13 @@
     "username": "goldengorilla662",
     "password": "titanic",
     "invokedAt": "2025-05-28T14:00:25.916Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Walther",
+    "email": "albert.walther@example.com",
+    "username": "goldengorilla416",
+    "password": "babydoll",
+    "invokedAt": "2025-05-28T15:00:24.302Z"
   }
 ]
