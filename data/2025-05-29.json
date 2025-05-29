@@ -142,5 +142,13 @@
     "username": "greenbutterfly689",
     "password": "dharma",
     "invokedAt": "2025-05-29T17:00:26.330Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Medina",
+    "email": "juan.medina@example.com",
+    "username": "silverladybug567",
+    "password": "demons",
+    "invokedAt": "2025-05-29T18:00:22.955Z"
   }
 ]
