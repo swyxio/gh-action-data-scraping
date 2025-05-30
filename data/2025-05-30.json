@@ -94,5 +94,13 @@
     "username": "brownelephant894",
     "password": "canucks",
     "invokedAt": "2025-05-30T11:00:27.830Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Morken",
+    "email": "thomas.morken@example.com",
+    "username": "ticklishgorilla976",
+    "password": "pothead",
+    "invokedAt": "2025-05-30T12:00:26.803Z"
   }
 ]
