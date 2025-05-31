@@ -46,5 +46,13 @@
     "username": "bluebird145",
     "password": "coconut",
     "invokedAt": "2025-05-31T05:00:30.258Z"
+  },
+  {
+    "firstName": "Hana",
+    "lastName": "Van Marrewijk",
+    "email": "hana.vanmarrewijk@example.com",
+    "username": "silverdog888",
+    "password": "calico",
+    "invokedAt": "2025-05-31T06:00:22.155Z"
   }
 ]
