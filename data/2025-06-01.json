@@ -134,5 +134,13 @@
     "username": "goldendog900",
     "password": "159753",
     "invokedAt": "2025-06-01T16:00:26.153Z"
+  },
+  {
+    "firstName": "Gijsje",
+    "lastName": "Van Olderen",
+    "email": "gijsje.vanolderen@example.com",
+    "username": "blackwolf580",
+    "password": "popper",
+    "invokedAt": "2025-06-01T17:00:21.007Z"
   }
 ]
