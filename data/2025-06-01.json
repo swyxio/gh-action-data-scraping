@@ -182,5 +182,13 @@
     "username": "orangerabbit499",
     "password": "ratman",
     "invokedAt": "2025-06-01T22:00:26.679Z"
+  },
+  {
+    "firstName": "Dušan",
+    "lastName": "Jakšić",
+    "email": "dusan.jaksic@example.com",
+    "username": "brownleopard771",
+    "password": "rhonda",
+    "invokedAt": "2025-06-01T23:00:26.456Z"
   }
 ]
