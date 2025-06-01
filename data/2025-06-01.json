@@ -38,5 +38,13 @@
     "username": "goldenostrich264",
     "password": "cottage",
     "invokedAt": "2025-06-01T04:11:57.419Z"
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Pedersen",
+    "email": "victoria.pedersen@example.com",
+    "username": "silverkoala489",
+    "password": "gofish",
+    "invokedAt": "2025-06-01T05:00:57.596Z"
   }
 ]
