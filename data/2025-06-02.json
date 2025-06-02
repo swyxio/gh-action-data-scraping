@@ -54,5 +54,13 @@
     "username": "orangecat596",
     "password": "exodus",
     "invokedAt": "2025-06-02T06:00:31.122Z"
+  },
+  {
+    "firstName": "Radoje",
+    "lastName": "Šerbedžija",
+    "email": "radoje.serbedzija@example.com",
+    "username": "lazyfrog391",
+    "password": "aspire",
+    "invokedAt": "2025-06-02T07:00:36.857Z"
   }
 ]
