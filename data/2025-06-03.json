@@ -158,5 +158,13 @@
     "username": "greenwolf210",
     "password": "gamma",
     "invokedAt": "2025-06-03T19:00:23.309Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Novak",
+    "email": "jeremy.novak@example.com",
+    "username": "bluedog225",
+    "password": "justus",
+    "invokedAt": "2025-06-03T20:00:41.904Z"
   }
 ]
