@@ -142,5 +142,13 @@
     "username": "happyrabbit840",
     "password": "blink182",
     "invokedAt": "2025-06-04T17:00:31.154Z"
+  },
+  {
+    "firstName": "Margaux",
+    "lastName": "Giraud",
+    "email": "margaux.giraud@example.com",
+    "username": "crazysnake871",
+    "password": "peeper",
+    "invokedAt": "2025-06-04T18:00:32.916Z"
   }
 ]
