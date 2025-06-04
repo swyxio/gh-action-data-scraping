@@ -174,5 +174,13 @@
     "username": "goldendog204",
     "password": "sebring",
     "invokedAt": "2025-06-04T21:00:20.408Z"
+  },
+  {
+    "firstName": "Damir",
+    "lastName": "Novak",
+    "email": "damir.novak@example.com",
+    "username": "angryleopard634",
+    "password": "magellan",
+    "invokedAt": "2025-06-04T22:00:27.264Z"
   }
 ]
