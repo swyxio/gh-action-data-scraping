@@ -158,5 +158,13 @@
     "username": "heavymeercat801",
     "password": "1313",
     "invokedAt": "2025-06-04T19:00:24.710Z"
+  },
+  {
+    "firstName": "Želimir",
+    "lastName": "Aleksić",
+    "email": "zelimir.aleksic@example.com",
+    "username": "lazywolf138",
+    "password": "welcome",
+    "invokedAt": "2025-06-04T20:00:23.436Z"
   }
 ]
