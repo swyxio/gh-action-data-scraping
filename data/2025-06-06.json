@@ -110,5 +110,13 @@
     "username": "brownbutterfly302",
     "password": "travel",
     "invokedAt": "2025-06-06T13:08:46.147Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Robinson",
+    "email": "hunter.robinson@example.com",
+    "username": "smalldog737",
+    "password": "jian",
+    "invokedAt": "2025-06-06T14:00:24.495Z"
   }
 ]
