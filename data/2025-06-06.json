@@ -158,5 +158,13 @@
     "username": "silverostrich844",
     "password": "california",
     "invokedAt": "2025-06-06T19:00:20.505Z"
+  },
+  {
+    "firstName": "Gorpina",
+    "lastName": "Kos",
+    "email": "gorpina.kos@example.com",
+    "username": "silverdog197",
+    "password": "deng",
+    "invokedAt": "2025-06-06T20:00:23.769Z"
   }
 ]
