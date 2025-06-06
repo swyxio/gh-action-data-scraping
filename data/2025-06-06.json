@@ -102,5 +102,13 @@
     "username": "angrybutterfly123",
     "password": "pppp",
     "invokedAt": "2025-06-06T12:00:27.105Z"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Gonzalez",
+    "email": "dwight.gonzalez@example.com",
+    "username": "brownbutterfly302",
+    "password": "travel",
+    "invokedAt": "2025-06-06T13:08:46.147Z"
   }
 ]
