@@ -142,5 +142,13 @@
     "username": "whitegorilla388",
     "password": "mother1",
     "invokedAt": "2025-06-06T17:00:31.151Z"
+  },
+  {
+    "firstName": "Georgiy",
+    "lastName": "Primachenko",
+    "email": "georgiy.primachenko@example.com",
+    "username": "blackdog730",
+    "password": "1213",
+    "invokedAt": "2025-06-06T18:00:20.394Z"
   }
 ]
