@@ -46,5 +46,13 @@
     "username": "sadcat749",
     "password": "dipper",
     "invokedAt": "2025-06-06T05:00:33.514Z"
+  },
+  {
+    "firstName": "Kristijan",
+    "lastName": "Milutinović",
+    "email": "kristijan.milutinovic@example.com",
+    "username": "redgoose821",
+    "password": "puppies",
+    "invokedAt": "2025-06-06T06:00:40.471Z"
   }
 ]
