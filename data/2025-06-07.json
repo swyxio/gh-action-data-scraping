@@ -86,5 +86,13 @@
     "username": "happykoala576",
     "password": "avatar",
     "invokedAt": "2025-06-07T10:00:37.733Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Jokinen",
+    "email": "juho.jokinen@example.com",
+    "username": "biglion525",
+    "password": "skiing",
+    "invokedAt": "2025-06-07T11:00:21.698Z"
   }
 ]
