@@ -182,5 +182,13 @@
     "username": "tinyleopard330",
     "password": "spencer1",
     "invokedAt": "2025-06-09T22:00:34.573Z"
+  },
+  {
+    "firstName": "Nebojša",
+    "lastName": "Vučetić",
+    "email": "nebojsa.vucetic@example.com",
+    "username": "crazylion445",
+    "password": "camden",
+    "invokedAt": "2025-06-09T23:00:23.478Z"
   }
 ]
