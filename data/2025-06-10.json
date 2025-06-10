@@ -134,5 +134,13 @@
     "username": "redbear300",
     "password": "rainbow1",
     "invokedAt": "2025-06-10T16:00:30.327Z"
+  },
+  {
+    "firstName": "Živko",
+    "lastName": "Kalinić",
+    "email": "zivko.kalinic@example.com",
+    "username": "smalltiger917",
+    "password": "mmmmmmmm",
+    "invokedAt": "2025-06-10T17:00:27.785Z"
   }
 ]
