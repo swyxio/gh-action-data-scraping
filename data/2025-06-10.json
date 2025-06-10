@@ -86,5 +86,13 @@
     "username": "whitepanda621",
     "password": "weird",
     "invokedAt": "2025-06-10T10:00:24.123Z"
+  },
+  {
+    "firstName": "Jen",
+    "lastName": "Brown",
+    "email": "jen.brown@example.com",
+    "username": "ticklishbird365",
+    "password": "august",
+    "invokedAt": "2025-06-10T11:00:24.545Z"
   }
 ]
