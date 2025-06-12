@@ -46,5 +46,13 @@
     "username": "happybear408",
     "password": "686868",
     "invokedAt": "2025-06-12T05:00:19.308Z"
+  },
+  {
+    "firstName": "Borka",
+    "lastName": "Ivanović",
+    "email": "borka.ivanovic@example.com",
+    "username": "goldenzebra992",
+    "password": "zoom",
+    "invokedAt": "2025-06-12T06:00:21.211Z"
   }
 ]
