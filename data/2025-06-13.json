@@ -102,5 +102,13 @@
     "username": "bluefish454",
     "password": "absolute",
     "invokedAt": "2025-06-13T12:00:23.081Z"
+  },
+  {
+    "firstName": "Agustín",
+    "lastName": "Garrido",
+    "email": "agustin.garrido@example.com",
+    "username": "heavypeacock252",
+    "password": "soccer",
+    "invokedAt": "2025-06-13T13:10:16.240Z"
   }
 ]
