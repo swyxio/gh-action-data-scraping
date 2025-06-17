@@ -86,5 +86,13 @@
     "username": "whitebutterfly489",
     "password": "jumper",
     "invokedAt": "2025-06-17T10:00:20.484Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Pedersen",
+    "email": "mikkel.pedersen@example.com",
+    "username": "yellowostrich613",
+    "password": "zippo",
+    "invokedAt": "2025-06-17T11:00:23.393Z"
   }
 ]
