@@ -118,5 +118,13 @@
     "username": "sadkoala408",
     "password": "cerberus",
     "invokedAt": "2025-06-17T14:00:28.849Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Sørensen",
+    "email": "astrid.sorensen@example.com",
+    "username": "bigrabbit816",
+    "password": "american",
+    "invokedAt": "2025-06-17T15:00:38.750Z"
   }
 ]
