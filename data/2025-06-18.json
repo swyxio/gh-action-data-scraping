@@ -46,5 +46,13 @@
     "username": "redtiger200",
     "password": "forgot",
     "invokedAt": "2025-06-18T05:00:49.305Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Fuller",
+    "email": "david.fuller@example.com",
+    "username": "blackzebra500",
+    "password": "news",
+    "invokedAt": "2025-06-18T06:00:36.710Z"
   }
 ]
