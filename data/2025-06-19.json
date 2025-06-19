@@ -142,5 +142,13 @@
     "username": "organicbutterfly908",
     "password": "milk",
     "invokedAt": "2025-06-19T17:00:29.482Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Meyer",
+    "email": "sarah.meyer@example.com",
+    "username": "organicladybug718",
+    "password": "bigmike",
+    "invokedAt": "2025-06-19T18:00:28.825Z"
   }
 ]
