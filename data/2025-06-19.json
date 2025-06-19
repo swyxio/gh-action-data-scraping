@@ -182,5 +182,13 @@
     "username": "tinybird901",
     "password": "bmwbmw",
     "invokedAt": "2025-06-19T22:00:19.320Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Hansen",
+    "email": "johan.hansen@example.com",
+    "username": "sadbutterfly148",
+    "password": "callaway",
+    "invokedAt": "2025-06-19T23:00:34.121Z"
   }
 ]
