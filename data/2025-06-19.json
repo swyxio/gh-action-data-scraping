@@ -22,5 +22,13 @@
     "username": "orangefrog582",
     "password": "pooter",
     "invokedAt": "2025-06-19T02:30:26.970Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Webb",
+    "email": "jack.webb@example.com",
+    "username": "yellowbutterfly962",
+    "password": "case",
+    "invokedAt": "2025-06-19T03:21:47.153Z"
   }
 ]
