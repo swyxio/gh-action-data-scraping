@@ -78,5 +78,13 @@
     "username": "goldenpanda235",
     "password": "combat",
     "invokedAt": "2025-06-20T09:00:26.454Z"
+  },
+  {
+    "firstName": "Cooper",
+    "lastName": "Walker",
+    "email": "cooper.walker@example.com",
+    "username": "brownbutterfly957",
+    "password": "loki",
+    "invokedAt": "2025-06-20T10:00:25.072Z"
   }
 ]
