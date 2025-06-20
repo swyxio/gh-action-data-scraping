@@ -182,5 +182,13 @@
     "username": "purpledog566",
     "password": "yuan",
     "invokedAt": "2025-06-20T22:00:18.089Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Møller",
+    "email": "jeppe.moller@example.com",
+    "username": "tinygorilla764",
+    "password": "penguin",
+    "invokedAt": "2025-06-20T23:00:25.972Z"
   }
 ]
