@@ -158,5 +158,13 @@
     "username": "whitedog217",
     "password": "football1",
     "invokedAt": "2025-06-21T19:00:31.428Z"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Akbulut",
+    "email": "ayse.akbulut@example.com",
+    "username": "smalllion636",
+    "password": "munch",
+    "invokedAt": "2025-06-21T20:00:28.530Z"
   }
 ]
