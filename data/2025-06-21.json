@@ -142,5 +142,13 @@
     "username": "smallfish194",
     "password": "gaston",
     "invokedAt": "2025-06-21T17:00:18.122Z"
+  },
+  {
+    "firstName": "Dimitra",
+    "lastName": "Nelemans",
+    "email": "dimitra.nelemans@example.com",
+    "username": "sadpanda812",
+    "password": "dungeon",
+    "invokedAt": "2025-06-21T18:00:21.154Z"
   }
 ]
