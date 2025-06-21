@@ -150,5 +150,13 @@
     "username": "sadpanda812",
     "password": "dungeon",
     "invokedAt": "2025-06-21T18:00:21.154Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Olsen",
+    "email": "jonathan.olsen@example.com",
+    "username": "whitedog217",
+    "password": "football1",
+    "invokedAt": "2025-06-21T19:00:31.428Z"
   }
 ]
