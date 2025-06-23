@@ -158,5 +158,13 @@
     "username": "bigduck523",
     "password": "seneca",
     "invokedAt": "2025-06-23T19:00:31.960Z"
+  },
+  {
+    "firstName": "Kimberly",
+    "lastName": "Neal",
+    "email": "kimberly.neal@example.com",
+    "username": "redladybug401",
+    "password": "pencil",
+    "invokedAt": "2025-06-23T20:00:32.516Z"
   }
 ]
