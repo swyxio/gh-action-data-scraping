@@ -86,5 +86,13 @@
     "username": "crazysnake145",
     "password": "ncc74656",
     "invokedAt": "2025-06-23T10:00:18.929Z"
+  },
+  {
+    "firstName": "Johanne",
+    "lastName": "Mortensen",
+    "email": "johanne.mortensen@example.com",
+    "username": "sadkoala253",
+    "password": "scout",
+    "invokedAt": "2025-06-23T11:00:26.142Z"
   }
 ]
