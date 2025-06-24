@@ -166,5 +166,13 @@
     "username": "yellowostrich211",
     "password": "boating",
     "invokedAt": "2025-06-24T20:00:24.486Z"
+  },
+  {
+    "firstName": "Gordon",
+    "lastName": "Dunkel",
+    "email": "gordon.dunkel@example.com",
+    "username": "yellowostrich318",
+    "password": "charlie",
+    "invokedAt": "2025-06-24T21:00:20.647Z"
   }
 ]
