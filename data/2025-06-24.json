@@ -62,5 +62,13 @@
     "username": "orangepeacock848",
     "password": "start1",
     "invokedAt": "2025-06-24T07:00:43.484Z"
+  },
+  {
+    "firstName": "Esteban",
+    "lastName": "Báez",
+    "email": "esteban.baez@example.com",
+    "username": "sadfish105",
+    "password": "battle",
+    "invokedAt": "2025-06-24T08:00:20.105Z"
   }
 ]
