@@ -158,5 +158,13 @@
     "username": "smallrabbit431",
     "password": "onion",
     "invokedAt": "2025-06-24T19:00:30.435Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Pulkkinen",
+    "email": "matilda.pulkkinen@example.com",
+    "username": "yellowostrich211",
+    "password": "boating",
+    "invokedAt": "2025-06-24T20:00:24.486Z"
   }
 ]
