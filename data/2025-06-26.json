@@ -38,5 +38,13 @@
     "username": "happysnake748",
     "password": "111222",
     "invokedAt": "2025-06-26T04:05:33.608Z"
+  },
+  {
+    "firstName": "Ravi",
+    "lastName": "Fernandes",
+    "email": "ravi.fernandes@example.com",
+    "username": "bigrabbit314",
+    "password": "nintendo",
+    "invokedAt": "2025-06-26T05:00:57.493Z"
   }
 ]
