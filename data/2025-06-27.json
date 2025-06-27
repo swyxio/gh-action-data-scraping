@@ -158,5 +158,13 @@
     "username": "browncat675",
     "password": "nokia",
     "invokedAt": "2025-06-27T19:00:19.108Z"
+  },
+  {
+    "firstName": "Boris",
+    "lastName": "Borjan",
+    "email": "boris.borjan@example.com",
+    "username": "angryelephant744",
+    "password": "russell",
+    "invokedAt": "2025-06-27T20:00:32.208Z"
   }
 ]
