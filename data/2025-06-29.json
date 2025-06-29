@@ -174,5 +174,13 @@
     "username": "redfrog190",
     "password": "scxakv",
     "invokedAt": "2025-06-29T21:00:25.837Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Hansen",
+    "email": "mathias.hansen@example.com",
+    "username": "blackpanda127",
+    "password": "kittens",
+    "invokedAt": "2025-06-29T22:00:25.303Z"
   }
 ]
