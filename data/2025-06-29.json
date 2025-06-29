@@ -38,5 +38,13 @@
     "username": "blackswan549",
     "password": "medicine",
     "invokedAt": "2025-06-29T04:10:27.492Z"
+  },
+  {
+    "firstName": "Vilho",
+    "lastName": "Kari",
+    "email": "vilho.kari@example.com",
+    "username": "angrypanda320",
+    "password": "mortimer",
+    "invokedAt": "2025-06-29T05:03:11.593Z"
   }
 ]
