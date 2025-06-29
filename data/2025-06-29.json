@@ -54,5 +54,13 @@
     "username": "orangedog602",
     "password": "ou812",
     "invokedAt": "2025-06-29T06:00:19.127Z"
+  },
+  {
+    "firstName": "Marijn",
+    "lastName": "Van Goethem",
+    "email": "marijn.vangoethem@example.com",
+    "username": "angryswan137",
+    "password": "jennifer",
+    "invokedAt": "2025-06-29T07:00:28.910Z"
   }
 ]
