@@ -182,5 +182,13 @@
     "username": "blackpanda127",
     "password": "kittens",
     "invokedAt": "2025-06-29T22:00:25.303Z"
+  },
+  {
+    "firstName": "Yehudi",
+    "lastName": "Araújo",
+    "email": "yehudi.araujo@example.com",
+    "username": "yellowkoala703",
+    "password": "mariposa",
+    "invokedAt": "2025-06-29T23:00:32.828Z"
   }
 ]
