@@ -110,5 +110,13 @@
     "username": "yellowpeacock639",
     "password": "happy1",
     "invokedAt": "2025-06-29T13:07:30.361Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Maki",
+    "email": "vaino.maki@example.com",
+    "username": "yellowelephant914",
+    "password": "yankees2",
+    "invokedAt": "2025-06-29T14:00:25.394Z"
   }
 ]
