@@ -22,5 +22,13 @@
     "username": "sadlion612",
     "password": "emily1",
     "invokedAt": "2025-06-30T02:34:58.405Z"
+  },
+  {
+    "firstName": "Abel",
+    "lastName": "Mercier",
+    "email": "abel.mercier@example.com",
+    "username": "crazydog517",
+    "password": "starwars",
+    "invokedAt": "2025-06-30T03:26:49.660Z"
   }
 ]
