@@ -86,5 +86,13 @@
     "username": "angrydog566",
     "password": "vegas",
     "invokedAt": "2025-06-30T10:00:23.856Z"
+  },
+  {
+    "firstName": "Vladimir",
+    "lastName": "Rađen",
+    "email": "vladimir.raden@example.com",
+    "username": "sadrabbit671",
+    "password": "just4me",
+    "invokedAt": "2025-06-30T11:00:22.513Z"
   }
 ]
