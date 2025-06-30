@@ -30,5 +30,13 @@
     "username": "crazydog517",
     "password": "starwars",
     "invokedAt": "2025-06-30T03:26:49.660Z"
+  },
+  {
+    "firstName": "Irene",
+    "lastName": "Castro",
+    "email": "irene.castro@example.com",
+    "username": "lazyelephant916",
+    "password": "yoyo",
+    "invokedAt": "2025-06-30T04:08:38.496Z"
   }
 ]
