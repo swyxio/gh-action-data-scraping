@@ -62,5 +62,13 @@
     "username": "sadwolf439",
     "password": "spikes",
     "invokedAt": "2025-07-01T07:01:00.312Z"
+  },
+  {
+    "firstName": "Jos",
+    "lastName": "Olivares",
+    "email": "jos.olivares@example.com",
+    "username": "greenbear238",
+    "password": "1234qwer",
+    "invokedAt": "2025-07-01T08:00:26.842Z"
   }
 ]
