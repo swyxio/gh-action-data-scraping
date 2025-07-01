@@ -142,5 +142,13 @@
     "username": "silverfish277",
     "password": "links",
     "invokedAt": "2025-07-01T17:00:54.810Z"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Imanse",
+    "email": "bradley.imanse@example.com",
+    "username": "lazybird202",
+    "password": "bowling",
+    "invokedAt": "2025-07-01T18:00:30.550Z"
   }
 ]
