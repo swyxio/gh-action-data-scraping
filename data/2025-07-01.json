@@ -166,5 +166,13 @@
     "username": "beautifulcat550",
     "password": "blonds",
     "invokedAt": "2025-07-01T20:00:28.773Z"
+  },
+  {
+    "firstName": "Cody",
+    "lastName": "Gregory",
+    "email": "cody.gregory@example.com",
+    "username": "orangebird507",
+    "password": "goaway",
+    "invokedAt": "2025-07-01T21:00:27.343Z"
   }
 ]
