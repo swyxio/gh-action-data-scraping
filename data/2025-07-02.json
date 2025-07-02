@@ -142,5 +142,13 @@
     "username": "tinymeercat356",
     "password": "bollocks",
     "invokedAt": "2025-07-02T17:01:23.861Z"
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Johnson",
+    "email": "theo.johnson@example.com",
+    "username": "lazybutterfly544",
+    "password": "secret1",
+    "invokedAt": "2025-07-02T18:00:29.338Z"
   }
 ]
