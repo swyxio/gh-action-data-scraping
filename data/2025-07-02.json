@@ -86,5 +86,13 @@
     "username": "happymouse604",
     "password": "moocow",
     "invokedAt": "2025-07-02T10:00:18.432Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Kantola",
+    "email": "julia.kantola@example.com",
+    "username": "ticklishostrich878",
+    "password": "comics",
+    "invokedAt": "2025-07-02T11:00:23.993Z"
   }
 ]
