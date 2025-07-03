@@ -38,5 +38,13 @@
     "username": "browntiger355",
     "password": "123asd",
     "invokedAt": "2025-07-03T04:07:51.592Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Larsen",
+    "email": "victor.larsen@example.com",
+    "username": "ticklishbird964",
+    "password": "orion",
+    "invokedAt": "2025-07-03T05:02:36.016Z"
   }
 ]
