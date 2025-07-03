@@ -158,5 +158,13 @@
     "username": "heavydog474",
     "password": "2233",
     "invokedAt": "2025-07-03T19:00:27.191Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Zhang",
+    "email": "connor.zhang@example.com",
+    "username": "lazybutterfly164",
+    "password": "video",
+    "invokedAt": "2025-07-03T20:00:16.337Z"
   }
 ]
