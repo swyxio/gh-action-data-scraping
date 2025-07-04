@@ -166,5 +166,13 @@
     "username": "smallduck395",
     "password": "strip",
     "invokedAt": "2025-07-04T20:00:23.664Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Giménez",
+    "email": "jonathan.gimenez@example.com",
+    "username": "smallswan631",
+    "password": "sparrow",
+    "invokedAt": "2025-07-04T21:00:21.719Z"
   }
 ]
