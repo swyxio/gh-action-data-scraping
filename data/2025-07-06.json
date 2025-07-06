@@ -78,5 +78,13 @@
     "username": "sadcat216",
     "password": "general",
     "invokedAt": "2025-07-06T09:00:20.745Z"
+  },
+  {
+    "firstName": "Anaïs",
+    "lastName": "Fournier",
+    "email": "anais.fournier@example.com",
+    "username": "bigdog745",
+    "password": "gregor",
+    "invokedAt": "2025-07-06T10:00:30.083Z"
   }
 ]
