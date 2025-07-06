@@ -166,5 +166,13 @@
     "username": "whitecat509",
     "password": "helium",
     "invokedAt": "2025-07-06T20:00:20.761Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Green",
+    "email": "aaron.green@example.com",
+    "username": "crazydog360",
+    "password": "mooses",
+    "invokedAt": "2025-07-06T21:00:23.486Z"
   }
 ]
