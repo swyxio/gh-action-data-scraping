@@ -94,5 +94,13 @@
     "username": "brownbutterfly194",
     "password": "wisdom",
     "invokedAt": "2025-07-06T11:00:25.340Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Harper",
+    "email": "martin.harper@example.com",
+    "username": "organicfrog492",
+    "password": "brewer",
+    "invokedAt": "2025-07-06T12:00:22.688Z"
   }
 ]
