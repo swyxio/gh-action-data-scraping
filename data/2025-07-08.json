@@ -182,5 +182,13 @@
     "username": "heavygoose328",
     "password": "benton",
     "invokedAt": "2025-07-08T22:00:21.851Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Thomsen",
+    "email": "noah.thomsen@example.com",
+    "username": "bluesnake170",
+    "password": "ironman",
+    "invokedAt": "2025-07-08T23:00:22.656Z"
   }
 ]
