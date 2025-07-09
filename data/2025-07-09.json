@@ -78,5 +78,13 @@
     "username": "goldendog600",
     "password": "brazil",
     "invokedAt": "2025-07-09T09:01:51.907Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Alpuğan",
+    "email": "okan.alpugan@example.com",
+    "username": "whitewolf482",
+    "password": "massage",
+    "invokedAt": "2025-07-09T10:00:41.947Z"
   }
 ]
