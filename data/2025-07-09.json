@@ -86,5 +86,13 @@
     "username": "whitewolf482",
     "password": "massage",
     "invokedAt": "2025-07-09T10:00:41.947Z"
+  },
+  {
+    "firstName": "José Luis",
+    "lastName": "Hidalgo",
+    "email": "joseluis.hidalgo@example.com",
+    "username": "tinykoala341",
+    "password": "googoo",
+    "invokedAt": "2025-07-09T11:00:22.921Z"
   }
 ]
