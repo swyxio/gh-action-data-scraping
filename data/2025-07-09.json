@@ -94,5 +94,13 @@
     "username": "tinykoala341",
     "password": "googoo",
     "invokedAt": "2025-07-09T11:00:22.921Z"
+  },
+  {
+    "firstName": "Wouter",
+    "lastName": "Zhou",
+    "email": "wouter.zhou@example.com",
+    "username": "goldenrabbit821",
+    "password": "1958",
+    "invokedAt": "2025-07-09T12:00:24.403Z"
   }
 ]
