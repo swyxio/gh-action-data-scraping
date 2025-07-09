@@ -102,5 +102,13 @@
     "username": "goldenrabbit821",
     "password": "1958",
     "invokedAt": "2025-07-09T12:00:24.403Z"
+  },
+  {
+    "firstName": "Elli",
+    "lastName": "Niemela",
+    "email": "elli.niemela@example.com",
+    "username": "crazycat734",
+    "password": "zipper",
+    "invokedAt": "2025-07-09T13:10:56.411Z"
   }
 ]
