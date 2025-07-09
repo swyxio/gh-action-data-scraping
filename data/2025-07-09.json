@@ -46,5 +46,13 @@
     "username": "tinygoose157",
     "password": "horizon",
     "invokedAt": "2025-07-09T05:03:10.791Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Jutila",
+    "email": "otto.jutila@example.com",
+    "username": "happycat823",
+    "password": "scissors",
+    "invokedAt": "2025-07-09T06:00:20.063Z"
   }
 ]
