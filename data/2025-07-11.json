@@ -38,5 +38,13 @@
     "username": "brownpeacock265",
     "password": "peter1",
     "invokedAt": "2025-07-11T04:11:44.746Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Köybaşı",
+    "email": "adem.koybasi@example.com",
+    "username": "brownfish195",
+    "password": "eyes",
+    "invokedAt": "2025-07-11T05:02:56.169Z"
   }
 ]
