@@ -102,5 +102,13 @@
     "username": "blackpeacock150",
     "password": "sports",
     "invokedAt": "2025-07-11T12:00:21.646Z"
+  },
+  {
+    "firstName": "Rathi",
+    "lastName": "Kavser",
+    "email": "rathi.kavser@example.com",
+    "username": "lazyostrich608",
+    "password": "straight",
+    "invokedAt": "2025-07-11T13:10:10.431Z"
   }
 ]
