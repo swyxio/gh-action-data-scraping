@@ -166,5 +166,13 @@
     "username": "bigcat963",
     "password": "socks",
     "invokedAt": "2025-07-11T20:00:32.361Z"
+  },
+  {
+    "firstName": "Klaas",
+    "lastName": "Meixner",
+    "email": "klaas.meixner@example.com",
+    "username": "ticklishcat348",
+    "password": "montecar",
+    "invokedAt": "2025-07-11T21:00:24.307Z"
   }
 ]
