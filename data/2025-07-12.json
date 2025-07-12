@@ -142,5 +142,13 @@
     "username": "redrabbit438",
     "password": "matthias",
     "invokedAt": "2025-07-12T17:00:21.935Z"
+  },
+  {
+    "firstName": "Branko",
+    "lastName": "Filipović",
+    "email": "branko.filipovic@example.com",
+    "username": "bigfrog329",
+    "password": "babylon",
+    "invokedAt": "2025-07-12T18:00:20.875Z"
   }
 ]
