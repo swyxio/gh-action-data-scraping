@@ -158,5 +158,13 @@
     "username": "crazydog351",
     "password": "piazza",
     "invokedAt": "2025-07-12T19:00:23.169Z"
+  },
+  {
+    "firstName": "Iris",
+    "lastName": "Skrede",
+    "email": "iris.skrede@example.com",
+    "username": "smallkoala108",
+    "password": "jewels",
+    "invokedAt": "2025-07-12T20:00:21.122Z"
   }
 ]
