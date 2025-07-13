@@ -78,5 +78,13 @@
     "username": "whitebear271",
     "password": "vampires",
     "invokedAt": "2025-07-13T09:00:22.915Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Gürmen",
+    "email": "ahmet.gurmen@example.com",
+    "username": "purpleswan357",
+    "password": "dynamo",
+    "invokedAt": "2025-07-13T10:00:22.811Z"
   }
 ]
