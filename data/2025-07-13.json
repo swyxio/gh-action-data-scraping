@@ -102,5 +102,13 @@
     "username": "orangepanda642",
     "password": "deadly",
     "invokedAt": "2025-07-13T12:00:25.927Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Jensen",
+    "email": "lucas.jensen@example.com",
+    "username": "happytiger863",
+    "password": "eclipse",
+    "invokedAt": "2025-07-13T13:08:17.467Z"
   }
 ]
