@@ -62,5 +62,13 @@
     "username": "silverelephant520",
     "password": "charisma",
     "invokedAt": "2025-07-14T07:02:25.070Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Møller",
+    "email": "benjamin.moller@example.com",
+    "username": "goldenfrog990",
+    "password": "chopper",
+    "invokedAt": "2025-07-14T08:00:19.937Z"
   }
 ]
