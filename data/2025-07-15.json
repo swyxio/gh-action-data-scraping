@@ -70,5 +70,13 @@
     "username": "redzebra212",
     "password": "billabon",
     "invokedAt": "2025-07-15T08:00:24.878Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Petersen",
+    "email": "silas.petersen@example.com",
+    "username": "silvertiger388",
+    "password": "flight",
+    "invokedAt": "2025-07-15T09:04:56.622Z"
   }
 ]
