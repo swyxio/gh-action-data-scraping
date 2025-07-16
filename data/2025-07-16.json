@@ -14,5 +14,13 @@
     "username": "blackkoala706",
     "password": "dentist",
     "invokedAt": "2025-07-16T01:28:22.686Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Jensen",
+    "email": "jeppe.jensen@example.com",
+    "username": "orangebird533",
+    "password": "married",
+    "invokedAt": "2025-07-16T02:35:52.757Z"
   }
 ]
