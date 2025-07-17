@@ -102,5 +102,13 @@
     "username": "sadfrog584",
     "password": "dinosaur",
     "invokedAt": "2025-07-17T12:00:22.649Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Møller",
+    "email": "maria.moller@example.com",
+    "username": "ticklishlion382",
+    "password": "redbird",
+    "invokedAt": "2025-07-17T13:12:00.838Z"
   }
 ]
