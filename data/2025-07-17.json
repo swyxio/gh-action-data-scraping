@@ -182,5 +182,13 @@
     "username": "crazycat868",
     "password": "paranoid",
     "invokedAt": "2025-07-17T22:00:23.201Z"
+  },
+  {
+    "firstName": "Leevi",
+    "lastName": "Waara",
+    "email": "leevi.waara@example.com",
+    "username": "happyostrich771",
+    "password": "boxers",
+    "invokedAt": "2025-07-17T23:00:30.648Z"
   }
 ]
