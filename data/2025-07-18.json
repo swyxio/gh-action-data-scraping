@@ -166,5 +166,13 @@
     "username": "biggoose763",
     "password": "smokie",
     "invokedAt": "2025-07-18T20:00:25.844Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "White",
+    "email": "max.white@example.com",
+    "username": "beautifultiger192",
+    "password": "trash",
+    "invokedAt": "2025-07-18T21:00:22.382Z"
   }
 ]
