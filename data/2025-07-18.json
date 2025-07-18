@@ -86,5 +86,13 @@
     "username": "lazybear301",
     "password": "houston",
     "invokedAt": "2025-07-18T10:00:22.204Z"
+  },
+  {
+    "firstName": "Egbert",
+    "lastName": "Weiner",
+    "email": "egbert.weiner@example.com",
+    "username": "redbear957",
+    "password": "mariner",
+    "invokedAt": "2025-07-18T11:00:18.895Z"
   }
 ]
