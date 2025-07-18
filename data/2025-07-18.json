@@ -182,5 +182,13 @@
     "username": "blackdog326",
     "password": "chargers",
     "invokedAt": "2025-07-18T22:00:24.582Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Pakkala",
+    "email": "aleksi.pakkala@example.com",
+    "username": "redkoala297",
+    "password": "things",
+    "invokedAt": "2025-07-18T23:00:26.360Z"
   }
 ]
