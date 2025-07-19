@@ -166,5 +166,13 @@
     "username": "crazytiger168",
     "password": "mercury1",
     "invokedAt": "2025-07-19T20:00:30.536Z"
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Fournier",
+    "email": "luna.fournier@example.com",
+    "username": "crazyduck488",
+    "password": "carlos",
+    "invokedAt": "2025-07-19T21:00:23.145Z"
   }
 ]
