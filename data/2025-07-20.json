@@ -182,5 +182,13 @@
     "username": "tinywolf310",
     "password": "finger",
     "invokedAt": "2025-07-20T22:00:22.019Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Møller",
+    "email": "valdemar.moller@example.com",
+    "username": "blacksnake894",
+    "password": "woofwoof",
+    "invokedAt": "2025-07-20T23:00:24.883Z"
   }
 ]
