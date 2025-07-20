@@ -94,5 +94,13 @@
     "username": "blacktiger781",
     "password": "pinhead",
     "invokedAt": "2025-07-20T11:00:22.778Z"
+  },
+  {
+    "firstName": "Yasemin",
+    "lastName": "Yıldırım",
+    "email": "yasemin.yildirim@example.com",
+    "username": "whiterabbit823",
+    "password": "phone",
+    "invokedAt": "2025-07-20T12:00:30.653Z"
   }
 ]
