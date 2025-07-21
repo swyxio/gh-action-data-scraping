@@ -94,5 +94,13 @@
     "username": "ticklishswan782",
     "password": "children",
     "invokedAt": "2025-07-21T11:00:30.143Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Murray",
+    "email": "fred.murray@example.com",
+    "username": "redsnake335",
+    "password": "happy2",
+    "invokedAt": "2025-07-21T12:00:26.284Z"
   }
 ]
