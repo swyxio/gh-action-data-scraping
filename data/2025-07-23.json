@@ -54,5 +54,13 @@
     "username": "yellowswan130",
     "password": "spiral",
     "invokedAt": "2025-07-23T06:00:57.183Z"
+  },
+  {
+    "firstName": "Joey",
+    "lastName": "Simmons",
+    "email": "joey.simmons@example.com",
+    "username": "greenmouse325",
+    "password": "1103",
+    "invokedAt": "2025-07-23T07:02:27.090Z"
   }
 ]
