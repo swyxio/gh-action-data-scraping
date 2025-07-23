@@ -62,5 +62,13 @@
     "username": "greenmouse325",
     "password": "1103",
     "invokedAt": "2025-07-23T07:02:27.090Z"
+  },
+  {
+    "firstName": "Nelly",
+    "lastName": "Elling",
+    "email": "nelly.elling@example.com",
+    "username": "redostrich378",
+    "password": "entropy",
+    "invokedAt": "2025-07-23T08:00:20.223Z"
   }
 ]
