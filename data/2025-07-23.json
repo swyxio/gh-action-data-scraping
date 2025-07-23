@@ -46,5 +46,13 @@
     "username": "smallpanda617",
     "password": "unique",
     "invokedAt": "2025-07-23T05:05:47.240Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Poulsen",
+    "email": "johan.poulsen@example.com",
+    "username": "yellowswan130",
+    "password": "spiral",
+    "invokedAt": "2025-07-23T06:00:57.183Z"
   }
 ]
