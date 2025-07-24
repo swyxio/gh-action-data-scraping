@@ -174,5 +174,13 @@
     "username": "reddog922",
     "password": "dundee",
     "invokedAt": "2025-07-24T21:00:23.293Z"
+  },
+  {
+    "firstName": "Alisa",
+    "lastName": "Salo",
+    "email": "alisa.salo@example.com",
+    "username": "orangesnake961",
+    "password": "californ",
+    "invokedAt": "2025-07-24T22:00:30.232Z"
   }
 ]
