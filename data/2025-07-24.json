@@ -118,5 +118,13 @@
     "username": "blackduck355",
     "password": "shooter",
     "invokedAt": "2025-07-24T14:01:14.440Z"
+  },
+  {
+    "firstName": "Théo",
+    "lastName": "Thomas",
+    "email": "theo.thomas@example.com",
+    "username": "bigzebra257",
+    "password": "hehehe",
+    "invokedAt": "2025-07-24T15:00:28.221Z"
   }
 ]
