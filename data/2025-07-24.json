@@ -158,5 +158,13 @@
     "username": "tinybutterfly886",
     "password": "screamer",
     "invokedAt": "2025-07-24T19:01:48.554Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Thompson",
+    "email": "joshua.thompson@example.com",
+    "username": "blacksnake150",
+    "password": "peanut",
+    "invokedAt": "2025-07-24T20:00:16.789Z"
   }
 ]
