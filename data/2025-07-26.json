@@ -166,5 +166,13 @@
     "username": "beautifulswan977",
     "password": "gilles",
     "invokedAt": "2025-07-26T20:00:18.302Z"
+  },
+  {
+    "firstName": "Dimas",
+    "lastName": "Martins",
+    "email": "dimas.martins@example.com",
+    "username": "lazycat487",
+    "password": "backup",
+    "invokedAt": "2025-07-26T21:00:22.084Z"
   }
 ]
