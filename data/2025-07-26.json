@@ -118,5 +118,13 @@
     "username": "crazybutterfly155",
     "password": "xiao",
     "invokedAt": "2025-07-26T14:00:19.801Z"
+  },
+  {
+    "firstName": "Aljoša",
+    "lastName": "Jelačić",
+    "email": "aljosa.jelacic@example.com",
+    "username": "crazydog415",
+    "password": "xerxes",
+    "invokedAt": "2025-07-26T15:00:24.625Z"
   }
 ]
