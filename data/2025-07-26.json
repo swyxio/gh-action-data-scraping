@@ -102,5 +102,13 @@
     "username": "whitedog168",
     "password": "audio",
     "invokedAt": "2025-07-26T12:00:30.164Z"
+  },
+  {
+    "firstName": "Jason",
+    "lastName": "Andre",
+    "email": "jason.andre@example.com",
+    "username": "crazydog710",
+    "password": "5454",
+    "invokedAt": "2025-07-26T13:09:27.206Z"
   }
 ]
