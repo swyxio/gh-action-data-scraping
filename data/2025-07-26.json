@@ -134,5 +134,13 @@
     "username": "goldenbird785",
     "password": "florida1",
     "invokedAt": "2025-07-26T16:00:29.906Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Pedersen",
+    "email": "adam.pedersen@example.com",
+    "username": "whitesnake234",
+    "password": "paddle",
+    "invokedAt": "2025-07-26T17:00:29.249Z"
   }
 ]
