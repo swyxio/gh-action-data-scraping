@@ -166,5 +166,13 @@
     "username": "tinycat762",
     "password": "1960",
     "invokedAt": "2025-07-27T20:00:24.907Z"
+  },
+  {
+    "firstName": "Allen",
+    "lastName": "Carter",
+    "email": "allen.carter@example.com",
+    "username": "blackduck762",
+    "password": "django",
+    "invokedAt": "2025-07-27T21:00:19.314Z"
   }
 ]
