@@ -54,5 +54,13 @@
     "username": "organicbird369",
     "password": "8inches",
     "invokedAt": "2025-07-28T06:01:05.300Z"
+  },
+  {
+    "firstName": "Hans",
+    "lastName": "Taylor",
+    "email": "hans.taylor@example.com",
+    "username": "sadsnake779",
+    "password": "entry",
+    "invokedAt": "2025-07-28T07:03:42.844Z"
   }
 ]
