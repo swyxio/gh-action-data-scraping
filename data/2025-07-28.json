@@ -94,5 +94,13 @@
     "username": "organicgoose779",
     "password": "stayout",
     "invokedAt": "2025-07-28T11:00:31.446Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Perez",
+    "email": "owen.perez@example.com",
+    "username": "angryelephant173",
+    "password": "rabbits",
+    "invokedAt": "2025-07-28T12:00:25.102Z"
   }
 ]
