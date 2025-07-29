@@ -126,5 +126,13 @@
     "username": "yellowsnake123",
     "password": "kungfu",
     "invokedAt": "2025-07-29T15:01:35.706Z"
+  },
+  {
+    "firstName": "Benno",
+    "lastName": "Kaps",
+    "email": "benno.kaps@example.com",
+    "username": "greenleopard385",
+    "password": "freaky",
+    "invokedAt": "2025-07-29T16:00:49.362Z"
   }
 ]
