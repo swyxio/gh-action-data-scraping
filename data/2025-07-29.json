@@ -182,5 +182,13 @@
     "username": "yellowwolf315",
     "password": "harry",
     "invokedAt": "2025-07-29T22:00:29.347Z"
+  },
+  {
+    "firstName": "Gatuslav",
+    "lastName": "Lyashenko",
+    "email": "gatuslav.lyashenko@example.com",
+    "username": "blackostrich674",
+    "password": "mollydog",
+    "invokedAt": "2025-07-29T23:00:25.809Z"
   }
 ]
