@@ -110,5 +110,13 @@
     "username": "happywolf997",
     "password": "finger",
     "invokedAt": "2025-07-29T13:13:29.332Z"
+  },
+  {
+    "firstName": "Zlatan",
+    "lastName": "Polić",
+    "email": "zlatan.polic@example.com",
+    "username": "lazybear114",
+    "password": "justdoit",
+    "invokedAt": "2025-07-29T14:02:54.740Z"
   }
 ]
