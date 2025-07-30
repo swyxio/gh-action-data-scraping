@@ -94,5 +94,13 @@
     "username": "lazyswan338",
     "password": "qing",
     "invokedAt": "2025-07-30T11:00:23.402Z"
+  },
+  {
+    "firstName": "Nikolas",
+    "lastName": "Hanf",
+    "email": "nikolas.hanf@example.com",
+    "username": "reddog368",
+    "password": "lemons",
+    "invokedAt": "2025-07-30T12:00:34.523Z"
   }
 ]
