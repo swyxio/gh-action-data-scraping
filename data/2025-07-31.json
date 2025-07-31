@@ -142,5 +142,13 @@
     "username": "purplekoala501",
     "password": "review",
     "invokedAt": "2025-07-31T17:02:54.055Z"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Morris",
+    "email": "scott.morris@example.com",
+    "username": "whitepeacock531",
+    "password": "fullback",
+    "invokedAt": "2025-07-31T18:00:19.046Z"
   }
 ]
