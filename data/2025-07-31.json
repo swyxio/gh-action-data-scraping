@@ -134,5 +134,13 @@
     "username": "greendog966",
     "password": "1998",
     "invokedAt": "2025-07-31T16:00:52.586Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Hall",
+    "email": "louis.hall@example.com",
+    "username": "purplekoala501",
+    "password": "review",
+    "invokedAt": "2025-07-31T17:02:54.055Z"
   }
 ]
