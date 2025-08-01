@@ -142,5 +142,13 @@
     "username": "redostrich369",
     "password": "bennie",
     "invokedAt": "2025-08-01T17:02:32.839Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "George",
+    "email": "mary.george@example.com",
+    "username": "smallpanda694",
+    "password": "wrestling",
+    "invokedAt": "2025-08-01T18:00:30.266Z"
   }
 ]
