@@ -150,5 +150,13 @@
     "username": "smallpanda694",
     "password": "wrestling",
     "invokedAt": "2025-08-01T18:00:30.266Z"
+  },
+  {
+    "firstName": "Kaya",
+    "lastName": "Numanoğlu",
+    "email": "kaya.numanoglu@example.com",
+    "username": "silverbird353",
+    "password": "pepper",
+    "invokedAt": "2025-08-01T19:02:11.647Z"
   }
 ]
