@@ -78,5 +78,13 @@
     "username": "bluekoala602",
     "password": "morton",
     "invokedAt": "2025-08-01T09:02:44.455Z"
+  },
+  {
+    "firstName": "Marija",
+    "lastName": "Šarić",
+    "email": "marija.saric@example.com",
+    "username": "bluemouse900",
+    "password": "hungry",
+    "invokedAt": "2025-08-01T10:00:23.456Z"
   }
 ]
