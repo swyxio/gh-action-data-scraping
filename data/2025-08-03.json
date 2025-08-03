@@ -174,5 +174,13 @@
     "username": "yellowsnake468",
     "password": "millions",
     "invokedAt": "2025-08-03T21:00:23.720Z"
+  },
+  {
+    "firstName": "Tessy",
+    "lastName": "Van Nierop",
+    "email": "tessy.vannierop@example.com",
+    "username": "crazymouse696",
+    "password": "boiler",
+    "invokedAt": "2025-08-03T22:00:22.446Z"
   }
 ]
