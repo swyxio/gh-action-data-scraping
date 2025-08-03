@@ -118,5 +118,13 @@
     "username": "redzebra720",
     "password": "boobed",
     "invokedAt": "2025-08-03T14:00:19.998Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Moore",
+    "email": "matthew.moore@example.com",
+    "username": "greenleopard248",
+    "password": "chinook",
+    "invokedAt": "2025-08-03T15:00:30.643Z"
   }
 ]
