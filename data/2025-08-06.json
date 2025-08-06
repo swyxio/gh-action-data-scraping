@@ -46,5 +46,13 @@
     "username": "heavygorilla762",
     "password": "1024",
     "invokedAt": "2025-08-06T05:06:56.015Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Rezai",
+    "email": "paul.rezai@example.com",
+    "username": "bluepanda433",
+    "password": "metoo",
+    "invokedAt": "2025-08-06T06:01:22.567Z"
   }
 ]
