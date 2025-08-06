@@ -86,5 +86,13 @@
     "username": "lazyladybug695",
     "password": "clover",
     "invokedAt": "2025-08-06T10:00:39.530Z"
+  },
+  {
+    "firstName": "Teodor",
+    "lastName": "Vujčić",
+    "email": "teodor.vujcic@example.com",
+    "username": "greenswan207",
+    "password": "rage",
+    "invokedAt": "2025-08-06T11:00:48.080Z"
   }
 ]
