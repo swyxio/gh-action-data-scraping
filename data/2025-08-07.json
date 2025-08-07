@@ -166,5 +166,13 @@
     "username": "smallostrich606",
     "password": "freckles",
     "invokedAt": "2025-08-07T20:00:21.254Z"
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Cabán",
+    "email": "gustavo.caban@example.com",
+    "username": "greendog760",
+    "password": "closeup",
+    "invokedAt": "2025-08-07T21:00:31.982Z"
   }
 ]
