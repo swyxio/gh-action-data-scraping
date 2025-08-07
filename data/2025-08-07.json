@@ -110,5 +110,13 @@
     "username": "silvergorilla482",
     "password": "verizon",
     "invokedAt": "2025-08-07T13:13:40.374Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Ortiz",
+    "email": "pedro.ortiz@example.com",
+    "username": "bigkoala976",
+    "password": "meier",
+    "invokedAt": "2025-08-07T14:02:31.129Z"
   }
 ]
