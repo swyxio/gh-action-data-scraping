@@ -54,5 +54,13 @@
     "username": "yellowduck815",
     "password": "outside",
     "invokedAt": "2025-08-07T06:00:53.549Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Elo",
+    "email": "valtteri.elo@example.com",
+    "username": "blacktiger700",
+    "password": "wage",
+    "invokedAt": "2025-08-07T07:03:42.879Z"
   }
 ]
