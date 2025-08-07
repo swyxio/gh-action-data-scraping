@@ -142,5 +142,13 @@
     "username": "smallbear865",
     "password": "athlon",
     "invokedAt": "2025-08-07T17:02:34.916Z"
+  },
+  {
+    "firstName": "Živko",
+    "lastName": "Ognjanović",
+    "email": "zivko.ognjanovic@example.com",
+    "username": "browndog274",
+    "password": "home",
+    "invokedAt": "2025-08-07T18:00:26.912Z"
   }
 ]
