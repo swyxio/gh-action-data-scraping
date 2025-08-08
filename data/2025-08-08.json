@@ -182,5 +182,13 @@
     "username": "yellowduck844",
     "password": "abcd",
     "invokedAt": "2025-08-08T22:00:26.566Z"
+  },
+  {
+    "firstName": "Allen",
+    "lastName": "Brewer",
+    "email": "allen.brewer@example.com",
+    "username": "lazymeercat551",
+    "password": "rodeo",
+    "invokedAt": "2025-08-08T23:00:23.948Z"
   }
 ]
