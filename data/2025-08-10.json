@@ -174,5 +174,13 @@
     "username": "purpleswan855",
     "password": "123457",
     "invokedAt": "2025-08-10T21:00:19.836Z"
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Brewer",
+    "email": "adrian.brewer@example.com",
+    "username": "lazybird582",
+    "password": "trigger",
+    "invokedAt": "2025-08-10T22:00:31.037Z"
   }
 ]
