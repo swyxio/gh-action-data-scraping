@@ -150,5 +150,13 @@
     "username": "purpledog546",
     "password": "spam",
     "invokedAt": "2025-08-11T18:00:21.097Z"
+  },
+  {
+    "firstName": "Jadranko",
+    "lastName": "Ivanić",
+    "email": "jadranko.ivanic@example.com",
+    "username": "beautifullion615",
+    "password": "shovel",
+    "invokedAt": "2025-08-11T19:01:56.563Z"
   }
 ]
