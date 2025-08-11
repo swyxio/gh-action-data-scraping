@@ -174,5 +174,13 @@
     "username": "purplebird696",
     "password": "gateway1",
     "invokedAt": "2025-08-11T21:00:26.354Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Mascareñas",
+    "email": "andres.mascarenas@example.com",
+    "username": "tinywolf862",
+    "password": "killme",
+    "invokedAt": "2025-08-11T22:00:21.148Z"
   }
 ]
