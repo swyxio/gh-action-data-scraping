@@ -142,5 +142,13 @@
     "username": "goldengorilla524",
     "password": "cooter",
     "invokedAt": "2025-08-11T17:01:45.212Z"
+  },
+  {
+    "firstName": "Eetu",
+    "lastName": "Kuusisto",
+    "email": "eetu.kuusisto@example.com",
+    "username": "purpledog546",
+    "password": "spam",
+    "invokedAt": "2025-08-11T18:00:21.097Z"
   }
 ]
