@@ -54,5 +54,13 @@
     "username": "blackelephant554",
     "password": "climax",
     "invokedAt": "2025-08-12T06:00:21.006Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Hunt",
+    "email": "andy.hunt@example.com",
+    "username": "bigtiger620",
+    "password": "rabbits",
+    "invokedAt": "2025-08-12T07:01:08.280Z"
   }
 ]
