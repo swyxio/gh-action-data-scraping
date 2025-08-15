@@ -166,5 +166,13 @@
     "username": "angryostrich889",
     "password": "absolut",
     "invokedAt": "2025-08-15T20:00:23.102Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Hakola",
+    "email": "amanda.hakola@example.com",
+    "username": "sadwolf132",
+    "password": "redrose",
+    "invokedAt": "2025-08-15T21:00:22.373Z"
   }
 ]
