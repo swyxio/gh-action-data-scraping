@@ -174,5 +174,13 @@
     "username": "blueladybug227",
     "password": "aviation",
     "invokedAt": "2025-08-16T21:00:19.242Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Wallace",
+    "email": "eric.wallace@example.com",
+    "username": "bluebutterfly539",
+    "password": "staples",
+    "invokedAt": "2025-08-16T22:00:24.608Z"
   }
 ]
