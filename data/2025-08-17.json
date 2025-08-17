@@ -182,5 +182,13 @@
     "username": "yellowbutterfly564",
     "password": "goodtime",
     "invokedAt": "2025-08-17T22:00:20.541Z"
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Pierre",
+    "email": "adrian.pierre@example.com",
+    "username": "goldenbutterfly777",
+    "password": "security",
+    "invokedAt": "2025-08-17T23:00:20.962Z"
   }
 ]
