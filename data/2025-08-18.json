@@ -102,5 +102,13 @@
     "username": "sadbutterfly463",
     "password": "stick",
     "invokedAt": "2025-08-18T12:00:24.469Z"
+  },
+  {
+    "firstName": "Christine",
+    "lastName": "Berger",
+    "email": "christine.berger@example.com",
+    "username": "smallbird714",
+    "password": "storm",
+    "invokedAt": "2025-08-18T13:11:51.100Z"
   }
 ]
