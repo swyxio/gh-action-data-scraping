@@ -182,5 +182,13 @@
     "username": "happyrabbit798",
     "password": "oklahoma",
     "invokedAt": "2025-08-19T22:00:17.501Z"
+  },
+  {
+    "firstName": "Theodore",
+    "lastName": "Chambers",
+    "email": "theodore.chambers@example.com",
+    "username": "bigdog416",
+    "password": "spanner",
+    "invokedAt": "2025-08-19T23:00:21.449Z"
   }
 ]
