@@ -158,5 +158,13 @@
     "username": "orangepanda776",
     "password": "darius",
     "invokedAt": "2025-08-20T19:00:37.399Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Žigić",
+    "email": "anton.zigic@example.com",
+    "username": "browncat109",
+    "password": "woody",
+    "invokedAt": "2025-08-20T20:00:23.773Z"
   }
 ]
