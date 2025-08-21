@@ -158,5 +158,13 @@
     "username": "whitedog345",
     "password": "2000",
     "invokedAt": "2025-08-21T20:00:28.791Z"
+  },
+  {
+    "firstName": "Veeti",
+    "lastName": "Karjala",
+    "email": "veeti.karjala@example.com",
+    "username": "tinyrabbit531",
+    "password": "stud",
+    "invokedAt": "2025-08-21T21:00:39.888Z"
   }
 ]
