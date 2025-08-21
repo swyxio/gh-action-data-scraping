@@ -102,5 +102,13 @@
     "username": "greensnake143",
     "password": "indiana",
     "invokedAt": "2025-08-21T12:00:21.321Z"
+  },
+  {
+    "firstName": "Eddie",
+    "lastName": "Peterson",
+    "email": "eddie.peterson@example.com",
+    "username": "yellowtiger379",
+    "password": "funtime",
+    "invokedAt": "2025-08-21T13:08:30.894Z"
   }
 ]
