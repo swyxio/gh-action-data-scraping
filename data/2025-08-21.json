@@ -142,5 +142,13 @@
     "username": "happymouse594",
     "password": "dolphins",
     "invokedAt": "2025-08-21T18:00:24.427Z"
+  },
+  {
+    "firstName": "Øystein",
+    "lastName": "Lossius",
+    "email": "oystein.lossius@example.com",
+    "username": "brownostrich886",
+    "password": "cricket1",
+    "invokedAt": "2025-08-21T19:00:20.957Z"
   }
 ]
