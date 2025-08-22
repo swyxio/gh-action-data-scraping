@@ -38,5 +38,13 @@
     "username": "tinyfrog982",
     "password": "spartans",
     "invokedAt": "2025-08-22T04:00:31.391Z"
+  },
+  {
+    "firstName": "Tor",
+    "lastName": "Enoksen",
+    "email": "tor.enoksen@example.com",
+    "username": "bluecat183",
+    "password": "bassman",
+    "invokedAt": "2025-08-22T05:00:20.037Z"
   }
 ]
