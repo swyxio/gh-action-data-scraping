@@ -46,5 +46,13 @@
     "username": "happytiger173",
     "password": "dodger",
     "invokedAt": "2025-08-23T05:00:24.572Z"
+  },
+  {
+    "firstName": "Adrião",
+    "lastName": "Silveira",
+    "email": "adriao.silveira@example.com",
+    "username": "purplefish401",
+    "password": "moreno",
+    "invokedAt": "2025-08-23T06:00:24.648Z"
   }
 ]
