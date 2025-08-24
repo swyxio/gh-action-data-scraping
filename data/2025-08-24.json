@@ -166,5 +166,13 @@
     "username": "goldendog464",
     "password": "canada",
     "invokedAt": "2025-08-24T20:00:33.365Z"
+  },
+  {
+    "firstName": "Timothy",
+    "lastName": "Dupont",
+    "email": "timothy.dupont@example.com",
+    "username": "smallbutterfly588",
+    "password": "walmart",
+    "invokedAt": "2025-08-24T21:00:22.309Z"
   }
 ]
