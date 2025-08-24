@@ -158,5 +158,13 @@
     "username": "smallfrog244",
     "password": "adults",
     "invokedAt": "2025-08-24T19:00:30.575Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Dağlaroğlu",
+    "email": "emre.daglaroglu@example.com",
+    "username": "goldendog464",
+    "password": "canada",
+    "invokedAt": "2025-08-24T20:00:33.365Z"
   }
 ]
