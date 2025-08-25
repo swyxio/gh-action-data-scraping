@@ -102,5 +102,13 @@
     "username": "crazyfish247",
     "password": "insane",
     "invokedAt": "2025-08-25T12:00:25.183Z"
+  },
+  {
+    "firstName": "Alfredo",
+    "lastName": "Campos",
+    "email": "alfredo.campos@example.com",
+    "username": "yellowtiger359",
+    "password": "piano",
+    "invokedAt": "2025-08-25T13:09:23.637Z"
   }
 ]
