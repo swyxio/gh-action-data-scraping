@@ -70,5 +70,13 @@
     "username": "orangefish873",
     "password": "vector",
     "invokedAt": "2025-08-25T08:00:22.844Z"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Tucker",
+    "email": "kelly.tucker@example.com",
+    "username": "crazyduck798",
+    "password": "claire",
+    "invokedAt": "2025-08-25T09:00:35.457Z"
   }
 ]
