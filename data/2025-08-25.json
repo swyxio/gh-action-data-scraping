@@ -78,5 +78,13 @@
     "username": "crazyduck798",
     "password": "claire",
     "invokedAt": "2025-08-25T09:00:35.457Z"
+  },
+  {
+    "firstName": "Miranda",
+    "lastName": "Richard",
+    "email": "miranda.richard@example.com",
+    "username": "purplefrog278",
+    "password": "frederic",
+    "invokedAt": "2025-08-25T10:00:20.249Z"
   }
 ]
