@@ -94,5 +94,13 @@
     "username": "heavypanda258",
     "password": "1030",
     "invokedAt": "2025-08-25T11:00:25.738Z"
+  },
+  {
+    "firstName": "Rómulo",
+    "lastName": "Rezende",
+    "email": "romulo.rezende@example.com",
+    "username": "crazyfish247",
+    "password": "insane",
+    "invokedAt": "2025-08-25T12:00:25.183Z"
   }
 ]
