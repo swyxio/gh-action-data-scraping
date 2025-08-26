@@ -94,5 +94,13 @@
     "username": "silvergorilla107",
     "password": "recovery",
     "invokedAt": "2025-08-26T13:10:05.200Z"
+  },
+  {
+    "firstName": "Flynn",
+    "lastName": "Patel",
+    "email": "flynn.patel@example.com",
+    "username": "purplemouse169",
+    "password": "paradigm",
+    "invokedAt": "2025-08-26T14:00:15.847Z"
   }
 ]
