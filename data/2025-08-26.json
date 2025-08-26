@@ -78,5 +78,13 @@
     "username": "crazydog992",
     "password": "zippy",
     "invokedAt": "2025-08-26T10:00:46.522Z"
+  },
+  {
+    "firstName": "Heine",
+    "lastName": "Monstad",
+    "email": "heine.monstad@example.com",
+    "username": "silverrabbit427",
+    "password": "burner",
+    "invokedAt": "2025-08-26T11:01:39.867Z"
   }
 ]
