@@ -142,5 +142,13 @@
     "username": "brownpeacock558",
     "password": "mondeo",
     "invokedAt": "2025-08-26T19:00:29.055Z"
+  },
+  {
+    "firstName": "Hans Jürgen",
+    "lastName": "Schnur",
+    "email": "hansjurgen.schnur@example.com",
+    "username": "sadostrich213",
+    "password": "chuo",
+    "invokedAt": "2025-08-26T20:00:18.793Z"
   }
 ]
