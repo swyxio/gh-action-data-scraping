@@ -86,5 +86,13 @@
     "username": "silverrabbit427",
     "password": "burner",
     "invokedAt": "2025-08-26T11:01:39.867Z"
+  },
+  {
+    "firstName": "Mira",
+    "lastName": "Marchand",
+    "email": "mira.marchand@example.com",
+    "username": "silvergorilla107",
+    "password": "recovery",
+    "invokedAt": "2025-08-26T13:10:05.200Z"
   }
 ]
