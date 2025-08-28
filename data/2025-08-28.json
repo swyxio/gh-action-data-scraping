@@ -134,5 +134,13 @@
     "username": "redfish832",
     "password": "squeak",
     "invokedAt": "2025-08-28T16:00:15.764Z"
+  },
+  {
+    "firstName": "Rodrigo",
+    "lastName": "Arias",
+    "email": "rodrigo.arias@example.com",
+    "username": "yellowgoose373",
+    "password": "second",
+    "invokedAt": "2025-08-28T17:00:20.385Z"
   }
 ]
