@@ -158,5 +158,13 @@
     "username": "blackpeacock175",
     "password": "fortress",
     "invokedAt": "2025-08-29T19:00:21.813Z"
+  },
+  {
+    "firstName": "Elliot",
+    "lastName": "Williamson",
+    "email": "elliot.williamson@example.com",
+    "username": "happytiger772",
+    "password": "zippo",
+    "invokedAt": "2025-08-29T20:00:29.209Z"
   }
 ]
