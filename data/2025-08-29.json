@@ -38,5 +38,13 @@
     "username": "lazybird405",
     "password": "garage",
     "invokedAt": "2025-08-29T04:00:25.959Z"
+  },
+  {
+    "firstName": "Pranay",
+    "lastName": "Singh",
+    "email": "pranay.singh@example.com",
+    "username": "sadostrich100",
+    "password": "trace",
+    "invokedAt": "2025-08-29T05:00:23.506Z"
   }
 ]
