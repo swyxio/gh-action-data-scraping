@@ -46,5 +46,13 @@
     "username": "sadostrich100",
     "password": "trace",
     "invokedAt": "2025-08-29T05:00:23.506Z"
+  },
+  {
+    "firstName": "Hannah",
+    "lastName": "Wright",
+    "email": "hannah.wright@example.com",
+    "username": "tinyswan893",
+    "password": "sticks",
+    "invokedAt": "2025-08-29T06:00:23.956Z"
   }
 ]
