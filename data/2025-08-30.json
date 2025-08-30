@@ -86,5 +86,13 @@
     "username": "smallbutterfly405",
     "password": "blue123",
     "invokedAt": "2025-08-30T10:00:23.724Z"
+  },
+  {
+    "firstName": "Boško",
+    "lastName": "Novaković",
+    "email": "bosko.novakovic@example.com",
+    "username": "greenmouse467",
+    "password": "credit",
+    "invokedAt": "2025-08-30T11:00:21.873Z"
   }
 ]
