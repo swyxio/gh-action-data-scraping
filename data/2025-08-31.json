@@ -94,5 +94,13 @@
     "username": "angrycat883",
     "password": "body",
     "invokedAt": "2025-08-31T11:00:23.223Z"
+  },
+  {
+    "firstName": "Nicolás",
+    "lastName": "Luna",
+    "email": "nicolas.luna@example.com",
+    "username": "angrytiger774",
+    "password": "disney",
+    "invokedAt": "2025-08-31T12:00:21.090Z"
   }
 ]
