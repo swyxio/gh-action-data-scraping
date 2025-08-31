@@ -30,5 +30,13 @@
     "username": "yellowpeacock643",
     "password": "talbot",
     "invokedAt": "2025-08-31T03:15:36.783Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Marín",
+    "email": "alvaro.marin@example.com",
+    "username": "orangetiger166",
+    "password": "yoda",
+    "invokedAt": "2025-08-31T04:00:22.654Z"
   }
 ]
