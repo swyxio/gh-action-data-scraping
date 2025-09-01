@@ -118,5 +118,13 @@
     "username": "happylion897",
     "password": "villa",
     "invokedAt": "2025-09-01T14:00:25.044Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Li",
+    "email": "grace.li@example.com",
+    "username": "tinygoose526",
+    "password": "zipper",
+    "invokedAt": "2025-09-01T15:00:20.868Z"
   }
 ]
