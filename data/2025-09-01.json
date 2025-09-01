@@ -94,5 +94,13 @@
     "username": "smallsnake539",
     "password": "wrestle",
     "invokedAt": "2025-09-01T11:00:19.126Z"
+  },
+  {
+    "firstName": "Theodore",
+    "lastName": "Castro",
+    "email": "theodore.castro@example.com",
+    "username": "happysnake566",
+    "password": "goalie",
+    "invokedAt": "2025-09-01T12:00:24.818Z"
   }
 ]
