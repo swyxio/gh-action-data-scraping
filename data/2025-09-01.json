@@ -142,5 +142,13 @@
     "username": "blackfrog285",
     "password": "jaguar",
     "invokedAt": "2025-09-01T17:00:21.155Z"
+  },
+  {
+    "firstName": "Nixon",
+    "lastName": "Smith",
+    "email": "nixon.smith@example.com",
+    "username": "brownlion258",
+    "password": "elite",
+    "invokedAt": "2025-09-01T18:00:17.005Z"
   }
 ]
