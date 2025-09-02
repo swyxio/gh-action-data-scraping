@@ -142,5 +142,13 @@
     "username": "bluezebra255",
     "password": "swimming",
     "invokedAt": "2025-09-02T17:00:29.430Z"
+  },
+  {
+    "firstName": "Orlando",
+    "lastName": "Roger",
+    "email": "orlando.roger@example.com",
+    "username": "happypanda515",
+    "password": "mona",
+    "invokedAt": "2025-09-02T18:00:22.797Z"
   }
 ]
