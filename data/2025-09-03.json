@@ -22,5 +22,13 @@
     "username": "silverrabbit971",
     "password": "longer",
     "invokedAt": "2025-09-03T02:23:34.350Z"
+  },
+  {
+    "firstName": "Ognjen",
+    "lastName": "Pantelić",
+    "email": "ognjen.pantelic@example.com",
+    "username": "tinyrabbit867",
+    "password": "bogus",
+    "invokedAt": "2025-09-03T03:07:56.466Z"
   }
 ]
