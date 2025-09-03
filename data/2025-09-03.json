@@ -158,5 +158,13 @@
     "username": "whitewolf653",
     "password": "detroit",
     "invokedAt": "2025-09-03T19:00:20.280Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Jørgensen",
+    "email": "sara.jorgensen@example.com",
+    "username": "brownzebra371",
+    "password": "beezer",
+    "invokedAt": "2025-09-03T20:00:27.353Z"
   }
 ]
