@@ -78,5 +78,13 @@
     "username": "blackduck672",
     "password": "presto",
     "invokedAt": "2025-09-04T09:00:20.904Z"
+  },
+  {
+    "firstName": "Lada",
+    "lastName": "Danilović",
+    "email": "lada.danilovic@example.com",
+    "username": "smallwolf223",
+    "password": "cthulhu",
+    "invokedAt": "2025-09-04T10:00:19.951Z"
   }
 ]
