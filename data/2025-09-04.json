@@ -118,5 +118,13 @@
     "username": "bigfrog575",
     "password": "asia",
     "invokedAt": "2025-09-04T14:00:21.397Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Heikkinen",
+    "email": "arttu.heikkinen@example.com",
+    "username": "brownfrog216",
+    "password": "peewee",
+    "invokedAt": "2025-09-04T15:00:27.056Z"
   }
 ]
