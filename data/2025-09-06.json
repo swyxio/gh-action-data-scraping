@@ -94,5 +94,13 @@
     "username": "happywolf142",
     "password": "socrates",
     "invokedAt": "2025-09-06T11:00:21.258Z"
+  },
+  {
+    "firstName": "Malin",
+    "lastName": "Rousseau",
+    "email": "malin.rousseau@example.com",
+    "username": "angrytiger562",
+    "password": "married",
+    "invokedAt": "2025-09-06T12:00:25.793Z"
   }
 ]
