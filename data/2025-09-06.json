@@ -38,5 +38,13 @@
     "username": "brownwolf780",
     "password": "trustme",
     "invokedAt": "2025-09-06T04:00:29.657Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Poulsen",
+    "email": "noah.poulsen@example.com",
+    "username": "bluecat148",
+    "password": "reader",
+    "invokedAt": "2025-09-06T05:00:21.444Z"
   }
 ]
