@@ -46,5 +46,13 @@
     "username": "purplemeercat414",
     "password": "sail",
     "invokedAt": "2025-09-07T05:00:21.137Z"
+  },
+  {
+    "firstName": "Torsten",
+    "lastName": "Slagboom",
+    "email": "torsten.slagboom@example.com",
+    "username": "bluemouse884",
+    "password": "stars",
+    "invokedAt": "2025-09-07T06:00:29.101Z"
   }
 ]
