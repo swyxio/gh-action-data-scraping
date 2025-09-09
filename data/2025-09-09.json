@@ -158,5 +158,13 @@
     "username": "whitepanda906",
     "password": "hack",
     "invokedAt": "2025-09-09T19:00:33.864Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Wilson",
+    "email": "bill.wilson@example.com",
+    "username": "yellowpanda405",
+    "password": "hoops",
+    "invokedAt": "2025-09-09T20:00:21.711Z"
   }
 ]
