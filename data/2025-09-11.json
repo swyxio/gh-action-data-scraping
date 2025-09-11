@@ -94,5 +94,13 @@
     "username": "silverdog434",
     "password": "camaross",
     "invokedAt": "2025-09-11T11:00:43.386Z"
+  },
+  {
+    "firstName": "Stevie",
+    "lastName": "Van de Graaf",
+    "email": "stevie.vandegraaf@example.com",
+    "username": "silverduck418",
+    "password": "leonardo",
+    "invokedAt": "2025-09-11T12:00:37.833Z"
   }
 ]
