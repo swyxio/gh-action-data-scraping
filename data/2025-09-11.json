@@ -78,5 +78,13 @@
     "username": "silverpeacock435",
     "password": "doghouse",
     "invokedAt": "2025-09-11T09:00:23.023Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Thomsen",
+    "email": "julie.thomsen@example.com",
+    "username": "blackbutterfly792",
+    "password": "bombay",
+    "invokedAt": "2025-09-11T10:00:23.465Z"
   }
 ]
