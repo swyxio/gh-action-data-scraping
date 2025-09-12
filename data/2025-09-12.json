@@ -134,5 +134,13 @@
     "username": "sadcat325",
     "password": "designer",
     "invokedAt": "2025-09-12T16:00:22.898Z"
+  },
+  {
+    "firstName": "Brankica",
+    "lastName": "Urošević",
+    "email": "brankica.urosevic@example.com",
+    "username": "blackbear403",
+    "password": "4121",
+    "invokedAt": "2025-09-12T17:00:20.614Z"
   }
 ]
