@@ -182,5 +182,13 @@
     "username": "yellowcat373",
     "password": "plane",
     "invokedAt": "2025-09-13T22:00:42.950Z"
+  },
+  {
+    "firstName": "Kenzi",
+    "lastName": "Fields",
+    "email": "kenzi.fields@example.com",
+    "username": "biggorilla789",
+    "password": "2222",
+    "invokedAt": "2025-09-13T23:00:24.059Z"
   }
 ]
