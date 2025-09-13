@@ -174,5 +174,13 @@
     "username": "bigleopard308",
     "password": "212121",
     "invokedAt": "2025-09-13T21:00:21.411Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Pastor",
+    "email": "alvaro.pastor@example.com",
+    "username": "yellowcat373",
+    "password": "plane",
+    "invokedAt": "2025-09-13T22:00:42.950Z"
   }
 ]
