@@ -142,5 +142,13 @@
     "username": "blueelephant698",
     "password": "penetrating",
     "invokedAt": "2025-09-13T17:00:22.302Z"
+  },
+  {
+    "firstName": "Didier",
+    "lastName": "Menard",
+    "email": "didier.menard@example.com",
+    "username": "sadostrich213",
+    "password": "kashmir",
+    "invokedAt": "2025-09-13T18:00:29.555Z"
   }
 ]
