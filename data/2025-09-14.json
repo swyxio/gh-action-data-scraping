@@ -118,5 +118,13 @@
     "username": "orangefish380",
     "password": "latina",
     "invokedAt": "2025-09-14T14:00:20.468Z"
+  },
+  {
+    "firstName": "Jochum",
+    "lastName": "Gras",
+    "email": "jochum.gras@example.com",
+    "username": "crazycat502",
+    "password": "12345a",
+    "invokedAt": "2025-09-14T15:00:32.449Z"
   }
 ]
