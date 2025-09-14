@@ -86,5 +86,13 @@
     "username": "yellowrabbit335",
     "password": "wyatt",
     "invokedAt": "2025-09-14T10:00:26.738Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Santana",
+    "email": "gabriel.santana@example.com",
+    "username": "orangebear456",
+    "password": "polly",
+    "invokedAt": "2025-09-14T11:00:31.449Z"
   }
 ]
