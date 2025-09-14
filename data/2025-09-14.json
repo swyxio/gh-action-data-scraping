@@ -126,5 +126,13 @@
     "username": "crazycat502",
     "password": "12345a",
     "invokedAt": "2025-09-14T15:00:32.449Z"
+  },
+  {
+    "firstName": "Josefine",
+    "lastName": "Jørgensen",
+    "email": "josefine.jorgensen@example.com",
+    "username": "orangeelephant412",
+    "password": "storage",
+    "invokedAt": "2025-09-14T16:00:30.514Z"
   }
 ]
