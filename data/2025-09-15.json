@@ -126,5 +126,13 @@
     "username": "happyleopard915",
     "password": "catnip",
     "invokedAt": "2025-09-15T15:00:33.103Z"
+  },
+  {
+    "firstName": "Ratimir",
+    "lastName": "Radovanović",
+    "email": "ratimir.radovanovic@example.com",
+    "username": "goldenswan903",
+    "password": "treetop",
+    "invokedAt": "2025-09-15T16:00:23.497Z"
   }
 ]
