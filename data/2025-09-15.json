@@ -150,5 +150,13 @@
     "username": "crazymeercat381",
     "password": "deftones",
     "invokedAt": "2025-09-15T18:00:22.672Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Campos",
+    "email": "andres.campos@example.com",
+    "username": "whitegoose241",
+    "password": "jetta",
+    "invokedAt": "2025-09-15T19:00:30.928Z"
   }
 ]
