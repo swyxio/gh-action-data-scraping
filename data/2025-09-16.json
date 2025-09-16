@@ -118,5 +118,13 @@
     "username": "whitegoose502",
     "password": "blue32",
     "invokedAt": "2025-09-16T14:00:27.847Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Andersen",
+    "email": "clara.andersen@example.com",
+    "username": "orangegoose613",
+    "password": "america1",
+    "invokedAt": "2025-09-16T15:00:22.184Z"
   }
 ]
