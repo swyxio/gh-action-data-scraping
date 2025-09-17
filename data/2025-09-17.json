@@ -54,5 +54,13 @@
     "username": "lazypeacock277",
     "password": "metallic",
     "invokedAt": "2025-09-17T06:00:23.986Z"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Vujčić",
+    "email": "nikola.vujcic@example.com",
+    "username": "heavycat993",
+    "password": "gogogo",
+    "invokedAt": "2025-09-17T07:00:25.378Z"
   }
 ]
