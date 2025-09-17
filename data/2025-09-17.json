@@ -182,5 +182,13 @@
     "username": "browndog638",
     "password": "biker",
     "invokedAt": "2025-09-17T22:00:24.291Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Rasmussen",
+    "email": "christoffer.rasmussen@example.com",
+    "username": "brownladybug997",
+    "password": "comein",
+    "invokedAt": "2025-09-17T23:00:29.330Z"
   }
 ]
