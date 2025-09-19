@@ -166,5 +166,13 @@
     "username": "redbear157",
     "password": "boston1",
     "invokedAt": "2025-09-19T20:00:33.465Z"
+  },
+  {
+    "firstName": "Everett",
+    "lastName": "Henry",
+    "email": "everett.henry@example.com",
+    "username": "tinysnake806",
+    "password": "apollo",
+    "invokedAt": "2025-09-19T21:00:28.326Z"
   }
 ]
