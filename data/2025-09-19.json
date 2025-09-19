@@ -102,5 +102,13 @@
     "username": "blackrabbit270",
     "password": "password9",
     "invokedAt": "2025-09-19T12:00:21.309Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Riley",
+    "email": "laura.riley@example.com",
+    "username": "silverrabbit905",
+    "password": "zone",
+    "invokedAt": "2025-09-19T13:06:53.356Z"
   }
 ]
