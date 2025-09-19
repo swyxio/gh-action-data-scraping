@@ -126,5 +126,13 @@
     "username": "whitewolf385",
     "password": "dotcom",
     "invokedAt": "2025-09-19T15:00:26.920Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Saarinen",
+    "email": "juho.saarinen@example.com",
+    "username": "tinyleopard936",
+    "password": "112358",
+    "invokedAt": "2025-09-19T16:00:26.748Z"
   }
 ]
