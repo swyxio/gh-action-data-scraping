@@ -158,5 +158,13 @@
     "username": "heavymouse596",
     "password": "compaq",
     "invokedAt": "2025-09-20T19:00:25.472Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Madsen",
+    "email": "rasmus.madsen@example.com",
+    "username": "happycat347",
+    "password": "sergeant",
+    "invokedAt": "2025-09-20T20:00:29.332Z"
   }
 ]
