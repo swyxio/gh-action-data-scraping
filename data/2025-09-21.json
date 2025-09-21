@@ -166,5 +166,13 @@
     "username": "happyelephant572",
     "password": "clouds",
     "invokedAt": "2025-09-21T20:00:24.347Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Erçetin",
+    "email": "coskun.ercetin@example.com",
+    "username": "happyswan140",
+    "password": "jackson",
+    "invokedAt": "2025-09-21T21:00:22.798Z"
   }
 ]
