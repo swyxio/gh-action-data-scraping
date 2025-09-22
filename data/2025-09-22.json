@@ -94,5 +94,13 @@
     "username": "whitebird220",
     "password": "virus",
     "invokedAt": "2025-09-22T11:00:24.825Z"
+  },
+  {
+    "firstName": "Evander",
+    "lastName": "Vercoulen",
+    "email": "evander.vercoulen@example.com",
+    "username": "happybear721",
+    "password": "song",
+    "invokedAt": "2025-09-22T12:00:22.058Z"
   }
 ]
