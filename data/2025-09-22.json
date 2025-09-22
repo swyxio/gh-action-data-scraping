@@ -166,5 +166,13 @@
     "username": "yellowmeercat373",
     "password": "starr",
     "invokedAt": "2025-09-22T20:00:38.793Z"
+  },
+  {
+    "firstName": "Žarko",
+    "lastName": "Cvejić",
+    "email": "zarko.cvejic@example.com",
+    "username": "greenrabbit684",
+    "password": "spanish",
+    "invokedAt": "2025-09-22T21:00:27.600Z"
   }
 ]
