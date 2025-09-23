@@ -30,5 +30,13 @@
     "username": "whitegorilla920",
     "password": "never",
     "invokedAt": "2025-09-23T03:10:37.806Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Kristensen",
+    "email": "oliver.kristensen@example.com",
+    "username": "bigtiger163",
+    "password": "robotech",
+    "invokedAt": "2025-09-23T04:00:21.366Z"
   }
 ]
