@@ -70,5 +70,13 @@
     "username": "blackpeacock771",
     "password": "media",
     "invokedAt": "2025-09-24T08:00:34.454Z"
+  },
+  {
+    "firstName": "Louise",
+    "lastName": "Bertrand",
+    "email": "louise.bertrand@example.com",
+    "username": "redfrog377",
+    "password": "marlin",
+    "invokedAt": "2025-09-24T09:00:27.199Z"
   }
 ]
