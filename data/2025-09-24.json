@@ -158,5 +158,13 @@
     "username": "organicostrich143",
     "password": "frost",
     "invokedAt": "2025-09-24T19:00:21.971Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Andersen",
+    "email": "mathilde.andersen@example.com",
+    "username": "silvermeercat137",
+    "password": "meathead",
+    "invokedAt": "2025-09-24T20:00:29.199Z"
   }
 ]
