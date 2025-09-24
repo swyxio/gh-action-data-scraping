@@ -166,5 +166,13 @@
     "username": "silvermeercat137",
     "password": "meathead",
     "invokedAt": "2025-09-24T20:00:29.199Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Lord",
+    "email": "grace.lord@example.com",
+    "username": "blackduck108",
+    "password": "jaguars",
+    "invokedAt": "2025-09-24T21:00:18.987Z"
   }
 ]
