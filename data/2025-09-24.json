@@ -142,5 +142,13 @@
     "username": "tinyostrich300",
     "password": "boston",
     "invokedAt": "2025-09-24T17:00:32.098Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Moya",
+    "email": "pablo.moya@example.com",
+    "username": "crazyswan831",
+    "password": "justice",
+    "invokedAt": "2025-09-24T18:00:25.554Z"
   }
 ]
