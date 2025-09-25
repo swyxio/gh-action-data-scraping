@@ -118,5 +118,13 @@
     "username": "purplefrog621",
     "password": "7894",
     "invokedAt": "2025-09-25T16:00:23.665Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Sørgård",
+    "email": "martha.sorgard@example.com",
+    "username": "sadlion539",
+    "password": "sphinx",
+    "invokedAt": "2025-09-25T17:00:20.220Z"
   }
 ]
