@@ -126,5 +126,13 @@
     "username": "sadlion539",
     "password": "sphinx",
     "invokedAt": "2025-09-25T17:00:20.220Z"
+  },
+  {
+    "firstName": "Philippe",
+    "lastName": "Ennis",
+    "email": "philippe.ennis@example.com",
+    "username": "tinywolf909",
+    "password": "jessie",
+    "invokedAt": "2025-09-25T18:00:21.753Z"
   }
 ]
