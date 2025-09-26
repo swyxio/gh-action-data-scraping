@@ -126,5 +126,13 @@
     "username": "yellowfish265",
     "password": "toby",
     "invokedAt": "2025-09-26T15:00:42.256Z"
+  },
+  {
+    "firstName": "Catalina",
+    "lastName": "Marín",
+    "email": "catalina.marin@example.com",
+    "username": "blackmeercat809",
+    "password": "nutter",
+    "invokedAt": "2025-09-26T16:00:23.753Z"
   }
 ]
