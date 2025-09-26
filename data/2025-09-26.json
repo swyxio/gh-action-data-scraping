@@ -166,5 +166,13 @@
     "username": "smalldog804",
     "password": "cigars",
     "invokedAt": "2025-09-26T20:00:26.911Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "Fontai",
+    "email": "valentin.fontai@example.com",
+    "username": "redelephant162",
+    "password": "coyote",
+    "invokedAt": "2025-09-26T21:00:26.959Z"
   }
 ]
