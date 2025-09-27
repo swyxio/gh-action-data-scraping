@@ -110,5 +110,13 @@
     "username": "blackfrog796",
     "password": "plastic",
     "invokedAt": "2025-09-27T13:03:48.821Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Schuldt",
+    "email": "daniel.schuldt@example.com",
+    "username": "blackostrich998",
+    "password": "qazwsxed",
+    "invokedAt": "2025-09-27T14:00:27.292Z"
   }
 ]
