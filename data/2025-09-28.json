@@ -182,5 +182,13 @@
     "username": "blackbird646",
     "password": "magenta",
     "invokedAt": "2025-09-28T22:00:19.532Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Madsen",
+    "email": "rosa.madsen@example.com",
+    "username": "organicdog502",
+    "password": "gatorade",
+    "invokedAt": "2025-09-28T23:00:24.989Z"
   }
 ]
