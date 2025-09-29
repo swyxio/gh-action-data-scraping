@@ -134,5 +134,13 @@
     "username": "happyostrich118",
     "password": "super",
     "invokedAt": "2025-09-29T16:00:26.861Z"
+  },
+  {
+    "firstName": "Alpay",
+    "lastName": "Hurenkamp",
+    "email": "alpay.hurenkamp@example.com",
+    "username": "tinyostrich494",
+    "password": "blues",
+    "invokedAt": "2025-09-29T17:00:25.724Z"
   }
 ]
