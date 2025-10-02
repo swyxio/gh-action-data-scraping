@@ -110,5 +110,13 @@
     "username": "organicbird341",
     "password": "cameron1",
     "invokedAt": "2025-10-02T13:06:14.799Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Ahola",
+    "email": "vaino.ahola@example.com",
+    "username": "redduck478",
+    "password": "umpire",
+    "invokedAt": "2025-10-02T14:00:27.339Z"
   }
 ]
