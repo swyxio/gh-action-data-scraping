@@ -102,5 +102,13 @@
     "username": "silverswan966",
     "password": "cobra1",
     "invokedAt": "2025-10-02T12:00:31.425Z"
+  },
+  {
+    "firstName": "Hans",
+    "lastName": "Frigstad",
+    "email": "hans.frigstad@example.com",
+    "username": "organicbird341",
+    "password": "cameron1",
+    "invokedAt": "2025-10-02T13:06:14.799Z"
   }
 ]
