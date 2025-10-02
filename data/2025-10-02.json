@@ -174,5 +174,13 @@
     "username": "blackcat421",
     "password": "bearcat",
     "invokedAt": "2025-10-02T21:00:25.346Z"
+  },
+  {
+    "firstName": "Lorenzo",
+    "lastName": "Arias",
+    "email": "lorenzo.arias@example.com",
+    "username": "redlion708",
+    "password": "mantle",
+    "invokedAt": "2025-10-02T22:00:25.267Z"
   }
 ]
