@@ -86,5 +86,13 @@
     "username": "silverfish516",
     "password": "kansas",
     "invokedAt": "2025-10-03T10:00:25.981Z"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Stehr",
+    "email": "elsa.stehr@example.com",
+    "username": "blackgorilla594",
+    "password": "magnet",
+    "invokedAt": "2025-10-03T11:00:20.668Z"
   }
 ]
