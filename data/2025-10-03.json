@@ -126,5 +126,13 @@
     "username": "redfish636",
     "password": "linkin",
     "invokedAt": "2025-10-03T15:00:25.839Z"
+  },
+  {
+    "firstName": "Tamara",
+    "lastName": "Simonović",
+    "email": "tamara.simonovic@example.com",
+    "username": "yellowkoala949",
+    "password": "pandora",
+    "invokedAt": "2025-10-03T16:00:39.272Z"
   }
 ]
