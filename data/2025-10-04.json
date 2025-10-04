@@ -134,5 +134,13 @@
     "username": "crazypeacock824",
     "password": "soprano",
     "invokedAt": "2025-10-04T16:00:36.118Z"
+  },
+  {
+    "firstName": "Milenko",
+    "lastName": "Silić",
+    "email": "milenko.silic@example.com",
+    "username": "whitewolf458",
+    "password": "answer",
+    "invokedAt": "2025-10-04T17:00:31.027Z"
   }
 ]
