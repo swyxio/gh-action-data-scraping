@@ -94,5 +94,13 @@
     "username": "yellowsnake417",
     "password": "show",
     "invokedAt": "2025-10-05T11:00:31.924Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Chen",
+    "email": "oliver.chen@example.com",
+    "username": "lazyelephant813",
+    "password": "passwort",
+    "invokedAt": "2025-10-05T12:00:26.072Z"
   }
 ]
