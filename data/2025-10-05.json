@@ -174,5 +174,13 @@
     "username": "goldenfrog988",
     "password": "98765432",
     "invokedAt": "2025-10-05T21:00:23.187Z"
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Anderson",
+    "email": "kent.anderson@example.com",
+    "username": "organicmouse570",
+    "password": "freedom1",
+    "invokedAt": "2025-10-05T22:00:31.347Z"
   }
 ]
