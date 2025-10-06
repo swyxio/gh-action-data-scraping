@@ -166,5 +166,13 @@
     "username": "orangeswan879",
     "password": "honda",
     "invokedAt": "2025-10-06T20:00:23.502Z"
+  },
+  {
+    "firstName": "Branimir",
+    "lastName": "Hadžić",
+    "email": "branimir.hadzic@example.com",
+    "username": "smalldog878",
+    "password": "adrian",
+    "invokedAt": "2025-10-06T21:00:30.925Z"
   }
 ]
