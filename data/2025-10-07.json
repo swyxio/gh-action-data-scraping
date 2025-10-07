@@ -110,5 +110,13 @@
     "username": "orangemeercat359",
     "password": "1975",
     "invokedAt": "2025-10-07T13:08:08.038Z"
+  },
+  {
+    "firstName": "Petko",
+    "lastName": "Vujčić",
+    "email": "petko.vujcic@example.com",
+    "username": "silverrabbit101",
+    "password": "universa",
+    "invokedAt": "2025-10-07T14:00:21.079Z"
   }
 ]
