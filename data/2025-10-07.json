@@ -126,5 +126,13 @@
     "username": "bigrabbit968",
     "password": "jaguars",
     "invokedAt": "2025-10-07T15:00:27.418Z"
+  },
+  {
+    "firstName": "Srđan",
+    "lastName": "Tomović",
+    "email": "srdan.tomovic@example.com",
+    "username": "bigswan484",
+    "password": "lucky13",
+    "invokedAt": "2025-10-07T16:00:27.009Z"
   }
 ]
