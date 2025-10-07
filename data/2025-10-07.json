@@ -118,5 +118,13 @@
     "username": "silverrabbit101",
     "password": "universa",
     "invokedAt": "2025-10-07T14:00:21.079Z"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Russell",
+    "email": "jordan.russell@example.com",
+    "username": "bigrabbit968",
+    "password": "jaguars",
+    "invokedAt": "2025-10-07T15:00:27.418Z"
   }
 ]
