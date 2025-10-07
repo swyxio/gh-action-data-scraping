@@ -54,5 +54,13 @@
     "username": "blackpeacock532",
     "password": "purdue",
     "invokedAt": "2025-10-07T06:00:19.185Z"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Ouellet",
+    "email": "nicolas.ouellet@example.com",
+    "username": "redrabbit555",
+    "password": "aaa111",
+    "invokedAt": "2025-10-07T07:00:29.891Z"
   }
 ]
