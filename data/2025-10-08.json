@@ -158,5 +158,13 @@
     "username": "angryleopard424",
     "password": "daemon",
     "invokedAt": "2025-10-08T19:00:30.699Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Lee",
+    "email": "alberto.lee@example.com",
+    "username": "goldenduck809",
+    "password": "thecure",
+    "invokedAt": "2025-10-08T20:00:19.042Z"
   }
 ]
