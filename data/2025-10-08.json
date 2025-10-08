@@ -46,5 +46,13 @@
     "username": "heavyfrog584",
     "password": "michael",
     "invokedAt": "2025-10-08T05:00:25.644Z"
+  },
+  {
+    "firstName": "Stanko",
+    "lastName": "Ćirić",
+    "email": "stanko.ciric@example.com",
+    "username": "whitewolf177",
+    "password": "orioles",
+    "invokedAt": "2025-10-08T06:00:24.206Z"
   }
 ]
