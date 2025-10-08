@@ -150,5 +150,13 @@
     "username": "beautifulcat964",
     "password": "catcher",
     "invokedAt": "2025-10-08T18:00:28.988Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Molina",
+    "email": "alvaro.molina@example.com",
+    "username": "angryleopard424",
+    "password": "daemon",
+    "invokedAt": "2025-10-08T19:00:30.699Z"
   }
 ]
