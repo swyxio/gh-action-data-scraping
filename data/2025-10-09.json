@@ -38,5 +38,13 @@
     "username": "bigtiger646",
     "password": "rugby",
     "invokedAt": "2025-10-09T04:00:20.402Z"
+  },
+  {
+    "firstName": "Rodrigo",
+    "lastName": "Leroy",
+    "email": "rodrigo.leroy@example.com",
+    "username": "yellowduck165",
+    "password": "banane",
+    "invokedAt": "2025-10-09T05:00:38.191Z"
   }
 ]
