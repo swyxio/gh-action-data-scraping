@@ -54,5 +54,13 @@
     "username": "brownkoala936",
     "password": "mollydog",
     "invokedAt": "2025-10-09T06:00:36.178Z"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Doyle",
+    "email": "dennis.doyle@example.com",
+    "username": "purplefrog998",
+    "password": "forward",
+    "invokedAt": "2025-10-09T07:00:25.383Z"
   }
 ]
