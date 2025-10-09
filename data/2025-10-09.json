@@ -62,5 +62,13 @@
     "username": "purplefrog998",
     "password": "forward",
     "invokedAt": "2025-10-09T07:00:25.383Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Edwards",
+    "email": "lucas.edwards@example.com",
+    "username": "silverbutterfly973",
+    "password": "chunky",
+    "invokedAt": "2025-10-09T08:00:26.236Z"
   }
 ]
