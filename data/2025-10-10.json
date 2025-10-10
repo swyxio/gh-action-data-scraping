@@ -182,5 +182,13 @@
     "username": "ticklishwolf205",
     "password": "whisky",
     "invokedAt": "2025-10-10T22:00:25.632Z"
+  },
+  {
+    "firstName": "Milan",
+    "lastName": "Radovanović",
+    "email": "milan.radovanovic@example.com",
+    "username": "blackzebra429",
+    "password": "simpson",
+    "invokedAt": "2025-10-10T23:00:26.718Z"
   }
 ]
