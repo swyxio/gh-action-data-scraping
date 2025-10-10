@@ -142,5 +142,13 @@
     "username": "bluezebra651",
     "password": "comein",
     "invokedAt": "2025-10-10T17:00:27.548Z"
+  },
+  {
+    "firstName": "Vadim",
+    "lastName": "Makushenko",
+    "email": "vadim.makushenko@example.com",
+    "username": "lazyzebra465",
+    "password": "eating",
+    "invokedAt": "2025-10-10T18:00:22.425Z"
   }
 ]
