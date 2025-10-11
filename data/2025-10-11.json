@@ -126,5 +126,13 @@
     "username": "heavytiger388",
     "password": "goldwing",
     "invokedAt": "2025-10-11T15:00:22.459Z"
+  },
+  {
+    "firstName": "Gaël",
+    "lastName": "Gautier",
+    "email": "gael.gautier@example.com",
+    "username": "goldensnake194",
+    "password": "rugger",
+    "invokedAt": "2025-10-11T16:00:28.429Z"
   }
 ]
