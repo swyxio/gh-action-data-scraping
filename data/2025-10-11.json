@@ -78,5 +78,13 @@
     "username": "silverlion313",
     "password": "bears",
     "invokedAt": "2025-10-11T09:00:25.848Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Wong",
+    "email": "david.wong@example.com",
+    "username": "brownbird687",
+    "password": "warlord",
+    "invokedAt": "2025-10-11T10:00:27.586Z"
   }
 ]
