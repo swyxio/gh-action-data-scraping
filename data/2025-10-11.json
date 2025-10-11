@@ -94,5 +94,13 @@
     "username": "lazybird958",
     "password": "media",
     "invokedAt": "2025-10-11T11:00:22.418Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Brown",
+    "email": "ivan.brown@example.com",
+    "username": "sadgoose605",
+    "password": "homepage",
+    "invokedAt": "2025-10-11T12:00:27.910Z"
   }
 ]
