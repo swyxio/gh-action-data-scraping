@@ -166,5 +166,13 @@
     "username": "beautifuldog591",
     "password": "advance",
     "invokedAt": "2025-10-12T20:00:30.400Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Ahonen",
+    "email": "julia.ahonen@example.com",
+    "username": "whiteswan294",
+    "password": "westside",
+    "invokedAt": "2025-10-12T21:00:27.967Z"
   }
 ]
