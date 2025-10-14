@@ -182,5 +182,13 @@
     "username": "whitemeercat769",
     "password": "king",
     "invokedAt": "2025-10-14T22:00:29.528Z"
+  },
+  {
+    "firstName": "Boban",
+    "lastName": "Dinčić",
+    "email": "boban.dincic@example.com",
+    "username": "whitezebra453",
+    "password": "lance",
+    "invokedAt": "2025-10-14T23:00:24.086Z"
   }
 ]
