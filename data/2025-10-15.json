@@ -142,5 +142,13 @@
     "username": "heavyleopard726",
     "password": "eternal",
     "invokedAt": "2025-10-15T17:00:37.137Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Jensen",
+    "email": "carl.jensen@example.com",
+    "username": "bigostrich286",
+    "password": "gman",
+    "invokedAt": "2025-10-15T18:00:29.831Z"
   }
 ]
