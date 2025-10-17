@@ -70,5 +70,13 @@
     "username": "orangerabbit738",
     "password": "ticket",
     "invokedAt": "2025-10-17T08:00:29.643Z"
+  },
+  {
+    "firstName": "Gene",
+    "lastName": "Tucker",
+    "email": "gene.tucker@example.com",
+    "username": "bluepanda620",
+    "password": "goodbye",
+    "invokedAt": "2025-10-17T09:00:30.274Z"
   }
 ]
