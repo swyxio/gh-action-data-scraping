@@ -46,5 +46,13 @@
     "username": "heavycat531",
     "password": "plumber",
     "invokedAt": "2025-10-17T05:00:32.532Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Olsen",
+    "email": "nanna.olsen@example.com",
+    "username": "ticklishbear622",
+    "password": "goku",
+    "invokedAt": "2025-10-17T06:00:30.711Z"
   }
 ]
