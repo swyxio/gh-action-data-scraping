@@ -126,5 +126,13 @@
     "username": "purplebear631",
     "password": "miles",
     "invokedAt": "2025-10-18T15:00:25.085Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Brewer",
+    "email": "susan.brewer@example.com",
+    "username": "lazyostrich697",
+    "password": "369369",
+    "invokedAt": "2025-10-18T16:00:24.888Z"
   }
 ]
