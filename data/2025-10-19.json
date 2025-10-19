@@ -94,5 +94,13 @@
     "username": "sadpeacock130",
     "password": "bibi",
     "invokedAt": "2025-10-19T11:00:27.962Z"
+  },
+  {
+    "firstName": "Cody",
+    "lastName": "Walker",
+    "email": "cody.walker@example.com",
+    "username": "smallmouse835",
+    "password": "just4fun",
+    "invokedAt": "2025-10-19T12:00:27.031Z"
   }
 ]
