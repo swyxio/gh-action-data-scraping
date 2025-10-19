@@ -46,5 +46,13 @@
     "username": "bigzebra317",
     "password": "newman",
     "invokedAt": "2025-10-19T05:00:26.721Z"
+  },
+  {
+    "firstName": "Avram",
+    "lastName": "Ivkov",
+    "email": "avram.ivkov@example.com",
+    "username": "angrytiger932",
+    "password": "1112",
+    "invokedAt": "2025-10-19T06:00:27.005Z"
   }
 ]
