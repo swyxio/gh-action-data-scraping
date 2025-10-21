@@ -126,5 +126,13 @@
     "username": "blackpeacock569",
     "password": "geheim",
     "invokedAt": "2025-10-21T15:00:38.261Z"
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Turner",
+    "email": "walter.turner@example.com",
+    "username": "bigwolf331",
+    "password": "terror",
+    "invokedAt": "2025-10-21T16:00:34.043Z"
   }
 ]
