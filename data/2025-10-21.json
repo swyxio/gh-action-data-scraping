@@ -46,5 +46,13 @@
     "username": "angrygorilla706",
     "password": "boxers",
     "invokedAt": "2025-10-21T05:00:25.299Z"
+  },
+  {
+    "firstName": "Zoey",
+    "lastName": "Obrien",
+    "email": "zoey.obrien@example.com",
+    "username": "bigduck481",
+    "password": "talbot",
+    "invokedAt": "2025-10-21T06:00:42.776Z"
   }
 ]
