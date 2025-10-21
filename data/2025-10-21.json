@@ -38,5 +38,13 @@
     "username": "happyzebra381",
     "password": "soccer12",
     "invokedAt": "2025-10-21T04:00:42.155Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Anderson",
+    "email": "emma.anderson@example.com",
+    "username": "angrygorilla706",
+    "password": "boxers",
+    "invokedAt": "2025-10-21T05:00:25.299Z"
   }
 ]
