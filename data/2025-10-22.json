@@ -70,5 +70,13 @@
     "username": "crazytiger526",
     "password": "clock",
     "invokedAt": "2025-10-22T08:00:34.030Z"
+  },
+  {
+    "firstName": "Kirilo",
+    "lastName": "Popović",
+    "email": "kirilo.popovic@example.com",
+    "username": "heavygorilla865",
+    "password": "photo",
+    "invokedAt": "2025-10-22T09:00:56.291Z"
   }
 ]
