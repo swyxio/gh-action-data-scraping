@@ -62,5 +62,13 @@
     "username": "yellowbird875",
     "password": "fortress",
     "invokedAt": "2025-10-23T07:00:40.190Z"
+  },
+  {
+    "firstName": "Anmol",
+    "lastName": "Rajesh",
+    "email": "anmol.rajesh@example.com",
+    "username": "heavycat364",
+    "password": "frodo",
+    "invokedAt": "2025-10-23T08:00:36.320Z"
   }
 ]
