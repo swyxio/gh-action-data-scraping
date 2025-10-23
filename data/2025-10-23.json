@@ -54,5 +54,13 @@
     "username": "goldenlion520",
     "password": "hendrix",
     "invokedAt": "2025-10-23T06:00:33.447Z"
+  },
+  {
+    "firstName": "Radenko",
+    "lastName": "Majstorović",
+    "email": "radenko.majstorovic@example.com",
+    "username": "yellowbird875",
+    "password": "fortress",
+    "invokedAt": "2025-10-23T07:00:40.190Z"
   }
 ]
