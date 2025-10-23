@@ -94,5 +94,13 @@
     "username": "silverduck901",
     "password": "apple123",
     "invokedAt": "2025-10-23T11:00:33.765Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Reid",
+    "email": "terry.reid@example.com",
+    "username": "beautifulleopard800",
+    "password": "bobafett",
+    "invokedAt": "2025-10-23T12:00:29.229Z"
   }
 ]
