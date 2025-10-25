@@ -86,5 +86,13 @@
     "username": "beautifullion845",
     "password": "mahler",
     "invokedAt": "2025-10-25T10:00:28.500Z"
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Zelenović",
+    "email": "mila.zelenovic@example.com",
+    "username": "angrybutterfly401",
+    "password": "zulu",
+    "invokedAt": "2025-10-25T11:00:31.439Z"
   }
 ]
