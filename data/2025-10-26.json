@@ -62,5 +62,13 @@
     "username": "goldenmeercat771",
     "password": "hector",
     "invokedAt": "2025-10-26T07:00:35.739Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Haapala",
+    "email": "joona.haapala@example.com",
+    "username": "redwolf823",
+    "password": "canada",
+    "invokedAt": "2025-10-26T08:00:30.932Z"
   }
 ]
