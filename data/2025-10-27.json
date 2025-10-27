@@ -78,5 +78,13 @@
     "username": "brownmouse680",
     "password": "vibrate",
     "invokedAt": "2025-10-27T09:00:29.395Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Hansen",
+    "email": "gustav.hansen@example.com",
+    "username": "angryswan929",
+    "password": "dani",
+    "invokedAt": "2025-10-27T10:00:34.213Z"
   }
 ]
