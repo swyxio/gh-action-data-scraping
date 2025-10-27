@@ -166,5 +166,13 @@
     "username": "yellowwolf598",
     "password": "dogg",
     "invokedAt": "2025-10-27T20:00:24.768Z"
+  },
+  {
+    "firstName": "Nancy",
+    "lastName": "Rosas",
+    "email": "nancy.rosas@example.com",
+    "username": "blackkoala148",
+    "password": "sergio",
+    "invokedAt": "2025-10-27T21:00:22.250Z"
   }
 ]
