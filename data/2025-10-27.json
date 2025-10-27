@@ -142,5 +142,13 @@
     "username": "goldenlion791",
     "password": "cartman",
     "invokedAt": "2025-10-27T17:00:31.383Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Sørensen",
+    "email": "valdemar.sorensen@example.com",
+    "username": "crazyostrich204",
+    "password": "beacon",
+    "invokedAt": "2025-10-27T18:00:28.213Z"
   }
 ]
