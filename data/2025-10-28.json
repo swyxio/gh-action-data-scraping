@@ -174,5 +174,13 @@
     "username": "goldenlion399",
     "password": "abcdefg",
     "invokedAt": "2025-10-28T21:00:24.202Z"
+  },
+  {
+    "firstName": "Francisca",
+    "lastName": "Herrera",
+    "email": "francisca.herrera@example.com",
+    "username": "silverlion810",
+    "password": "lopez",
+    "invokedAt": "2025-10-28T22:00:27.121Z"
   }
 ]
