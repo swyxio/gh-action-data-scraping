@@ -166,5 +166,13 @@
     "username": "greenlion291",
     "password": "eastside",
     "invokedAt": "2025-10-28T20:00:22.792Z"
+  },
+  {
+    "firstName": "Kaya",
+    "lastName": "Akar",
+    "email": "kaya.akar@example.com",
+    "username": "goldenlion399",
+    "password": "abcdefg",
+    "invokedAt": "2025-10-28T21:00:24.202Z"
   }
 ]
