@@ -22,5 +22,13 @@
     "username": "goldenmouse606",
     "password": "garion",
     "invokedAt": "2025-10-28T02:27:28.510Z"
+  },
+  {
+    "firstName": "Lubomir",
+    "lastName": "Urošević",
+    "email": "lubomir.urosevic@example.com",
+    "username": "silverzebra143",
+    "password": "test2",
+    "invokedAt": "2025-10-28T03:17:11.983Z"
   }
 ]
