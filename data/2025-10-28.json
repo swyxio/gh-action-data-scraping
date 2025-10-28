@@ -158,5 +158,13 @@
     "username": "yellowfish259",
     "password": "beatles",
     "invokedAt": "2025-10-28T19:00:24.831Z"
+  },
+  {
+    "firstName": "Vukan",
+    "lastName": "Srejović",
+    "email": "vukan.srejovic@example.com",
+    "username": "greenlion291",
+    "password": "eastside",
+    "invokedAt": "2025-10-28T20:00:22.792Z"
   }
 ]
