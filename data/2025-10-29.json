@@ -118,5 +118,13 @@
     "username": "bigladybug900",
     "password": "hydro",
     "invokedAt": "2025-10-29T14:00:23.151Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Anderson",
+    "email": "harper.anderson@example.com",
+    "username": "angrybird679",
+    "password": "stokes",
+    "invokedAt": "2025-10-29T15:00:24.036Z"
   }
 ]
