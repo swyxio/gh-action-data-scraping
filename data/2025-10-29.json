@@ -182,5 +182,13 @@
     "username": "purplepeacock111",
     "password": "studio",
     "invokedAt": "2025-10-29T22:00:23.930Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Campbell",
+    "email": "james.campbell@example.com",
+    "username": "ticklishzebra742",
+    "password": "vampire",
+    "invokedAt": "2025-10-29T23:00:25.041Z"
   }
 ]
