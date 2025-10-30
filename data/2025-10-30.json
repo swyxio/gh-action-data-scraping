@@ -62,5 +62,13 @@
     "username": "brownostrich635",
     "password": "golfing",
     "invokedAt": "2025-10-30T07:00:26.254Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Castro",
+    "email": "alexander.castro@example.com",
+    "username": "yellowbutterfly917",
+    "password": "987456",
+    "invokedAt": "2025-10-30T08:00:28.061Z"
   }
 ]
