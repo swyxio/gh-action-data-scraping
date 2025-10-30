@@ -54,5 +54,13 @@
     "username": "bluebird166",
     "password": "jabber",
     "invokedAt": "2025-10-30T06:00:23.672Z"
+  },
+  {
+    "firstName": "Fausto",
+    "lastName": "Roux",
+    "email": "fausto.roux@example.com",
+    "username": "brownostrich635",
+    "password": "golfing",
+    "invokedAt": "2025-10-30T07:00:26.254Z"
   }
 ]
