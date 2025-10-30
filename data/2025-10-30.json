@@ -158,5 +158,13 @@
     "username": "bigbear507",
     "password": "soccer1",
     "invokedAt": "2025-10-30T19:00:18.274Z"
+  },
+  {
+    "firstName": "Zorica",
+    "lastName": "Jakšić",
+    "email": "zorica.jaksic@example.com",
+    "username": "yellowladybug520",
+    "password": "julius",
+    "invokedAt": "2025-10-30T20:00:26.654Z"
   }
 ]
