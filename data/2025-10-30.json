@@ -86,5 +86,13 @@
     "username": "bluefish737",
     "password": "bullseye",
     "invokedAt": "2025-10-30T10:00:21.582Z"
+  },
+  {
+    "firstName": "Mercedes",
+    "lastName": "Haro",
+    "email": "mercedes.haro@example.com",
+    "username": "blackleopard238",
+    "password": "quest1",
+    "invokedAt": "2025-10-30T11:00:26.926Z"
   }
 ]
