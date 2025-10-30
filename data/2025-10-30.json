@@ -102,5 +102,13 @@
     "username": "tinyswan192",
     "password": "ratboy",
     "invokedAt": "2025-10-30T12:00:32.658Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Hansen",
+    "email": "william.hansen@example.com",
+    "username": "happyfish458",
+    "password": "napster",
+    "invokedAt": "2025-10-30T13:09:29.491Z"
   }
 ]
