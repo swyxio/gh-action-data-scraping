@@ -118,5 +118,13 @@
     "username": "happyleopard210",
     "password": "furball",
     "invokedAt": "2025-10-31T14:00:23.805Z"
+  },
+  {
+    "firstName": "Vanesa",
+    "lastName": "Mora",
+    "email": "vanesa.mora@example.com",
+    "username": "browndog951",
+    "password": "101010",
+    "invokedAt": "2025-10-31T15:00:33.864Z"
   }
 ]
