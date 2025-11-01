@@ -182,5 +182,13 @@
     "username": "goldengorilla764",
     "password": "lizard",
     "invokedAt": "2025-11-01T22:00:28.086Z"
+  },
+  {
+    "firstName": "Darko",
+    "lastName": "Daničić",
+    "email": "darko.danicic@example.com",
+    "username": "greenlion712",
+    "password": "destiny",
+    "invokedAt": "2025-11-01T23:00:28.007Z"
   }
 ]
