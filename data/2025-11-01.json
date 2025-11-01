@@ -118,5 +118,13 @@
     "username": "crazymouse166",
     "password": "whales",
     "invokedAt": "2025-11-01T14:00:28.846Z"
+  },
+  {
+    "firstName": "Vukota",
+    "lastName": "Karadžić",
+    "email": "vukota.karadzic@example.com",
+    "username": "smallpanda134",
+    "password": "darwin",
+    "invokedAt": "2025-11-01T15:00:26.463Z"
   }
 ]
