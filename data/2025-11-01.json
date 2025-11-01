@@ -174,5 +174,13 @@
     "username": "organicrabbit906",
     "password": "enforcer",
     "invokedAt": "2025-11-01T21:00:22.976Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Masson",
+    "email": "diego.masson@example.com",
+    "username": "goldengorilla764",
+    "password": "lizard",
+    "invokedAt": "2025-11-01T22:00:28.086Z"
   }
 ]
