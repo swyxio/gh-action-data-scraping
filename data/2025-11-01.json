@@ -94,5 +94,13 @@
     "username": "bluetiger891",
     "password": "polska",
     "invokedAt": "2025-11-01T11:00:23.708Z"
+  },
+  {
+    "firstName": "Fredy",
+    "lastName": "Laurent",
+    "email": "fredy.laurent@example.com",
+    "username": "happyladybug950",
+    "password": "waffle",
+    "invokedAt": "2025-11-01T12:00:20.058Z"
   }
 ]
