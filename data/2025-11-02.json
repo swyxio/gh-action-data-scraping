@@ -78,5 +78,13 @@
     "username": "whiteelephant752",
     "password": "volcano",
     "invokedAt": "2025-11-02T09:00:23.761Z"
+  },
+  {
+    "firstName": "María",
+    "lastName": "Blanco",
+    "email": "maria.blanco@example.com",
+    "username": "blackswan653",
+    "password": "grace",
+    "invokedAt": "2025-11-02T10:00:21.310Z"
   }
 ]
