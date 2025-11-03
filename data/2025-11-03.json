@@ -70,5 +70,13 @@
     "username": "happydog622",
     "password": "tank",
     "invokedAt": "2025-11-03T08:00:25.213Z"
+  },
+  {
+    "firstName": "Villads",
+    "lastName": "Poulsen",
+    "email": "villads.poulsen@example.com",
+    "username": "redwolf786",
+    "password": "journey",
+    "invokedAt": "2025-11-03T09:00:27.712Z"
   }
 ]
