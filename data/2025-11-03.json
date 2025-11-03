@@ -158,5 +158,13 @@
     "username": "smallladybug729",
     "password": "football",
     "invokedAt": "2025-11-03T19:00:24.223Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Larsen",
+    "email": "sara.larsen@example.com",
+    "username": "orangeelephant715",
+    "password": "blondie",
+    "invokedAt": "2025-11-03T20:00:24.389Z"
   }
 ]
