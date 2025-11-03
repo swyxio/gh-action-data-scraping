@@ -62,5 +62,13 @@
     "username": "smallswan353",
     "password": "computer",
     "invokedAt": "2025-11-03T07:00:24.575Z"
+  },
+  {
+    "firstName": "Slobodan",
+    "lastName": "Vujčić",
+    "email": "slobodan.vujcic@example.com",
+    "username": "happydog622",
+    "password": "tank",
+    "invokedAt": "2025-11-03T08:00:25.213Z"
   }
 ]
