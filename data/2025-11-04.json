@@ -62,5 +62,13 @@
     "username": "happycat994",
     "password": "usnavy",
     "invokedAt": "2025-11-04T07:00:34.937Z"
+  },
+  {
+    "firstName": "Maëlys",
+    "lastName": "Roussel",
+    "email": "maelys.roussel@example.com",
+    "username": "bluecat760",
+    "password": "brooklyn",
+    "invokedAt": "2025-11-04T08:00:28.381Z"
   }
 ]
