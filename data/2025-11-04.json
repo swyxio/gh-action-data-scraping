@@ -142,5 +142,13 @@
     "username": "angrygorilla575",
     "password": "dundee",
     "invokedAt": "2025-11-04T17:00:24.601Z"
+  },
+  {
+    "firstName": "Penny",
+    "lastName": "Bryant",
+    "email": "penny.bryant@example.com",
+    "username": "organicmeercat456",
+    "password": "rodeo",
+    "invokedAt": "2025-11-04T18:00:25.684Z"
   }
 ]
