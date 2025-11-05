@@ -126,5 +126,13 @@
     "username": "happyzebra697",
     "password": "paint",
     "invokedAt": "2025-11-05T15:00:31.902Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Berberoğlu",
+    "email": "davut.berberoglu@example.com",
+    "username": "brownleopard402",
+    "password": "123123",
+    "invokedAt": "2025-11-05T16:00:23.170Z"
   }
 ]
