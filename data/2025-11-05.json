@@ -38,5 +38,13 @@
     "username": "orangefish343",
     "password": "guiness",
     "invokedAt": "2025-11-05T04:01:24.358Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Polon",
+    "email": "vaino.polon@example.com",
+    "username": "silvermeercat781",
+    "password": "bigben",
+    "invokedAt": "2025-11-05T05:00:28.026Z"
   }
 ]
