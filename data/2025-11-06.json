@@ -22,5 +22,13 @@
     "username": "happyfrog919",
     "password": "target",
     "invokedAt": "2025-11-06T02:29:10.882Z"
+  },
+  {
+    "firstName": "Barry",
+    "lastName": "Lynch",
+    "email": "barry.lynch@example.com",
+    "username": "redgoose314",
+    "password": "webber",
+    "invokedAt": "2025-11-06T03:20:57.152Z"
   }
 ]
