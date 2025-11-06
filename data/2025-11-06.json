@@ -46,5 +46,13 @@
     "username": "greenbutterfly272",
     "password": "skydive",
     "invokedAt": "2025-11-06T05:00:22.340Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Green",
+    "email": "max.green@example.com",
+    "username": "happysnake333",
+    "password": "carlos",
+    "invokedAt": "2025-11-06T06:00:21.490Z"
   }
 ]
