@@ -102,5 +102,13 @@
     "username": "whitedog837",
     "password": "woof",
     "invokedAt": "2025-11-06T12:00:21.135Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Ozansoy",
+    "email": "ulku.ozansoy@example.com",
+    "username": "beautifulmouse101",
+    "password": "megane",
+    "invokedAt": "2025-11-06T13:09:36.987Z"
   }
 ]
