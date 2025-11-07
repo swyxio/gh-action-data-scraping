@@ -142,5 +142,13 @@
     "username": "redrabbit809",
     "password": "123654",
     "invokedAt": "2025-11-07T17:00:18.525Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Beşerler",
+    "email": "okan.beserler@example.com",
+    "username": "browncat374",
+    "password": "valencia",
+    "invokedAt": "2025-11-07T18:00:28.886Z"
   }
 ]
