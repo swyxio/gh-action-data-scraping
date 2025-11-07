@@ -86,5 +86,13 @@
     "username": "orangekoala590",
     "password": "husker",
     "invokedAt": "2025-11-07T10:00:21.316Z"
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "Payne",
+    "email": "jimmy.payne@example.com",
+    "username": "purplemeercat988",
+    "password": "raistlin",
+    "invokedAt": "2025-11-07T11:00:23.391Z"
   }
 ]
