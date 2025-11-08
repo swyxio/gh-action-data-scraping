@@ -102,5 +102,13 @@
     "username": "sadsnake785",
     "password": "chips",
     "invokedAt": "2025-11-08T12:00:28.790Z"
+  },
+  {
+    "firstName": "Gostrozir",
+    "lastName": "Lagoda",
+    "email": "gostrozir.lagoda@example.com",
+    "username": "bigduck776",
+    "password": "true",
+    "invokedAt": "2025-11-08T13:05:19.267Z"
   }
 ]
