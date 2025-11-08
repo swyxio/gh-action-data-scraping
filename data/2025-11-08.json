@@ -126,5 +126,13 @@
     "username": "silverdog895",
     "password": "japan",
     "invokedAt": "2025-11-08T15:00:16.238Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Turner",
+    "email": "harper.turner@example.com",
+    "username": "yellowladybug529",
+    "password": "124578",
+    "invokedAt": "2025-11-08T16:00:20.283Z"
   }
 ]
