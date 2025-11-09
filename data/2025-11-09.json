@@ -182,5 +182,13 @@
     "username": "bluecat165",
     "password": "punch",
     "invokedAt": "2025-11-09T22:00:25.567Z"
+  },
+  {
+    "firstName": "Alba",
+    "lastName": "Fernández",
+    "email": "alba.fernandez@example.com",
+    "username": "sadfrog524",
+    "password": "comp",
+    "invokedAt": "2025-11-09T23:00:24.458Z"
   }
 ]
