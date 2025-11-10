@@ -78,5 +78,13 @@
     "username": "tinyostrich771",
     "password": "bulldogs",
     "invokedAt": "2025-11-10T09:00:24.370Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Heinonen",
+    "email": "rasmus.heinonen@example.com",
+    "username": "angrygoose746",
+    "password": "anaconda",
+    "invokedAt": "2025-11-10T10:00:28.852Z"
   }
 ]
