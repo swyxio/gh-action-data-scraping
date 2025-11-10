@@ -110,5 +110,13 @@
     "username": "redwolf863",
     "password": "tazmania",
     "invokedAt": "2025-11-10T13:09:33.269Z"
+  },
+  {
+    "firstName": "Sjur",
+    "lastName": "Leine",
+    "email": "sjur.leine@example.com",
+    "username": "tinyladybug206",
+    "password": "oatmeal",
+    "invokedAt": "2025-11-10T14:00:30.269Z"
   }
 ]
