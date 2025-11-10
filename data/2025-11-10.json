@@ -62,5 +62,13 @@
     "username": "happyladybug600",
     "password": "metoo",
     "invokedAt": "2025-11-10T07:00:24.540Z"
+  },
+  {
+    "firstName": "Geoff",
+    "lastName": "Ferguson",
+    "email": "geoff.ferguson@example.com",
+    "username": "crazyelephant765",
+    "password": "zurich",
+    "invokedAt": "2025-11-10T08:00:25.827Z"
   }
 ]
