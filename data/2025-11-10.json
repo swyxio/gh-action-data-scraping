@@ -38,5 +38,13 @@
     "username": "purplefrog402",
     "password": "stress",
     "invokedAt": "2025-11-10T04:04:26.990Z"
+  },
+  {
+    "firstName": "Catalina",
+    "lastName": "Luna",
+    "email": "catalina.luna@example.com",
+    "username": "smallfrog186",
+    "password": "hayden",
+    "invokedAt": "2025-11-10T05:00:21.674Z"
   }
 ]
