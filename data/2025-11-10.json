@@ -126,5 +126,13 @@
     "username": "goldenkoala942",
     "password": "asdfasdf",
     "invokedAt": "2025-11-10T15:00:25.880Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Kemppainen",
+    "email": "viljami.kemppainen@example.com",
+    "username": "smallfrog605",
+    "password": "federico",
+    "invokedAt": "2025-11-10T16:00:23.461Z"
   }
 ]
