@@ -182,5 +182,13 @@
     "username": "happywolf949",
     "password": "venice",
     "invokedAt": "2025-11-11T22:00:17.677Z"
+  },
+  {
+    "firstName": "Bjørn",
+    "lastName": "Nordengen",
+    "email": "bjorn.nordengen@example.com",
+    "username": "tinybird997",
+    "password": "slick1",
+    "invokedAt": "2025-11-11T23:00:20.268Z"
   }
 ]
