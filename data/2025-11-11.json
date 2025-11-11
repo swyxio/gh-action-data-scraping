@@ -78,5 +78,13 @@
     "username": "brownfrog821",
     "password": "houston",
     "invokedAt": "2025-11-11T09:00:27.877Z"
+  },
+  {
+    "firstName": "Diane",
+    "lastName": "Gilbert",
+    "email": "diane.gilbert@example.com",
+    "username": "goldenbear962",
+    "password": "cyclops",
+    "invokedAt": "2025-11-11T10:00:26.258Z"
   }
 ]
