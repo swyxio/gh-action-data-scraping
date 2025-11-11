@@ -158,5 +158,13 @@
     "username": "greensnake546",
     "password": "eddie",
     "invokedAt": "2025-11-11T19:00:25.563Z"
+  },
+  {
+    "firstName": "Jazzley",
+    "lastName": "Ophof",
+    "email": "jazzley.ophof@example.com",
+    "username": "silvermeercat987",
+    "password": "bizzare",
+    "invokedAt": "2025-11-11T20:00:25.584Z"
   }
 ]
