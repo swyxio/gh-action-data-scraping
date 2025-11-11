@@ -174,5 +174,13 @@
     "username": "lazypanda995",
     "password": "alive",
     "invokedAt": "2025-11-11T21:00:36.272Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Sørensen",
+    "email": "valdemar.sorensen@example.com",
+    "username": "happywolf949",
+    "password": "venice",
+    "invokedAt": "2025-11-11T22:00:17.677Z"
   }
 ]
