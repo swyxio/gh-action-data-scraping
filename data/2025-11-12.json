@@ -78,5 +78,13 @@
     "username": "heavylion636",
     "password": "baxter",
     "invokedAt": "2025-11-12T09:00:48.642Z"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Soto",
+    "email": "frank.soto@example.com",
+    "username": "bigbutterfly638",
+    "password": "contains",
+    "invokedAt": "2025-11-12T10:00:23.464Z"
   }
 ]
