@@ -86,5 +86,13 @@
     "username": "bigbutterfly638",
     "password": "contains",
     "invokedAt": "2025-11-12T10:00:23.464Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Lemoine",
+    "email": "samuel.lemoine@example.com",
+    "username": "greenrabbit224",
+    "password": "bologna",
+    "invokedAt": "2025-11-12T11:00:24.955Z"
   }
 ]
