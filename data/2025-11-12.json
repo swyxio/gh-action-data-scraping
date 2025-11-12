@@ -182,5 +182,13 @@
     "username": "purplerabbit601",
     "password": "shinobi",
     "invokedAt": "2025-11-12T22:00:23.369Z"
+  },
+  {
+    "firstName": "Taroslav",
+    "lastName": "Kovtunenko",
+    "email": "taroslav.kovtunenko@example.com",
+    "username": "redfrog580",
+    "password": "bowser",
+    "invokedAt": "2025-11-12T23:00:27.649Z"
   }
 ]
