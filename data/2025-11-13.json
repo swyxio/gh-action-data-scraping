@@ -102,5 +102,13 @@
     "username": "whitetiger719",
     "password": "hedgehog",
     "invokedAt": "2025-11-13T12:00:20.220Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Pedersen",
+    "email": "christoffer.pedersen@example.com",
+    "username": "angrypanda249",
+    "password": "outside",
+    "invokedAt": "2025-11-13T13:10:11.654Z"
   }
 ]
