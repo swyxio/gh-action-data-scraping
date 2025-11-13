@@ -62,5 +62,13 @@
     "username": "blackrabbit462",
     "password": "emilia",
     "invokedAt": "2025-11-13T07:00:20.842Z"
+  },
+  {
+    "firstName": "Reginald",
+    "lastName": "Obrien",
+    "email": "reginald.obrien@example.com",
+    "username": "heavycat888",
+    "password": "funtime",
+    "invokedAt": "2025-11-13T08:00:30.944Z"
   }
 ]
