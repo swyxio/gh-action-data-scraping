@@ -142,5 +142,13 @@
     "username": "redpeacock949",
     "password": "gollum",
     "invokedAt": "2025-11-13T18:00:25.125Z"
+  },
+  {
+    "firstName": "Felipe",
+    "lastName": "Márquez",
+    "email": "felipe.marquez@example.com",
+    "username": "redfrog788",
+    "password": "beckham",
+    "invokedAt": "2025-11-13T19:00:26.728Z"
   }
 ]
