@@ -118,5 +118,13 @@
     "username": "ticklishostrich700",
     "password": "peter1",
     "invokedAt": "2025-11-15T14:00:28.489Z"
+  },
+  {
+    "firstName": "Alma",
+    "lastName": "Andersen",
+    "email": "alma.andersen@example.com",
+    "username": "orangeladybug843",
+    "password": "howell",
+    "invokedAt": "2025-11-15T15:00:20.772Z"
   }
 ]
