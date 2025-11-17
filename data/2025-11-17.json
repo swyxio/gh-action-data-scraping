@@ -142,5 +142,13 @@
     "username": "beautifulfish978",
     "password": "sunlight",
     "invokedAt": "2025-11-17T17:00:51.602Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Jørgensen",
+    "email": "christian.jorgensen@example.com",
+    "username": "bluemouse488",
+    "password": "drizzt",
+    "invokedAt": "2025-11-17T18:00:20.428Z"
   }
 ]
