@@ -166,5 +166,13 @@
     "username": "goldengoose969",
     "password": "mykids",
     "invokedAt": "2025-11-17T20:00:25.868Z"
+  },
+  {
+    "firstName": "Johanne",
+    "lastName": "Pedersen",
+    "email": "johanne.pedersen@example.com",
+    "username": "greenkoala841",
+    "password": "buffett",
+    "invokedAt": "2025-11-17T21:00:23.127Z"
   }
 ]
