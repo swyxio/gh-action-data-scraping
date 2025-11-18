@@ -150,5 +150,13 @@
     "username": "blacktiger831",
     "password": "vbnm",
     "invokedAt": "2025-11-18T22:00:22.080Z"
+  },
+  {
+    "firstName": "Jean-Marie",
+    "lastName": "Martinez",
+    "email": "jean-marie.martinez@example.com",
+    "username": "brownfish713",
+    "password": "cigar",
+    "invokedAt": "2025-11-18T23:00:23.297Z"
   }
 ]
