@@ -174,5 +174,13 @@
     "username": "greengorilla315",
     "password": "russian",
     "invokedAt": "2025-11-19T21:00:27.120Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Nebioğlu",
+    "email": "ahmet.nebioglu@example.com",
+    "username": "orangeelephant533",
+    "password": "9999",
+    "invokedAt": "2025-11-19T22:00:20.505Z"
   }
 ]
