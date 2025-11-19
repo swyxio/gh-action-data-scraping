@@ -78,5 +78,13 @@
     "username": "yellowfrog741",
     "password": "373737",
     "invokedAt": "2025-11-19T09:00:25.979Z"
+  },
+  {
+    "firstName": "Veli",
+    "lastName": "Hohmann",
+    "email": "veli.hohmann@example.com",
+    "username": "purplerabbit667",
+    "password": "gateway",
+    "invokedAt": "2025-11-19T10:00:23.598Z"
   }
 ]
