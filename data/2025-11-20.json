@@ -158,5 +158,13 @@
     "username": "angryrabbit767",
     "password": "getoff",
     "invokedAt": "2025-11-20T19:00:30.154Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Thomsen",
+    "email": "marcus.thomsen@example.com",
+    "username": "tinyduck403",
+    "password": "panda",
+    "invokedAt": "2025-11-20T20:00:25.408Z"
   }
 ]
