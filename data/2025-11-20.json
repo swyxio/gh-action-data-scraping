@@ -126,5 +126,13 @@
     "username": "smallpanda533",
     "password": "earthlink",
     "invokedAt": "2025-11-20T15:00:20.337Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Kivisto",
+    "email": "aleksi.kivisto@example.com",
+    "username": "brownsnake743",
+    "password": "scania",
+    "invokedAt": "2025-11-20T16:00:24.650Z"
   }
 ]
