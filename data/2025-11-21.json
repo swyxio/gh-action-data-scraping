@@ -126,5 +126,13 @@
     "username": "tinypanda929",
     "password": "qweasd",
     "invokedAt": "2025-11-21T15:00:26.026Z"
+  },
+  {
+    "firstName": "Cody",
+    "lastName": "Byrd",
+    "email": "cody.byrd@example.com",
+    "username": "goldenpanda333",
+    "password": "hohoho",
+    "invokedAt": "2025-11-21T16:00:22.393Z"
   }
 ]
