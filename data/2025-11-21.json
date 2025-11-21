@@ -30,5 +30,13 @@
     "username": "silvertiger399",
     "password": "8675309",
     "invokedAt": "2025-11-21T03:18:45.608Z"
+  },
+  {
+    "firstName": "Gordan",
+    "lastName": "Anđelić",
+    "email": "gordan.andelic@example.com",
+    "username": "organicostrich534",
+    "password": "doghouse",
+    "invokedAt": "2025-11-21T04:00:49.516Z"
   }
 ]
