@@ -94,5 +94,13 @@
     "username": "tinyelephant188",
     "password": "probes",
     "invokedAt": "2025-11-23T11:00:25.028Z"
+  },
+  {
+    "firstName": "Randy",
+    "lastName": "Nelson",
+    "email": "randy.nelson@example.com",
+    "username": "brownbird334",
+    "password": "amature",
+    "invokedAt": "2025-11-23T12:00:25.071Z"
   }
 ]
