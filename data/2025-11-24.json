@@ -94,5 +94,13 @@
     "username": "smallduck986",
     "password": "soccer10",
     "invokedAt": "2025-11-24T11:00:20.277Z"
+  },
+  {
+    "firstName": "Emile",
+    "lastName": "Morin",
+    "email": "emile.morin@example.com",
+    "username": "goldenostrich385",
+    "password": "josh",
+    "invokedAt": "2025-11-24T12:00:28.634Z"
   }
 ]
