@@ -70,5 +70,13 @@
     "username": "brownsnake481",
     "password": "racer",
     "invokedAt": "2025-11-24T08:00:21.555Z"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Koçoğlu",
+    "email": "ayse.kocoglu@example.com",
+    "username": "greenkoala736",
+    "password": "honda",
+    "invokedAt": "2025-11-24T09:00:55.136Z"
   }
 ]
