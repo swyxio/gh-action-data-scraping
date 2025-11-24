@@ -62,5 +62,13 @@
     "username": "blackcat421",
     "password": "asdfg",
     "invokedAt": "2025-11-24T07:00:21.224Z"
+  },
+  {
+    "firstName": "Clinton",
+    "lastName": "Oliver",
+    "email": "clinton.oliver@example.com",
+    "username": "brownsnake481",
+    "password": "racer",
+    "invokedAt": "2025-11-24T08:00:21.555Z"
   }
 ]
