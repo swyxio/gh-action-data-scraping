@@ -118,5 +118,13 @@
     "username": "goldensnake324",
     "password": "airport",
     "invokedAt": "2025-11-25T14:00:23.338Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Smith",
+    "email": "harper.smith@example.com",
+    "username": "angrymeercat620",
+    "password": "blaster",
+    "invokedAt": "2025-11-25T15:00:26.721Z"
   }
 ]
