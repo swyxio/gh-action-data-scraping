@@ -158,5 +158,13 @@
     "username": "orangerabbit487",
     "password": "guai",
     "invokedAt": "2025-11-26T19:00:22.227Z"
+  },
+  {
+    "firstName": "Ibrahim",
+    "lastName": "Chevalier",
+    "email": "ibrahim.chevalier@example.com",
+    "username": "yellowzebra576",
+    "password": "counter",
+    "invokedAt": "2025-11-26T20:00:21.934Z"
   }
 ]
