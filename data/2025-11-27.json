@@ -46,5 +46,13 @@
     "username": "silverlion879",
     "password": "theend",
     "invokedAt": "2025-11-27T05:00:22.600Z"
+  },
+  {
+    "firstName": "Rafael",
+    "lastName": "Thomas",
+    "email": "rafael.thomas@example.com",
+    "username": "heavyrabbit169",
+    "password": "seinfeld",
+    "invokedAt": "2025-11-27T06:00:30.242Z"
   }
 ]
