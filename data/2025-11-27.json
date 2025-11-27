@@ -134,5 +134,13 @@
     "username": "lazyfish675",
     "password": "guest",
     "invokedAt": "2025-11-27T16:00:25.134Z"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Blystad",
+    "email": "chris.blystad@example.com",
+    "username": "tinyswan258",
+    "password": "pearson",
+    "invokedAt": "2025-11-27T17:00:25.522Z"
   }
 ]
