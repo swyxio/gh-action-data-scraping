@@ -166,5 +166,13 @@
     "username": "blackpanda926",
     "password": "gizmo1",
     "invokedAt": "2025-11-27T20:00:25.471Z"
+  },
+  {
+    "firstName": "Staniša",
+    "lastName": "Uzelac",
+    "email": "stanisa.uzelac@example.com",
+    "username": "redmeercat632",
+    "password": "september",
+    "invokedAt": "2025-11-27T21:00:19.082Z"
   }
 ]
