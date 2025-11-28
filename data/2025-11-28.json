@@ -126,5 +126,13 @@
     "username": "lazyostrich324",
     "password": "trooper",
     "invokedAt": "2025-11-28T15:00:18.917Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Pelto",
+    "email": "valtteri.pelto@example.com",
+    "username": "yellowmeercat434",
+    "password": "catcher",
+    "invokedAt": "2025-11-28T16:00:19.948Z"
   }
 ]
