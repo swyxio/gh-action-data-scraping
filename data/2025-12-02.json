@@ -166,5 +166,13 @@
     "username": "purplezebra640",
     "password": "govols",
     "invokedAt": "2025-12-02T20:00:22.493Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Andre",
+    "email": "daniel.andre@example.com",
+    "username": "goldenladybug199",
+    "password": "anders",
+    "invokedAt": "2025-12-02T21:00:28.051Z"
   }
 ]
