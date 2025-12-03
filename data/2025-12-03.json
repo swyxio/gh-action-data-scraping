@@ -102,5 +102,13 @@
     "username": "heavypeacock467",
     "password": "nopass",
     "invokedAt": "2025-12-03T12:00:23.326Z"
+  },
+  {
+    "firstName": "László",
+    "lastName": "Van den Tol",
+    "email": "laszlo.vandentol@example.com",
+    "username": "silvermeercat458",
+    "password": "berry",
+    "invokedAt": "2025-12-03T13:11:53.480Z"
   }
 ]
