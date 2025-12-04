@@ -38,5 +38,13 @@
     "username": "whitebutterfly403",
     "password": "martini",
     "invokedAt": "2025-12-04T04:05:59.021Z"
+  },
+  {
+    "firstName": "Matteus",
+    "lastName": "Børstad",
+    "email": "matteus.borstad@example.com",
+    "username": "blackkoala600",
+    "password": "snowbird",
+    "invokedAt": "2025-12-04T05:00:24.154Z"
   }
 ]
