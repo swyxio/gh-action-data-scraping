@@ -174,5 +174,13 @@
     "username": "bluebird265",
     "password": "pooter",
     "invokedAt": "2025-12-04T21:00:24.587Z"
+  },
+  {
+    "firstName": "Mitchell",
+    "lastName": "May",
+    "email": "mitchell.may@example.com",
+    "username": "orangeladybug786",
+    "password": "virgin",
+    "invokedAt": "2025-12-04T22:00:21.476Z"
   }
 ]
