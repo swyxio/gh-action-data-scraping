@@ -166,5 +166,13 @@
     "username": "beautifulfish775",
     "password": "mystery",
     "invokedAt": "2025-12-04T20:00:21.341Z"
+  },
+  {
+    "firstName": "Charlize",
+    "lastName": "Van der Weij",
+    "email": "charlize.vanderweij@example.com",
+    "username": "bluebird265",
+    "password": "pooter",
+    "invokedAt": "2025-12-04T21:00:24.587Z"
   }
 ]
