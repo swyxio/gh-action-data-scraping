@@ -126,5 +126,13 @@
     "username": "beautifulbird402",
     "password": "expert",
     "invokedAt": "2025-12-04T15:00:28.652Z"
+  },
+  {
+    "firstName": "Leja",
+    "lastName": "Sagbakken",
+    "email": "leja.sagbakken@example.com",
+    "username": "sadfrog599",
+    "password": "goose",
+    "invokedAt": "2025-12-04T16:00:28.748Z"
   }
 ]
