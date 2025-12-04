@@ -70,5 +70,13 @@
     "username": "happyswan115",
     "password": "verbatim",
     "invokedAt": "2025-12-04T08:00:30.660Z"
+  },
+  {
+    "firstName": "Derek",
+    "lastName": "Scott",
+    "email": "derek.scott@example.com",
+    "username": "bluefish929",
+    "password": "women",
+    "invokedAt": "2025-12-04T09:01:28.365Z"
   }
 ]
