@@ -134,5 +134,13 @@
     "username": "tinyduck715",
     "password": "network",
     "invokedAt": "2025-12-05T17:00:58.817Z"
+  },
+  {
+    "firstName": "Nikolina",
+    "lastName": "Ilić",
+    "email": "nikolina.ilic@example.com",
+    "username": "heavymeercat895",
+    "password": "bronze",
+    "invokedAt": "2025-12-05T18:00:24.689Z"
   }
 ]
