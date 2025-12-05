@@ -158,5 +158,13 @@
     "username": "beautifulfrog767",
     "password": "explorer",
     "invokedAt": "2025-12-05T20:00:24.715Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Øksnes",
+    "email": "paul.oksnes@example.com",
+    "username": "blackbutterfly591",
+    "password": "villa",
+    "invokedAt": "2025-12-05T21:00:21.399Z"
   }
 ]
