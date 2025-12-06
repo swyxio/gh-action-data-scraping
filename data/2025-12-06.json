@@ -46,5 +46,13 @@
     "username": "crazycat940",
     "password": "unicorn",
     "invokedAt": "2025-12-06T05:00:29.203Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Walters",
+    "email": "peter.walters@example.com",
+    "username": "bigsnake424",
+    "password": "hillbill",
+    "invokedAt": "2025-12-06T06:00:27.028Z"
   }
 ]
