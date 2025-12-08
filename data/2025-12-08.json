@@ -126,5 +126,13 @@
     "username": "purplegorilla366",
     "password": "universe",
     "invokedAt": "2025-12-08T15:00:28.809Z"
+  },
+  {
+    "firstName": "Slavica",
+    "lastName": "Drljača",
+    "email": "slavica.drljaca@example.com",
+    "username": "purpleleopard802",
+    "password": "flip",
+    "invokedAt": "2025-12-08T16:00:26.003Z"
   }
 ]
