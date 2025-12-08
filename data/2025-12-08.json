@@ -134,5 +134,13 @@
     "username": "purpleleopard802",
     "password": "flip",
     "invokedAt": "2025-12-08T16:00:26.003Z"
+  },
+  {
+    "firstName": "Gene",
+    "lastName": "George",
+    "email": "gene.george@example.com",
+    "username": "brownostrich853",
+    "password": "hola",
+    "invokedAt": "2025-12-08T17:02:10.717Z"
   }
 ]
