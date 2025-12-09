@@ -86,5 +86,13 @@
     "username": "yellowgorilla568",
     "password": "castro",
     "invokedAt": "2025-12-09T10:00:22.309Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Jørgensen",
+    "email": "nanna.jorgensen@example.com",
+    "username": "greentiger451",
+    "password": "shorty",
+    "invokedAt": "2025-12-09T11:00:29.138Z"
   }
 ]
