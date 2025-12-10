@@ -46,5 +46,13 @@
     "username": "redbird248",
     "password": "10101010",
     "invokedAt": "2025-12-10T05:01:07.855Z"
+  },
+  {
+    "firstName": "غزل",
+    "lastName": "صدر",
+    "email": "gzl.sdr@example.com",
+    "username": "brownelephant711",
+    "password": "cabernet",
+    "invokedAt": "2025-12-10T06:00:28.211Z"
   }
 ]
