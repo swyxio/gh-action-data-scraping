@@ -158,5 +158,13 @@
     "username": "crazygorilla671",
     "password": "subaru",
     "invokedAt": "2025-12-10T19:00:53.162Z"
+  },
+  {
+    "firstName": "Renato",
+    "lastName": "Cornejo",
+    "email": "renato.cornejo@example.com",
+    "username": "lazydog226",
+    "password": "triple",
+    "invokedAt": "2025-12-10T20:00:23.291Z"
   }
 ]
