@@ -86,5 +86,13 @@
     "username": "purplecat956",
     "password": "yahoo",
     "invokedAt": "2025-12-11T10:00:21.792Z"
+  },
+  {
+    "firstName": "Jezdimir",
+    "lastName": "Urošević",
+    "email": "jezdimir.urosevic@example.com",
+    "username": "whiteladybug772",
+    "password": "123aaa",
+    "invokedAt": "2025-12-11T11:00:23.768Z"
   }
 ]
