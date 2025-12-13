@@ -126,5 +126,13 @@
     "username": "sadsnake985",
     "password": "caliente",
     "invokedAt": "2025-12-13T15:00:24.859Z"
+  },
+  {
+    "firstName": "Aldo",
+    "lastName": "da Mata",
+    "email": "aldo.damata@example.com",
+    "username": "orangebutterfly464",
+    "password": "ncc1701e",
+    "invokedAt": "2025-12-13T16:00:21.201Z"
   }
 ]
