@@ -142,5 +142,13 @@
     "username": "happyleopard596",
     "password": "irishman",
     "invokedAt": "2025-12-14T17:00:21.618Z"
+  },
+  {
+    "firstName": "Romain",
+    "lastName": "Van Houwelingen",
+    "email": "romain.vanhouwelingen@example.com",
+    "username": "lazycat518",
+    "password": "321321",
+    "invokedAt": "2025-12-14T18:00:26.663Z"
   }
 ]
