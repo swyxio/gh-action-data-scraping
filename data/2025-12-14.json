@@ -94,5 +94,13 @@
     "username": "organictiger786",
     "password": "cloud9",
     "invokedAt": "2025-12-14T11:00:28.274Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "French",
+    "email": "alexis.french@example.com",
+    "username": "purplegorilla683",
+    "password": "cooking",
+    "invokedAt": "2025-12-14T12:00:30.241Z"
   }
 ]
