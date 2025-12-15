@@ -158,5 +158,13 @@
     "username": "ticklishzebra988",
     "password": "steven1",
     "invokedAt": "2025-12-15T19:02:02.121Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Tapia",
+    "email": "juan.tapia@example.com",
+    "username": "purpledog985",
+    "password": "beamer",
+    "invokedAt": "2025-12-15T20:00:25.457Z"
   }
 ]
