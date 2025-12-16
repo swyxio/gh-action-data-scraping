@@ -86,5 +86,13 @@
     "username": "redmouse472",
     "password": "zippy",
     "invokedAt": "2025-12-16T10:00:16.938Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Ocampo",
+    "email": "karla.ocampo@example.com",
+    "username": "smallbutterfly960",
+    "password": "doughnut",
+    "invokedAt": "2025-12-16T11:00:21.329Z"
   }
 ]
