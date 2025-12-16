@@ -78,5 +78,13 @@
     "username": "angrybear811",
     "password": "reebok",
     "invokedAt": "2025-12-16T09:02:23.909Z"
+  },
+  {
+    "firstName": "Alfonso",
+    "lastName": "Delgado",
+    "email": "alfonso.delgado@example.com",
+    "username": "redmouse472",
+    "password": "zippy",
+    "invokedAt": "2025-12-16T10:00:16.938Z"
   }
 ]
