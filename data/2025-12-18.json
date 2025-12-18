@@ -126,5 +126,13 @@
     "username": "crazybear603",
     "password": "coldplay",
     "invokedAt": "2025-12-18T15:00:28.493Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Thomsen",
+    "email": "sebastian.thomsen@example.com",
+    "username": "angrywolf873",
+    "password": "zxcvb",
+    "invokedAt": "2025-12-18T16:00:24.343Z"
   }
 ]
