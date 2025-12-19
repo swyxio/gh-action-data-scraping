@@ -118,5 +118,13 @@
     "username": "bigtiger283",
     "password": "chao",
     "invokedAt": "2025-12-19T14:00:32.564Z"
+  },
+  {
+    "firstName": "Tijana",
+    "lastName": "Stepanović",
+    "email": "tijana.stepanovic@example.com",
+    "username": "happytiger981",
+    "password": "chicago",
+    "invokedAt": "2025-12-19T15:00:26.171Z"
   }
 ]
