@@ -54,5 +54,13 @@
     "username": "reddog599",
     "password": "moscow",
     "invokedAt": "2025-12-20T06:00:24.479Z"
+  },
+  {
+    "firstName": "Momir",
+    "lastName": "Jakšić",
+    "email": "momir.jaksic@example.com",
+    "username": "brownkoala947",
+    "password": "spice",
+    "invokedAt": "2025-12-20T07:00:35.510Z"
   }
 ]
