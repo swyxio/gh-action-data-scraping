@@ -46,5 +46,13 @@
     "username": "angryfish301",
     "password": "footjob",
     "invokedAt": "2025-12-20T05:00:26.799Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Gagné",
+    "email": "alexandre.gagne@example.com",
+    "username": "reddog599",
+    "password": "moscow",
+    "invokedAt": "2025-12-20T06:00:24.479Z"
   }
 ]
