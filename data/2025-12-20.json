@@ -78,5 +78,13 @@
     "username": "purplemouse304",
     "password": "kris",
     "invokedAt": "2025-12-20T09:00:30.383Z"
+  },
+  {
+    "firstName": "Oona",
+    "lastName": "Maki",
+    "email": "oona.maki@example.com",
+    "username": "happydog264",
+    "password": "bonner",
+    "invokedAt": "2025-12-20T10:00:21.302Z"
   }
 ]
