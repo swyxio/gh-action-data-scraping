@@ -174,5 +174,13 @@
     "username": "redduck568",
     "password": "proxy",
     "invokedAt": "2025-12-21T21:00:21.086Z"
+  },
+  {
+    "firstName": "Josif",
+    "lastName": "Milutinović",
+    "email": "josif.milutinovic@example.com",
+    "username": "happyduck171",
+    "password": "lesbean",
+    "invokedAt": "2025-12-21T22:00:20.267Z"
   }
 ]
