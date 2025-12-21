@@ -134,5 +134,13 @@
     "username": "brownleopard353",
     "password": "alibaba",
     "invokedAt": "2025-12-21T16:00:20.665Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Martin",
+    "email": "emma.martin@example.com",
+    "username": "sadleopard455",
+    "password": "plymouth",
+    "invokedAt": "2025-12-21T17:00:30.083Z"
   }
 ]
