@@ -166,5 +166,13 @@
     "username": "angrymouse393",
     "password": "timothy",
     "invokedAt": "2025-12-21T20:00:21.181Z"
+  },
+  {
+    "firstName": "Emmy",
+    "lastName": "Meunier",
+    "email": "emmy.meunier@example.com",
+    "username": "redduck568",
+    "password": "proxy",
+    "invokedAt": "2025-12-21T21:00:21.086Z"
   }
 ]
