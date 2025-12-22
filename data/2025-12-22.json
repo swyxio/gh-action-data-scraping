@@ -174,5 +174,13 @@
     "username": "blueleopard273",
     "password": "kicker",
     "invokedAt": "2025-12-22T21:00:21.239Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Pedersen",
+    "email": "philip.pedersen@example.com",
+    "username": "heavyelephant674",
+    "password": "model",
+    "invokedAt": "2025-12-22T22:00:26.798Z"
   }
 ]
