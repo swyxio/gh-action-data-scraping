@@ -150,5 +150,13 @@
     "username": "lazyfrog498",
     "password": "strife",
     "invokedAt": "2025-12-23T18:00:20.542Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Frazier",
+    "email": "roger.frazier@example.com",
+    "username": "lazymeercat449",
+    "password": "john1",
+    "invokedAt": "2025-12-23T19:01:39.940Z"
   }
 ]
