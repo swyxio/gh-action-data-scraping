@@ -166,5 +166,13 @@
     "username": "purpleostrich390",
     "password": "palmtree",
     "invokedAt": "2025-12-23T20:00:22.367Z"
+  },
+  {
+    "firstName": "Ivy",
+    "lastName": "King",
+    "email": "ivy.king@example.com",
+    "username": "silverostrich436",
+    "password": "mary",
+    "invokedAt": "2025-12-23T21:00:19.652Z"
   }
 ]
