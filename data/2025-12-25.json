@@ -46,5 +46,13 @@
     "username": "bluefish907",
     "password": "bologna",
     "invokedAt": "2025-12-25T05:02:26.020Z"
+  },
+  {
+    "firstName": "Nemanja",
+    "lastName": "Kapetanović",
+    "email": "nemanja.kapetanovic@example.com",
+    "username": "smallzebra208",
+    "password": "master",
+    "invokedAt": "2025-12-25T06:00:31.264Z"
   }
 ]
