@@ -166,5 +166,13 @@
     "username": "tinywolf205",
     "password": "junior1",
     "invokedAt": "2025-12-27T20:00:22.400Z"
+  },
+  {
+    "firstName": "Kerim",
+    "lastName": "Tahincioğlu",
+    "email": "kerim.tahincioglu@example.com",
+    "username": "heavybutterfly687",
+    "password": "doofus",
+    "invokedAt": "2025-12-27T21:00:30.111Z"
   }
 ]
