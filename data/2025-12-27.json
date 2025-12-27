@@ -94,5 +94,13 @@
     "username": "happydog320",
     "password": "mykids",
     "invokedAt": "2025-12-27T11:00:23.523Z"
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Alvarez",
+    "email": "elijah.alvarez@example.com",
+    "username": "lazygorilla169",
+    "password": "maxime",
+    "invokedAt": "2025-12-27T12:00:29.482Z"
   }
 ]
