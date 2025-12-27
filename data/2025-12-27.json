@@ -126,5 +126,13 @@
     "username": "whitewolf167",
     "password": "daphne",
     "invokedAt": "2025-12-27T15:00:20.533Z"
+  },
+  {
+    "firstName": "Iva",
+    "lastName": "Obradović",
+    "email": "iva.obradovic@example.com",
+    "username": "blackladybug697",
+    "password": "drowssap",
+    "invokedAt": "2025-12-27T16:00:24.761Z"
   }
 ]
