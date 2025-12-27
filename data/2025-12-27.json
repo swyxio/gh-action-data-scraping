@@ -110,5 +110,13 @@
     "username": "purpleswan378",
     "password": "norris",
     "invokedAt": "2025-12-27T13:08:33.824Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Pérez",
+    "email": "sergio.perez@example.com",
+    "username": "sadmeercat155",
+    "password": "putter",
+    "invokedAt": "2025-12-27T14:00:25.313Z"
   }
 ]
