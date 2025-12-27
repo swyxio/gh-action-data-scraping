@@ -118,5 +118,13 @@
     "username": "sadmeercat155",
     "password": "putter",
     "invokedAt": "2025-12-27T14:00:25.313Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Christiansen",
+    "email": "william.christiansen@example.com",
+    "username": "whitewolf167",
+    "password": "daphne",
+    "invokedAt": "2025-12-27T15:00:20.533Z"
   }
 ]
