@@ -118,5 +118,13 @@
     "username": "happyfish182",
     "password": "change",
     "invokedAt": "2025-12-29T14:01:05.753Z"
+  },
+  {
+    "firstName": "Norman",
+    "lastName": "Wells",
+    "email": "norman.wells@example.com",
+    "username": "brownleopard192",
+    "password": "scarface",
+    "invokedAt": "2025-12-29T15:00:22.267Z"
   }
 ]
