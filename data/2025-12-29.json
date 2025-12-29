@@ -142,5 +142,13 @@
     "username": "bigdog383",
     "password": "nature",
     "invokedAt": "2025-12-29T17:00:32.315Z"
+  },
+  {
+    "firstName": "Juana",
+    "lastName": "Rosas",
+    "email": "juana.rosas@example.com",
+    "username": "orangebird429",
+    "password": "acidburn",
+    "invokedAt": "2025-12-29T18:00:24.666Z"
   }
 ]
