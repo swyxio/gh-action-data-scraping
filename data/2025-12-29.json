@@ -94,5 +94,13 @@
     "username": "happygorilla529",
     "password": "tropical",
     "invokedAt": "2025-12-29T11:00:21.727Z"
+  },
+  {
+    "firstName": "Ray",
+    "lastName": "Pearson",
+    "email": "ray.pearson@example.com",
+    "username": "heavyrabbit268",
+    "password": "gizmodo",
+    "invokedAt": "2025-12-29T12:00:27.258Z"
   }
 ]
