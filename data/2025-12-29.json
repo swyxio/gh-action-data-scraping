@@ -110,5 +110,13 @@
     "username": "happywolf844",
     "password": "females",
     "invokedAt": "2025-12-29T13:12:34.722Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Leppanen",
+    "email": "arttu.leppanen@example.com",
+    "username": "happyfish182",
+    "password": "change",
+    "invokedAt": "2025-12-29T14:01:05.753Z"
   }
 ]
