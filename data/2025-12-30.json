@@ -86,5 +86,13 @@
     "username": "beautifulswan224",
     "password": "davis",
     "invokedAt": "2025-12-30T10:00:19.423Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Ouellet",
+    "email": "hunter.ouellet@example.com",
+    "username": "purplebutterfly676",
+    "password": "mulder",
+    "invokedAt": "2025-12-30T11:00:23.437Z"
   }
 ]
