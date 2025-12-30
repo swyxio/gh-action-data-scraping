@@ -70,5 +70,13 @@
     "username": "greendog988",
     "password": "rugby1",
     "invokedAt": "2025-12-30T08:00:24.732Z"
+  },
+  {
+    "firstName": "Bojan",
+    "lastName": "Paunović",
+    "email": "bojan.paunovic@example.com",
+    "username": "smallladybug809",
+    "password": "library",
+    "invokedAt": "2025-12-30T09:02:00.097Z"
   }
 ]
