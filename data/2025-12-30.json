@@ -126,5 +126,13 @@
     "username": "yellowduck303",
     "password": "medical",
     "invokedAt": "2025-12-30T15:00:20.142Z"
+  },
+  {
+    "firstName": "Corentin",
+    "lastName": "Jean",
+    "email": "corentin.jean@example.com",
+    "username": "tinybear303",
+    "password": "dogpound",
+    "invokedAt": "2025-12-30T16:00:20.311Z"
   }
 ]
