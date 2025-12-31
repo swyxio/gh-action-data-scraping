@@ -94,5 +94,13 @@
     "username": "brownrabbit624",
     "password": "megan",
     "invokedAt": "2025-12-31T11:00:23.719Z"
+  },
+  {
+    "firstName": "Gorana",
+    "lastName": "Krasić",
+    "email": "gorana.krasic@example.com",
+    "username": "sadtiger867",
+    "password": "shuo",
+    "invokedAt": "2025-12-31T12:00:25.120Z"
   }
 ]
