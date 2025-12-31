@@ -142,5 +142,13 @@
     "username": "reddog452",
     "password": "chewbacc",
     "invokedAt": "2025-12-31T17:00:25.264Z"
+  },
+  {
+    "firstName": "Anaëlle",
+    "lastName": "Philippe",
+    "email": "anaelle.philippe@example.com",
+    "username": "angrywolf169",
+    "password": "integra",
+    "invokedAt": "2025-12-31T18:00:28.269Z"
   }
 ]
