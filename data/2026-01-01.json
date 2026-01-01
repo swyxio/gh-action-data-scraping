@@ -182,5 +182,13 @@
     "username": "bluerabbit161",
     "password": "supra",
     "invokedAt": "2026-01-01T22:00:23.656Z"
+  },
+  {
+    "firstName": "Zeli",
+    "lastName": "Jesus",
+    "email": "zeli.jesus@example.com",
+    "username": "bluepanda959",
+    "password": "jacques",
+    "invokedAt": "2026-01-01T23:00:20.306Z"
   }
 ]
