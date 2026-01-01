@@ -70,5 +70,13 @@
     "username": "angrypanda588",
     "password": "stellar",
     "invokedAt": "2026-01-01T08:00:24.152Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Pulli",
+    "email": "leo.pulli@example.com",
+    "username": "greencat296",
+    "password": "freepass",
+    "invokedAt": "2026-01-01T09:01:38.791Z"
   }
 ]
