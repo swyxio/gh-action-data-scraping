@@ -142,5 +142,13 @@
     "username": "silvergoose639",
     "password": "flex",
     "invokedAt": "2026-01-01T17:01:04.823Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Mackay",
+    "email": "owen.mackay@example.com",
+    "username": "heavywolf222",
+    "password": "memorex",
+    "invokedAt": "2026-01-01T18:00:25.710Z"
   }
 ]
