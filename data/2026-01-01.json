@@ -166,5 +166,13 @@
     "username": "angryelephant203",
     "password": "ccbill",
     "invokedAt": "2026-01-01T20:00:30.950Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Larsen",
+    "email": "karla.larsen@example.com",
+    "username": "silverduck746",
+    "password": "smeghead",
+    "invokedAt": "2026-01-01T21:00:24.195Z"
   }
 ]
