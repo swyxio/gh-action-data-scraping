@@ -150,5 +150,13 @@
     "username": "heavywolf222",
     "password": "memorex",
     "invokedAt": "2026-01-01T18:00:25.710Z"
+  },
+  {
+    "firstName": "Asher",
+    "lastName": "Turner",
+    "email": "asher.turner@example.com",
+    "username": "lazyduck918",
+    "password": "nomore",
+    "invokedAt": "2026-01-01T19:00:59.479Z"
   }
 ]
