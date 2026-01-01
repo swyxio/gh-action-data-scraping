@@ -134,5 +134,13 @@
     "username": "happyostrich324",
     "password": "jeff",
     "invokedAt": "2026-01-01T16:00:23.820Z"
+  },
+  {
+    "firstName": "Nadia",
+    "lastName": "Concepción",
+    "email": "nadia.concepcion@example.com",
+    "username": "silvergoose639",
+    "password": "flex",
+    "invokedAt": "2026-01-01T17:01:04.823Z"
   }
 ]
