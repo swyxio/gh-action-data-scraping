@@ -118,5 +118,13 @@
     "username": "silverleopard176",
     "password": "google",
     "invokedAt": "2026-01-02T14:00:21.777Z"
+  },
+  {
+    "firstName": "Maya",
+    "lastName": "Thompson",
+    "email": "maya.thompson@example.com",
+    "username": "bigcat409",
+    "password": "123457",
+    "invokedAt": "2026-01-02T15:00:21.192Z"
   }
 ]
