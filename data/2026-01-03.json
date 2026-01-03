@@ -46,5 +46,13 @@
     "username": "crazyleopard539",
     "password": "guitar",
     "invokedAt": "2026-01-03T05:00:50.103Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Lee",
+    "email": "harry.lee@example.com",
+    "username": "bigelephant674",
+    "password": "0.0.0.000",
+    "invokedAt": "2026-01-03T06:00:24.353Z"
   }
 ]
