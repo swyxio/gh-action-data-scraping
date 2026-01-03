@@ -166,5 +166,13 @@
     "username": "redfish915",
     "password": "dollar",
     "invokedAt": "2026-01-03T20:00:22.700Z"
+  },
+  {
+    "firstName": "Loretta",
+    "lastName": "Nguyen",
+    "email": "loretta.nguyen@example.com",
+    "username": "redfrog539",
+    "password": "links",
+    "invokedAt": "2026-01-03T21:00:19.201Z"
   }
 ]
