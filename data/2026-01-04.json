@@ -78,5 +78,13 @@
     "username": "angrydog462",
     "password": "cooldude",
     "invokedAt": "2026-01-04T09:00:33.110Z"
+  },
+  {
+    "firstName": "Agatha",
+    "lastName": "Burkert",
+    "email": "agatha.burkert@example.com",
+    "username": "ticklishdog649",
+    "password": "sprint",
+    "invokedAt": "2026-01-04T10:00:17.301Z"
   }
 ]
