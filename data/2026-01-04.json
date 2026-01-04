@@ -182,5 +182,13 @@
     "username": "whitemeercat982",
     "password": "east",
     "invokedAt": "2026-01-04T22:00:30.696Z"
+  },
+  {
+    "firstName": "Alma",
+    "lastName": "May",
+    "email": "alma.may@example.com",
+    "username": "orangezebra412",
+    "password": "goku",
+    "invokedAt": "2026-01-04T23:00:25.846Z"
   }
 ]
