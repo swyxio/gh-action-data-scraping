@@ -166,5 +166,13 @@
     "username": "tinypanda109",
     "password": "massage",
     "invokedAt": "2026-01-05T20:00:22.142Z"
+  },
+  {
+    "firstName": "Georgije",
+    "lastName": "Simić",
+    "email": "georgije.simic@example.com",
+    "username": "blackfish696",
+    "password": "letmein1",
+    "invokedAt": "2026-01-05T21:00:25.909Z"
   }
 ]
