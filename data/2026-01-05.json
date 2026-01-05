@@ -182,5 +182,13 @@
     "username": "orangeswan687",
     "password": "jacobs",
     "invokedAt": "2026-01-05T22:00:22.605Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Suarez",
+    "email": "albert.suarez@example.com",
+    "username": "silverbird924",
+    "password": "tiberius",
+    "invokedAt": "2026-01-05T23:00:20.065Z"
   }
 ]
