@@ -94,5 +94,13 @@
     "username": "smallswan318",
     "password": "57chevy",
     "invokedAt": "2026-01-05T11:00:26.818Z"
+  },
+  {
+    "firstName": "Fabien",
+    "lastName": "Eppinga",
+    "email": "fabien.eppinga@example.com",
+    "username": "happywolf600",
+    "password": "storage",
+    "invokedAt": "2026-01-05T12:00:26.122Z"
   }
 ]
