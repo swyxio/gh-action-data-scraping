@@ -38,5 +38,13 @@
     "username": "orangetiger977",
     "password": "billabon",
     "invokedAt": "2026-01-06T04:13:14.584Z"
+  },
+  {
+    "firstName": "Edvin",
+    "lastName": "Strand",
+    "email": "edvin.strand@example.com",
+    "username": "browncat389",
+    "password": "topgun",
+    "invokedAt": "2026-01-06T05:03:09.979Z"
   }
 ]
