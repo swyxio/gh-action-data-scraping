@@ -182,5 +182,13 @@
     "username": "crazybutterfly199",
     "password": "vides",
     "invokedAt": "2026-01-06T22:00:23.727Z"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Edwards",
+    "email": "jordan.edwards@example.com",
+    "username": "redfrog603",
+    "password": "eastside",
+    "invokedAt": "2026-01-06T23:00:20.586Z"
   }
 ]
