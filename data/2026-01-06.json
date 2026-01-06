@@ -86,5 +86,13 @@
     "username": "crazyostrich462",
     "password": "operator",
     "invokedAt": "2026-01-06T10:00:26.117Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Castillo",
+    "email": "john.castillo@example.com",
+    "username": "orangeladybug494",
+    "password": "daffy",
+    "invokedAt": "2026-01-06T11:00:17.032Z"
   }
 ]
