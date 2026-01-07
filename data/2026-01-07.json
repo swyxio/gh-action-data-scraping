@@ -166,5 +166,13 @@
     "username": "crazygoose914",
     "password": "kids",
     "invokedAt": "2026-01-07T20:00:19.299Z"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Curtis",
+    "email": "jean.curtis@example.com",
+    "username": "happyfish474",
+    "password": "rangers",
+    "invokedAt": "2026-01-07T21:00:25.534Z"
   }
 ]
