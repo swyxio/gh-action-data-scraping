@@ -158,5 +158,13 @@
     "username": "silverpeacock769",
     "password": "fighting",
     "invokedAt": "2026-01-08T19:01:43.402Z"
+  },
+  {
+    "firstName": "Earl",
+    "lastName": "Green",
+    "email": "earl.green@example.com",
+    "username": "greenleopard241",
+    "password": "litle",
+    "invokedAt": "2026-01-08T20:00:22.065Z"
   }
 ]
