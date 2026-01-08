@@ -54,5 +54,13 @@
     "username": "purplepeacock327",
     "password": "favorite",
     "invokedAt": "2026-01-08T06:00:18.435Z"
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Moore",
+    "email": "sally.moore@example.com",
+    "username": "purplebutterfly771",
+    "password": "icecream",
+    "invokedAt": "2026-01-08T07:02:38.410Z"
   }
 ]
