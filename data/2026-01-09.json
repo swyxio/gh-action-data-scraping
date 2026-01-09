@@ -126,5 +126,13 @@
     "username": "smallelephant439",
     "password": "michael",
     "invokedAt": "2026-01-09T15:00:50.497Z"
+  },
+  {
+    "firstName": "Božidar",
+    "lastName": "Tomašević",
+    "email": "bozidar.tomasevic@example.com",
+    "username": "smallfrog900",
+    "password": "marriage",
+    "invokedAt": "2026-01-09T16:00:19.189Z"
   }
 ]
