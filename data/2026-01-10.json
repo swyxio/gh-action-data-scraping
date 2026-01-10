@@ -110,5 +110,13 @@
     "username": "organictiger702",
     "password": "misty1",
     "invokedAt": "2026-01-10T13:08:55.051Z"
+  },
+  {
+    "firstName": "Giorgio",
+    "lastName": "Rodriguez",
+    "email": "giorgio.rodriguez@example.com",
+    "username": "angrybutterfly351",
+    "password": "frog",
+    "invokedAt": "2026-01-10T14:00:22.241Z"
   }
 ]
