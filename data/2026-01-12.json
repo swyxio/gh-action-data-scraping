@@ -102,5 +102,13 @@
     "username": "purplepeacock507",
     "password": "biguns",
     "invokedAt": "2026-01-12T12:00:28.691Z"
+  },
+  {
+    "firstName": "Gabino",
+    "lastName": "Farias",
+    "email": "gabino.farias@example.com",
+    "username": "redfish183",
+    "password": "garcia",
+    "invokedAt": "2026-01-12T13:13:35.165Z"
   }
 ]
