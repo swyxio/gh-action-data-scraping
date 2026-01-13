@@ -182,5 +182,13 @@
     "username": "heavydog936",
     "password": "moose",
     "invokedAt": "2026-01-13T22:00:23.620Z"
+  },
+  {
+    "firstName": "Arvid",
+    "lastName": "Magerøy",
+    "email": "arvid.mageroy@example.com",
+    "username": "greendog500",
+    "password": "ooooo",
+    "invokedAt": "2026-01-13T23:00:24.032Z"
   }
 ]
