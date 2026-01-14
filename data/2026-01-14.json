@@ -46,5 +46,13 @@
     "username": "goldenswan987",
     "password": "honda",
     "invokedAt": "2026-01-14T05:03:35.078Z"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Jørgensen",
+    "email": "thea.jorgensen@example.com",
+    "username": "heavyfrog644",
+    "password": "special",
+    "invokedAt": "2026-01-14T06:00:35.799Z"
   }
 ]
