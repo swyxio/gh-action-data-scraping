@@ -78,5 +78,13 @@
     "username": "smallbear296",
     "password": "stock",
     "invokedAt": "2026-01-14T09:03:20.617Z"
+  },
+  {
+    "firstName": "Guy",
+    "lastName": "Harper",
+    "email": "guy.harper@example.com",
+    "username": "happypeacock311",
+    "password": "clouds",
+    "invokedAt": "2026-01-14T10:00:27.502Z"
   }
 ]
