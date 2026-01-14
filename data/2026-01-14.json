@@ -62,5 +62,13 @@
     "username": "yellowelephant349",
     "password": "caroline",
     "invokedAt": "2026-01-14T07:02:55.618Z"
+  },
+  {
+    "firstName": "Ljubiša",
+    "lastName": "Daničić",
+    "email": "ljubisa.danicic@example.com",
+    "username": "brownelephant911",
+    "password": "thecure",
+    "invokedAt": "2026-01-14T08:00:23.546Z"
   }
 ]
