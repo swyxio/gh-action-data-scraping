@@ -158,5 +158,13 @@
     "username": "whitefish944",
     "password": "diving",
     "invokedAt": "2026-01-15T19:05:39.253Z"
+  },
+  {
+    "firstName": "Claudia",
+    "lastName": "de la Crúz",
+    "email": "claudia.delacruz@example.com",
+    "username": "sadsnake521",
+    "password": "snapper",
+    "invokedAt": "2026-01-15T20:00:35.452Z"
   }
 ]
