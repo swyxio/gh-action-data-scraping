@@ -54,5 +54,13 @@
     "username": "silversnake404",
     "password": "hootie",
     "invokedAt": "2026-01-17T06:00:21.946Z"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Kucherenko",
+    "email": "marko.kucherenko@example.com",
+    "username": "smallduck136",
+    "password": "trustme",
+    "invokedAt": "2026-01-17T07:00:43.703Z"
   }
 ]
