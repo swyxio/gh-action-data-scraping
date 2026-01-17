@@ -158,5 +158,13 @@
     "username": "lazyzebra291",
     "password": "minnie",
     "invokedAt": "2026-01-17T19:00:27.062Z"
+  },
+  {
+    "firstName": "Želimir",
+    "lastName": "Kojić",
+    "email": "zelimir.kojic@example.com",
+    "username": "greenbear173",
+    "password": "shelly",
+    "invokedAt": "2026-01-17T20:00:20.013Z"
   }
 ]
