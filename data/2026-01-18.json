@@ -94,5 +94,13 @@
     "username": "bigfish167",
     "password": "marlboro",
     "invokedAt": "2026-01-18T11:00:27.643Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Ilıcalı",
+    "email": "kadir.ilicali@example.com",
+    "username": "organicfish645",
+    "password": "racerx",
+    "invokedAt": "2026-01-18T12:00:24.826Z"
   }
 ]
