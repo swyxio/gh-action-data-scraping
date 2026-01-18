@@ -30,5 +30,13 @@
     "username": "happymouse549",
     "password": "yankees",
     "invokedAt": "2026-01-18T03:29:23.462Z"
+  },
+  {
+    "firstName": "Ricky",
+    "lastName": "Reynolds",
+    "email": "ricky.reynolds@example.com",
+    "username": "goldenwolf114",
+    "password": "spanky",
+    "invokedAt": "2026-01-18T04:15:24.338Z"
   }
 ]
