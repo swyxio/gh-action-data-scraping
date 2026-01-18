@@ -158,5 +158,13 @@
     "username": "beautifulzebra208",
     "password": "5683",
     "invokedAt": "2026-01-18T19:00:24.565Z"
+  },
+  {
+    "firstName": "Želimir",
+    "lastName": "Kitić",
+    "email": "zelimir.kitic@example.com",
+    "username": "redcat694",
+    "password": "report",
+    "invokedAt": "2026-01-18T20:00:23.505Z"
   }
 ]
