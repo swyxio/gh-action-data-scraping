@@ -166,5 +166,13 @@
     "username": "lazyostrich607",
     "password": "trinitro",
     "invokedAt": "2026-01-19T20:00:20.302Z"
+  },
+  {
+    "firstName": "Philippe",
+    "lastName": "Abraham",
+    "email": "philippe.abraham@example.com",
+    "username": "angrybird935",
+    "password": "magic32",
+    "invokedAt": "2026-01-19T21:00:23.865Z"
   }
 ]
