@@ -102,5 +102,13 @@
     "username": "purplesnake913",
     "password": "aikido",
     "invokedAt": "2026-01-19T12:00:26.650Z"
+  },
+  {
+    "firstName": "Sandor",
+    "lastName": "Hoefnagel",
+    "email": "sandor.hoefnagel@example.com",
+    "username": "yellowduck970",
+    "password": "really",
+    "invokedAt": "2026-01-19T13:14:59.303Z"
   }
 ]
