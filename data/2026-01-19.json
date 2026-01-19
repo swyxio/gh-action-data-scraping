@@ -174,5 +174,13 @@
     "username": "angrybird935",
     "password": "magic32",
     "invokedAt": "2026-01-19T21:00:23.865Z"
+  },
+  {
+    "firstName": "Keith",
+    "lastName": "Fox",
+    "email": "keith.fox@example.com",
+    "username": "bigpeacock271",
+    "password": "blackcat",
+    "invokedAt": "2026-01-19T22:00:19.331Z"
   }
 ]
