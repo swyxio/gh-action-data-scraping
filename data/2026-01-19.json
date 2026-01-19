@@ -126,5 +126,13 @@
     "username": "heavybutterfly474",
     "password": "vanguard",
     "invokedAt": "2026-01-19T15:02:00.436Z"
+  },
+  {
+    "firstName": "Byron",
+    "lastName": "Wallace",
+    "email": "byron.wallace@example.com",
+    "username": "orangeostrich778",
+    "password": "spring",
+    "invokedAt": "2026-01-19T16:00:45.699Z"
   }
 ]
