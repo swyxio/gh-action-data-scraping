@@ -166,5 +166,13 @@
     "username": "silvercat231",
     "password": "broken",
     "invokedAt": "2026-01-20T20:20:07.544Z"
+  },
+  {
+    "firstName": "Horst",
+    "lastName": "Lüders",
+    "email": "horst.luders@example.com",
+    "username": "tinybutterfly534",
+    "password": "piccolo",
+    "invokedAt": "2026-01-20T21:01:48.499Z"
   }
 ]
