@@ -158,5 +158,13 @@
     "username": "brownfrog225",
     "password": "mdogg",
     "invokedAt": "2026-01-20T19:15:53.506Z"
+  },
+  {
+    "firstName": "Jeanette",
+    "lastName": "Chapman",
+    "email": "jeanette.chapman@example.com",
+    "username": "silvercat231",
+    "password": "broken",
+    "invokedAt": "2026-01-20T20:20:07.544Z"
   }
 ]
