@@ -102,5 +102,13 @@
     "username": "browntiger808",
     "password": "tattoo",
     "invokedAt": "2026-01-21T12:00:28.786Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Bertrand",
+    "email": "maxime.bertrand@example.com",
+    "username": "ticklishmouse763",
+    "password": "brendan",
+    "invokedAt": "2026-01-21T13:14:54.125Z"
   }
 ]
