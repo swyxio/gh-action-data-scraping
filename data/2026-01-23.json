@@ -166,5 +166,13 @@
     "username": "redtiger200",
     "password": "raining",
     "invokedAt": "2026-01-23T20:00:28.992Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Lee",
+    "email": "andy.lee@example.com",
+    "username": "goldenwolf494",
+    "password": "beaker",
+    "invokedAt": "2026-01-23T21:00:23.630Z"
   }
 ]
