@@ -94,5 +94,13 @@
     "username": "goldenfrog784",
     "password": "jackal",
     "invokedAt": "2026-01-23T11:01:19.397Z"
+  },
+  {
+    "firstName": "Gretchen",
+    "lastName": "Rist",
+    "email": "gretchen.rist@example.com",
+    "username": "beautifuldog520",
+    "password": "whisper",
+    "invokedAt": "2026-01-23T12:00:22.700Z"
   }
 ]
