@@ -166,5 +166,13 @@
     "username": "yellowgoose830",
     "password": "newark",
     "invokedAt": "2026-01-24T20:00:22.541Z"
+  },
+  {
+    "firstName": "Pirmin",
+    "lastName": "Kühl",
+    "email": "pirmin.kuhl@example.com",
+    "username": "tinyostrich803",
+    "password": "dupont",
+    "invokedAt": "2026-01-24T21:00:22.740Z"
   }
 ]
