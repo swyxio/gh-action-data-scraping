@@ -182,5 +182,13 @@
     "username": "yellowswan778",
     "password": "murphy1",
     "invokedAt": "2026-01-26T22:00:22.030Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Hohl",
+    "email": "vincent.hohl@example.com",
+    "username": "crazytiger719",
+    "password": "pertinant",
+    "invokedAt": "2026-01-26T23:00:24.447Z"
   }
 ]
