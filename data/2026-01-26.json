@@ -94,5 +94,13 @@
     "username": "heavycat118",
     "password": "robotech",
     "invokedAt": "2026-01-26T11:01:35.773Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Holmes",
+    "email": "grace.holmes@example.com",
+    "username": "ticklishsnake437",
+    "password": "berry",
+    "invokedAt": "2026-01-26T12:00:23.345Z"
   }
 ]
