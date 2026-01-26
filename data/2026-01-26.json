@@ -142,5 +142,13 @@
     "username": "purplemeercat303",
     "password": "things",
     "invokedAt": "2026-01-26T17:05:11.463Z"
+  },
+  {
+    "firstName": "Pirmin",
+    "lastName": "Garcia",
+    "email": "pirmin.garcia@example.com",
+    "username": "redpeacock173",
+    "password": "toledo",
+    "invokedAt": "2026-01-26T18:00:50.412Z"
   }
 ]
