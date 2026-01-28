@@ -70,5 +70,13 @@
     "username": "angryfish948",
     "password": "hyperion",
     "invokedAt": "2026-01-28T08:00:23.847Z"
+  },
+  {
+    "firstName": "Maurice",
+    "lastName": "Watson",
+    "email": "maurice.watson@example.com",
+    "username": "crazypanda753",
+    "password": "islander",
+    "invokedAt": "2026-01-28T09:04:51.084Z"
   }
 ]
