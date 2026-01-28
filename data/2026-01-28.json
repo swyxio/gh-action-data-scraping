@@ -62,5 +62,13 @@
     "username": "tinytiger486",
     "password": "reginald",
     "invokedAt": "2026-01-28T07:04:20.935Z"
+  },
+  {
+    "firstName": "Radan",
+    "lastName": "Taranec",
+    "email": "radan.taranec@example.com",
+    "username": "angryfish948",
+    "password": "hyperion",
+    "invokedAt": "2026-01-28T08:00:23.847Z"
   }
 ]
