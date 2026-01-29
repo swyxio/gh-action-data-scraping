@@ -30,5 +30,13 @@
     "username": "crazysnake359",
     "password": "123456789",
     "invokedAt": "2026-01-29T03:42:15.506Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Christiansen",
+    "email": "magnus.christiansen@example.com",
+    "username": "happytiger912",
+    "password": "tinman",
+    "invokedAt": "2026-01-29T04:27:35.151Z"
   }
 ]
