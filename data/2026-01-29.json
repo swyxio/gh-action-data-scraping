@@ -78,5 +78,13 @@
     "username": "organicrabbit201",
     "password": "9999999",
     "invokedAt": "2026-01-29T09:08:55.111Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Pedersen",
+    "email": "marie.pedersen@example.com",
+    "username": "goldensnake276",
+    "password": "connor",
+    "invokedAt": "2026-01-29T10:07:55.917Z"
   }
 ]
