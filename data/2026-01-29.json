@@ -38,5 +38,13 @@
     "username": "happytiger912",
     "password": "tinman",
     "invokedAt": "2026-01-29T04:27:35.151Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Abraham",
+    "email": "xavier.abraham@example.com",
+    "username": "tinyzebra365",
+    "password": "hotmail",
+    "invokedAt": "2026-01-29T05:15:35.948Z"
   }
 ]
