@@ -102,5 +102,13 @@
     "username": "tinywolf648",
     "password": "castor",
     "invokedAt": "2026-01-30T12:01:30.664Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Hernández",
+    "email": "sofia.hernandez@example.com",
+    "username": "brownzebra392",
+    "password": "song",
+    "invokedAt": "2026-01-30T13:20:34.988Z"
   }
 ]
