@@ -182,5 +182,13 @@
     "username": "yellowostrich765",
     "password": "asdfgh",
     "invokedAt": "2026-01-30T22:00:33.349Z"
+  },
+  {
+    "firstName": "Ruža",
+    "lastName": "Vuksanović",
+    "email": "ruza.vuksanovic@example.com",
+    "username": "lazybear589",
+    "password": "stanford",
+    "invokedAt": "2026-01-30T23:02:35.229Z"
   }
 ]
