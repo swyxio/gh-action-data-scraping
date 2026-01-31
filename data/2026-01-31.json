@@ -94,5 +94,13 @@
     "username": "smallbear746",
     "password": "bennie",
     "invokedAt": "2026-01-31T11:01:13.667Z"
+  },
+  {
+    "firstName": "Romeo",
+    "lastName": "Duval",
+    "email": "romeo.duval@example.com",
+    "username": "goldenbird301",
+    "password": "redbone",
+    "invokedAt": "2026-01-31T12:00:31.785Z"
   }
 ]
