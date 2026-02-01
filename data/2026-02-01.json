@@ -62,5 +62,13 @@
     "username": "bluekoala195",
     "password": "closeup",
     "invokedAt": "2026-02-01T07:11:54.435Z"
+  },
+  {
+    "firstName": "Samantha",
+    "lastName": "Bates",
+    "email": "samantha.bates@example.com",
+    "username": "yellowbird701",
+    "password": "oracle",
+    "invokedAt": "2026-02-01T08:01:37.509Z"
   }
 ]
