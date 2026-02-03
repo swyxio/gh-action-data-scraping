@@ -78,5 +78,13 @@
     "username": "happyfrog765",
     "password": "hurrican",
     "invokedAt": "2026-02-03T09:07:46.411Z"
+  },
+  {
+    "firstName": "Srećko",
+    "lastName": "Mančić",
+    "email": "srecko.mancic@example.com",
+    "username": "silverlion678",
+    "password": "farside",
+    "invokedAt": "2026-02-03T10:08:32.635Z"
   }
 ]
