@@ -102,5 +102,13 @@
     "username": "beautifullion957",
     "password": "quality",
     "invokedAt": "2026-02-03T12:02:59.486Z"
+  },
+  {
+    "firstName": "Sanni",
+    "lastName": "Neva",
+    "email": "sanni.neva@example.com",
+    "username": "angryzebra813",
+    "password": "django",
+    "invokedAt": "2026-02-03T13:22:55.893Z"
   }
 ]
