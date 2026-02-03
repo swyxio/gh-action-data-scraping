@@ -110,5 +110,13 @@
     "username": "angryzebra813",
     "password": "django",
     "invokedAt": "2026-02-03T13:22:55.893Z"
+  },
+  {
+    "firstName": "Else",
+    "lastName": "Krahl",
+    "email": "else.krahl@example.com",
+    "username": "sadbutterfly636",
+    "password": "liquid",
+    "invokedAt": "2026-02-03T14:13:00.933Z"
   }
 ]
