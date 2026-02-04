@@ -70,5 +70,13 @@
     "username": "happygorilla991",
     "password": "magic32",
     "invokedAt": "2026-02-04T08:05:39.657Z"
+  },
+  {
+    "firstName": "Ailin",
+    "lastName": "Grøterud",
+    "email": "ailin.groterud@example.com",
+    "username": "yellowelephant500",
+    "password": "bermuda",
+    "invokedAt": "2026-02-04T09:10:00.923Z"
   }
 ]
