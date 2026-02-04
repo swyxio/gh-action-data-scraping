@@ -86,5 +86,13 @@
     "username": "happyfrog483",
     "password": "joecool",
     "invokedAt": "2026-02-04T10:10:21.082Z"
+  },
+  {
+    "firstName": "Katie",
+    "lastName": "Brown",
+    "email": "katie.brown@example.com",
+    "username": "lazytiger380",
+    "password": "989898",
+    "invokedAt": "2026-02-04T11:08:57.725Z"
   }
 ]
