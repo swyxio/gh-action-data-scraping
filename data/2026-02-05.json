@@ -86,5 +86,13 @@
     "username": "blueswan871",
     "password": "airport",
     "invokedAt": "2026-02-05T10:10:07.726Z"
+  },
+  {
+    "firstName": "Germán",
+    "lastName": "de la Fuente",
+    "email": "german.delafuente@example.com",
+    "username": "brownlion955",
+    "password": "ripley",
+    "invokedAt": "2026-02-05T11:09:58.540Z"
   }
 ]
