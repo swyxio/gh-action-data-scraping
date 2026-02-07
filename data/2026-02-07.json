@@ -94,5 +94,13 @@
     "username": "orangerabbit987",
     "password": "warren",
     "invokedAt": "2026-02-07T11:02:00.149Z"
+  },
+  {
+    "firstName": "Živan",
+    "lastName": "Ninković",
+    "email": "zivan.ninkovic@example.com",
+    "username": "angrywolf237",
+    "password": "terrapin",
+    "invokedAt": "2026-02-07T12:00:24.048Z"
   }
 ]
