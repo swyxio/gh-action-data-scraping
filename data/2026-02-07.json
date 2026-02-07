@@ -62,5 +62,13 @@
     "username": "silvercat173",
     "password": "starwars",
     "invokedAt": "2026-02-07T07:10:00.106Z"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Manzanares",
+    "email": "amelia.manzanares@example.com",
+    "username": "blackrabbit367",
+    "password": "dale",
+    "invokedAt": "2026-02-07T08:01:35.822Z"
   }
 ]
