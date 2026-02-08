@@ -118,5 +118,13 @@
     "username": "happyleopard606",
     "password": "china",
     "invokedAt": "2026-02-08T14:05:31.660Z"
+  },
+  {
+    "firstName": "Timothy",
+    "lastName": "Boyer",
+    "email": "timothy.boyer@example.com",
+    "username": "sadbird172",
+    "password": "alice1",
+    "invokedAt": "2026-02-08T15:02:41.444Z"
   }
 ]
