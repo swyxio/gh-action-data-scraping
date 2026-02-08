@@ -166,5 +166,13 @@
     "username": "bigsnake844",
     "password": "mets",
     "invokedAt": "2026-02-08T20:00:57.370Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Lam",
+    "email": "jeremy.lam@example.com",
+    "username": "heavydog338",
+    "password": "list",
+    "invokedAt": "2026-02-08T21:02:35.206Z"
   }
 ]
