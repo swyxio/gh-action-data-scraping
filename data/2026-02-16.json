@@ -166,5 +166,13 @@
     "username": "smallrabbit428",
     "password": "tacoma",
     "invokedAt": "2026-02-16T20:01:54.077Z"
+  },
+  {
+    "firstName": "Yanis",
+    "lastName": "Menard",
+    "email": "yanis.menard@example.com",
+    "username": "redlion252",
+    "password": "chloe",
+    "invokedAt": "2026-02-16T21:03:52.218Z"
   }
 ]
