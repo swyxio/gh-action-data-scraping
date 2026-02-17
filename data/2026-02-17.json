@@ -70,5 +70,13 @@
     "username": "blackpeacock514",
     "password": "ding",
     "invokedAt": "2026-02-17T08:07:58.489Z"
+  },
+  {
+    "firstName": "Herman",
+    "lastName": "Newman",
+    "email": "herman.newman@example.com",
+    "username": "bluemouse158",
+    "password": "fringe",
+    "invokedAt": "2026-02-17T09:12:45.031Z"
   }
 ]
