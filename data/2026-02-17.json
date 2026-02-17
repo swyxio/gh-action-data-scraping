@@ -94,5 +94,13 @@
     "username": "sadostrich609",
     "password": "rocket",
     "invokedAt": "2026-02-17T11:12:21.697Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "French",
+    "email": "charles.french@example.com",
+    "username": "goldentiger967",
+    "password": "climber",
+    "invokedAt": "2026-02-17T12:04:31.578Z"
   }
 ]
