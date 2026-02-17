@@ -78,5 +78,13 @@
     "username": "bluemouse158",
     "password": "fringe",
     "invokedAt": "2026-02-17T09:12:45.031Z"
+  },
+  {
+    "firstName": "Filiz",
+    "lastName": "Klose",
+    "email": "filiz.klose@example.com",
+    "username": "blueduck451",
+    "password": "cowboy1",
+    "invokedAt": "2026-02-17T10:12:17.922Z"
   }
 ]
