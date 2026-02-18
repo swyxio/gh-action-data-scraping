@@ -118,5 +118,13 @@
     "username": "smallsnake180",
     "password": "columbus",
     "invokedAt": "2026-02-18T14:14:19.732Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Mitchell",
+    "email": "noah.mitchell@example.com",
+    "username": "whiteswan447",
+    "password": "looking",
+    "invokedAt": "2026-02-18T15:12:13.550Z"
   }
 ]
