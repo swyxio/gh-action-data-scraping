@@ -102,5 +102,13 @@
     "username": "happydog517",
     "password": "trinity",
     "invokedAt": "2026-02-21T12:00:20.575Z"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Green",
+    "email": "ellie.green@example.com",
+    "username": "brownsnake407",
+    "password": "fairlane",
+    "invokedAt": "2026-02-21T13:14:27.446Z"
   }
 ]
