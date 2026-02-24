@@ -166,5 +166,13 @@
     "username": "silverbird312",
     "password": "feet",
     "invokedAt": "2026-02-24T20:05:03.014Z"
+  },
+  {
+    "firstName": "Vladimir",
+    "lastName": "Maksimović",
+    "email": "vladimir.maksimovic@example.com",
+    "username": "brownkoala607",
+    "password": "kitchen",
+    "invokedAt": "2026-02-24T21:06:30.457Z"
   }
 ]
