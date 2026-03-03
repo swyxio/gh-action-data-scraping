@@ -86,5 +86,13 @@
     "username": "yellowtiger134",
     "password": "1002",
     "invokedAt": "2026-03-03T10:08:22.430Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Elmastaşoğlu",
+    "email": "adem.elmastasoglu@example.com",
+    "username": "beautifulsnake680",
+    "password": "hounddog",
+    "invokedAt": "2026-03-03T11:07:47.901Z"
   }
 ]
