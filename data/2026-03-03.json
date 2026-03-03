@@ -38,5 +38,13 @@
     "username": "heavypanda558",
     "password": "01234567",
     "invokedAt": "2026-03-03T04:29:53.565Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Kılıççı",
+    "email": "deniz.kilicci@example.com",
+    "username": "smallostrich229",
+    "password": "trucks",
+    "invokedAt": "2026-03-03T05:19:08.687Z"
   }
 ]
