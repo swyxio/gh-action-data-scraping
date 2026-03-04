@@ -46,5 +46,13 @@
     "username": "yellowbutterfly912",
     "password": "romeo",
     "invokedAt": "2026-03-04T05:15:42.338Z"
+  },
+  {
+    "firstName": "Sanjin",
+    "lastName": "Combee",
+    "email": "sanjin.combee@example.com",
+    "username": "bluebird901",
+    "password": "toejam",
+    "invokedAt": "2026-03-04T06:08:12.332Z"
   }
 ]
