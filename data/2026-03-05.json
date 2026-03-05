@@ -142,5 +142,13 @@
     "username": "greenbutterfly667",
     "password": "zero",
     "invokedAt": "2026-03-05T17:46:19.666Z"
+  },
+  {
+    "firstName": "Sanni",
+    "lastName": "Palo",
+    "email": "sanni.palo@example.com",
+    "username": "blackbird523",
+    "password": "dragons",
+    "invokedAt": "2026-03-05T18:30:05.413Z"
   }
 ]
