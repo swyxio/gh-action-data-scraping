@@ -158,5 +158,13 @@
     "username": "bluetiger903",
     "password": "topher",
     "invokedAt": "2026-03-07T19:02:25.789Z"
+  },
+  {
+    "firstName": "Volodar",
+    "lastName": "Lavrenko",
+    "email": "volodar.lavrenko@example.com",
+    "username": "smallostrich637",
+    "password": "sigmar",
+    "invokedAt": "2026-03-07T20:00:22.753Z"
   }
 ]
