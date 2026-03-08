@@ -134,5 +134,13 @@
     "username": "yellowcat275",
     "password": "letmein",
     "invokedAt": "2026-03-08T16:00:30.471Z"
+  },
+  {
+    "firstName": "Vicente",
+    "lastName": "López",
+    "email": "vicente.lopez@example.com",
+    "username": "sadbird307",
+    "password": "overkill",
+    "invokedAt": "2026-03-08T17:02:24.566Z"
   }
 ]
