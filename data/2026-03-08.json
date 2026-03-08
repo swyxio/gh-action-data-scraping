@@ -22,5 +22,13 @@
     "username": "happymouse560",
     "password": "twelve",
     "invokedAt": "2026-03-08T02:53:38.731Z"
+  },
+  {
+    "firstName": "Paige",
+    "lastName": "Ramirez",
+    "email": "paige.ramirez@example.com",
+    "username": "happydog882",
+    "password": "chivas",
+    "invokedAt": "2026-03-08T03:43:21.809Z"
   }
 ]
