@@ -94,5 +94,13 @@
     "username": "greengorilla500",
     "password": "poetry",
     "invokedAt": "2026-03-08T11:01:22.407Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Montero",
+    "email": "alberto.montero@example.com",
+    "username": "sadfrog624",
+    "password": "hill",
+    "invokedAt": "2026-03-08T12:00:25.977Z"
   }
 ]
