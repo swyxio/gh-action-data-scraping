@@ -46,5 +46,13 @@
     "username": "smallrabbit496",
     "password": "cooking",
     "invokedAt": "2026-03-08T05:16:06.734Z"
+  },
+  {
+    "firstName": "Ismaïl",
+    "lastName": "Van Ravenzwaaij",
+    "email": "ismail.vanravenzwaaij@example.com",
+    "username": "heavymeercat201",
+    "password": "formula1",
+    "invokedAt": "2026-03-08T06:07:05.661Z"
   }
 ]
