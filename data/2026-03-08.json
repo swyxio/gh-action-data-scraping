@@ -86,5 +86,13 @@
     "username": "smallostrich144",
     "password": "pitchers",
     "invokedAt": "2026-03-08T10:01:06.838Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Novak",
+    "email": "matthew.novak@example.com",
+    "username": "greengorilla500",
+    "password": "poetry",
+    "invokedAt": "2026-03-08T11:01:22.407Z"
   }
 ]
