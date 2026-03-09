@@ -142,5 +142,13 @@
     "username": "ticklishfrog977",
     "password": "r2d2c3po",
     "invokedAt": "2026-03-09T17:13:46.292Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Turner",
+    "email": "luke.turner@example.com",
+    "username": "redfrog401",
+    "password": "cezer121",
+    "invokedAt": "2026-03-09T18:09:32.165Z"
   }
 ]
