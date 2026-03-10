@@ -126,5 +126,13 @@
     "username": "happyfrog970",
     "password": "blue12",
     "invokedAt": "2026-03-10T15:13:45.536Z"
+  },
+  {
+    "firstName": "Julija",
+    "lastName": "Radović",
+    "email": "julija.radovic@example.com",
+    "username": "sadfish275",
+    "password": "philly",
+    "invokedAt": "2026-03-10T16:16:18.017Z"
   }
 ]
