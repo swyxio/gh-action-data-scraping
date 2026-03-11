@@ -182,5 +182,13 @@
     "username": "purpleleopard349",
     "password": "stoppedby",
     "invokedAt": "2026-03-11T22:02:15.785Z"
+  },
+  {
+    "firstName": "Rajko",
+    "lastName": "Novak",
+    "email": "rajko.novak@example.com",
+    "username": "tinymouse191",
+    "password": "seeker",
+    "invokedAt": "2026-03-11T23:01:45.560Z"
   }
 ]
