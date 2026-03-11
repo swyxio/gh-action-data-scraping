@@ -166,5 +166,13 @@
     "username": "sadgorilla846",
     "password": "beatles",
     "invokedAt": "2026-03-11T20:04:06.525Z"
+  },
+  {
+    "firstName": "Milton",
+    "lastName": "Graham",
+    "email": "milton.graham@example.com",
+    "username": "sadpeacock393",
+    "password": "jamie",
+    "invokedAt": "2026-03-11T21:04:33.059Z"
   }
 ]
