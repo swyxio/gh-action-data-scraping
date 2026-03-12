@@ -118,5 +118,13 @@
     "username": "whiterabbit763",
     "password": "hotstuff",
     "invokedAt": "2026-03-12T14:13:07.118Z"
+  },
+  {
+    "firstName": "Bertram",
+    "lastName": "Pedersen",
+    "email": "bertram.pedersen@example.com",
+    "username": "lazybird311",
+    "password": "blade",
+    "invokedAt": "2026-03-12T15:13:37.173Z"
   }
 ]
