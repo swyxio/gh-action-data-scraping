@@ -94,5 +94,13 @@
     "username": "crazypeacock849",
     "password": "bigcat",
     "invokedAt": "2026-03-12T11:08:37.091Z"
+  },
+  {
+    "firstName": "Enzo",
+    "lastName": "Denis",
+    "email": "enzo.denis@example.com",
+    "username": "smallpeacock475",
+    "password": "cheetah",
+    "invokedAt": "2026-03-12T12:02:03.493Z"
   }
 ]
