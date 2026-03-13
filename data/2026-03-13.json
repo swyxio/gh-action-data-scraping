@@ -142,5 +142,13 @@
     "username": "greenfish666",
     "password": "energy",
     "invokedAt": "2026-03-13T17:08:49.361Z"
+  },
+  {
+    "firstName": "Leonard",
+    "lastName": "Mitchell",
+    "email": "leonard.mitchell@example.com",
+    "username": "whitemouse731",
+    "password": "site",
+    "invokedAt": "2026-03-13T18:05:14.807Z"
   }
 ]
