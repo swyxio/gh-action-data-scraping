@@ -78,5 +78,13 @@
     "username": "heavygoose638",
     "password": "earthlink",
     "invokedAt": "2026-03-15T09:05:50.748Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Morrison",
+    "email": "philip.morrison@example.com",
+    "username": "bluefish358",
+    "password": "brown1",
+    "invokedAt": "2026-03-15T10:03:01.221Z"
   }
 ]
