@@ -46,5 +46,13 @@
     "username": "goldenmouse386",
     "password": "shui",
     "invokedAt": "2026-03-15T05:27:52.095Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Topçuoğlu",
+    "email": "sedef.topcuoglu@example.com",
+    "username": "redwolf120",
+    "password": "foobar",
+    "invokedAt": "2026-03-15T06:14:26.605Z"
   }
 ]
