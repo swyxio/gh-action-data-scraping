@@ -70,5 +70,13 @@
     "username": "silversnake735",
     "password": "railroad",
     "invokedAt": "2026-03-16T08:16:00.482Z"
+  },
+  {
+    "firstName": "Rafael",
+    "lastName": "Garrido",
+    "email": "rafael.garrido@example.com",
+    "username": "beautifulostrich277",
+    "password": "alpine",
+    "invokedAt": "2026-03-16T23:03:50.559Z"
   }
 ]
