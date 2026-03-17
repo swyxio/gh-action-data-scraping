@@ -86,5 +86,13 @@
     "username": "smalltiger631",
     "password": "bermuda",
     "invokedAt": "2026-03-17T10:12:34.687Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Christensen",
+    "email": "julie.christensen@example.com",
+    "username": "happyladybug969",
+    "password": "ironman",
+    "invokedAt": "2026-03-17T11:12:53.344Z"
   }
 ]
