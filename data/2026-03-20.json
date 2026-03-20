@@ -182,5 +182,13 @@
     "username": "crazymeercat107",
     "password": "looker",
     "invokedAt": "2026-03-20T22:01:47.324Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Smythe",
+    "email": "charlie.smythe@example.com",
+    "username": "heavytiger998",
+    "password": "baller",
+    "invokedAt": "2026-03-20T23:03:42.313Z"
   }
 ]
