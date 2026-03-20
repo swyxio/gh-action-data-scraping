@@ -94,5 +94,13 @@
     "username": "heavycat163",
     "password": "francesc",
     "invokedAt": "2026-03-20T11:07:25.113Z"
+  },
+  {
+    "firstName": "Svetlana",
+    "lastName": "Jelačić",
+    "email": "svetlana.jelacic@example.com",
+    "username": "redpanda525",
+    "password": "francois",
+    "invokedAt": "2026-03-20T12:02:45.678Z"
   }
 ]
