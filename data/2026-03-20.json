@@ -38,5 +38,13 @@
     "username": "redduck161",
     "password": "volkswag",
     "invokedAt": "2026-03-20T04:30:00.167Z"
+  },
+  {
+    "firstName": "Želimir",
+    "lastName": "Zdravković",
+    "email": "zelimir.zdravkovic@example.com",
+    "username": "heavyladybug893",
+    "password": "control",
+    "invokedAt": "2026-03-20T05:20:20.151Z"
   }
 ]
