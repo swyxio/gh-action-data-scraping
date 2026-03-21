@@ -86,5 +86,13 @@
     "username": "tinytiger169",
     "password": "windsurf",
     "invokedAt": "2026-03-21T10:01:31.404Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Christiansen",
+    "email": "alexander.christiansen@example.com",
+    "username": "goldenbear712",
+    "password": "jack1",
+    "invokedAt": "2026-03-21T11:02:05.048Z"
   }
 ]
