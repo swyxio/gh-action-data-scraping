@@ -174,5 +174,13 @@
     "username": "crazywolf124",
     "password": "pooh",
     "invokedAt": "2026-03-21T21:02:25.002Z"
+  },
+  {
+    "firstName": "Vilho",
+    "lastName": "Pietila",
+    "email": "vilho.pietila@example.com",
+    "username": "purplepeacock368",
+    "password": "tomas",
+    "invokedAt": "2026-03-21T22:00:33.534Z"
   }
 ]
