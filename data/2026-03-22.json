@@ -118,5 +118,13 @@
     "username": "heavydog145",
     "password": "darklord",
     "invokedAt": "2026-03-22T14:04:37.609Z"
+  },
+  {
+    "firstName": "Darko",
+    "lastName": "Rodriguez",
+    "email": "darko.rodriguez@example.com",
+    "username": "orangefrog955",
+    "password": "shanghai",
+    "invokedAt": "2026-03-22T15:02:16.538Z"
   }
 ]
