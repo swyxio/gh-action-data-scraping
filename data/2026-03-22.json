@@ -78,5 +78,13 @@
     "username": "purplegorilla795",
     "password": "eagle",
     "invokedAt": "2026-03-22T09:04:57.519Z"
+  },
+  {
+    "firstName": "Zlatko",
+    "lastName": "Hadžić",
+    "email": "zlatko.hadzic@example.com",
+    "username": "ticklishgorilla105",
+    "password": "sparks",
+    "invokedAt": "2026-03-22T10:02:05.562Z"
   }
 ]
