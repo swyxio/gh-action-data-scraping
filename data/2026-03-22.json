@@ -142,5 +142,13 @@
     "username": "silverdog992",
     "password": "downtown",
     "invokedAt": "2026-03-22T17:03:03.637Z"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Larsen",
+    "email": "thea.larsen@example.com",
+    "username": "crazypeacock616",
+    "password": "asterix",
+    "invokedAt": "2026-03-22T18:01:54.584Z"
   }
 ]
