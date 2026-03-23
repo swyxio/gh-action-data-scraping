@@ -78,5 +78,13 @@
     "username": "blackpeacock235",
     "password": "password2",
     "invokedAt": "2026-03-23T09:15:45.549Z"
+  },
+  {
+    "firstName": "Louise",
+    "lastName": "Lawson",
+    "email": "louise.lawson@example.com",
+    "username": "redswan685",
+    "password": "broker",
+    "invokedAt": "2026-03-23T10:16:43.797Z"
   }
 ]
