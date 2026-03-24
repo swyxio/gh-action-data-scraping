@@ -118,5 +118,13 @@
     "username": "happycat545",
     "password": "191919",
     "invokedAt": "2026-03-24T14:21:33.760Z"
+  },
+  {
+    "firstName": "Lucía",
+    "lastName": "Ocasio",
+    "email": "lucia.ocasio@example.com",
+    "username": "happywolf657",
+    "password": "monty",
+    "invokedAt": "2026-03-24T15:19:56.350Z"
   }
 ]
