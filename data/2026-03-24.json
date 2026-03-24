@@ -158,5 +158,13 @@
     "username": "whitebear374",
     "password": "goodtime",
     "invokedAt": "2026-03-24T19:20:34.737Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Karabulut",
+    "email": "ahmet.karabulut@example.com",
+    "username": "sadlion917",
+    "password": "templar",
+    "invokedAt": "2026-03-24T20:06:46.663Z"
   }
 ]
