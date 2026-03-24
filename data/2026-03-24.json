@@ -110,5 +110,13 @@
     "username": "smallcat697",
     "password": "stress",
     "invokedAt": "2026-03-24T13:26:44.819Z"
+  },
+  {
+    "firstName": "Haakon",
+    "lastName": "Nesbø",
+    "email": "haakon.nesbo@example.com",
+    "username": "happycat545",
+    "password": "191919",
+    "invokedAt": "2026-03-24T14:21:33.760Z"
   }
 ]
