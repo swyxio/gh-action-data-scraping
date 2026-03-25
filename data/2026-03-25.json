@@ -142,5 +142,13 @@
     "username": "heavyfrog320",
     "password": "bigmike",
     "invokedAt": "2026-03-25T17:18:24.003Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Kilpela",
+    "email": "toivo.kilpela@example.com",
+    "username": "whitezebra180",
+    "password": "data",
+    "invokedAt": "2026-03-25T18:13:14.615Z"
   }
 ]
