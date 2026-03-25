@@ -126,5 +126,13 @@
     "username": "beautifulgorilla606",
     "password": "empire",
     "invokedAt": "2026-03-25T15:20:11.860Z"
+  },
+  {
+    "firstName": "Martín",
+    "lastName": "Cano",
+    "email": "martin.cano@example.com",
+    "username": "whitebear912",
+    "password": "goldstar",
+    "invokedAt": "2026-03-25T16:20:32.022Z"
   }
 ]
