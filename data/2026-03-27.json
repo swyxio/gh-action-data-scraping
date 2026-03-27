@@ -118,5 +118,13 @@
     "username": "silverdog995",
     "password": "pebbles",
     "invokedAt": "2026-03-27T14:16:55.121Z"
+  },
+  {
+    "firstName": "Josefine",
+    "lastName": "Johansen",
+    "email": "josefine.johansen@example.com",
+    "username": "redbutterfly393",
+    "password": "wxcvbn",
+    "invokedAt": "2026-03-27T15:13:40.438Z"
   }
 ]
