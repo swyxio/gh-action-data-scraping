@@ -134,5 +134,13 @@
     "username": "blackswan664",
     "password": "stonecol",
     "invokedAt": "2026-03-28T16:03:01.513Z"
+  },
+  {
+    "firstName": "Willi",
+    "lastName": "Denis",
+    "email": "willi.denis@example.com",
+    "username": "yellowleopard421",
+    "password": "medical",
+    "invokedAt": "2026-03-28T17:04:53.017Z"
   }
 ]
