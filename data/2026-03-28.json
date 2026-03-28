@@ -126,5 +126,13 @@
     "username": "orangeswan528",
     "password": "finance",
     "invokedAt": "2026-03-28T15:04:18.629Z"
+  },
+  {
+    "firstName": "Eugene",
+    "lastName": "Chambers",
+    "email": "eugene.chambers@example.com",
+    "username": "blackswan664",
+    "password": "stonecol",
+    "invokedAt": "2026-03-28T16:03:01.513Z"
   }
 ]
