@@ -14,5 +14,13 @@
     "username": "happykoala110",
     "password": "target",
     "invokedAt": "2026-03-29T01:29:28.301Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Dunn",
+    "email": "marc.dunn@example.com",
+    "username": "smalldog808",
+    "password": "drizzt",
+    "invokedAt": "2026-03-29T02:56:56.912Z"
   }
 ]
