@@ -134,5 +134,13 @@
     "username": "sadpanda240",
     "password": "forrest",
     "invokedAt": "2026-03-29T16:03:46.766Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Thomsen",
+    "email": "maria.thomsen@example.com",
+    "username": "bluebutterfly848",
+    "password": "hardware",
+    "invokedAt": "2026-03-29T17:05:09.727Z"
   }
 ]
