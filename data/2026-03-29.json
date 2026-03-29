@@ -166,5 +166,13 @@
     "username": "blackbird454",
     "password": "azsxdc",
     "invokedAt": "2026-03-29T20:02:26.561Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Johansen",
+    "email": "felix.johansen@example.com",
+    "username": "blackmouse332",
+    "password": "rooney",
+    "invokedAt": "2026-03-29T21:04:34.356Z"
   }
 ]
