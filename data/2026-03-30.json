@@ -158,5 +158,13 @@
     "username": "redswan681",
     "password": "father",
     "invokedAt": "2026-03-30T21:11:07.210Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Ríos",
+    "email": "martha.rios@example.com",
+    "username": "greenkoala594",
+    "password": "quick",
+    "invokedAt": "2026-03-30T22:07:03.567Z"
   }
 ]
