@@ -94,5 +94,13 @@
     "username": "redgoose737",
     "password": "789987",
     "invokedAt": "2026-03-31T11:14:52.738Z"
+  },
+  {
+    "firstName": "Uglješa",
+    "lastName": "Grujić",
+    "email": "ugljesa.grujic@example.com",
+    "username": "bluebird847",
+    "password": "313131",
+    "invokedAt": "2026-03-31T12:09:57.513Z"
   }
 ]
