@@ -118,5 +118,13 @@
     "username": "heavydog313",
     "password": "aberdeen",
     "invokedAt": "2026-04-01T15:23:31.652Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "Walker",
+    "email": "dylan.walker@example.com",
+    "username": "organicduck177",
+    "password": "dwight",
+    "invokedAt": "2026-04-01T16:15:15.597Z"
   }
 ]
