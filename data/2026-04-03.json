@@ -94,5 +94,13 @@
     "username": "bigrabbit386",
     "password": "robocop",
     "invokedAt": "2026-04-03T11:11:38.033Z"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Moore",
+    "email": "kelly.moore@example.com",
+    "username": "goldenostrich592",
+    "password": "planet",
+    "invokedAt": "2026-04-03T12:05:03.317Z"
   }
 ]
