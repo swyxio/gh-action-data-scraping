@@ -158,5 +158,13 @@
     "username": "happyswan249",
     "password": "deaths",
     "invokedAt": "2026-04-03T19:12:05.373Z"
+  },
+  {
+    "firstName": "Fabian",
+    "lastName": "Amdal",
+    "email": "fabian.amdal@example.com",
+    "username": "greenduck647",
+    "password": "arrow",
+    "invokedAt": "2026-04-03T20:04:29.737Z"
   }
 ]
