@@ -86,5 +86,13 @@
     "username": "smallswan488",
     "password": "jaime",
     "invokedAt": "2026-04-03T10:10:22.461Z"
+  },
+  {
+    "firstName": "Raúl",
+    "lastName": "Sáez",
+    "email": "raul.saez@example.com",
+    "username": "bigrabbit386",
+    "password": "robocop",
+    "invokedAt": "2026-04-03T11:11:38.033Z"
   }
 ]
