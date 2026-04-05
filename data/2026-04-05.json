@@ -166,5 +166,13 @@
     "username": "tinydog225",
     "password": "arctic",
     "invokedAt": "2026-04-05T20:02:31.012Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Hopkins",
+    "email": "carl.hopkins@example.com",
+    "username": "greenbutterfly659",
+    "password": "1001",
+    "invokedAt": "2026-04-05T21:05:00.684Z"
   }
 ]
