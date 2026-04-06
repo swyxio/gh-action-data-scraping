@@ -174,5 +174,13 @@
     "username": "purplebear687",
     "password": "pyramid",
     "invokedAt": "2026-04-06T22:05:29.022Z"
+  },
+  {
+    "firstName": "Wayne",
+    "lastName": "Scott",
+    "email": "wayne.scott@example.com",
+    "username": "happyrabbit145",
+    "password": "flying",
+    "invokedAt": "2026-04-06T23:07:44.805Z"
   }
 ]
