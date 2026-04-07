@@ -86,5 +86,13 @@
     "username": "browndog572",
     "password": "dogbert",
     "invokedAt": "2026-04-07T10:17:30.753Z"
+  },
+  {
+    "firstName": "Besnik",
+    "lastName": "Roussel",
+    "email": "besnik.roussel@example.com",
+    "username": "crazygorilla399",
+    "password": "peeper",
+    "invokedAt": "2026-04-07T11:16:31.340Z"
   }
 ]
