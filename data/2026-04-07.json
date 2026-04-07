@@ -46,5 +46,13 @@
     "username": "bluetiger251",
     "password": "horses",
     "invokedAt": "2026-04-07T05:30:15.481Z"
+  },
+  {
+    "firstName": "Phoenix",
+    "lastName": "Lewis",
+    "email": "phoenix.lewis@example.com",
+    "username": "purplebear853",
+    "password": "ihateyou",
+    "invokedAt": "2026-04-07T06:23:53.600Z"
   }
 ]
