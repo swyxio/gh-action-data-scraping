@@ -70,5 +70,13 @@
     "username": "greenfish794",
     "password": "driver",
     "invokedAt": "2026-04-09T08:24:15.244Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Miles",
+    "email": "tracy.miles@example.com",
+    "username": "goldenfish921",
+    "password": "cookies",
+    "invokedAt": "2026-04-09T09:22:37.083Z"
   }
 ]
