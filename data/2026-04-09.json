@@ -62,5 +62,13 @@
     "username": "smallfish609",
     "password": "virus",
     "invokedAt": "2026-04-09T07:27:26.560Z"
+  },
+  {
+    "firstName": "Rosie",
+    "lastName": "Martin",
+    "email": "rosie.martin@example.com",
+    "username": "greenfish794",
+    "password": "driver",
+    "invokedAt": "2026-04-09T08:24:15.244Z"
   }
 ]
