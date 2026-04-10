@@ -142,5 +142,13 @@
     "username": "redmouse396",
     "password": "flexible",
     "invokedAt": "2026-04-10T18:10:39.431Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Durand",
+    "email": "guillaume.durand@example.com",
+    "username": "happytiger761",
+    "password": "cupoi",
+    "invokedAt": "2026-04-10T19:15:31.492Z"
   }
 ]
