@@ -78,5 +78,13 @@
     "username": "smalltiger336",
     "password": "spice",
     "invokedAt": "2026-04-10T10:17:41.668Z"
+  },
+  {
+    "firstName": "Stephen",
+    "lastName": "Wagner",
+    "email": "stephen.wagner@example.com",
+    "username": "bluebird629",
+    "password": "jerome",
+    "invokedAt": "2026-04-10T11:14:31.259Z"
   }
 ]
