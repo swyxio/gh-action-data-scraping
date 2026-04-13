@@ -78,5 +78,13 @@
     "username": "sadtiger203",
     "password": "charisma",
     "invokedAt": "2026-04-13T10:28:47.608Z"
+  },
+  {
+    "firstName": "Lachlan",
+    "lastName": "Walker",
+    "email": "lachlan.walker@example.com",
+    "username": "angrywolf841",
+    "password": "meatloaf",
+    "invokedAt": "2026-04-13T11:25:03.727Z"
   }
 ]
