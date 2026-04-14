@@ -126,5 +126,13 @@
     "username": "greenbird555",
     "password": "frog",
     "invokedAt": "2026-04-14T16:19:51.564Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Arias",
+    "email": "christian.arias@example.com",
+    "username": "bigduck997",
+    "password": "gratis",
+    "invokedAt": "2026-04-14T17:21:27.988Z"
   }
 ]
