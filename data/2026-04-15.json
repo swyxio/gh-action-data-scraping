@@ -46,5 +46,13 @@
     "username": "redgoose155",
     "password": "abc12345",
     "invokedAt": "2026-04-15T06:29:20.586Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Sørensen",
+    "email": "oscar.sorensen@example.com",
+    "username": "bigleopard364",
+    "password": "hotrod",
+    "invokedAt": "2026-04-15T07:28:30.388Z"
   }
 ]
