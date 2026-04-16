@@ -22,5 +22,13 @@
     "username": "whiteostrich866",
     "password": "spam",
     "invokedAt": "2026-04-16T02:57:18.559Z"
+  },
+  {
+    "firstName": "Stanislav",
+    "lastName": "Tošić",
+    "email": "stanislav.tosic@example.com",
+    "username": "beautifulostrich369",
+    "password": "dummy",
+    "invokedAt": "2026-04-16T04:03:58.914Z"
   }
 ]
