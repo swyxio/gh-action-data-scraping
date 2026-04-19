@@ -46,5 +46,13 @@
     "username": "smallswan334",
     "password": "easter",
     "invokedAt": "2026-04-19T06:27:38.164Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Miller",
+    "email": "arnaud.miller@example.com",
+    "username": "silvertiger928",
+    "password": "megatron",
+    "invokedAt": "2026-04-19T07:26:56.044Z"
   }
 ]
