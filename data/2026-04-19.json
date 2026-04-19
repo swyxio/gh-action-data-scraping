@@ -54,5 +54,13 @@
     "username": "silvertiger928",
     "password": "megatron",
     "invokedAt": "2026-04-19T07:26:56.044Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Lowe",
+    "email": "henry.lowe@example.com",
+    "username": "redwolf242",
+    "password": "golfgolf",
+    "invokedAt": "2026-04-19T08:14:45.908Z"
   }
 ]
