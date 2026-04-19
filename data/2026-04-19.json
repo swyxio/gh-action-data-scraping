@@ -126,5 +126,13 @@
     "username": "purplefish354",
     "password": "ground",
     "invokedAt": "2026-04-19T16:06:29.747Z"
+  },
+  {
+    "firstName": "Cesar",
+    "lastName": "Cortes",
+    "email": "cesar.cortes@example.com",
+    "username": "lazybird508",
+    "password": "bosco",
+    "invokedAt": "2026-04-19T17:08:53.860Z"
   }
 ]
