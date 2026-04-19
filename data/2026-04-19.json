@@ -142,5 +142,13 @@
     "username": "whitebutterfly683",
     "password": "brucelee",
     "invokedAt": "2026-04-19T18:07:13.068Z"
+  },
+  {
+    "firstName": "Stefano",
+    "lastName": "Girard",
+    "email": "stefano.girard@example.com",
+    "username": "blackbutterfly144",
+    "password": "better",
+    "invokedAt": "2026-04-19T19:13:03.836Z"
   }
 ]
