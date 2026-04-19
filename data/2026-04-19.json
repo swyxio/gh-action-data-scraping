@@ -86,5 +86,13 @@
     "username": "bluebear971",
     "password": "molly",
     "invokedAt": "2026-04-19T11:09:55.834Z"
+  },
+  {
+    "firstName": "Želimir",
+    "lastName": "Smiljanić",
+    "email": "zelimir.smiljanic@example.com",
+    "username": "tinycat975",
+    "password": "meat",
+    "invokedAt": "2026-04-19T12:04:02.651Z"
   }
 ]
