@@ -142,5 +142,13 @@
     "username": "bigleopard698",
     "password": "notnow",
     "invokedAt": "2026-04-20T18:13:22.093Z"
+  },
+  {
+    "firstName": "Oswin",
+    "lastName": "Siekmann",
+    "email": "oswin.siekmann@example.com",
+    "username": "redmouse402",
+    "password": "geheim",
+    "invokedAt": "2026-04-20T19:21:49.549Z"
   }
 ]
