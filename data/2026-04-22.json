@@ -62,5 +62,13 @@
     "username": "greenrabbit616",
     "password": "98765432",
     "invokedAt": "2026-04-22T08:28:17.795Z"
+  },
+  {
+    "firstName": "Zdravko",
+    "lastName": "Đokanović",
+    "email": "zdravko.dokanovic@example.com",
+    "username": "biglion614",
+    "password": "manuel",
+    "invokedAt": "2026-04-22T09:26:40.716Z"
   }
 ]
