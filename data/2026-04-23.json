@@ -158,5 +158,13 @@
     "username": "greenostrich217",
     "password": "warner",
     "invokedAt": "2026-04-23T20:15:08.784Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Christensen",
+    "email": "lea.christensen@example.com",
+    "username": "brownmouse216",
+    "password": "moonbeam",
+    "invokedAt": "2026-04-23T21:12:40.463Z"
   }
 ]
