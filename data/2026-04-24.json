@@ -126,5 +126,13 @@
     "username": "yellowkoala124",
     "password": "plato",
     "invokedAt": "2026-04-24T16:15:04.218Z"
+  },
+  {
+    "firstName": "Franciscus",
+    "lastName": "De Goede",
+    "email": "franciscus.degoede@example.com",
+    "username": "purplemeercat247",
+    "password": "allen",
+    "invokedAt": "2026-04-24T17:16:22.498Z"
   }
 ]
