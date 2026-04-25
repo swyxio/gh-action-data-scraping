@@ -86,5 +86,13 @@
     "username": "brownduck754",
     "password": "indian",
     "invokedAt": "2026-04-25T10:12:08.301Z"
+  },
+  {
+    "firstName": "Sigrun",
+    "lastName": "Aarrestad",
+    "email": "sigrun.aarrestad@example.com",
+    "username": "happydog145",
+    "password": "glock",
+    "invokedAt": "2026-04-25T11:12:30.409Z"
   }
 ]
