@@ -126,5 +126,13 @@
     "username": "whiterabbit544",
     "password": "gocubs",
     "invokedAt": "2026-04-25T15:11:01.301Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Mitchell",
+    "email": "simon.mitchell@example.com",
+    "username": "beautifulelephant820",
+    "password": "5252",
+    "invokedAt": "2026-04-25T16:07:56.212Z"
   }
 ]
