@@ -94,5 +94,13 @@
     "username": "happydog145",
     "password": "glock",
     "invokedAt": "2026-04-25T11:12:30.409Z"
+  },
+  {
+    "firstName": "Vickie",
+    "lastName": "Fernandez",
+    "email": "vickie.fernandez@example.com",
+    "username": "smalldog766",
+    "password": "amanda",
+    "invokedAt": "2026-04-25T12:05:59.284Z"
   }
 ]
