@@ -102,5 +102,13 @@
     "username": "greenduck533",
     "password": "company",
     "invokedAt": "2026-04-26T13:25:18.722Z"
+  },
+  {
+    "firstName": "Giuseppe",
+    "lastName": "Berger",
+    "email": "giuseppe.berger@example.com",
+    "username": "whiteostrich307",
+    "password": "joung",
+    "invokedAt": "2026-04-26T14:12:36.753Z"
   }
 ]
