@@ -174,5 +174,13 @@
     "username": "silverpanda161",
     "password": "0123456",
     "invokedAt": "2026-04-27T22:13:06.705Z"
+  },
+  {
+    "firstName": "Miriam",
+    "lastName": "Wagner",
+    "email": "miriam.wagner@example.com",
+    "username": "silverelephant242",
+    "password": "darklord",
+    "invokedAt": "2026-04-27T23:14:13.397Z"
   }
 ]
