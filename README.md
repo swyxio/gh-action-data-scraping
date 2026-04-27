@@ -1,76 +1,100 @@
 # gh-action-data-scraping
 
-this repo shows how to use github actions to do automated data scraping, with storage in git itself! **free git storage and scheduled updates!!!**
+[![GitHub stars](https://img.shields.io/github/stars/swyxio/gh-action-data-scraping?style=flat-square)](https://github.com/swyxio/gh-action-data-scraping/stargazers)
+[![License: MIT](https://img.shields.io/github/license/swyxio/gh-action-data-scraping?style=flat-square)](https://github.com/swyxio/gh-action-data-scraping/blob/master/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/swyxio/gh-action-data-scraping?style=flat-square)](https://github.com/swyxio/gh-action-data-scraping/commits/master)
 
-## 2021 Update
+A minimal example of using GitHub Actions to run scheduled scraping jobs and commit the resulting data back into the repository.
 
-You can read more in the [Blog Writeup](https://www.swyx.io/github-scraping/). 
+## Table of Contents
 
-As of May 2021, [Flat Data scraping](https://octo.github.com/projects/flat-data) is officially supported by GitHub, check them out.
+- [Why this repo exists](#why-this-repo-exists)
+- [How it works](#how-it-works)
+- [Quick start](#quick-start)
+- [Workflow example](#workflow-example)
+- [What the example generates](#what-the-example-generates)
+- [Limits and caveats](#limits-and-caveats)
+- [Further reading](#further-reading)
 
-## Basic Idea
+## Why this repo exists
 
-- You set a cron triggered github action ([cron examples](https://crontab.guru/examples.html) - max frequency every 5 mins)
-- it checks out your repo with https://github.com/actions/checkout
-- `npm install` and run your scrape script, write files to somewhere in your repo. This repo uses Node, but you can use whatever language you want
-- check it back in with https://github.com/mikeal/publish-to-github-action
+This project shows a simple pattern for periodic data collection with GitHub Actions:
 
-The script looks like:
+1. run on a cron schedule
+2. execute a scraper script
+3. save the output into the repo
+4. commit the refreshed data automatically
+
+It is a good fit for lightweight public datasets, status snapshots, leaderboards, or other scrape-and-publish workflows.
+
+## How it works
+
+- GitHub Actions starts the workflow on a schedule.
+- The workflow checks out the repository.
+- `npm install` prepares dependencies.
+- `npm run action` runs `action.js`.
+- The workflow commits updated files back to GitHub.
+
+## Quick start
+
+### Prerequisites
+
+- Node.js
+- npm
+- A GitHub repository with Actions enabled
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the example locally
+
+```bash
+npm run action
+```
+
+Generated JSON files are written into the `data/` directory.
+
+## Workflow example
 
 ```yaml
-# /.github/workflows/daily.yml
 on:
   schedule:
-    - cron:  '0 8 * * *' # every day at 8am
+    - cron: '0 8 * * *'
 name: Pull Data and Build
 jobs:
   build:
-    name: Build
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: Build
-      run: npm install
-    - name: Scrape
-      run: npm run action 
-      # env:
-      #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
-    - uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
+      - uses: actions/checkout@master
+      - name: Install dependencies
+        run: npm install
+      - name: Scrape
+        run: npm run action
+      - uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-## How it should look
 
-For people new to GH actions, this is how my Actions tab of this very repo looks if you need a reference point:
+## What the example generates
 
+This repo stores dated JSON snapshots under `data/`, giving you a simple historical trail without needing a separate database.
 
-![image](https://user-images.githubusercontent.com/6764957/72847135-efc62c80-3c6f-11ea-88d8-2a2545a292e7.png)
+## Limits and caveats
 
+GitHub Actions is powerful, but it still has practical limits:
 
+- cron frequency bottoms out at every 5 minutes
+- public repositories are the cheapest place to run this pattern
+- very large datasets can hit storage limits
+- Actions should stay within GitHub's terms and intended use
 
-## Limits
+Be a good citizen. Don't turn Actions into infrastructure it was never meant to be.
 
-You can do whatever you like with this, including taking screenshots of sites!
+## Further reading
 
-The limits I can think of are the limits of GitHub and GitHub Actions:
-
-- The max frequency of cronjobs on GitHub actions is every 5 minutes. For more frequent scraping, you will have to turn elsewhere.
-- GitHub has a [soft storage limit of 1GB](https://www.quora.com/What-is-the-max-storage-limit-per-repository-in-GitHub)
-  - You can [work around this with Git LFS](https://twitter.com/mikeal/status/1219739811159801856) if you have to!
-- Actions are free for public repos, but incur costs for private repos
-  - [You get 6 Concurrent jobs, 1000 API requests an hour, and each job can take up to 6(!) hours](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-github-actions#usage-limits)
-
-In addition to these limits, GitHub Actions should not be used for:
-
-- Content or activity that is illegal or otherwise prohibited by their Terms of Service or Community Guidelines.
-- Cryptomining
-- Serverless computing
-- Activity that compromises GitHub users or GitHub services.
-- Any other activity unrelated to the production, testing, deployment, or publication of the software project associated with the repository where GitHub Actions are used. In other words, be cool, don’t use GitHub Actions in ways you know you shouldn’t. 
-
-Be a good citizen, **don't abuse it and F this up for the rest of us**!
-
-
-## This is heavily based on
-
-- https://github.com/mikeal/daily/blob/master/.github/workflows/daily.yml
+- Blog writeup: <https://www.swyx.io/github-scraping/>
+- GitHub Flat Data: <https://octo.github.com/projects/flat-data>
+- Reference workflow inspiration: <https://github.com/mikeal/daily/blob/master/.github/workflows/daily.yml>
