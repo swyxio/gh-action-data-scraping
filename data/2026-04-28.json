@@ -110,5 +110,13 @@
     "username": "sadbutterfly464",
     "password": "sports",
     "invokedAt": "2026-04-28T16:29:54.283Z"
+  },
+  {
+    "firstName": "Emmi",
+    "lastName": "Tuominen",
+    "email": "emmi.tuominen@example.com",
+    "username": "lazyladybug405",
+    "password": "anchor",
+    "invokedAt": "2026-04-28T17:29:40.508Z"
   }
 ]
