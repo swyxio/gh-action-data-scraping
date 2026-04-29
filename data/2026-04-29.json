@@ -142,5 +142,13 @@
     "username": "bluecat468",
     "password": "anthrax",
     "invokedAt": "2026-04-29T18:22:59.552Z"
+  },
+  {
+    "firstName": "Abel",
+    "lastName": "Fajardo",
+    "email": "abel.fajardo@example.com",
+    "username": "silverostrich201",
+    "password": "media",
+    "invokedAt": "2026-04-29T19:27:35.987Z"
   }
 ]
