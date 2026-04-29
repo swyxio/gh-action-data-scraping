@@ -78,5 +78,13 @@
     "username": "orangeduck371",
     "password": "nurses",
     "invokedAt": "2026-04-29T10:32:04.659Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Cook",
+    "email": "greg.cook@example.com",
+    "username": "whiteostrich195",
+    "password": "webmaster",
+    "invokedAt": "2026-04-29T11:27:58.581Z"
   }
 ]
