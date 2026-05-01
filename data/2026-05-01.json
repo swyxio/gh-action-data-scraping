@@ -118,5 +118,13 @@
     "username": "sadlion232",
     "password": "bonovox",
     "invokedAt": "2026-05-01T16:15:38.888Z"
+  },
+  {
+    "firstName": "Janice",
+    "lastName": "Taylor",
+    "email": "janice.taylor@example.com",
+    "username": "goldenmouse416",
+    "password": "private",
+    "invokedAt": "2026-05-01T17:17:49.384Z"
   }
 ]
