@@ -46,5 +46,13 @@
     "username": "bluemouse151",
     "password": "blaster",
     "invokedAt": "2026-05-01T07:06:44.543Z"
+  },
+  {
+    "firstName": "Brittany",
+    "lastName": "Long",
+    "email": "brittany.long@example.com",
+    "username": "lazymeercat739",
+    "password": "zxcvbn",
+    "invokedAt": "2026-05-01T08:33:06.138Z"
   }
 ]
