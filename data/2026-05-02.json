@@ -110,5 +110,13 @@
     "username": "angryfish594",
     "password": "balloon",
     "invokedAt": "2026-05-02T14:15:40.428Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Heino",
+    "email": "sara.heino@example.com",
+    "username": "orangebutterfly503",
+    "password": "helium",
+    "invokedAt": "2026-05-02T15:11:53.762Z"
   }
 ]
