@@ -150,5 +150,13 @@
     "username": "yellowduck521",
     "password": "boating",
     "invokedAt": "2026-05-03T19:19:25.999Z"
+  },
+  {
+    "firstName": "Uglješa",
+    "lastName": "Divac",
+    "email": "ugljesa.divac@example.com",
+    "username": "beautifulpeacock434",
+    "password": "starter",
+    "invokedAt": "2026-05-03T20:08:40.358Z"
   }
 ]
