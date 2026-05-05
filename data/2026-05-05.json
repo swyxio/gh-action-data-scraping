@@ -158,5 +158,13 @@
     "username": "redgorilla162",
     "password": "paint",
     "invokedAt": "2026-05-05T22:16:03.615Z"
+  },
+  {
+    "firstName": "Logan",
+    "lastName": "French",
+    "email": "logan.french@example.com",
+    "username": "yellowrabbit732",
+    "password": "fullmoon",
+    "invokedAt": "2026-05-05T23:14:58.564Z"
   }
 ]
