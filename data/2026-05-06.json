@@ -126,5 +126,13 @@
     "username": "purplerabbit356",
     "password": "dogs",
     "invokedAt": "2026-05-06T17:28:12.686Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Lampinen",
+    "email": "joona.lampinen@example.com",
+    "username": "orangewolf238",
+    "password": "puck",
+    "invokedAt": "2026-05-06T18:25:41.906Z"
   }
 ]
