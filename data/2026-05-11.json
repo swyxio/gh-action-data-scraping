@@ -126,5 +126,13 @@
     "username": "blueswan387",
     "password": "matthews",
     "invokedAt": "2026-05-11T21:24:57.156Z"
+  },
+  {
+    "firstName": "Ayhan",
+    "lastName": "Van den Boomen",
+    "email": "ayhan.vandenboomen@example.com",
+    "username": "bluefish513",
+    "password": "hiking",
+    "invokedAt": "2026-05-11T22:18:35.408Z"
   }
 ]
