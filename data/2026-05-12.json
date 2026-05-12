@@ -70,5 +70,13 @@
     "username": "crazyswan173",
     "password": "passmast",
     "invokedAt": "2026-05-12T10:44:32.808Z"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Tucker",
+    "email": "jamie.tucker@example.com",
+    "username": "orangewolf619",
+    "password": "juice",
+    "invokedAt": "2026-05-12T11:33:59.739Z"
   }
 ]
