@@ -110,5 +110,13 @@
     "username": "smallduck626",
     "password": "dodgers1",
     "invokedAt": "2026-05-14T15:41:59.121Z"
+  },
+  {
+    "firstName": "Budimir",
+    "lastName": "Danilović",
+    "email": "budimir.danilovic@example.com",
+    "username": "greenzebra474",
+    "password": "trust",
+    "invokedAt": "2026-05-14T16:34:24.290Z"
   }
 ]
