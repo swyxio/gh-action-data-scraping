@@ -126,5 +126,13 @@
     "username": "happylion322",
     "password": "hardball",
     "invokedAt": "2026-05-14T17:30:12.759Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Lefebvre",
+    "email": "aaron.lefebvre@example.com",
+    "username": "purpletiger383",
+    "password": "surf",
+    "invokedAt": "2026-05-14T18:29:37.813Z"
   }
 ]
