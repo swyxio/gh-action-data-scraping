@@ -94,5 +94,13 @@
     "username": "smallfish755",
     "password": "animated",
     "invokedAt": "2026-05-15T15:37:51.619Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Thomas",
+    "email": "laura.thomas@example.com",
+    "username": "bigfish770",
+    "password": "kume",
+    "invokedAt": "2026-05-15T16:30:43.042Z"
   }
 ]
