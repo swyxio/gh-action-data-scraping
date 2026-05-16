@@ -150,5 +150,13 @@
     "username": "lazysnake923",
     "password": "record",
     "invokedAt": "2026-05-16T19:21:56.034Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Leroy",
+    "email": "paul.leroy@example.com",
+    "username": "crazysnake936",
+    "password": "playstat",
+    "invokedAt": "2026-05-16T20:11:29.786Z"
   }
 ]
