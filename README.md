@@ -1,76 +1,102 @@
 # gh-action-data-scraping
 
-this repo shows how to use github actions to do automated data scraping, with storage in git itself! **free git storage and scheduled updates!!!**
+[![Stars](https://img.shields.io/github/stars/swyxio/gh-action-data-scraping?style=flat-square)](https://github.com/swyxio/gh-action-data-scraping/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/swyxio/gh-action-data-scraping?style=flat-square)](https://github.com/swyxio/gh-action-data-scraping/commits/master)
+[![License](https://img.shields.io/github/license/swyxio/gh-action-data-scraping?style=flat-square)](./LICENSE)
 
-## 2021 Update
+A minimal example of scheduled data scraping with GitHub Actions, where scraped data is stored directly in the repository.
 
-You can read more in the [Blog Writeup](https://www.swyx.io/github-scraping/). 
+## Table of Contents
+- [Overview](#overview)
+- [How it works](#how-it-works)
+- [Repository structure](#repository-structure)
+- [Quick start](#quick-start)
+- [Workflow example](#workflow-example)
+- [Common use cases](#common-use-cases)
+- [Limits](#limits)
+- [Further reading](#further-reading)
+- [License](#license)
 
-As of May 2021, [Flat Data scraping](https://octo.github.com/projects/flat-data) is officially supported by GitHub, check them out.
+## Overview
+This project demonstrates a simple pattern for running a scraper on a schedule with GitHub Actions:
+1. check out the repository,
+2. install dependencies,
+3. run a script that fetches data,
+4. commit the generated files back to GitHub.
 
-## Basic Idea
+It is a good starting point for developers who want a lightweight, low-cost scraping workflow without provisioning extra infrastructure.
 
-- You set a cron triggered github action ([cron examples](https://crontab.guru/examples.html) - max frequency every 5 mins)
-- it checks out your repo with https://github.com/actions/checkout
-- `npm install` and run your scrape script, write files to somewhere in your repo. This repo uses Node, but you can use whatever language you want
-- check it back in with https://github.com/mikeal/publish-to-github-action
+## How it works
+- the GitHub Actions workflow in `.github/workflows/scrape.yml` runs on a cron schedule
+- `npm run action` executes `action.js`
+- `action.js` fetches sample data using `random-user`
+- generated JSON files are written into the `data/` directory and committed back to the repo
 
-The script looks like:
+## Repository structure
+```text
+.github/workflows/scrape.yml  Scheduled GitHub Actions workflow
+action.js                     Scraping script entrypoint
+data/                         Scraped output files
+package.json                  Project metadata and scripts
+```
 
+## Quick start
+### Prerequisites
+- Node.js
+- npm
+- a GitHub repository with Actions enabled
+
+### Installation
+```bash
+npm install
+```
+
+### Run locally
+```bash
+npm run action
+```
+
+The generated output will be written into the `data/` folder using a date-based filename.
+
+### Enable the scheduled workflow
+1. copy the workflow pattern from `.github/workflows/scrape.yml`
+2. adjust the cron expression for your refresh interval
+3. replace the scraping logic in `action.js` with your own data source
+4. add any required secrets in your repository settings if your scraper uses authenticated APIs
+
+## Workflow example
 ```yaml
-# /.github/workflows/daily.yml
 on:
   schedule:
-    - cron:  '0 8 * * *' # every day at 8am
-name: Pull Data and Build
+    - cron: '0 * * * *'
+name: Scrape Data
 jobs:
   build:
-    name: Build
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: Build
-      run: npm install
-    - name: Scrape
-      run: npm run action 
-      # env:
-      #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
-    - uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
+      - uses: actions/checkout@master
+      - run: npm install
+      - run: npm run action
+      - uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-## How it should look
 
-For people new to GH actions, this is how my Actions tab of this very repo looks if you need a reference point:
-
-
-![image](https://user-images.githubusercontent.com/6764957/72847135-efc62c80-3c6f-11ea-88d8-2a2545a292e7.png)
-
-
+## Common use cases
+- scheduled API snapshots
+- public dataset mirroring
+- low-volume website scraping
+- generating changelogs or feed archives on a timer
 
 ## Limits
+- GitHub Actions cron runs at a minimum interval of every 5 minutes
+- public repositories get free Actions minutes, but private repositories may incur costs
+- repository storage can become a constraint for large datasets
 
-You can do whatever you like with this, including taking screenshots of sites!
+## Further reading
+- Blog writeup: https://www.swyx.io/github-scraping/
+- GitHub Flat Data: https://octo.github.com/projects/flat-data
+- Cron examples: https://crontab.guru/examples.html
 
-The limits I can think of are the limits of GitHub and GitHub Actions:
-
-- The max frequency of cronjobs on GitHub actions is every 5 minutes. For more frequent scraping, you will have to turn elsewhere.
-- GitHub has a [soft storage limit of 1GB](https://www.quora.com/What-is-the-max-storage-limit-per-repository-in-GitHub)
-  - You can [work around this with Git LFS](https://twitter.com/mikeal/status/1219739811159801856) if you have to!
-- Actions are free for public repos, but incur costs for private repos
-  - [You get 6 Concurrent jobs, 1000 API requests an hour, and each job can take up to 6(!) hours](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-github-actions#usage-limits)
-
-In addition to these limits, GitHub Actions should not be used for:
-
-- Content or activity that is illegal or otherwise prohibited by their Terms of Service or Community Guidelines.
-- Cryptomining
-- Serverless computing
-- Activity that compromises GitHub users or GitHub services.
-- Any other activity unrelated to the production, testing, deployment, or publication of the software project associated with the repository where GitHub Actions are used. In other words, be cool, don’t use GitHub Actions in ways you know you shouldn’t. 
-
-Be a good citizen, **don't abuse it and F this up for the rest of us**!
-
-
-## This is heavily based on
-
-- https://github.com/mikeal/daily/blob/master/.github/workflows/daily.yml
+## License
+Released under the [MIT License](./LICENSE).
