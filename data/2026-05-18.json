@@ -126,5 +126,13 @@
     "username": "greenzebra411",
     "password": "power1",
     "invokedAt": "2026-05-18T22:15:53.542Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Fowler",
+    "email": "marie.fowler@example.com",
+    "username": "blackswan849",
+    "password": "five",
+    "invokedAt": "2026-05-18T23:19:26.064Z"
   }
 ]
