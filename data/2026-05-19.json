@@ -94,5 +94,13 @@
     "username": "brownfrog606",
     "password": "diamond",
     "invokedAt": "2026-05-19T17:42:37.421Z"
+  },
+  {
+    "firstName": "Verica",
+    "lastName": "Dinčić",
+    "email": "verica.dincic@example.com",
+    "username": "bluefrog607",
+    "password": "bricks",
+    "invokedAt": "2026-05-19T18:30:03.725Z"
   }
 ]
