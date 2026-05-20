@@ -62,5 +62,13 @@
     "username": "brownfrog401",
     "password": "obsidian",
     "invokedAt": "2026-05-20T11:54:39.637Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Jørgensen",
+    "email": "silas.jorgensen@example.com",
+    "username": "angryfrog313",
+    "password": "annie",
+    "invokedAt": "2026-05-20T12:42:13.214Z"
   }
 ]
