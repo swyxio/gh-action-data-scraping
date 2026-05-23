@@ -78,5 +78,13 @@
     "username": "silverbear146",
     "password": "insert",
     "invokedAt": "2026-05-23T11:23:20.732Z"
+  },
+  {
+    "firstName": "Gordana",
+    "lastName": "RatkovićRistić",
+    "email": "gordana.ratkovicristic@example.com",
+    "username": "orangefish225",
+    "password": "tuna",
+    "invokedAt": "2026-05-23T12:11:58.588Z"
   }
 ]
