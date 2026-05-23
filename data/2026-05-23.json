@@ -118,5 +118,13 @@
     "username": "crazyfish621",
     "password": "playtime",
     "invokedAt": "2026-05-23T16:16:01.864Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Walters",
+    "email": "brad.walters@example.com",
+    "username": "lazygoose619",
+    "password": "whitesox",
+    "invokedAt": "2026-05-23T17:18:35.521Z"
   }
 ]
