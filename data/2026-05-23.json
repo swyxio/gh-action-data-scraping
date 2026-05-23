@@ -38,5 +38,13 @@
     "username": "orangegorilla309",
     "password": "ncc1701",
     "invokedAt": "2026-05-23T05:59:23.701Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Nielsen",
+    "email": "emily.nielsen@example.com",
+    "username": "goldenmouse966",
+    "password": "smoke",
+    "invokedAt": "2026-05-23T07:07:13.632Z"
   }
 ]
