@@ -142,5 +142,13 @@
     "username": "sadostrich714",
     "password": "clutch",
     "invokedAt": "2026-05-24T19:26:08.381Z"
+  },
+  {
+    "firstName": "Matteo",
+    "lastName": "Dupont",
+    "email": "matteo.dupont@example.com",
+    "username": "heavyduck488",
+    "password": "stefano",
+    "invokedAt": "2026-05-24T20:15:54.867Z"
   }
 ]
