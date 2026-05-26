@@ -46,5 +46,13 @@
     "username": "crazyfrog395",
     "password": "tiger2",
     "invokedAt": "2026-05-26T08:07:59.752Z"
+  },
+  {
+    "firstName": "Endre",
+    "lastName": "Skålevik",
+    "email": "endre.skalevik@example.com",
+    "username": "tinygoose532",
+    "password": "ripper",
+    "invokedAt": "2026-05-26T10:18:37.871Z"
   }
 ]
