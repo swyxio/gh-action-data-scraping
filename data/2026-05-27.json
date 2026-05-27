@@ -118,5 +118,13 @@
     "username": "beautifulpeacock212",
     "password": "pizza",
     "invokedAt": "2026-05-27T21:30:15.456Z"
+  },
+  {
+    "firstName": "Everett",
+    "lastName": "Marshall",
+    "email": "everett.marshall@example.com",
+    "username": "heavyfish918",
+    "password": "rogue",
+    "invokedAt": "2026-05-27T22:28:24.914Z"
   }
 ]
