@@ -126,5 +126,13 @@
     "username": "heavyfish918",
     "password": "rogue",
     "invokedAt": "2026-05-27T22:28:24.914Z"
+  },
+  {
+    "firstName": "Brankica",
+    "lastName": "Kalinić",
+    "email": "brankica.kalinic@example.com",
+    "username": "whitedog658",
+    "password": "loki",
+    "invokedAt": "2026-05-27T23:24:33.050Z"
   }
 ]
