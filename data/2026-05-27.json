@@ -110,5 +110,13 @@
     "username": "bigswan186",
     "password": "emilio",
     "invokedAt": "2026-05-27T20:37:49.807Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Van Namen",
+    "email": "vincent.vannamen@example.com",
+    "username": "beautifulpeacock212",
+    "password": "pizza",
+    "invokedAt": "2026-05-27T21:30:15.456Z"
   }
 ]
