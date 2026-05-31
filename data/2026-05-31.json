@@ -70,5 +70,13 @@
     "username": "greenrabbit428",
     "password": "playtime",
     "invokedAt": "2026-05-31T11:29:14.570Z"
+  },
+  {
+    "firstName": "Hartmut",
+    "lastName": "Oldenburg",
+    "email": "hartmut.oldenburg@example.com",
+    "username": "silverrabbit469",
+    "password": "toolman",
+    "invokedAt": "2026-05-31T12:20:19.496Z"
   }
 ]
