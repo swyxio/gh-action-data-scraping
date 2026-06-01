@@ -46,5 +46,13 @@
     "username": "orangedog553",
     "password": "flip",
     "invokedAt": "2026-06-01T08:46:18.558Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Scott",
+    "email": "arthur.scott@example.com",
+    "username": "brownsnake725",
+    "password": "mike",
+    "invokedAt": "2026-06-01T10:38:06.598Z"
   }
 ]
