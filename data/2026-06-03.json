@@ -62,5 +62,13 @@
     "username": "whiteostrich333",
     "password": "alliance",
     "invokedAt": "2026-06-03T12:29:33.460Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Siekmann",
+    "email": "marie.siekmann@example.com",
+    "username": "purplefish186",
+    "password": "checkers",
+    "invokedAt": "2026-06-03T14:27:59.522Z"
   }
 ]
