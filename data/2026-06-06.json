@@ -166,5 +166,13 @@
     "username": "bigbird257",
     "password": "000007",
     "invokedAt": "2026-06-06T22:18:47.737Z"
+  },
+  {
+    "firstName": "Dragojlo",
+    "lastName": "Mančić",
+    "email": "dragojlo.mancic@example.com",
+    "username": "bigpanda298",
+    "password": "1953",
+    "invokedAt": "2026-06-06T23:18:17.403Z"
   }
 ]
