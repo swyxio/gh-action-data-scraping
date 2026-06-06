@@ -62,5 +62,13 @@
     "username": "redcat635",
     "password": "candle",
     "invokedAt": "2026-06-06T09:36:56.575Z"
+  },
+  {
+    "firstName": "Adrián",
+    "lastName": "Diaz",
+    "email": "adrian.diaz@example.com",
+    "username": "bigrabbit211",
+    "password": "stang",
+    "invokedAt": "2026-06-06T10:33:17.274Z"
   }
 ]
