@@ -62,5 +62,13 @@
     "username": "tinywolf351",
     "password": "system",
     "invokedAt": "2026-06-07T11:30:22.977Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Burns",
+    "email": "andrea.burns@example.com",
+    "username": "heavycat672",
+    "password": "clemente",
+    "invokedAt": "2026-06-07T12:24:36.074Z"
   }
 ]
