@@ -38,5 +38,13 @@
     "username": "goldendog122",
     "password": "coke",
     "invokedAt": "2026-06-08T08:30:56.504Z"
+  },
+  {
+    "firstName": "Pierre-André",
+    "lastName": "Legrand",
+    "email": "pierre-andre.legrand@example.com",
+    "username": "heavybird163",
+    "password": "captain1",
+    "invokedAt": "2026-06-08T10:28:40.137Z"
   }
 ]
