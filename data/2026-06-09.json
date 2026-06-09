@@ -38,5 +38,13 @@
     "username": "silvergorilla247",
     "password": "harcore",
     "invokedAt": "2026-06-09T06:19:15.962Z"
+  },
+  {
+    "firstName": "Petko",
+    "lastName": "Rašić",
+    "email": "petko.rasic@example.com",
+    "username": "blacksnake926",
+    "password": "promise",
+    "invokedAt": "2026-06-09T08:08:35.537Z"
   }
 ]
