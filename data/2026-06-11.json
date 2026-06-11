@@ -46,5 +46,13 @@
     "username": "smallbird234",
     "password": "experienced",
     "invokedAt": "2026-06-11T08:29:05.203Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Wheeler",
+    "email": "lisa.wheeler@example.com",
+    "username": "sadladybug680",
+    "password": "tyler",
+    "invokedAt": "2026-06-11T10:27:44.156Z"
   }
 ]
