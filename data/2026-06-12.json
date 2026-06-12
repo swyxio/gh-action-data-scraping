@@ -134,5 +134,13 @@
     "username": "greenfrog479",
     "password": "spanker",
     "invokedAt": "2026-06-12T22:27:04.816Z"
+  },
+  {
+    "firstName": "Estevão",
+    "lastName": "Campos",
+    "email": "estevao.campos@example.com",
+    "username": "purplefish879",
+    "password": "testing",
+    "invokedAt": "2026-06-12T23:26:03.789Z"
   }
 ]
