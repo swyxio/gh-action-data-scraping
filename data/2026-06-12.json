@@ -62,5 +62,13 @@
     "username": "yellowtiger532",
     "password": "dirty1",
     "invokedAt": "2026-06-12T12:02:47.634Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Graves",
+    "email": "edward.graves@example.com",
+    "username": "brownpeacock121",
+    "password": "bollox",
+    "invokedAt": "2026-06-12T13:59:02.514Z"
   }
 ]
