@@ -62,5 +62,13 @@
     "username": "silverelephant318",
     "password": "frances",
     "invokedAt": "2026-06-13T10:48:03.864Z"
+  },
+  {
+    "firstName": "Jörgen",
+    "lastName": "Wehner",
+    "email": "jorgen.wehner@example.com",
+    "username": "purplemeercat210",
+    "password": "card",
+    "invokedAt": "2026-06-13T11:32:59.014Z"
   }
 ]
