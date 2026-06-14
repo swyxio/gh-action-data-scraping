@@ -30,5 +30,13 @@
     "username": "lazytiger694",
     "password": "unicorn",
     "invokedAt": "2026-06-14T04:37:31.323Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Pollestad",
+    "email": "storm.pollestad@example.com",
+    "username": "brownswan775",
+    "password": "site",
+    "invokedAt": "2026-06-14T06:28:54.067Z"
   }
 ]
