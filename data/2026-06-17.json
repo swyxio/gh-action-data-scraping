@@ -102,5 +102,13 @@
     "username": "purpleostrich172",
     "password": "perfect",
     "invokedAt": "2026-06-17T19:38:49.941Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Côté",
+    "email": "sarah.cote@example.com",
+    "username": "greendog128",
+    "password": "stacie",
+    "invokedAt": "2026-06-17T20:37:31.506Z"
   }
 ]
