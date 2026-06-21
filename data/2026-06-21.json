@@ -70,5 +70,13 @@
     "username": "angrygorilla857",
     "password": "things",
     "invokedAt": "2026-06-21T12:31:25.305Z"
+  },
+  {
+    "firstName": "Miško",
+    "lastName": "Kićanović",
+    "email": "misko.kicanovic@example.com",
+    "username": "lazyladybug422",
+    "password": "wrestling",
+    "invokedAt": "2026-06-21T13:30:12.957Z"
   }
 ]
