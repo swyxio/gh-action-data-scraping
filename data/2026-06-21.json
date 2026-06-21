@@ -102,5 +102,13 @@
     "username": "brownostrich889",
     "password": "turkey",
     "invokedAt": "2026-06-21T16:28:16.335Z"
+  },
+  {
+    "firstName": "Vidoje",
+    "lastName": "Vujičić",
+    "email": "vidoje.vujicic@example.com",
+    "username": "goldengorilla938",
+    "password": "testing1",
+    "invokedAt": "2026-06-21T17:27:53.719Z"
   }
 ]
