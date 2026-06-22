@@ -38,5 +38,13 @@
     "username": "orangepanda105",
     "password": "smith1",
     "invokedAt": "2026-06-22T06:44:19.695Z"
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Stordal",
+    "email": "signe.stordal@example.com",
+    "username": "angrybird874",
+    "password": "gramma",
+    "invokedAt": "2026-06-22T08:58:04.222Z"
   }
 ]
