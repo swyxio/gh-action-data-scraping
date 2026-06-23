@@ -86,5 +86,13 @@
     "username": "bigwolf580",
     "password": "calgary",
     "invokedAt": "2026-06-23T15:59:10.229Z"
+  },
+  {
+    "firstName": "Lars",
+    "lastName": "Rykkje",
+    "email": "lars.rykkje@example.com",
+    "username": "bigbear517",
+    "password": "spongebo",
+    "invokedAt": "2026-06-23T16:56:20.434Z"
   }
 ]
