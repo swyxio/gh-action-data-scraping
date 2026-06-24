@@ -86,5 +86,13 @@
     "username": "purplebutterfly620",
     "password": "qwer1234",
     "invokedAt": "2026-06-24T14:51:51.764Z"
+  },
+  {
+    "firstName": "Hervé",
+    "lastName": "Bonnet",
+    "email": "herve.bonnet@example.com",
+    "username": "heavypanda387",
+    "password": "mothers",
+    "invokedAt": "2026-06-24T15:42:12.458Z"
   }
 ]
