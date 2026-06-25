@@ -78,5 +78,13 @@
     "username": "crazygorilla169",
     "password": "wolverine",
     "invokedAt": "2026-06-25T13:38:08.332Z"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Phillips",
+    "email": "josh.phillips@example.com",
+    "username": "smallduck360",
+    "password": "verbatim",
+    "invokedAt": "2026-06-25T14:53:12.605Z"
   }
 ]
