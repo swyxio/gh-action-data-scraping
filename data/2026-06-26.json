@@ -110,5 +110,13 @@
     "username": "happycat587",
     "password": "spread",
     "invokedAt": "2026-06-26T17:29:35.039Z"
+  },
+  {
+    "firstName": "Bernabé",
+    "lastName": "Gallegos",
+    "email": "bernabe.gallegos@example.com",
+    "username": "silverfrog512",
+    "password": "speedy",
+    "invokedAt": "2026-06-26T18:28:27.621Z"
   }
 ]
