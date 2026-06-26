@@ -46,5 +46,13 @@
     "username": "yellowostrich548",
     "password": "davies",
     "invokedAt": "2026-06-26T08:09:24.373Z"
+  },
+  {
+    "firstName": "Ivica",
+    "lastName": "Katić",
+    "email": "ivica.katic@example.com",
+    "username": "heavyduck436",
+    "password": "babycake",
+    "invokedAt": "2026-06-26T10:01:47.297Z"
   }
 ]
