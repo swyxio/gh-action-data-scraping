@@ -118,5 +118,13 @@
     "username": "silverfrog512",
     "password": "speedy",
     "invokedAt": "2026-06-26T18:28:27.621Z"
+  },
+  {
+    "firstName": "Archie",
+    "lastName": "Lewis",
+    "email": "archie.lewis@example.com",
+    "username": "bluelion721",
+    "password": "lemon",
+    "invokedAt": "2026-06-26T19:29:15.780Z"
   }
 ]
