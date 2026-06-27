@@ -70,5 +70,13 @@
     "username": "crazyswan171",
     "password": "shuttle",
     "invokedAt": "2026-06-27T10:35:09.981Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Mason",
+    "email": "max.mason@example.com",
+    "username": "redpeacock877",
+    "password": "startrek",
+    "invokedAt": "2026-06-27T11:27:34.486Z"
   }
 ]
