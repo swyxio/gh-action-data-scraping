@@ -142,5 +142,13 @@
     "username": "redbear583",
     "password": "1946",
     "invokedAt": "2026-06-28T20:22:10.754Z"
+  },
+  {
+    "firstName": "Thierry",
+    "lastName": "Van Wegen",
+    "email": "thierry.vanwegen@example.com",
+    "username": "angryfrog225",
+    "password": "pleasure",
+    "invokedAt": "2026-06-28T21:19:35.677Z"
   }
 ]
