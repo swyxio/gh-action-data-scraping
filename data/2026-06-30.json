@@ -118,5 +118,13 @@
     "username": "lazyduck981",
     "password": "smith",
     "invokedAt": "2026-06-30T18:29:19.232Z"
+  },
+  {
+    "firstName": "Aubree",
+    "lastName": "Campbell",
+    "email": "aubree.campbell@example.com",
+    "username": "lazyfish174",
+    "password": "lexmark",
+    "invokedAt": "2026-06-30T19:29:45.964Z"
   }
 ]
