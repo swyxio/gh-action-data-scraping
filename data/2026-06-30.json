@@ -30,5 +30,13 @@
     "username": "goldentiger796",
     "password": "beamer",
     "invokedAt": "2026-06-30T04:30:37.266Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Hoffman",
+    "email": "dan.hoffman@example.com",
+    "username": "smallduck411",
+    "password": "squeeze",
+    "invokedAt": "2026-06-30T06:22:16.906Z"
   }
 ]
