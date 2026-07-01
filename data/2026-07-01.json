@@ -46,5 +46,13 @@
     "username": "blackostrich627",
     "password": "shop",
     "invokedAt": "2026-07-01T08:20:31.032Z"
+  },
+  {
+    "firstName": "María del Carmen",
+    "lastName": "Echeverría",
+    "email": "mariadelcarmen.echeverria@example.com",
+    "username": "tinytiger701",
+    "password": "miriam",
+    "invokedAt": "2026-07-01T10:17:22.556Z"
   }
 ]
