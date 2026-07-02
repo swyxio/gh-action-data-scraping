@@ -102,5 +102,13 @@
     "username": "happyladybug607",
     "password": "brest",
     "invokedAt": "2026-07-02T15:41:55.507Z"
+  },
+  {
+    "firstName": "Milovan",
+    "lastName": "Vujčić",
+    "email": "milovan.vujcic@example.com",
+    "username": "greenzebra206",
+    "password": "karate",
+    "invokedAt": "2026-07-02T16:30:19.767Z"
   }
 ]
