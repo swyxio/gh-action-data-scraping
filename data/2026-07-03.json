@@ -86,5 +86,13 @@
     "username": "heavymouse413",
     "password": "fighter",
     "invokedAt": "2026-07-03T13:29:55.840Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Anderson",
+    "email": "rose.anderson@example.com",
+    "username": "brownswan185",
+    "password": "therock",
+    "invokedAt": "2026-07-03T14:42:18.973Z"
   }
 ]
