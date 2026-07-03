@@ -134,5 +134,13 @@
     "username": "tinyfrog325",
     "password": "portland",
     "invokedAt": "2026-07-03T19:27:07.594Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Lee",
+    "email": "emma.lee@example.com",
+    "username": "orangeleopard413",
+    "password": "kimberly",
+    "invokedAt": "2026-07-03T20:21:53.458Z"
   }
 ]
