@@ -46,5 +46,13 @@
     "username": "whiteostrich857",
     "password": "beaver",
     "invokedAt": "2026-07-04T07:54:54.037Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Sims",
+    "email": "harry.sims@example.com",
+    "username": "angryelephant224",
+    "password": "sherri",
+    "invokedAt": "2026-07-04T08:50:12.602Z"
   }
 ]
