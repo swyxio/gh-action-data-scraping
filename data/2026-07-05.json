@@ -86,5 +86,13 @@
     "username": "blueduck452",
     "password": "thumbnils",
     "invokedAt": "2026-07-05T13:28:00.784Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Snyder",
+    "email": "alice.snyder@example.com",
+    "username": "greenbear295",
+    "password": "hilton",
+    "invokedAt": "2026-07-05T14:28:32.316Z"
   }
 ]
