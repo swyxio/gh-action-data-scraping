@@ -46,5 +46,13 @@
     "username": "orangebear605",
     "password": "flyer",
     "invokedAt": "2026-07-08T06:49:15.342Z"
+  },
+  {
+    "firstName": "Barcino",
+    "lastName": "da Paz",
+    "email": "barcino.dapaz@example.com",
+    "username": "yellowdog880",
+    "password": "ticket",
+    "invokedAt": "2026-07-08T07:44:07.613Z"
   }
 ]
