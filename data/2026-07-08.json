@@ -38,5 +38,13 @@
     "username": "whitebird827",
     "password": "saint",
     "invokedAt": "2026-07-08T05:56:42.059Z"
+  },
+  {
+    "firstName": "Adrien",
+    "lastName": "Berger",
+    "email": "adrien.berger@example.com",
+    "username": "orangebear605",
+    "password": "flyer",
+    "invokedAt": "2026-07-08T06:49:15.342Z"
   }
 ]
