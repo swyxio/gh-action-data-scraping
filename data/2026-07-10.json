@@ -46,5 +46,13 @@
     "username": "organicfrog111",
     "password": "call",
     "invokedAt": "2026-07-10T08:04:30.209Z"
+  },
+  {
+    "firstName": "Ørjan",
+    "lastName": "Hemmingsen",
+    "email": "orjan.hemmingsen@example.com",
+    "username": "purplekoala405",
+    "password": "trustno1",
+    "invokedAt": "2026-07-10T10:04:22.363Z"
   }
 ]
