@@ -86,5 +86,13 @@
     "username": "lazydog221",
     "password": "rogue",
     "invokedAt": "2026-07-10T14:50:31.005Z"
+  },
+  {
+    "firstName": "Nicole",
+    "lastName": "Griffin",
+    "email": "nicole.griffin@example.com",
+    "username": "greenmeercat342",
+    "password": "dreaming",
+    "invokedAt": "2026-07-10T15:43:53.918Z"
   }
 ]
