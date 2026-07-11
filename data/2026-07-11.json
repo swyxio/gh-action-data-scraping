@@ -158,5 +158,13 @@
     "username": "silvermeercat157",
     "password": "blueball",
     "invokedAt": "2026-07-11T20:13:54.298Z"
+  },
+  {
+    "firstName": "Gremislav",
+    "lastName": "Pavlyuk",
+    "email": "gremislav.pavlyuk@example.com",
+    "username": "silverbear619",
+    "password": "claude",
+    "invokedAt": "2026-07-11T21:13:33.725Z"
   }
 ]
