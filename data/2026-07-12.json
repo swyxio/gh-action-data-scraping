@@ -78,5 +78,13 @@
     "username": "greenleopard409",
     "password": "madcat",
     "invokedAt": "2026-07-12T10:27:48.920Z"
+  },
+  {
+    "firstName": "Ognjen",
+    "lastName": "Nemanjić",
+    "email": "ognjen.nemanjic@example.com",
+    "username": "goldencat809",
+    "password": "believe",
+    "invokedAt": "2026-07-12T11:22:20.266Z"
   }
 ]
