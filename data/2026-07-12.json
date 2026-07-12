@@ -46,5 +46,13 @@
     "username": "purplebutterfly620",
     "password": "boxing",
     "invokedAt": "2026-07-12T06:57:13.064Z"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Perić",
+    "email": "nina.peric@example.com",
+    "username": "yellowgorilla443",
+    "password": "direct",
+    "invokedAt": "2026-07-12T07:43:55.056Z"
   }
 ]
