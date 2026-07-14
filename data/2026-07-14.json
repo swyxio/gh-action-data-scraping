@@ -142,5 +142,13 @@
     "username": "beautifulfish347",
     "password": "music1",
     "invokedAt": "2026-07-14T18:18:06.808Z"
+  },
+  {
+    "firstName": "Phoebe",
+    "lastName": "Anderson",
+    "email": "phoebe.anderson@example.com",
+    "username": "crazyfish505",
+    "password": "stevens",
+    "invokedAt": "2026-07-14T19:26:46.299Z"
   }
 ]
