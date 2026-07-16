@@ -126,5 +126,13 @@
     "username": "whitefish800",
     "password": "papa",
     "invokedAt": "2026-07-16T16:25:15.215Z"
+  },
+  {
+    "firstName": "Anel",
+    "lastName": "Amador",
+    "email": "anel.amador@example.com",
+    "username": "orangegorilla580",
+    "password": "public",
+    "invokedAt": "2026-07-16T17:26:14.790Z"
   }
 ]
