@@ -94,5 +94,13 @@
     "username": "sadleopard373",
     "password": "snoop",
     "invokedAt": "2026-07-16T12:25:42.693Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Vincent",
+    "email": "robin.vincent@example.com",
+    "username": "redbird264",
+    "password": "aikido",
+    "invokedAt": "2026-07-16T13:28:56.684Z"
   }
 ]
