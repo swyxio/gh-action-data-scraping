@@ -126,5 +126,13 @@
     "username": "happybutterfly627",
     "password": "vampire",
     "invokedAt": "2026-07-17T16:22:59.347Z"
+  },
+  {
+    "firstName": "Lilou",
+    "lastName": "Rousseau",
+    "email": "lilou.rousseau@example.com",
+    "username": "greencat126",
+    "password": "scarface",
+    "invokedAt": "2026-07-17T17:22:05.318Z"
   }
 ]
