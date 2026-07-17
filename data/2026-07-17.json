@@ -94,5 +94,13 @@
     "username": "happykoala456",
     "password": "fashion",
     "invokedAt": "2026-07-17T12:20:31.990Z"
+  },
+  {
+    "firstName": "Sasha",
+    "lastName": "Bonnet",
+    "email": "sasha.bonnet@example.com",
+    "username": "angrykoala458",
+    "password": "phil",
+    "invokedAt": "2026-07-17T13:27:52.167Z"
   }
 ]
