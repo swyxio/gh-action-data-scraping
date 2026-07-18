@@ -142,5 +142,13 @@
     "username": "whiteleopard971",
     "password": "skinner",
     "invokedAt": "2026-07-18T18:13:55.004Z"
+  },
+  {
+    "firstName": "Nicole",
+    "lastName": "Anderson",
+    "email": "nicole.anderson@example.com",
+    "username": "bluebird971",
+    "password": "opus",
+    "invokedAt": "2026-07-18T19:21:55.243Z"
   }
 ]
