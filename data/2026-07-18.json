@@ -86,5 +86,13 @@
     "username": "blackduck168",
     "password": "chan",
     "invokedAt": "2026-07-18T11:18:40.917Z"
+  },
+  {
+    "firstName": "Mathew",
+    "lastName": "Mccoy",
+    "email": "mathew.mccoy@example.com",
+    "username": "tinymeercat624",
+    "password": "stone",
+    "invokedAt": "2026-07-18T12:12:41.551Z"
   }
 ]
