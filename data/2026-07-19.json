@@ -134,5 +134,13 @@
     "username": "orangefish662",
     "password": "trustme",
     "invokedAt": "2026-07-19T17:18:26.729Z"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "Arguello",
+    "email": "marcos.arguello@example.com",
+    "username": "smallpanda418",
+    "password": "hassan",
+    "invokedAt": "2026-07-19T18:13:53.832Z"
   }
 ]
