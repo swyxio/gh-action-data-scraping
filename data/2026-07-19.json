@@ -54,5 +54,13 @@
     "username": "bigsnake880",
     "password": "rrpass1",
     "invokedAt": "2026-07-19T07:40:05.621Z"
+  },
+  {
+    "firstName": "Gunnar",
+    "lastName": "Van Lagen",
+    "email": "gunnar.vanlagen@example.com",
+    "username": "redgoose627",
+    "password": "steele",
+    "invokedAt": "2026-07-19T08:42:31.972Z"
   }
 ]
