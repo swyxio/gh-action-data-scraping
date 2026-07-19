@@ -110,5 +110,13 @@
     "username": "bluerabbit212",
     "password": "timeout",
     "invokedAt": "2026-07-19T14:25:20.324Z"
+  },
+  {
+    "firstName": "Jadranka",
+    "lastName": "Kalinić",
+    "email": "jadranka.kalinic@example.com",
+    "username": "smallfrog478",
+    "password": "todd",
+    "invokedAt": "2026-07-19T15:17:47.708Z"
   }
 ]
