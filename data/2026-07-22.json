@@ -94,5 +94,13 @@
     "username": "orangesnake374",
     "password": "playtime",
     "invokedAt": "2026-07-22T12:26:57.687Z"
+  },
+  {
+    "firstName": "Ritchie",
+    "lastName": "Knubben",
+    "email": "ritchie.knubben@example.com",
+    "username": "blacksnake756",
+    "password": "dupont",
+    "invokedAt": "2026-07-22T13:28:58.981Z"
   }
 ]
