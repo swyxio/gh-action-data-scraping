@@ -126,5 +126,13 @@
     "username": "blackduck463",
     "password": "softball",
     "invokedAt": "2026-07-24T16:31:51.063Z"
+  },
+  {
+    "firstName": "Mandy",
+    "lastName": "Fisher",
+    "email": "mandy.fisher@example.com",
+    "username": "bluelion857",
+    "password": "alley",
+    "invokedAt": "2026-07-24T17:28:17.329Z"
   }
 ]
