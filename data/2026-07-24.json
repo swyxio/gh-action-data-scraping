@@ -118,5 +118,13 @@
     "username": "purplepeacock475",
     "password": "burning",
     "invokedAt": "2026-07-24T15:27:05.944Z"
+  },
+  {
+    "firstName": "Zdravko",
+    "lastName": "Kovač",
+    "email": "zdravko.kovac@example.com",
+    "username": "blackduck463",
+    "password": "softball",
+    "invokedAt": "2026-07-24T16:31:51.063Z"
   }
 ]
