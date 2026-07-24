@@ -78,5 +78,13 @@
     "username": "purplemeercat144",
     "password": "doctor",
     "invokedAt": "2026-07-24T10:36:59.637Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Leroy",
+    "email": "charles.leroy@example.com",
+    "username": "yellowdog363",
+    "password": "peeper",
+    "invokedAt": "2026-07-24T11:29:29.604Z"
   }
 ]
