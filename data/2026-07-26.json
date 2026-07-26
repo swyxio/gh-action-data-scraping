@@ -158,5 +158,13 @@
     "username": "goldengorilla989",
     "password": "shop",
     "invokedAt": "2026-07-26T21:15:06.151Z"
+  },
+  {
+    "firstName": "Remo",
+    "lastName": "Grijpstra",
+    "email": "remo.grijpstra@example.com",
+    "username": "angrycat751",
+    "password": "doodle",
+    "invokedAt": "2026-07-26T22:16:09.278Z"
   }
 ]
