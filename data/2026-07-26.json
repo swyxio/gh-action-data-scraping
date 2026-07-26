@@ -62,5 +62,13 @@
     "username": "bigbutterfly392",
     "password": "speakers",
     "invokedAt": "2026-07-26T09:36:53.107Z"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Tremblay",
+    "email": "amelia.tremblay@example.com",
+    "username": "silvercat692",
+    "password": "piggy",
+    "invokedAt": "2026-07-26T10:29:32.305Z"
   }
 ]
