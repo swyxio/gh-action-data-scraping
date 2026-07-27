@@ -142,5 +142,13 @@
     "username": "redpanda916",
     "password": "mistress",
     "invokedAt": "2026-07-27T22:19:17.092Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Anderson",
+    "email": "sara.anderson@example.com",
+    "username": "lazyostrich687",
+    "password": "coolhand",
+    "invokedAt": "2026-07-27T23:19:44.663Z"
   }
 ]
