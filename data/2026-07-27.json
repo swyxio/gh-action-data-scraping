@@ -62,5 +62,13 @@
     "username": "browntiger333",
     "password": "elite",
     "invokedAt": "2026-07-27T12:01:02.272Z"
+  },
+  {
+    "firstName": "Eléa",
+    "lastName": "Duval",
+    "email": "elea.duval@example.com",
+    "username": "bigkoala331",
+    "password": "redfish",
+    "invokedAt": "2026-07-27T13:45:08.388Z"
   }
 ]
