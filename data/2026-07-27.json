@@ -54,5 +54,13 @@
     "username": "smallmeercat945",
     "password": "googoo",
     "invokedAt": "2026-07-27T10:13:52.104Z"
+  },
+  {
+    "firstName": "Titouan",
+    "lastName": "Pierre",
+    "email": "titouan.pierre@example.com",
+    "username": "browntiger333",
+    "password": "elite",
+    "invokedAt": "2026-07-27T12:01:02.272Z"
   }
 ]
