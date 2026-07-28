@@ -166,5 +166,13 @@
     "username": "blackelephant454",
     "password": "soft",
     "invokedAt": "2026-07-28T22:18:22.048Z"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Larsen",
+    "email": "thea.larsen@example.com",
+    "username": "smallwolf996",
+    "password": "carlos",
+    "invokedAt": "2026-07-28T23:17:37.536Z"
   }
 ]
