@@ -142,5 +142,13 @@
     "username": "orangeladybug623",
     "password": "madrid",
     "invokedAt": "2026-07-30T18:25:09.434Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Duval",
+    "email": "alexis.duval@example.com",
+    "username": "lazyladybug127",
+    "password": "simpson",
+    "invokedAt": "2026-07-30T19:27:36.800Z"
   }
 ]
