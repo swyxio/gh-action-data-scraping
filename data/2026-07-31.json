@@ -126,5 +126,13 @@
     "username": "whitegoose265",
     "password": "toronto",
     "invokedAt": "2026-07-31T17:27:55.214Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Santana",
+    "email": "andres.santana@example.com",
+    "username": "lazytiger123",
+    "password": "ball",
+    "invokedAt": "2026-07-31T18:25:44.216Z"
   }
 ]
