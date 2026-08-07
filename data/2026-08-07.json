@@ -94,5 +94,13 @@
     "username": "crazyzebra351",
     "password": "adult",
     "invokedAt": "2026-08-07T12:11:13.034Z"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Lambert",
+    "email": "tony.lambert@example.com",
+    "username": "bigfrog134",
+    "password": "october",
+    "invokedAt": "2026-08-07T13:24:16.191Z"
   }
 ]
