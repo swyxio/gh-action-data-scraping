@@ -110,5 +110,13 @@
     "username": "bluepeacock344",
     "password": "sleep",
     "invokedAt": "2026-08-08T13:16:41.550Z"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Anderson",
+    "email": "jade.anderson@example.com",
+    "username": "brownduck854",
+    "password": "ping",
+    "invokedAt": "2026-08-08T14:09:20.151Z"
   }
 ]
