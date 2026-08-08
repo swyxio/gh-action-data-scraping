@@ -70,5 +70,13 @@
     "username": "lazymeercat876",
     "password": "penelope",
     "invokedAt": "2026-08-08T08:09:28.221Z"
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "Bratli",
+    "email": "alan.bratli@example.com",
+    "username": "happyladybug883",
+    "password": "stream",
+    "invokedAt": "2026-08-08T09:11:31.210Z"
   }
 ]
