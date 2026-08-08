@@ -62,5 +62,13 @@
     "username": "orangecat384",
     "password": "survivor",
     "invokedAt": "2026-08-08T07:18:01.734Z"
+  },
+  {
+    "firstName": "Dimitri",
+    "lastName": "Garnier",
+    "email": "dimitri.garnier@example.com",
+    "username": "lazymeercat876",
+    "password": "penelope",
+    "invokedAt": "2026-08-08T08:09:28.221Z"
   }
 ]
