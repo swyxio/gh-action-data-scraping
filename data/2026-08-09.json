@@ -70,5 +70,13 @@
     "username": "bluebird970",
     "password": "tools",
     "invokedAt": "2026-08-09T08:10:12.252Z"
+  },
+  {
+    "firstName": "Eemil",
+    "lastName": "Peltonen",
+    "email": "eemil.peltonen@example.com",
+    "username": "happyduck938",
+    "password": "towers",
+    "invokedAt": "2026-08-09T09:12:01.830Z"
   }
 ]
