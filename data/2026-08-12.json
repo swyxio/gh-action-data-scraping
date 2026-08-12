@@ -102,5 +102,13 @@
     "username": "whitewolf835",
     "password": "wine",
     "invokedAt": "2026-08-12T12:11:45.872Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Mitchell",
+    "email": "xavier.mitchell@example.com",
+    "username": "lazybear197",
+    "password": "saint",
+    "invokedAt": "2026-08-12T13:26:23.792Z"
   }
 ]
