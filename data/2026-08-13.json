@@ -134,5 +134,13 @@
     "username": "blackrabbit968",
     "password": "mongoose",
     "invokedAt": "2026-08-13T16:14:24.339Z"
+  },
+  {
+    "firstName": "Aatu",
+    "lastName": "Neva",
+    "email": "aatu.neva@example.com",
+    "username": "lazybird445",
+    "password": "dolphin",
+    "invokedAt": "2026-08-13T17:16:51.851Z"
   }
 ]
