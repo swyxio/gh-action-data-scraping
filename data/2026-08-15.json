@@ -158,5 +158,13 @@
     "username": "whitepanda746",
     "password": "patch",
     "invokedAt": "2026-08-15T19:04:02.726Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Bishop",
+    "email": "tracy.bishop@example.com",
+    "username": "brownsnake638",
+    "password": "first",
+    "invokedAt": "2026-08-15T20:00:52.676Z"
   }
 ]
