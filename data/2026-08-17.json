@@ -78,5 +78,13 @@
     "username": "greenlion579",
     "password": "arizona",
     "invokedAt": "2026-08-17T09:11:00.349Z"
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Patel",
+    "email": "theo.patel@example.com",
+    "username": "silvercat828",
+    "password": "thirty",
+    "invokedAt": "2026-08-17T10:07:41.874Z"
   }
 ]
