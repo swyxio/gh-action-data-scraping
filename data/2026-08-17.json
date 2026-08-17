@@ -166,5 +166,13 @@
     "username": "smalltiger801",
     "password": "woohoo",
     "invokedAt": "2026-08-17T20:02:46.759Z"
+  },
+  {
+    "firstName": "Aino",
+    "lastName": "Lehtinen",
+    "email": "aino.lehtinen@example.com",
+    "username": "heavyzebra410",
+    "password": "active",
+    "invokedAt": "2026-08-17T21:04:07.258Z"
   }
 ]
