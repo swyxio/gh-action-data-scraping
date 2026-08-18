@@ -134,5 +134,13 @@
     "username": "goldenpanda664",
     "password": "gymnast",
     "invokedAt": "2026-08-18T16:03:57.057Z"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Fournier",
+    "email": "rachel.fournier@example.com",
+    "username": "bigmouse974",
+    "password": "tomcat",
+    "invokedAt": "2026-08-18T17:04:40.992Z"
   }
 ]
