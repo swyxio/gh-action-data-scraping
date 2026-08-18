@@ -46,5 +46,13 @@
     "username": "brownbird815",
     "password": "01234567",
     "invokedAt": "2026-08-18T05:06:22.011Z"
+  },
+  {
+    "firstName": "Amparo",
+    "lastName": "Serrano",
+    "email": "amparo.serrano@example.com",
+    "username": "smallsnake599",
+    "password": "gateway1",
+    "invokedAt": "2026-08-18T06:03:51.540Z"
   }
 ]
