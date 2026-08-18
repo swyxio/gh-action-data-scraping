@@ -86,5 +86,13 @@
     "username": "purplecat640",
     "password": "byteme",
     "invokedAt": "2026-08-18T10:04:02.403Z"
+  },
+  {
+    "firstName": "Hector",
+    "lastName": "Stevens",
+    "email": "hector.stevens@example.com",
+    "username": "lazybutterfly372",
+    "password": "scruffy",
+    "invokedAt": "2026-08-18T11:04:00.676Z"
   }
 ]
