@@ -134,5 +134,13 @@
     "username": "crazylion148",
     "password": "magic32",
     "invokedAt": "2026-08-20T16:04:57.750Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Davies",
+    "email": "lucy.davies@example.com",
+    "username": "heavykoala842",
+    "password": "norris",
+    "invokedAt": "2026-08-20T17:05:41.225Z"
   }
 ]
