@@ -102,5 +102,13 @@
     "username": "crazygoose170",
     "password": "california",
     "invokedAt": "2026-08-21T12:03:38.925Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Møller",
+    "email": "anna.moller@example.com",
+    "username": "redkoala442",
+    "password": "southpark",
+    "invokedAt": "2026-08-21T13:16:01.834Z"
   }
 ]
