@@ -118,5 +118,13 @@
     "username": "blackswan480",
     "password": "island",
     "invokedAt": "2026-08-22T14:02:00.625Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Madsen",
+    "email": "storm.madsen@example.com",
+    "username": "browncat831",
+    "password": "rotten",
+    "invokedAt": "2026-08-22T15:01:47.033Z"
   }
 ]
