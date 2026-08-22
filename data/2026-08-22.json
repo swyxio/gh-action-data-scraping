@@ -86,5 +86,13 @@
     "username": "orangecat707",
     "password": "foot",
     "invokedAt": "2026-08-22T10:02:12.108Z"
+  },
+  {
+    "firstName": "Dustin",
+    "lastName": "Rodriguez",
+    "email": "dustin.rodriguez@example.com",
+    "username": "heavybear157",
+    "password": "ziggy",
+    "invokedAt": "2026-08-22T11:02:20.557Z"
   }
 ]
