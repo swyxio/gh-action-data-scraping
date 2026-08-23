@@ -86,5 +86,13 @@
     "username": "silvermeercat146",
     "password": "siemens",
     "invokedAt": "2026-08-23T10:02:24.365Z"
+  },
+  {
+    "firstName": "Gertrud",
+    "lastName": "Bernard",
+    "email": "gertrud.bernard@example.com",
+    "username": "sadmouse778",
+    "password": "tester",
+    "invokedAt": "2026-08-23T11:02:38.992Z"
   }
 ]
