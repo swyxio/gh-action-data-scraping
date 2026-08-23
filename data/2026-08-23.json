@@ -166,5 +166,13 @@
     "username": "yellowbutterfly559",
     "password": "lkjh",
     "invokedAt": "2026-08-23T20:00:51.713Z"
+  },
+  {
+    "firstName": "Michelle",
+    "lastName": "Jackson",
+    "email": "michelle.jackson@example.com",
+    "username": "purpleelephant909",
+    "password": "static",
+    "invokedAt": "2026-08-23T21:02:03.023Z"
   }
 ]
