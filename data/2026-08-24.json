@@ -134,5 +134,13 @@
     "username": "smallcat669",
     "password": "mystery",
     "invokedAt": "2026-08-24T16:07:43.303Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Hamzaoğlu",
+    "email": "kadir.hamzaoglu@example.com",
+    "username": "smallostrich821",
+    "password": "quentin",
+    "invokedAt": "2026-08-24T17:08:11.871Z"
   }
 ]
