@@ -158,5 +158,13 @@
     "username": "crazybear423",
     "password": "metoo",
     "invokedAt": "2026-08-24T19:10:30.917Z"
+  },
+  {
+    "firstName": "Billy",
+    "lastName": "Larson",
+    "email": "billy.larson@example.com",
+    "username": "tinyfish976",
+    "password": "wapapapa",
+    "invokedAt": "2026-08-24T20:03:45.871Z"
   }
 ]
