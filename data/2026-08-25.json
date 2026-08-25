@@ -86,5 +86,13 @@
     "username": "greenduck356",
     "password": "grant",
     "invokedAt": "2026-08-25T10:05:31.986Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Marín",
+    "email": "marc.marin@example.com",
+    "username": "bigzebra430",
+    "password": "tester",
+    "invokedAt": "2026-08-25T11:04:42.375Z"
   }
 ]
