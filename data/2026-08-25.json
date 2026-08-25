@@ -102,5 +102,13 @@
     "username": "ticklishdog191",
     "password": "ddddddd",
     "invokedAt": "2026-08-25T12:04:40.288Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Turner",
+    "email": "john.turner@example.com",
+    "username": "bigmeercat174",
+    "password": "bradford",
+    "invokedAt": "2026-08-25T13:16:27.856Z"
   }
 ]
