@@ -182,5 +182,13 @@
     "username": "greengoose267",
     "password": "*****",
     "invokedAt": "2026-08-29T22:00:20.471Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Bauge",
+    "email": "jonathan.bauge@example.com",
+    "username": "orangeladybug847",
+    "password": "aptiva",
+    "invokedAt": "2026-08-29T23:00:30.926Z"
   }
 ]
