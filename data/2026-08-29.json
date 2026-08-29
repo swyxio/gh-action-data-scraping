@@ -118,5 +118,13 @@
     "username": "yellowbird406",
     "password": "vaughn",
     "invokedAt": "2026-08-29T14:00:26.332Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Pedersen",
+    "email": "jonas.pedersen@example.com",
+    "username": "ticklishdog365",
+    "password": "dogbert",
+    "invokedAt": "2026-08-29T15:00:35.037Z"
   }
 ]
