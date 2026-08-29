@@ -126,5 +126,13 @@
     "username": "ticklishdog365",
     "password": "dogbert",
     "invokedAt": "2026-08-29T15:00:35.037Z"
+  },
+  {
+    "firstName": "Eskild",
+    "lastName": "Haavik",
+    "email": "eskild.haavik@example.com",
+    "username": "happytiger213",
+    "password": "fatman",
+    "invokedAt": "2026-08-29T16:00:19.801Z"
   }
 ]
