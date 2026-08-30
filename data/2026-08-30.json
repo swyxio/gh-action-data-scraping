@@ -38,5 +38,13 @@
     "username": "purplepeacock248",
     "password": "enters",
     "invokedAt": "2026-08-30T04:00:36.580Z"
+  },
+  {
+    "firstName": "Ingmar",
+    "lastName": "Førsund",
+    "email": "ingmar.forsund@example.com",
+    "username": "smallpeacock799",
+    "password": "phish",
+    "invokedAt": "2026-08-30T05:00:30.899Z"
   }
 ]
