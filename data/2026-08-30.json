@@ -102,5 +102,13 @@
     "username": "bigtiger745",
     "password": "iloveyou1",
     "invokedAt": "2026-08-30T12:00:25.830Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Christiansen",
+    "email": "tobias.christiansen@example.com",
+    "username": "ticklishduck260",
+    "password": "devin",
+    "invokedAt": "2026-08-30T13:00:31.083Z"
   }
 ]
