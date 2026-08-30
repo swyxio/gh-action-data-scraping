@@ -118,5 +118,13 @@
     "username": "blackgorilla817",
     "password": "124038",
     "invokedAt": "2026-08-30T14:00:31.550Z"
+  },
+  {
+    "firstName": "Ruža",
+    "lastName": "Ivančević",
+    "email": "ruza.ivancevic@example.com",
+    "username": "goldenmouse497",
+    "password": "porkchop",
+    "invokedAt": "2026-08-30T15:00:50.440Z"
   }
 ]
