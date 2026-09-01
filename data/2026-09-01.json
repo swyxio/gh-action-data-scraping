@@ -174,5 +174,13 @@
     "username": "happyelephant315",
     "password": "googoo",
     "invokedAt": "2026-09-01T21:00:24.354Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Caldwell",
+    "email": "jenny.caldwell@example.com",
+    "username": "silverelephant537",
+    "password": "domino",
+    "invokedAt": "2026-09-01T22:00:44.281Z"
   }
 ]
