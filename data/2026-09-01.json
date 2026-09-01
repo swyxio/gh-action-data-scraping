@@ -38,5 +38,13 @@
     "username": "brownbird111",
     "password": "speedy",
     "invokedAt": "2026-09-01T04:00:34.087Z"
+  },
+  {
+    "firstName": "José Emilio",
+    "lastName": "Gutiérrez",
+    "email": "joseemilio.gutierrez@example.com",
+    "username": "tinybird165",
+    "password": "robocop",
+    "invokedAt": "2026-09-01T05:00:41.724Z"
   }
 ]
