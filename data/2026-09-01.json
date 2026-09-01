@@ -142,5 +142,13 @@
     "username": "blueleopard875",
     "password": "gizmodo",
     "invokedAt": "2026-09-01T17:00:29.487Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Neal",
+    "email": "david.neal@example.com",
+    "username": "yellowostrich447",
+    "password": "sancho",
+    "invokedAt": "2026-09-01T18:00:51.562Z"
   }
 ]
