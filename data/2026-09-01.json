@@ -166,5 +166,13 @@
     "username": "blackduck937",
     "password": "3636",
     "invokedAt": "2026-09-01T20:00:34.159Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Bolatlı",
+    "email": "emre.bolatli@example.com",
+    "username": "happyelephant315",
+    "password": "googoo",
+    "invokedAt": "2026-09-01T21:00:24.354Z"
   }
 ]
