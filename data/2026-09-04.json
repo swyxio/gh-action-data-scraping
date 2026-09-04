@@ -174,5 +174,13 @@
     "username": "lazyduck742",
     "password": "deep",
     "invokedAt": "2026-09-04T21:00:35.139Z"
+  },
+  {
+    "firstName": "Adèle",
+    "lastName": "Louis",
+    "email": "adele.louis@example.com",
+    "username": "silverbear612",
+    "password": "house",
+    "invokedAt": "2026-09-04T22:00:26.700Z"
   }
 ]
