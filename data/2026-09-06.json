@@ -174,5 +174,13 @@
     "username": "greengorilla910",
     "password": "whales",
     "invokedAt": "2026-09-06T21:00:40.672Z"
+  },
+  {
+    "firstName": "Ruslana",
+    "lastName": "Mišković",
+    "email": "ruslana.miskovic@example.com",
+    "username": "bigelephant170",
+    "password": "beavis",
+    "invokedAt": "2026-09-06T22:00:20.260Z"
   }
 ]
