@@ -182,5 +182,13 @@
     "username": "bigelephant170",
     "password": "beavis",
     "invokedAt": "2026-09-06T22:00:20.260Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "King",
+    "email": "benjamin.king@example.com",
+    "username": "ticklishdog919",
+    "password": "wave",
+    "invokedAt": "2026-09-06T23:00:27.596Z"
   }
 ]
