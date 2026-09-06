@@ -54,5 +54,13 @@
     "username": "greendog384",
     "password": "0007",
     "invokedAt": "2026-09-06T06:00:40.627Z"
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Jensen",
+    "email": "freja.jensen@example.com",
+    "username": "angrypanda697",
+    "password": "beacon",
+    "invokedAt": "2026-09-06T07:00:35.953Z"
   }
 ]
