@@ -102,5 +102,13 @@
     "username": "angrydog270",
     "password": "wright",
     "invokedAt": "2026-09-07T12:00:24.131Z"
+  },
+  {
+    "firstName": "Noémie",
+    "lastName": "Miller",
+    "email": "noemie.miller@example.com",
+    "username": "heavyleopard317",
+    "password": "bigblock",
+    "invokedAt": "2026-09-07T13:00:51.317Z"
   }
 ]
