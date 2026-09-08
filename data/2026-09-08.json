@@ -70,5 +70,13 @@
     "username": "tinylion256",
     "password": "solution",
     "invokedAt": "2026-09-08T08:00:37.961Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Jean-Baptiste",
+    "email": "william.jean-baptiste@example.com",
+    "username": "smallsnake324",
+    "password": "golfer",
+    "invokedAt": "2026-09-08T09:00:45.268Z"
   }
 ]
