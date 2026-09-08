@@ -62,5 +62,13 @@
     "username": "silvergoose289",
     "password": "berger",
     "invokedAt": "2026-09-08T07:00:33.174Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Radosavljević",
+    "email": "ana.radosavljevic@example.com",
+    "username": "tinylion256",
+    "password": "solution",
+    "invokedAt": "2026-09-08T08:00:37.961Z"
   }
 ]
