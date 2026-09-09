@@ -38,5 +38,13 @@
     "username": "ticklishpeacock612",
     "password": "bubble",
     "invokedAt": "2026-09-09T04:00:57.813Z"
+  },
+  {
+    "firstName": "Kirk",
+    "lastName": "Murphy",
+    "email": "kirk.murphy@example.com",
+    "username": "ticklishswan468",
+    "password": "username",
+    "invokedAt": "2026-09-09T05:00:35.609Z"
   }
 ]
