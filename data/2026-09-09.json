@@ -174,5 +174,13 @@
     "username": "whitemeercat500",
     "password": "billybob",
     "invokedAt": "2026-09-09T21:00:34.752Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Ozansoy",
+    "email": "deniz.ozansoy@example.com",
+    "username": "bigmouse340",
+    "password": "brains",
+    "invokedAt": "2026-09-09T22:00:22.928Z"
   }
 ]
