@@ -86,5 +86,13 @@
     "username": "bigfrog871",
     "password": "teaser",
     "invokedAt": "2026-09-10T10:00:23.307Z"
+  },
+  {
+    "firstName": "Wendel",
+    "lastName": "Van der Wiel",
+    "email": "wendel.vanderwiel@example.com",
+    "username": "lazyfish814",
+    "password": "miao",
+    "invokedAt": "2026-09-10T11:00:45.807Z"
   }
 ]
