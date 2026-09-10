@@ -118,5 +118,13 @@
     "username": "happysnake146",
     "password": "excess",
     "invokedAt": "2026-09-10T14:00:41.360Z"
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Christensen",
+    "email": "selma.christensen@example.com",
+    "username": "angrytiger166",
+    "password": "jane",
+    "invokedAt": "2026-09-10T15:00:36.208Z"
   }
 ]
