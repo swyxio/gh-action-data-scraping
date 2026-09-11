@@ -14,5 +14,13 @@
     "username": "blueleopard173",
     "password": "highway",
     "invokedAt": "2026-09-11T01:11:21.947Z"
+  },
+  {
+    "firstName": "Vojin",
+    "lastName": "Jović",
+    "email": "vojin.jovic@example.com",
+    "username": "smallcat168",
+    "password": "travis1",
+    "invokedAt": "2026-09-11T02:00:51.675Z"
   }
 ]
