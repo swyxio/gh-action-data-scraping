@@ -182,5 +182,13 @@
     "username": "blackcat736",
     "password": "ginger",
     "invokedAt": "2026-09-11T22:00:28.795Z"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Little",
+    "email": "tim.little@example.com",
+    "username": "purplegorilla209",
+    "password": "nissan",
+    "invokedAt": "2026-09-11T23:00:25.681Z"
   }
 ]
