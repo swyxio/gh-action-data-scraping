@@ -94,5 +94,13 @@
     "username": "blackbird717",
     "password": "coventry",
     "invokedAt": "2026-09-11T11:00:23.454Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Brar",
+    "email": "alexander.brar@example.com",
+    "username": "yellowkoala974",
+    "password": "thisisit",
+    "invokedAt": "2026-09-11T12:00:51.429Z"
   }
 ]
