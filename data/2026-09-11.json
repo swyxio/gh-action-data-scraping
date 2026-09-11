@@ -110,5 +110,13 @@
     "username": "orangebear992",
     "password": "river",
     "invokedAt": "2026-09-11T13:00:31.010Z"
+  },
+  {
+    "firstName": "Hector",
+    "lastName": "Robin",
+    "email": "hector.robin@example.com",
+    "username": "smalllion908",
+    "password": "idefix",
+    "invokedAt": "2026-09-11T14:00:40.959Z"
   }
 ]
