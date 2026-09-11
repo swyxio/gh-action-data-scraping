@@ -86,5 +86,13 @@
     "username": "orangedog543",
     "password": "hewitt",
     "invokedAt": "2026-09-11T10:00:28.864Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Olstad",
+    "email": "liam.olstad@example.com",
+    "username": "blackbird717",
+    "password": "coventry",
+    "invokedAt": "2026-09-11T11:00:23.454Z"
   }
 ]
