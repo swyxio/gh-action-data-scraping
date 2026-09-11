@@ -174,5 +174,13 @@
     "username": "blackfish896",
     "password": "stalker",
     "invokedAt": "2026-09-11T21:00:36.997Z"
+  },
+  {
+    "firstName": "Milorad",
+    "lastName": "Anđelković",
+    "email": "milorad.andelkovic@example.com",
+    "username": "blackcat736",
+    "password": "ginger",
+    "invokedAt": "2026-09-11T22:00:28.795Z"
   }
 ]
