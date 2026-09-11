@@ -46,5 +46,13 @@
     "username": "tinywolf742",
     "password": "frogs",
     "invokedAt": "2026-09-11T05:00:30.521Z"
+  },
+  {
+    "firstName": "Mirko",
+    "lastName": "Šakić",
+    "email": "mirko.sakic@example.com",
+    "username": "orangeleopard618",
+    "password": "abcd",
+    "invokedAt": "2026-09-11T06:00:32.212Z"
   }
 ]
