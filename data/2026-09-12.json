@@ -158,5 +158,13 @@
     "username": "reddog731",
     "password": "daewoo",
     "invokedAt": "2026-09-12T19:00:35.743Z"
+  },
+  {
+    "firstName": "Guro",
+    "lastName": "Westgaard",
+    "email": "guro.westgaard@example.com",
+    "username": "angryduck711",
+    "password": "cheerleaers",
+    "invokedAt": "2026-09-12T20:00:29.727Z"
   }
 ]
