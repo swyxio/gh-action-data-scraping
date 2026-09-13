@@ -158,5 +158,13 @@
     "username": "smallbird979",
     "password": "gateway1",
     "invokedAt": "2026-09-13T19:00:30.244Z"
+  },
+  {
+    "firstName": "Bruna",
+    "lastName": "Van den Dool",
+    "email": "bruna.vandendool@example.com",
+    "username": "smallswan499",
+    "password": "termite",
+    "invokedAt": "2026-09-13T20:00:31.536Z"
   }
 ]
