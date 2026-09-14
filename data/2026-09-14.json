@@ -94,5 +94,13 @@
     "username": "lazyfrog896",
     "password": "boris",
     "invokedAt": "2026-09-14T11:00:24.410Z"
+  },
+  {
+    "firstName": "Nemanja",
+    "lastName": "Perić",
+    "email": "nemanja.peric@example.com",
+    "username": "happyduck355",
+    "password": "snickers",
+    "invokedAt": "2026-09-14T12:00:38.320Z"
   }
 ]
