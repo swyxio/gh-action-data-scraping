@@ -118,5 +118,13 @@
     "username": "ticklishkoala919",
     "password": "blizzard",
     "invokedAt": "2026-09-15T14:00:27.448Z"
+  },
+  {
+    "firstName": "Aurora",
+    "lastName": "Carrasco",
+    "email": "aurora.carrasco@example.com",
+    "username": "crazydog143",
+    "password": "scania",
+    "invokedAt": "2026-09-15T15:00:44.444Z"
   }
 ]
