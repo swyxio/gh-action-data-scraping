@@ -158,5 +158,13 @@
     "username": "purplewolf577",
     "password": "night",
     "invokedAt": "2026-09-15T19:00:31.681Z"
+  },
+  {
+    "firstName": "Seth",
+    "lastName": "Hall",
+    "email": "seth.hall@example.com",
+    "username": "sadcat394",
+    "password": "catman",
+    "invokedAt": "2026-09-15T20:00:41.981Z"
   }
 ]
