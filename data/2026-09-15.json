@@ -102,5 +102,13 @@
     "username": "heavytiger179",
     "password": "fruit",
     "invokedAt": "2026-09-15T12:00:42.634Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Gauthier",
+    "email": "sophie.gauthier@example.com",
+    "username": "organicbear675",
+    "password": "minemine",
+    "invokedAt": "2026-09-15T13:00:36.215Z"
   }
 ]
