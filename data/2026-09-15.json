@@ -142,5 +142,13 @@
     "username": "orangebear862",
     "password": "tundra",
     "invokedAt": "2026-09-15T17:00:25.105Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Wainio",
+    "email": "peppi.wainio@example.com",
+    "username": "bigduck771",
+    "password": "lebowski",
+    "invokedAt": "2026-09-15T18:00:29.551Z"
   }
 ]
