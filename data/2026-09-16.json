@@ -142,5 +142,13 @@
     "username": "greenfish303",
     "password": "hotbox",
     "invokedAt": "2026-09-16T17:00:44.300Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Pedersen",
+    "email": "nicklas.pedersen@example.com",
+    "username": "blackfrog556",
+    "password": "port",
+    "invokedAt": "2026-09-16T18:00:28.079Z"
   }
 ]
