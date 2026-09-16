@@ -134,5 +134,13 @@
     "username": "organicwolf914",
     "password": "nopass",
     "invokedAt": "2026-09-16T16:00:56.964Z"
+  },
+  {
+    "firstName": "Kjell",
+    "lastName": "Jahnsen",
+    "email": "kjell.jahnsen@example.com",
+    "username": "greenfish303",
+    "password": "hotbox",
+    "invokedAt": "2026-09-16T17:00:44.300Z"
   }
 ]
