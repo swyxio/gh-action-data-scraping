@@ -150,5 +150,13 @@
     "username": "blackfrog556",
     "password": "port",
     "invokedAt": "2026-09-16T18:00:28.079Z"
+  },
+  {
+    "firstName": "Tanmay",
+    "lastName": "Gamskar",
+    "email": "tanmay.gamskar@example.com",
+    "username": "whitefrog574",
+    "password": "ajax",
+    "invokedAt": "2026-09-16T19:00:24.550Z"
   }
 ]
