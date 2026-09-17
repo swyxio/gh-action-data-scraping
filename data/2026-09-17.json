@@ -158,5 +158,13 @@
     "username": "goldendog977",
     "password": "virtual",
     "invokedAt": "2026-09-17T19:00:43.673Z"
+  },
+  {
+    "firstName": "Amador",
+    "lastName": "Orosco",
+    "email": "amador.orosco@example.com",
+    "username": "tinycat202",
+    "password": "danny1",
+    "invokedAt": "2026-09-17T20:00:25.137Z"
   }
 ]
