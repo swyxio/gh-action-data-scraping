@@ -78,5 +78,13 @@
     "username": "bigostrich469",
     "password": "just4fun",
     "invokedAt": "2026-09-18T09:00:20.551Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Garrido",
+    "email": "jose.garrido@example.com",
+    "username": "crazydog999",
+    "password": "galant",
+    "invokedAt": "2026-09-18T10:00:31.127Z"
   }
 ]
