@@ -102,5 +102,13 @@
     "username": "heavydog905",
     "password": "goochi",
     "invokedAt": "2026-09-18T12:00:42.322Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Smith",
+    "email": "eva.smith@example.com",
+    "username": "greenbear714",
+    "password": "030303",
+    "invokedAt": "2026-09-18T13:00:42.919Z"
   }
 ]
