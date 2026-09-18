@@ -182,5 +182,13 @@
     "username": "angrytiger701",
     "password": "athens",
     "invokedAt": "2026-09-18T22:00:23.491Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Gauthier",
+    "email": "alexander.gauthier@example.com",
+    "username": "happyswan987",
+    "password": "guyver",
+    "invokedAt": "2026-09-18T23:00:30.445Z"
   }
 ]
