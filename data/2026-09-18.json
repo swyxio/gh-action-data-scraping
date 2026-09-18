@@ -38,5 +38,13 @@
     "username": "blackrabbit555",
     "password": "cricket1",
     "invokedAt": "2026-09-18T04:00:42.666Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Meyer",
+    "email": "jack.meyer@example.com",
+    "username": "sadbird923",
+    "password": "doomsday",
+    "invokedAt": "2026-09-18T05:00:23.045Z"
   }
 ]
