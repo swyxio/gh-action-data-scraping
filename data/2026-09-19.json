@@ -30,5 +30,13 @@
     "username": "greensnake171",
     "password": "search",
     "invokedAt": "2026-09-19T03:00:36.384Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Wood",
+    "email": "max.wood@example.com",
+    "username": "greenkoala962",
+    "password": "mister",
+    "invokedAt": "2026-09-19T04:00:34.864Z"
   }
 ]
