@@ -182,5 +182,13 @@
     "username": "organicduck106",
     "password": "simba1",
     "invokedAt": "2026-09-19T22:00:31.138Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Harris",
+    "email": "matthew.harris@example.com",
+    "username": "crazyduck480",
+    "password": "davidson",
+    "invokedAt": "2026-09-19T23:00:19.286Z"
   }
 ]
