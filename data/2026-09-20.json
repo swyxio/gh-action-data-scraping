@@ -94,5 +94,13 @@
     "username": "sadbear453",
     "password": "test2",
     "invokedAt": "2026-09-20T11:00:59.784Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Schlömer",
+    "email": "george.schlomer@example.com",
+    "username": "bluepanda905",
+    "password": "roadrunn",
+    "invokedAt": "2026-09-20T12:00:34.259Z"
   }
 ]
