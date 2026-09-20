@@ -158,5 +158,13 @@
     "username": "purplerabbit565",
     "password": "patch",
     "invokedAt": "2026-09-20T19:00:40.520Z"
+  },
+  {
+    "firstName": "Günther",
+    "lastName": "Jüngling",
+    "email": "gunther.jungling@example.com",
+    "username": "bigdog483",
+    "password": "smiley",
+    "invokedAt": "2026-09-20T20:00:44.802Z"
   }
 ]
