@@ -182,5 +182,13 @@
     "username": "redostrich717",
     "password": "mingus",
     "invokedAt": "2026-09-21T22:00:46.697Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Brown",
+    "email": "lily.brown@example.com",
+    "username": "yellowgoose950",
+    "password": "keyboard",
+    "invokedAt": "2026-09-21T23:00:47.287Z"
   }
 ]
