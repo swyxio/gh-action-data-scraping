@@ -158,5 +158,13 @@
     "username": "crazywolf911",
     "password": "nickel",
     "invokedAt": "2026-09-23T20:00:57.103Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Craig",
+    "email": "adam.craig@example.com",
+    "username": "beautifulwolf203",
+    "password": "vader1",
+    "invokedAt": "2026-09-23T21:00:53.320Z"
   }
 ]
