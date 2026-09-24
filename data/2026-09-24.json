@@ -142,5 +142,13 @@
     "username": "tinyswan680",
     "password": "newlife",
     "invokedAt": "2026-09-24T17:00:47.113Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Aaby",
+    "email": "jack.aaby@example.com",
+    "username": "goldendog269",
+    "password": "diamond",
+    "invokedAt": "2026-09-24T18:00:29.733Z"
   }
 ]
