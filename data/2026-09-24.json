@@ -118,5 +118,13 @@
     "username": "lazytiger472",
     "password": "musashi",
     "invokedAt": "2026-09-24T14:00:31.889Z"
+  },
+  {
+    "firstName": "Miloje",
+    "lastName": "Mihajlović",
+    "email": "miloje.mihajlovic@example.com",
+    "username": "angrypanda112",
+    "password": "222333",
+    "invokedAt": "2026-09-24T15:00:24.671Z"
   }
 ]
