@@ -174,5 +174,13 @@
     "username": "happymeercat146",
     "password": "moses",
     "invokedAt": "2026-09-24T21:01:01.893Z"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Patel",
+    "email": "tyler.patel@example.com",
+    "username": "crazybutterfly310",
+    "password": "stang",
+    "invokedAt": "2026-09-24T22:00:31.808Z"
   }
 ]
