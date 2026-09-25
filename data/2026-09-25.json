@@ -126,5 +126,13 @@
     "username": "silverdog388",
     "password": "smurf",
     "invokedAt": "2026-09-25T15:00:39.929Z"
+  },
+  {
+    "firstName": "Lohit",
+    "lastName": "Mendonsa",
+    "email": "lohit.mendonsa@example.com",
+    "username": "redgoose661",
+    "password": "lookout",
+    "invokedAt": "2026-09-25T16:00:47.142Z"
   }
 ]
