@@ -134,5 +134,13 @@
     "username": "redgoose661",
     "password": "lookout",
     "invokedAt": "2026-09-25T16:00:47.142Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Bishop",
+    "email": "ricardo.bishop@example.com",
+    "username": "sadbear994",
+    "password": "cosmos",
+    "invokedAt": "2026-09-25T17:00:27.822Z"
   }
 ]
