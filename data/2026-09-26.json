@@ -142,5 +142,13 @@
     "username": "blacksnake186",
     "password": "macross",
     "invokedAt": "2026-09-26T17:00:31.387Z"
+  },
+  {
+    "firstName": "Mathis",
+    "lastName": "Girard",
+    "email": "mathis.girard@example.com",
+    "username": "whiterabbit712",
+    "password": "middle",
+    "invokedAt": "2026-09-26T18:00:22.877Z"
   }
 ]
