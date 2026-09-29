@@ -86,5 +86,13 @@
     "username": "yellowbird366",
     "password": "tiger",
     "invokedAt": "2026-09-29T10:00:31.297Z"
+  },
+  {
+    "firstName": "Taha",
+    "lastName": "Røyland",
+    "email": "taha.royland@example.com",
+    "username": "goldenleopard229",
+    "password": "inter",
+    "invokedAt": "2026-09-29T11:00:19.764Z"
   }
 ]
