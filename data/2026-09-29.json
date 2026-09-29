@@ -126,5 +126,13 @@
     "username": "biggorilla298",
     "password": "longjohn",
     "invokedAt": "2026-09-29T15:00:43.407Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "King",
+    "email": "john.king@example.com",
+    "username": "lazymeercat730",
+    "password": "yahooo",
+    "invokedAt": "2026-09-29T16:00:29.688Z"
   }
 ]
