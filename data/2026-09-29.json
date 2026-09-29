@@ -118,5 +118,13 @@
     "username": "angryzebra846",
     "password": "prime",
     "invokedAt": "2026-09-29T14:00:36.326Z"
+  },
+  {
+    "firstName": "Darren",
+    "lastName": "Daniels",
+    "email": "darren.daniels@example.com",
+    "username": "biggorilla298",
+    "password": "longjohn",
+    "invokedAt": "2026-09-29T15:00:43.407Z"
   }
 ]
