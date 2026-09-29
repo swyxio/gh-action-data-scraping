@@ -182,5 +182,13 @@
     "username": "orangepanda588",
     "password": "121314",
     "invokedAt": "2026-09-29T22:00:24.760Z"
+  },
+  {
+    "firstName": "Ronny",
+    "lastName": "Schweizer",
+    "email": "ronny.schweizer@example.com",
+    "username": "silverpeacock173",
+    "password": "a12345",
+    "invokedAt": "2026-09-29T23:00:30.358Z"
   }
 ]
