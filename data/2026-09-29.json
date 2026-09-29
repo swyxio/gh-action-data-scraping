@@ -70,5 +70,13 @@
     "username": "heavydog537",
     "password": "chat",
     "invokedAt": "2026-09-29T08:00:44.288Z"
+  },
+  {
+    "firstName": "Raphael",
+    "lastName": "Arnaud",
+    "email": "raphael.arnaud@example.com",
+    "username": "smallduck252",
+    "password": "butcher",
+    "invokedAt": "2026-09-29T09:00:49.606Z"
   }
 ]
