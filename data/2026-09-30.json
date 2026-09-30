@@ -158,5 +158,13 @@
     "username": "silvergoose675",
     "password": "megane",
     "invokedAt": "2026-09-30T19:01:01.815Z"
+  },
+  {
+    "firstName": "Konrad",
+    "lastName": "Meyer",
+    "email": "konrad.meyer@example.com",
+    "username": "redpanda737",
+    "password": "asdf",
+    "invokedAt": "2026-09-30T20:01:00.134Z"
   }
 ]
