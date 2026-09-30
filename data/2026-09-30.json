@@ -70,5 +70,13 @@
     "username": "whitedog339",
     "password": "mets",
     "invokedAt": "2026-09-30T08:00:39.895Z"
+  },
+  {
+    "firstName": "Terentiy",
+    "lastName": "Golovko",
+    "email": "terentiy.golovko@example.com",
+    "username": "browndog516",
+    "password": "camelot",
+    "invokedAt": "2026-09-30T09:00:33.933Z"
   }
 ]
