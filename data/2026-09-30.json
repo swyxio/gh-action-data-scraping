@@ -62,5 +62,13 @@
     "username": "yellowsnake402",
     "password": "asdasd",
     "invokedAt": "2026-09-30T07:07:48.133Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Walters",
+    "email": "hunter.walters@example.com",
+    "username": "whitedog339",
+    "password": "mets",
+    "invokedAt": "2026-09-30T08:00:39.895Z"
   }
 ]
