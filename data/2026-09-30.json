@@ -166,5 +166,13 @@
     "username": "redpanda737",
     "password": "asdf",
     "invokedAt": "2026-09-30T20:01:00.134Z"
+  },
+  {
+    "firstName": "Micheal",
+    "lastName": "Mills",
+    "email": "micheal.mills@example.com",
+    "username": "heavyostrich780",
+    "password": "bearcat",
+    "invokedAt": "2026-09-30T21:00:46.568Z"
   }
 ]
