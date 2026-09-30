@@ -174,5 +174,13 @@
     "username": "heavyostrich780",
     "password": "bearcat",
     "invokedAt": "2026-09-30T21:00:46.568Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Leppo",
+    "email": "toivo.leppo@example.com",
+    "username": "bigladybug230",
+    "password": "longhorn",
+    "invokedAt": "2026-09-30T22:00:39.712Z"
   }
 ]
