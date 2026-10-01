@@ -142,5 +142,13 @@
     "username": "bluekoala173",
     "password": "bigmac",
     "invokedAt": "2026-10-01T17:00:36.473Z"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Renard",
+    "email": "sean.renard@example.com",
+    "username": "greensnake586",
+    "password": "eduard",
+    "invokedAt": "2026-10-01T18:00:29.935Z"
   }
 ]
