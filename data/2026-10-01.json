@@ -158,5 +158,13 @@
     "username": "lazybear887",
     "password": "nopass",
     "invokedAt": "2026-10-01T19:00:26.372Z"
+  },
+  {
+    "firstName": "Stephen",
+    "lastName": "Lemoine",
+    "email": "stephen.lemoine@example.com",
+    "username": "whitedog246",
+    "password": "reality",
+    "invokedAt": "2026-10-01T20:01:03.027Z"
   }
 ]
