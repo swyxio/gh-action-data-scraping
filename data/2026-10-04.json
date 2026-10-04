@@ -86,5 +86,13 @@
     "username": "sadduck987",
     "password": "chef",
     "invokedAt": "2026-10-04T18:19:00.025Z"
+  },
+  {
+    "firstName": "عباس",
+    "lastName": "موسوی",
+    "email": "aabs.mwswy@example.com",
+    "username": "crazyelephant703",
+    "password": "apple123",
+    "invokedAt": "2026-10-04T19:52:28.384Z"
   }
 ]
