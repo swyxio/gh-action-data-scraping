@@ -142,5 +142,13 @@
     "username": "smallpanda204",
     "password": "books",
     "invokedAt": "2026-10-05T17:00:28.615Z"
+  },
+  {
+    "firstName": "José Manuél",
+    "lastName": "Barela",
+    "email": "josemanuel.barela@example.com",
+    "username": "sadfrog409",
+    "password": "christina",
+    "invokedAt": "2026-10-05T18:01:08.592Z"
   }
 ]
