@@ -62,5 +62,13 @@
     "username": "blackkoala504",
     "password": "cornwall",
     "invokedAt": "2026-10-06T07:08:22.936Z"
+  },
+  {
+    "firstName": "Minerva",
+    "lastName": "Uribe",
+    "email": "minerva.uribe@example.com",
+    "username": "blackdog152",
+    "password": "byebye",
+    "invokedAt": "2026-10-06T08:00:43.491Z"
   }
 ]
