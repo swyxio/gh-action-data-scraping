@@ -166,5 +166,13 @@
     "username": "silvertiger908",
     "password": "papito",
     "invokedAt": "2026-10-06T20:01:09.384Z"
+  },
+  {
+    "firstName": "Cheslav",
+    "lastName": "Fisun",
+    "email": "cheslav.fisun@example.com",
+    "username": "heavyfish110",
+    "password": "dynamo",
+    "invokedAt": "2026-10-06T21:00:31.567Z"
   }
 ]
