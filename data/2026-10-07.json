@@ -126,5 +126,13 @@
     "username": "browntiger795",
     "password": "maggot",
     "invokedAt": "2026-10-07T15:00:27.929Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Andersen",
+    "email": "silas.andersen@example.com",
+    "username": "crazypanda969",
+    "password": "giraffe",
+    "invokedAt": "2026-10-07T16:00:57.303Z"
   }
 ]
