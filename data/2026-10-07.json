@@ -174,5 +174,13 @@
     "username": "beautifullion521",
     "password": "rush",
     "invokedAt": "2026-10-07T21:00:26.976Z"
+  },
+  {
+    "firstName": "Jovan",
+    "lastName": "Lapčević",
+    "email": "jovan.lapcevic@example.com",
+    "username": "brownfrog508",
+    "password": "0123456",
+    "invokedAt": "2026-10-07T22:00:44.420Z"
   }
 ]
