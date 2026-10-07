@@ -78,5 +78,13 @@
     "username": "happyrabbit797",
     "password": "newport",
     "invokedAt": "2026-10-07T09:01:56.787Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "González",
+    "email": "diego.gonzalez@example.com",
+    "username": "happywolf815",
+    "password": "camera",
+    "invokedAt": "2026-10-07T10:00:47.639Z"
   }
 ]
