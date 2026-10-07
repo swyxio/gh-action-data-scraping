@@ -102,5 +102,13 @@
     "username": "happytiger743",
     "password": "debra",
     "invokedAt": "2026-10-07T12:00:41.642Z"
+  },
+  {
+    "firstName": "Léandro",
+    "lastName": "Dupuis",
+    "email": "leandro.dupuis@example.com",
+    "username": "blacktiger712",
+    "password": "hotrats",
+    "invokedAt": "2026-10-07T13:06:35.837Z"
   }
 ]
