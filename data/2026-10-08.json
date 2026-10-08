@@ -174,5 +174,13 @@
     "username": "redkoala569",
     "password": "zippy",
     "invokedAt": "2026-10-08T21:00:46.293Z"
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Nguyen",
+    "email": "teresa.nguyen@example.com",
+    "username": "crazyrabbit287",
+    "password": "paris",
+    "invokedAt": "2026-10-08T22:00:33.670Z"
   }
 ]
