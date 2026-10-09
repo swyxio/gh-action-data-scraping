@@ -22,5 +22,13 @@
     "username": "smallsnake168",
     "password": "allan",
     "invokedAt": "2026-10-09T02:11:29.889Z"
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Martinez",
+    "email": "julian.martinez@example.com",
+    "username": "purpletiger682",
+    "password": "cavalier",
+    "invokedAt": "2026-10-09T03:04:47.087Z"
   }
 ]
