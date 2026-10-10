@@ -14,5 +14,13 @@
     "username": "silvertiger630",
     "password": "midnite",
     "invokedAt": "2026-10-10T01:22:26.862Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "George",
+    "email": "jenny.george@example.com",
+    "username": "purplefish310",
+    "password": "farscape",
+    "invokedAt": "2026-10-10T02:09:44.630Z"
   }
 ]
