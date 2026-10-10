@@ -94,5 +94,13 @@
     "username": "yellowgorilla671",
     "password": "seymour",
     "invokedAt": "2026-10-10T11:00:29.862Z"
+  },
+  {
+    "firstName": "Tijn",
+    "lastName": "Van der Valk",
+    "email": "tijn.vandervalk@example.com",
+    "username": "goldenbear933",
+    "password": "moose1",
+    "invokedAt": "2026-10-10T12:00:34.303Z"
   }
 ]
