@@ -182,5 +182,13 @@
     "username": "tinyleopard135",
     "password": "shao",
     "invokedAt": "2026-10-10T22:00:53.506Z"
+  },
+  {
+    "firstName": "Veselin",
+    "lastName": "Katanić",
+    "email": "veselin.katanic@example.com",
+    "username": "silverduck886",
+    "password": "fiesta",
+    "invokedAt": "2026-10-10T23:00:26.573Z"
   }
 ]
