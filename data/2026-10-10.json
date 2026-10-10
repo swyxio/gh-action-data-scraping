@@ -134,5 +134,13 @@
     "username": "brownlion422",
     "password": "shelter",
     "invokedAt": "2026-10-10T16:00:34.287Z"
+  },
+  {
+    "firstName": "Yar",
+    "lastName": "Yasinskiy",
+    "email": "yar.yasinskiy@example.com",
+    "username": "browncat198",
+    "password": "mobile",
+    "invokedAt": "2026-10-10T17:00:35.293Z"
   }
 ]
