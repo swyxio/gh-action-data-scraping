@@ -118,5 +118,13 @@
     "username": "smalllion948",
     "password": "dublin",
     "invokedAt": "2026-10-11T14:00:26.886Z"
+  },
+  {
+    "firstName": "Frederick",
+    "lastName": "Robinson",
+    "email": "frederick.robinson@example.com",
+    "username": "crazyfrog684",
+    "password": "line",
+    "invokedAt": "2026-10-11T15:00:26.235Z"
   }
 ]
