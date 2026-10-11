@@ -110,5 +110,13 @@
     "username": "redbear943",
     "password": "triangle",
     "invokedAt": "2026-10-11T13:02:12.981Z"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Divac",
+    "email": "nina.divac@example.com",
+    "username": "smalllion948",
+    "password": "dublin",
+    "invokedAt": "2026-10-11T14:00:26.886Z"
   }
 ]
