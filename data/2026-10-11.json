@@ -38,5 +38,13 @@
     "username": "bluekoala456",
     "password": "theatre",
     "invokedAt": "2026-10-11T04:02:41.893Z"
+  },
+  {
+    "firstName": "Olga",
+    "lastName": "Kolodyazhniy",
+    "email": "olga.kolodyazhniy@example.com",
+    "username": "brownrabbit251",
+    "password": "susan",
+    "invokedAt": "2026-10-11T05:00:36.731Z"
   }
 ]
