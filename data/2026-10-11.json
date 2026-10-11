@@ -78,5 +78,13 @@
     "username": "greengoose729",
     "password": "skinner",
     "invokedAt": "2026-10-11T09:00:35.307Z"
+  },
+  {
+    "firstName": "Mladen",
+    "lastName": "Mitrović",
+    "email": "mladen.mitrovic@example.com",
+    "username": "redkoala612",
+    "password": "1946",
+    "invokedAt": "2026-10-11T10:00:49.495Z"
   }
 ]
