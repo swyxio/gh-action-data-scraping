@@ -126,5 +126,13 @@
     "username": "redlion961",
     "password": "sherman",
     "invokedAt": "2026-10-12T15:04:02.104Z"
+  },
+  {
+    "firstName": "Corwin",
+    "lastName": "Van den Assem",
+    "email": "corwin.vandenassem@example.com",
+    "username": "tinyostrich252",
+    "password": "toni",
+    "invokedAt": "2026-10-12T16:00:50.704Z"
   }
 ]
