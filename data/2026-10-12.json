@@ -142,5 +142,13 @@
     "username": "smallpanda118",
     "password": "anaconda",
     "invokedAt": "2026-10-12T17:00:33.459Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Taylor",
+    "email": "rose.taylor@example.com",
+    "username": "heavyostrich903",
+    "password": "drew",
+    "invokedAt": "2026-10-12T18:00:27.746Z"
   }
 ]
