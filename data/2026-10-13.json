@@ -62,5 +62,13 @@
     "username": "happywolf228",
     "password": "pothead",
     "invokedAt": "2026-10-13T07:13:55.806Z"
+  },
+  {
+    "firstName": "Milton",
+    "lastName": "Martin",
+    "email": "milton.martin@example.com",
+    "username": "yellowduck737",
+    "password": "eskimo",
+    "invokedAt": "2026-10-13T08:05:15.179Z"
   }
 ]
