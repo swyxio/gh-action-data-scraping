@@ -94,5 +94,13 @@
     "username": "whitewolf898",
     "password": "cookie1",
     "invokedAt": "2026-10-13T11:01:32.678Z"
+  },
+  {
+    "firstName": "Anirudh",
+    "lastName": "Rai",
+    "email": "anirudh.rai@example.com",
+    "username": "purplerabbit591",
+    "password": "kittycat",
+    "invokedAt": "2026-10-13T12:01:12.530Z"
   }
 ]
