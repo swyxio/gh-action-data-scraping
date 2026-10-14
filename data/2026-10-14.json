@@ -46,5 +46,13 @@
     "username": "greenkoala619",
     "password": "getout",
     "invokedAt": "2026-10-14T05:00:16.740Z"
+  },
+  {
+    "firstName": "Charly",
+    "lastName": "Guillaume",
+    "email": "charly.guillaume@example.com",
+    "username": "silverdog361",
+    "password": "zidane",
+    "invokedAt": "2026-10-14T06:00:30.387Z"
   }
 ]
