@@ -174,5 +174,13 @@
     "username": "angrycat947",
     "password": "thunderb",
     "invokedAt": "2026-10-14T21:00:25.565Z"
+  },
+  {
+    "firstName": "Gregorio",
+    "lastName": "López",
+    "email": "gregorio.lopez@example.com",
+    "username": "redlion297",
+    "password": "whiplash",
+    "invokedAt": "2026-10-14T22:00:45.655Z"
   }
 ]
