@@ -134,5 +134,13 @@
     "username": "orangepanda234",
     "password": "trader",
     "invokedAt": "2026-10-14T16:00:47.797Z"
+  },
+  {
+    "firstName": "Hudson",
+    "lastName": "Lam",
+    "email": "hudson.lam@example.com",
+    "username": "crazyzebra697",
+    "password": "ncc1701",
+    "invokedAt": "2026-10-14T17:00:30.599Z"
   }
 ]
