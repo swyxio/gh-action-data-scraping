@@ -38,5 +38,13 @@
     "username": "organicdog201",
     "password": "shelter",
     "invokedAt": "2026-10-15T04:00:28.943Z"
+  },
+  {
+    "firstName": "Emilio",
+    "lastName": "Ibáñez",
+    "email": "emilio.ibanez@example.com",
+    "username": "silverbird180",
+    "password": "seabee",
+    "invokedAt": "2026-10-15T05:05:34.398Z"
   }
 ]
