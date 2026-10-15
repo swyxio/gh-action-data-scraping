@@ -182,5 +182,13 @@
     "username": "angrybird280",
     "password": "thick",
     "invokedAt": "2026-10-15T22:00:21.918Z"
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Boyer",
+    "email": "axel.boyer@example.com",
+    "username": "orangefish667",
+    "password": "motor",
+    "invokedAt": "2026-10-15T23:00:27.845Z"
   }
 ]
