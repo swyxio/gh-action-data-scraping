@@ -70,5 +70,13 @@
     "username": "blackzebra368",
     "password": "quest",
     "invokedAt": "2026-10-15T08:00:29.516Z"
+  },
+  {
+    "firstName": "Frédéric",
+    "lastName": "Horsman",
+    "email": "frederic.horsman@example.com",
+    "username": "greenfrog821",
+    "password": "atlas",
+    "invokedAt": "2026-10-15T09:00:37.346Z"
   }
 ]
