@@ -182,5 +182,13 @@
     "username": "bluefish620",
     "password": "ipswich",
     "invokedAt": "2026-10-16T22:00:30.240Z"
+  },
+  {
+    "firstName": "Paulino",
+    "lastName": "Pereira",
+    "email": "paulino.pereira@example.com",
+    "username": "lazydog214",
+    "password": "trader",
+    "invokedAt": "2026-10-16T23:00:27.439Z"
   }
 ]
