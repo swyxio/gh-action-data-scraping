@@ -38,5 +38,13 @@
     "username": "purplepanda934",
     "password": "fruit",
     "invokedAt": "2026-10-17T04:00:26.131Z"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Sønsteby",
+    "email": "erik.sonsteby@example.com",
+    "username": "angrysnake618",
+    "password": "cottage",
+    "invokedAt": "2026-10-17T05:00:19.233Z"
   }
 ]
