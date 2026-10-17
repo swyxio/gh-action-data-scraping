@@ -134,5 +134,13 @@
     "username": "silverostrich792",
     "password": "again",
     "invokedAt": "2026-10-17T16:00:38.194Z"
+  },
+  {
+    "firstName": "Eevi",
+    "lastName": "Wainio",
+    "email": "eevi.wainio@example.com",
+    "username": "heavyladybug533",
+    "password": "edge",
+    "invokedAt": "2026-10-17T17:00:22.750Z"
   }
 ]
