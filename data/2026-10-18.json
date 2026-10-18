@@ -158,5 +158,13 @@
     "username": "tinymouse798",
     "password": "stress",
     "invokedAt": "2026-10-18T19:00:27.706Z"
+  },
+  {
+    "firstName": "Emile",
+    "lastName": "Leclercq",
+    "email": "emile.leclercq@example.com",
+    "username": "whiteswan812",
+    "password": "midnight",
+    "invokedAt": "2026-10-18T20:00:52.688Z"
   }
 ]
