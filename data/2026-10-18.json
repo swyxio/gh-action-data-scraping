@@ -166,5 +166,13 @@
     "username": "whiteswan812",
     "password": "midnight",
     "invokedAt": "2026-10-18T20:00:52.688Z"
+  },
+  {
+    "firstName": "Thibaud",
+    "lastName": "Van Popering",
+    "email": "thibaud.vanpopering@example.com",
+    "username": "heavydog516",
+    "password": "josh",
+    "invokedAt": "2026-10-18T21:00:25.848Z"
   }
 ]
