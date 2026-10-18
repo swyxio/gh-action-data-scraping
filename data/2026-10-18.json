@@ -86,5 +86,13 @@
     "username": "purplerabbit927",
     "password": "celeste",
     "invokedAt": "2026-10-18T10:00:18.829Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Kujala",
+    "email": "emma.kujala@example.com",
+    "username": "bluemeercat382",
+    "password": "engine",
+    "invokedAt": "2026-10-18T11:00:28.957Z"
   }
 ]
